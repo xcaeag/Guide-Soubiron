@@ -90,23 +90,31 @@ k.        "      kilomètre.      |  (2814m) chiffres indiquant la
 
 # AVERTISSEMENT DE L'AUTEUR
 
-La première édition de mon guide étant épuisée, et des demandes d’envois arrivant encore, une des deux solutions suivantes
+La première édition de mon guide étant épuisée, et des demandes 
+d’envois arrivant encore, une des deux solutions suivantes
 s’imposait : ou réimprimer le volume tel quel, ce qui était facile,
 ou bien en publier une nouvelle édition, ce qui constituait un
 assez gros travail. Dans l’intérêt du pyrénéisme je me suis arrêté
 à cette dernière solution et c’est bien une nouvelle édition, plus
 complète, que j’offre aujourd’hui aux amateurs de montagne.
 
-Que mes premiers souscripteurs, ceux qui m’ont si bien encouragé et à qui va toute ma reconnaissance, se rassurent, la nouvelle édition ne diminue en rien le prix de la première qui gardera longtemps toute la valeur d’une œuvre sincère et pratique.
+Que mes premiers souscripteurs, ceux qui m’ont si bien encouragé 
+et à qui va toute ma reconnaissance, se rassurent, la nouvelle 
+édition ne diminue en rien le prix de la première qui gardera 
+longtemps toute la valeur d’une œuvre sincère et pratique.
 
 __La deuxième édition présente une nouveauté :__
 
 L’incorporation, parmi les 30 excursions aux hautes cimes, de
 36 itinéraires nouveaux en moyenne et petite montagne, entre
-Lourdes et Ax-les-Thermes, c'est-à-dire la codification des excursions réalisées depuis une vingtaine d’années par la Section des
+Lourdes et Ax-les-Thermes, c'est-à-dire la codification des excursions 
+réalisées depuis une vingtaine d’années par la Section des
 Pyrénées Centrales du Club Alpin Français.
 
-Les itinéraires nouveaux font passer le touriste sur les principaux sommets ou crêtes qui commandent les environs de Lourdes, Bagnères-de-Bigorre, Arreau, Luchon, Saint-Girons, Foix, Auzat et Ax-les-Thermes, sans oublier les sites intéressants de
+Les itinéraires nouveaux font passer le touriste sur les principaux 
+sommets ou crêtes qui commandent les environs de Lourdes, 
+Bagnères-de-Bigorre, Arreau, Luchon, Saint-Girons, Foix, 
+Auzat et Ax-les-Thermes, sans oublier les sites intéressants de
 leurs alentours. L’œuvre est maintenant complète, et les Pyrénées
 verront affluer vers elles des milliers d’hésitants qui n’osaient
 s’aventurer, faute de renseignements sûrs et précis.
@@ -121,7 +129,11 @@ les cimes qu’ils font ascendre. Les nouveaux refuges faciliteront
 certaines excursions, en en réduisant la fatigue, et amélioreront
 le couchage dans bien des cas.
 
-Quant à la grande nouveauté : l’incorporation des 86 itinéraires en moyenne et petite montagne. elle sera, pour les débutants, un champ d'agrément et d’apprentissage et, pour les pyrénéistes exercés, un choix de programmes d'entrainement, si nécessaire au début de la saison.
+Quant à la grande nouveauté : l’incorporation des 86 itinéraires 
+en moyenne et petite montagne. elle sera, pour les débutants, 
+un champ d'agrément et d’apprentissage et, pour les pyrénéistes 
+exercés, un choix de programmes d'entrainement, 
+si nécessaire au début de la saison.
 
 
 <div class="page"/>
@@ -146,7 +158,10 @@ complète, il suffira d’acquérir séparément la collection des
 
 <u>__ALPINISME ACROBATIQUE__</u>
 
-Au point de vue purement sportif, je ne conteste ni ne méconnais le charme de l’alpinisme acrobatique, même dans les Pyrénées où il n’est pratiqué que par pure satisfaction d’amour-propre. Ce sport exige des dons spéciaux qui ne sont l’apanage
+Au point de vue purement sportif, je ne conteste ni ne méconnais 
+le charme de l’alpinisme acrobatique, même dans les Pyrénées 
+où il n’est pratiqué que par pure satisfaction d’amour-propre. 
+Ce sport exige des dons spéciaux qui ne sont l’apanage
 que d’une élite. En raison des dangers qu’il présente, je ne puis
 en insérer des programmes dans mon guide; j'irais à l’encontre
 de mon but qui est de faire connaître et aimer les Pyrénées par
@@ -162,8 +177,10 @@ favorables, afin de conserver la plus grande chance de réussite.
 
 <u>__CARTES ET PLANS__</u>
 
-Mon ami, Raymond d’Espouy, aussi passionné pyrénéiste qu’artiste distingué, a bien voulu se charger de l’exécution des cartes
-et des plans. Grâce à son travail, mes itinéraires sont moins arides et surtout plus clairs. Je lui en exprime ici toute ma reconnaissance.
+Mon ami, Raymond d’Espouy, aussi passionné pyrénéiste qu’artiste 
+distingué, a bien voulu se charger de l’exécution des cartes
+et des plans. Grâce à son travail, mes itinéraires sont moins arides 
+et surtout plus clairs. Je lui en exprime ici toute ma reconnaissance.
 
 La forme absolument portative de mon guide ne m’a pas per-
 
@@ -172,17 +189,20 @@ La forme absolument portative de mon guide ne m’a pas per-
 
 — p. 7 —
 
-mis de le surcharger de cartes à grande échelle, mais, en tête
+-mis de le surcharger de cartes à grande échelle, mais, en tête
 de chaque programme, or trouvera une carte esquisse de
 l’excursion.
 
 Dessinées en dehors des procédés topographiques ordinaires,
-ces cartes n’ont pour but que d’indiquer les emplacements respectifs des pics, cols, brèches, lacs, etc., etc., de mettre rapidement en lumière les sites qu’on va explorer et d’embrasser d’un
+ces cartes n’ont pour but que d’indiquer les emplacements respectifs 
+des pics, cols, brèches, lacs, etc., etc., de mettre rapidement 
+en lumière les sites qu’on va explorer et d’embrasser d’un
 coup d'œil tout le trajet de l’excursion.
 
 Mais si on veut observer et reconnaître au passage tous les
 détails du terrain parcouru, on se munira d’une carte spéciale
-de la région à grande échelle. Je conseille d’emporter de préférence la carte au 1/100.000° du Ministère de l’Intérieur : 1° parce
+de la région à grande échelle. Je conseille d’emporter de préférence 
+la carte au 1/100.000° du Ministère de l’Intérieur : 1° parce
 qu’elle est d’une lecture très facile; 2° parce qu’elle embrasse
 les deux versants de la frontière; 3° enfin, parce que les noms des
 lieux sont presque toujours plus exacts.
@@ -195,7 +215,8 @@ les blancs inutiles des marges.
 
 Certaines régions, riches en détails, d’autres très peu connues,
 quoique très belles, m'ont paru nécessiter un plan particulier à
-yrande échelle. Mon guide contient donc, en sus des cartes spéciales à chaque excursion, 5 plans tirés à part :
+yrande échelle. Mon guide contient donc, en sus des cartes spéciales 
+à chaque excursion, 5 plans tirés à part :
 
 1° _Un plan du Balaïtous et de ses abords immédiats;_
 
@@ -218,7 +239,8 @@ mention spéciale indique le N° de la 1re édition.
 
 __Pour l’alpinisme acrobatique,__ quelle que soit la région où
 l’on pratique ce sport, et aussi pour effectuer l’ascension de la
-majeure partie des grands sommets des Alpes, __la corde est indispensable;__ il n’en est pas de mème pour les Pyrénées.
+majeure partie des grands sommets des Alpes, __la corde est indispensable;__ 
+il n’en est pas de mème pour les Pyrénées.
 
 
 <div class="page"/>
@@ -227,9 +249,11 @@ majeure partie des grands sommets des Alpes, __la corde est indispensable;__ il 
 
 Dans la première édition de mon guide, paru en 1920, j'ai dit
 que la corde n’était utile dans les Pyrénées que pour la traversée
-des glaciers crevassés, et j’ajoutais qu’un bon rochassier ne s’encorderait jamais en groupe dans le rocher. J’exprimais ainsi
+des glaciers crevassés, et j’ajoutais qu’un bon rochassier ne s’encorderait 
+jamais en groupe dans le rocher. J’exprimais ainsi
 deux opinions personnelles : 1° que, __pour faire l’ascension des
-grands sommets pyrénéens par la voie normale, point n’est besoir d’une corde;__ 2° que, dans les Pyrénées, un bon rochassier,
+grands sommets pyrénéens par la voie normale, point n’est besoin 
+d’une corde;__ 2° que, dans les Pyrénées, un bon rochassier,
 qui ne pratique pas l’alpinisme acrobatique, ne doit confier sa
 vie à personne et encore bien moins à une corde. Sa tête, ses
 mains et ses pieds doivent être ses seuls auxiliaires. Sur ce point,
@@ -237,7 +261,8 @@ je suis d’accord avec l’illustre pyrénéiste Russell (1).
 
 Malgré la grande majorité de ceux qui ne pensent pas comme
 moi, surtout parmi les partisans de l’alpinisme acrobatique, mon
-opinion sur la corde s’est malheureusement fortifiée par le terrible accident survenu en 1923 aux aiguilles d’Ansabère (2).
+opinion sur la corde s’est malheureusement fortifiée par le terrible 
+accident survenu en 1923 aux aiguilles d’Ansabère (2).
 
 <u>__DIRECTION DES EXCURSIONS__</u>
 
@@ -253,10 +278,12 @@ le faut absolument.
 
 Les itinéraires pour lesquels un guide est indispensable sont
 décrits sommairement. Je trace simplement les grandes lignes de
-la voie à suivre, estimant que les petits détails de la course incombent au guide, parce qu’ils sont souvent subordonnés à l’état des
+la voie à suivre, estimant que les petits détails de la course incombent 
+au guide, parce qu’ils sont souvent subordonnés à l’état des
 lieux, à la saison et aussi à la qualité de là caravane. Au contraire,
 pour celles qui peuvent être faites sans guide, les itinéraires en
-sont plus détaillés, pour permettre à un bon pyrénéiste de conduire seul une caravane.
+sont plus détaillés, pour permettre à un bon pyrénéiste de conduire 
+seul une caravane.
 
 
 <u>__HORAIRES__</u>
@@ -276,10 +303,12 @@ encore dans les glaciers non crevassés. (V. Souvenirs d’un Montagnard,
 <u>__ITINÉRAIRES__</u>
 
 Les itinéraires sont combinés de telle manière qu'ils __soudent les
-excursions entre elles__ et qu’ils __offrent__ au pyrénéiste __les avantages suivants__ :
+excursions entre elles__ et qu’ils __offrent__ au pyrénéiste __les avantages 
+suivants__ :
 
 a) De lui faire ascendre presque tous les pics qui commandent
-une région, qu'ils soient au 1er, au 2° ou au 3° plan, et de lui indiquer les époques les plus favorables pour en faire l’ascension;
+une région, qu'ils soient au 1er, au 2° ou au 3° plan, et de lui indiquer 
+les époques les plus favorables pour en faire l’ascension;
 
 b) De le faire arriver par en haut en vue des principaux lacs,
 condition essentielle si on veut se ménager la plus agréable des
@@ -295,14 +324,16 @@ e) De le faire repasser près de la précédente excursion, ce qui
 permet de reprendre facilement l’ascension d’un pic qu’on aurait
 manquée pour une cause quelconque;
 
-f) Enfin, de pouvoir intervertir l’ordre des excursions sans préjudice pour les autres.
+f) Enfin, de pouvoir intervertir l’ordre des excursions sans préjudice 
+pour les autres.
 
 <u>__NOTICE SUR LA LUNE__</u> (V. p. 14).
 
 <u>__ORTHOGRAPHE DES NOMS DE LIEUX__</u>
 
 Pour les noms de lieux aux multiples formes d’orthographe,
-j'ai adopté de préférence celle qui se rapproche le plus de la prononciaiion locale, cela pour faciliter l’obtention de renseignements précis.
+j'ai adopté de préférence celle qui se rapproche le plus de la prononciaiion 
+locale, cela pour faciliter l’obtention de renseignements précis.
 
 <u>__POINTS D’INTERRUPTION__</u>
 
@@ -312,7 +343,8 @@ pourra, soit quitter la caravane, soit la rejoindre.
 
 <u>__VARIANTES POSSIBLES__</u>
 
-Pour quelques-uns des programmes, selon les buts du lendemain, il est possible d'adopter des variantes en fin de journée;
+Pour quelques-uns des programmes, selon les buts du lendemain, 
+il est possible d'adopter des variantes en fin de journée;
 je l'indique sous le titre : « Variantes Possibles », toutes les fois
 que cela est utile.
 
@@ -323,21 +355,24 @@ que cela est utile.
 
 # CONSEILS PRATIQUES
 
-NOTA. — Quelques conseils et même certaines recommandations paraîtront puérils aux vieux pyrénéistes exercés; aussi, est-ce surtout aux débutants, c'est-à-dire au grand nombre,
+NOTA. — Quelques conseils et même certaines recommandations 
+paraîtront puérils aux vieux pyrénéistes exercés; aussi, 
+est-ce surtout aux débutants, c'est-à-dire au grand nombre,
 qu'ils s’adressent.
 
-_Ayant pendant plus de vingt ans, et d’une façon continue,
+Ayant pendant plus de vingt ans, et d’une façon continue,
 dirigé de nombreuses caravanes, l’expérience m’a appris quelles
 sont des conditions nécessaires pour réaliser les excursions sans
 danger et avec le minimum de fatigue, de temps et de frais.
-L’échec d’une ascension provient très souvent de l’inexpérience._
+L’échec d’une ascension provient très souvent de l’inexpérience.
 
 1. __Partir de très bonne heure__, c’est-à-dire dès qu’on peut se
 conduire. Pour la plus grande chance du « Beau Point de Vue »,
 il faut être au sommet avant 10 heures.
 
 2. __Ne jamais partir seul, si c’est possible__ ; le nombre rêvé est
-trois. En cas d’accident, le second gardera le blessé et le troisième ira chercher du secours.
+trois. En cas d’accident, le second gardera le blessé et le troisième 
+ira chercher du secours.
 
 3. __Autant que possible, descendre par un chemin différent de
 celui de la montée,__ en faisant, par exemple, l’ascension par une
@@ -351,7 +386,8 @@ cabane, sous un sapin ou sous un rocher. L’air est plus pur en
 haute montagne et la jpoussière et la boue y sont inconnues. En
 plein air et aux hautes altitudes, le sommeil est plus profond et
 plus réparateur.\
-En juillet et en août, le froid vif ne se fait sentir, dans les Pyrénées, que vers 3 h., heure à laquelle il faut se préparer à partir; le
+En juillet et en août, le froid vif ne se fait sentir, dans les Pyrénées, 
+que vers 3 h., heure à laquelle il faut se préparer à partir; le
 temps est plus clair et plus sûr aux hautes altitudes et on aura
 moins à monter, ce qui permettra de faire un pic de plus dans la
 journée.
@@ -360,7 +396,8 @@ journée.
 
 — p. 11 —
 
-5. __Ne pas chercher la difficulté,__ mais ne pas se laisser influencer par des écrits qui présentent certains pics comme étant
+5. __Ne pas chercher la difficulté,__ mais ne pas se laisser influencer 
+par des écrits qui présentent certains pics comme étant
 effroyables; les difficultés d’une ascension sont presque toujours
 subordonnées aux aptitudes du pyrénéiste et je partage l’opinion
 de mon éminent collègue, F. Schrader, quand il dit : « Sauf avec
@@ -371,25 +408,28 @@ entourer le buste la nuit, ou, mieux encore, se munir d’un sac
 de couchage très léger.
 
 7. __MARCHE.__ — En principe, __la marche doit être lente et
-régulière__ du commencement à la fin de l’excursion; mais, en partant et surtout __en abordant la pente rapide. il faut marcher
+régulière__ du commencement à la fin de l’excursion; mais, en partant 
+et surtout __en abordant la pente rapide. il faut marcher
 très lentement la première demi-heure,__ afin d’habituer le cœur
 et les poumons à la marche ascendante.\
 __Marcher toujours la bouche fermée__ pour éviter les points
 de côté.
 
-8. __En montant, parler peu, hoire le moins possible et surtout ne pas fumer. Manger peu et souvent.__
+8. __En montant, parler peu, hoire le moins possible et surtout 
+ne pas fumer. Manger peu et souvent.__
 
-9. Pour traverser le haut d’une vallée ou d’un cirque ou pour
+9.  Pour traverser le haut d’une vallée ou d’un cirque ou pour
 franchir un éperon rocheux, __ne descendre__ ni au fond de la vallée
 ni à la base de l’éperon. mais __couper à flanc__, en contournant
 horizontalement sans perdre d’altitude. On fatiguera moins et on
 arrivera presque toujours plus tôt.
 
-10. __S’asseoir de préférence sur une pierre et les jambes
+10.  __S’asseoir de préférence sur une pierre et les jambes
 pendantes;__ ne jamais s'asseoir ni se coucher sur la terre, même
-paraissant sèche, sans y poser des objets isolants : pélerine. vêtements, branchages, etc., etc.
+paraissant sèche, sans y poser des objets isolants : pélerine. vêtements, 
+branchages, etc., etc.
 
-11. Si on est surpris par un orage, se blottir immédiatement
+11.  Si on est surpris par un orage, se blottir immédiatement
 sous un rocher après avoir éloigné les piolets dont la pointe
 acérée attire la foudre. __Bien se garder de franchir une crête et
 d’y circuler pendant l’orage.__
@@ -405,11 +445,13 @@ A) V. Annuaire du C. A. F, 1882, p. 317.
 12.  Enfin, si vous vous sentez des aptitudes et un dévouement à
 toute épreuve pour conduire une caravane, __prenez un porteur__ ;
 ce sera moins coûteux et vous goûterez le charme de marcher à
-la découverte. __Mais si vous voulez éviter tout souci__ (responsabilité de la direction, de l’horaire, etc., etc.), et tout excédent de
+la découverte. __Mais si vous voulez éviter tout souci__ (responsabilité 
+de la direction, de l’horaire, etc., etc.), et tout excédent de
 fatigue (aide à porter aux camarades dans les endroits délicats,
 taille des pas dans les glaciers, etc., etc.), __prenez un guide.__ L'un
 ou l’autre me paraît indispensable pour les multiples services
-qu’il peut rendre en cours de route. De plus, connaissant les bergers, leur langage et leurs mœurs, il vous fera presque toujours
+qu’il peut rendre en cours de route. De plus, connaissant les bergers, 
+leur langage et leurs mœurs, il vous fera presque toujours
 céder la meilleure cabane.
 
 <u>__BANDES MOLLETIÈRES__</u>
@@ -418,7 +460,8 @@ Ma longue carrière de pyrénéiste m'a démontré les nombreux
 inconvénients des bandes molletières, inconvénients qui, pour les
 Pyrénées, ne sont compensés par aucun avantage.
 
-1° Pour la plupart, elles se défont très souvent, retardent presque toujours la marche de la caravane;
+1° Pour la plupart, elles se défont très souvent, retardent presque 
+toujours la marche de la caravane;
 
 2° Si elles tiennent, c’est presque toujours parce qu’elles sont
 fortement serrées, el, dans ce cas, lorsqu’elles sont mouillées,
@@ -429,7 +472,8 @@ __je préfère les jambières de cuir,__ courtes, avec les tringles
 extérieures d'acier qui maintiennent leur rigidité et les plissés de
 base qui laissent leur souplesse aux jarrets. Elles protègent le bas
 des jambes contre la rocaille, les épines, etc., etc., et font écouler
-l'eau en dehors des souliers. Elles ont, en outre, l’énorme avantage de pouvoir être mises sans lumière, dans quelques secondes
+l'eau en dehors des souliers. Elles ont, en outre, l’énorme avantage 
+de pouvoir être mises sans lumière, dans quelques secondes
 et avec un pantalon quelconque.
 
 <u>__GUIDES ET REFUGES__</u>
@@ -473,7 +517,8 @@ chiffre de midi.
 
 <u>__VOILETTE contre les COUPS de SOLEIL__</u>
 
-Seule, la voilette en mousseline de soie, noire ou verte, est efficace contre les coups de soleil, lorsqu’on séjourne longtemps sur
+Seule, la voilette en mousseline de soie, noire ou verte, est efficace 
+contre les coups de soleil, lorsqu’on séjourne longtemps sur
 la neige ou sur les glaciers.
 
 
@@ -487,7 +532,8 @@ la neige ou sur les glaciers.
 Des observations faites en haute montagne pendant plusieurs
 années, en juillet, août et septembre, m’ont permis de constater
 qu’à certaines époques de la lune, le temps était plus favorable
-pour les excursions aux zones de haute altitude. Je donne, ci-contre, le tableau de mes conclusions pour un cycle lunaire, en
+pour les excursions aux zones de haute altitude. Je donne, ci-
+contre, le tableau de mes conclusions pour un cycle lunaire, en
 indiquant le pourcentage en faveur du beau temps.
 
 Quelques remarques préalables s’imposent :
@@ -499,14 +545,17 @@ onzième ;
 deux derniers du cycle, c’est-à-dire les deux ultimes du dernier
 quartier;
 
-3° Les meilleurs jours sont ordinairement les trois qui précèdent la pleine lune et les deux qui la suivent;
+3° Les meilleurs jours sont ordinairement les trois qui précèdent 
+la pleine lune et les deux qui la suivent;
 
 4° La meilleure lune, celle pendant laquelle les journées sont
 le plus lumineuses, est celle de septembre, c’est-à-dire celle qui
 commence dans les derniers jours d’août ou les premiers jours
 de septembre;
 
-5° Enfin, à chaque changement de quartier, il se produit généralement un changement de temps en sens inverse des deux derniers jours du précédent quartier.
+5° Enfin, à chaque changement de quartier, il se produit généralement 
+un changement de temps en sens inverse des deux derniers 
+jours du précédent quartier.
 
 Nota. — Biem entendu, ces indications et celles du tableau
 ci-contre sont sans valeur pour la plaine et la petite montagne ;
@@ -586,19 +635,20 @@ Par Caravane
 En sus des accessoires ci-dessus, chaque pyrénéiste
 doit être muni de :
 
-1. Un bon piolet dont le poids oscillera (selon la taille du touriste) entre 900 et 1.100 grammes, et dont les dimensions seront
+1. Un bon piolet dont le poids oscillera (selon la taille du touriste) 
+2. entre 900 et 1.100 grammes, et dont les dimensions seront
 les suivantes : la moitié de la taille du touriste, augmentée de
 dix centimètres. Les piolets trop longs sont dangereux pour la
 figure tout en perdant de leur résistance.
 
-2. Une gourde à eau en aluminium d’une contenance de 1 litre.
+1. Une gourde à eau en aluminium d’une contenance de 1 litre.
 
-3. Une bougie et une boîte d’allumettes.
+2. Une bougie et une boîte d’allumettes.
 
-4. Une musette pour y réunir les provisions qu’on remettra au
+3. Une musette pour y réunir les provisions qu’on remettra au
 porteur ou qu’on déposera en réserve au refuge.
 
-5. Enfin, une paire de lunettes noires pour les glaciers, ou,
+1. Enfin, une paire de lunettes noires pour les glaciers, ou,
 mieux encore, une voilette en mousseline de soie, noire ou verte.
 
 
@@ -777,12 +827,14 @@ pour la désignation de divers sommets.
 
 <u>__AVIS AUX TOURISTES__</u>
 
-Si, de la Rhune au Pic d’Anie, on rencontre quelques sommets intéressants dont les trois principaux sont l’Altabiscar (1.498), le Pic
+Si, de la Rhune au Pic d’Anie, on rencontre quelques sommets intéressants 
+dont les trois principaux sont l’Altabiscar (1.498), le Pic
 d’Orhy (2.017m) et le Pic d’Arlas (2.062m), ce n’est qu’au Pic d’Anie
 (3.504m), que commence la haute montagne, objet principal de mon
 guide.
 
-C’est donc par la vallée d’Aspe, et par le massif de l’Anie, que débutera la longue randonnée de 200 jours par les cimes pyrénéennes,
+C’est donc par la vallée d’Aspe, et par le massif de l’Anie, que débutera 
+la longue randonnée de 200 jours par les cimes pyrénéennes,
 randonnée qui nous fera monter insensiblement au point culminant de
 la chaîne, au Néthou (3.404m), pour redescendre ensuite vers l'Orient,
 afin de finir en beauté au Canigou (2.785m), face à la Méditerranée.
@@ -799,7 +851,9 @@ Orientée N.-S. et d’une longueur de 40 k., presque toute la
 vallée est une étroite gorge coupée de crêtes transversales qui en
 séparent les divers bassins superposés. Après avoir dépassé la
 première de ces crêtes, le Pène d’Escot, le torrent mugit avec
-fracas dans la gorge profonde, et la route, souvent taillée en corniche, passe plusieurs fois d’une rive à l’autre avant de déboucher dans le riant bassin de Bedous-Accous.
+fracas dans la gorge profonde, et la route, souvent taillée en corniche, 
+passe plusieurs fois d’une rive à l’autre avant de déboucher 
+dans le riant bassin de Bedous-Accous.
 
 A 4k. 500 en amont de Bedous, la vallée s’étrangle subitement
 entre les crêtes du Pène d’Esquit (1.961m), à l’O., et le Pic d’Ara
