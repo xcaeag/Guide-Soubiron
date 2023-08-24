@@ -817,7 +817,7 @@ A 13 k. de Bedous, nouvel étranglement de la vallée; le Fort
 d'Urdos ou du Portalet surplombe le torrent de 150 m., de l’autre
 côté du gave. De la route, on communique avec lui par le Pont
 d'Enfer et un escalier de 506 marches. On arrive enfin à Urdos,
-dernier village de la vallée, à 7760 m. d’altitude.
+dernier village de la vallée, à 760 m. d’altitude.
 
 De Urdos à la frontière, la route s'élève à travers une région
 magnifique en longeant le gave à une certaine distance jusqu’au
