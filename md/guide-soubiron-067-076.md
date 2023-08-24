@@ -72,7 +72,7 @@ le Pic Long, le Néouvielle et le Pic de Midi de Bigorre.
 
 __De LOURDES (386m) à LOURDES,__\
 __par la Gorge de l'Arboucau, Omex, le Pic de Montégut (1.133m),__\
-__le Pibeste (1.383%), Salles (638m), Sère, Gez (660m)__\
+__le Pibeste (1.383m), Salles (638m), Sère, Gez (660m)__\
 __et Argelès (455m).__
 
 
@@ -189,7 +189,7 @@ De Salles à Argelès (6 k.)............ 1 h. 15  } (Arrêts en sus)
 ## DEUXIÈME JOURNÉE
 
 __Ascension du HAUTACAMP (1.802m),__\
-__par Saint-Pastous (583n), avec retour à Lourdes,__\
+__par Saint-Pastous (583m), avec retour à Lourdes,__\
 __par Lias, Berbérust et Lugagnan.__
  
 

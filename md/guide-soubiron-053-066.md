@@ -240,7 +240,7 @@ Horaire direct de l'Arriel, aller et retour, 4 h., arrêts en sus.
 
 ## TROISIÈME JOURNÉE
 
-D'ARRÉMOULIT (2.304n) au REFUGE DE LABASSA (1.970m),
+D'ARRÉMOULIT (2.304m)au REFUGE DE LABASSA (1.970m),
 par le Balaïtous (3.146m).
 
 —— GUIDE INDISPENSABLE ——

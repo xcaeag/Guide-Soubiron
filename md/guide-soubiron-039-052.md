@@ -295,8 +295,8 @@ De ce point à Urdos (1)....................  3 h. "  }
 
 ## DEUXIÈME JOURNÉE
 
-__De URDOS (760%) à la CASA DE ANGLASSÉ (1.339n),__\
-__par le Pic d'Aspe (2.645n) et le Cirque de Tortiellas.__
+__De URDOS (760m) à la CASA DE ANGLASSÉ (1.339m),__\
+__par le Pic d'Aspe (2.645m) et le Cirque de Tortiellas.__
 
 —— GUIDE INDISPENSABLE ——
 
@@ -394,7 +394,7 @@ Du Pic d'Aspe à Anglassé.................. 3 h. 45 }
 ## TROISIÈME JOURNÉE
 
 __De la CASA DE ANGLASSÉ {1.339m) à GABAS (1.125m),__\
-__par l'Anayette (2.572n) et le Col d'Anèou (2.100?).__
+__par l'Anayette (2.572m)et le Col d'Anèou (2.100m).__
 
 —— GUIDE UTILE ——
 
