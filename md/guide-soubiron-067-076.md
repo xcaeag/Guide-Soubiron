@@ -8,6 +8,7 @@ title: |
     | Trois jours aux environs de Lourdes
 output: pdf_document 
 ---
+
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
