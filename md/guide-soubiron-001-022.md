@@ -254,7 +254,7 @@ d’une corde;__ 2° que, dans les Pyrénées, un bon rochassier,
 qui ne pratique pas l’alpinisme acrobatique, ne doit confier sa
 vie à personne et encore bien moins à une corde. Sa tête, ses
 mains et ses pieds doivent être ses seuls auxiliaires. Sur ce point,
-je suis d’accord avec l’illustre pyrénéiste Russell (1).
+je suis d’accord avec l’illustre pyrénéiste Russell [¹].
 
 Malgré la grande majorité de ceux qui ne pensent pas comme
 moi, surtout parmi les partisans de l’alpinisme acrobatique, mon
@@ -288,7 +288,7 @@ seul une caravane.
 Les horaires sont larges; les plus rapides sont ceux d’un pyrénéiste moyen.
 
 ———\
-(1) Non seulement il était contre l’encordage dans le rocher, mais
+[¹] Non seulement il était contre l’encordage dans le rocher, mais
 encore dans les glaciers non crevassés. (V. Souvenirs d’un Montagnard,
 2e édition, p. 17.)
 
