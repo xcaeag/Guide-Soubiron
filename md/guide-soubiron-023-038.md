@@ -48,12 +48,11 @@ __Conseils.__ — __Itin. recomm.__ — La veille de l’excursion, on ira
 coucher à Lescun et, le lendemain, on ne mettra dans son sac
 que ce qui sera nécessaire pour la journée.
 
-On prendra, à l'O. de Lescun, le chemin qui franchit, 1/2 h...
+On prendra, à l'O. de Lescun, le chemin qui franchit, 1/2 h
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
----
-
+———\
 (1) Lescun (B.-Pyr.). 1.033 hab., C. d’Accous (9 k.), arr. d’Oloron
 (35 k.), gare de Lescun-Eygun à 6 K. et à 1 k. du Pont de Lescun, ligne
 d’Oloron au Somport par la vallée d’Aspe.
@@ -73,7 +72,7 @@ unique pour toutes les cartes.
 
 — p. 25 —  (1re EXCURSION) CIRQUE DE LHURS
 
-...après, le gave d’Azun au Pont de Lauga et qui se dirige ensuite
+après, le gave d’Azun au Pont de Lauga et qui se dirige ensuite
 au S.-O. vers la vallée d’Ansabe. Environ 10 min. après le pont,
 le chemin bifurque; on laissera à g. celui qui descend vers le
 gave de Lescun, et on prendra celui de dr. qui continue presque
@@ -115,6 +114,7 @@ Le Pic des Trois Rois s’élève sur le point de jonction de la
 Sierra Longa avec la crête frontière. C’est sur la crête de Sierra
 Longa qu'est la limite de la Navarre et de l’Aragon (1).
 
+———\
 (1) La légende dit que les trois rois du Béarn, de la Navarre et de
 l’Aragon se réunissaient là en des agapes fraternelles pour discuter de
 leurs intérèts réciproques. C’est, en effet, à la Table des Trois Rois
@@ -222,7 +222,7 @@ conduit en haut de la forêt aux pâturages d’Azuns.
 Là, le vallon tourne à l’O. et on aperçoit, sur sa dr., la 
 première cabane d’Azuns. On obliquera à g., à travers les pelouses,
 pour gagner une croupe gazonnée qui se dirige à l’O. entre
-le torrent du Lauga au N., et un ruisselet, au S. Des sentes...
+le torrent du Lauga au N., et un ruisselet, au S. Des sentes
 
 ———
 
@@ -234,7 +234,7 @@ l’ascension au Pic d’Anie. S’adresser à M. Campagne, à Lescun.
 
 — p. 28 —  PIC D’ANIE (1re EXCURSION)
 
-...de moutons montent vers l’O., et bientôt on aperçoit à dr., au
+de moutons montent vers l’O., et bientôt on aperçoit à dr., au
 fond, la cabane supérieure d’Azuns (1.760m) au pied du Pas de
 ce nom. Le vallon tourne alors au S.-O. et, sur les pentes N.
 du pic de Contende, on trouve un sentier qui remonte la rive
@@ -326,7 +326,7 @@ __par le Cirque d’Olibon et le Lac d’Estaès (1.745m).__
 
 —— GUIDE UTILE ——
 
-Conseils. — Itin. recomm. — On ne prendra dans son sac que
+__Conseils.__ — __Itin. recomm.__ — On ne prendra dans son sac que
 ce qui est nécessaire pour la journée. Par un temps clair, cette
 excursion pourrait être faite sans guide; mais, comme les brouillards 
 sont fréquents dans cette région et que le moutonnement
@@ -383,7 +383,7 @@ La cime du Visaurin (ou Visaurri) est formée d’une crête de
 250 m. environ, orientée E.-O. Le point culminant est à l’O.
 
 Le panorama est très vaste; il embrasse surtout la région comprise 
-entre le pic d’Anie et le Balaïtous. Le massif de Sesques...
+entre le pic d’Anie et le Balaïtous. Le massif de Sesques
 
 ———
 
@@ -393,7 +393,7 @@ entre le pic d’Anie et le Balaïtous. Le massif de Sesques...
 
 — p. 31 —   (1ère EXCURSION) CIRQUE D’OLIBON. — LAC D'ESTAES
 
-...fait un très bel effet et on distingue très bien les pics de Larry
+fait un très bel effet et on distingue très bien les pics de Larry
 et d’Ayous qu’on ascendra le lendemain. Vers le S., l'œil plonge
 à l'infini le long des vallées espagnoles et, vers l'E. défilent
 toutes les grandes cimes jusqu’au Mont Perdu.
@@ -430,7 +430,7 @@ duquel bouillone l’eau qui s’enfuit. Cela est très impressionnant.
 
 On reprendra ensuite, à l’E., le sentier d'arrivée qu’on suivra
 quelques minutes, puis on se dirigera, au N.-E., vers le Port
-de Bernère (1.702m) (4) où le chemin descend alors au N. en...
+de Bernère (1.702m) (4) où le chemin descend alors au N. en
 
 ———
 
@@ -449,7 +449,7 @@ située sur la frontière.
 
 — p. 32 — URDOS. — VALLON de LARRY (1re EXCURSION)
 
-...de nombreux lacets, jusqu’au bassin artificiel de la prise d’eau
+de nombreux lacets, jusqu’au bassin artificiel de la prise d’eau
 d’Anglus. De ce point, un grand chemin muletier conduit dans
 20 min. aux Forges d’Abel, où on retrouve la route qui descend
 à Urdos.
@@ -492,7 +492,7 @@ S.-E.
 
 Après avoir franchi un petit ruisseau qui descend de la crête
 de g., on prendra, en face, le sentier muletier qui longe le torrent 
-de Larry par la rive dr. jusqu’au moment où il tourne au S. ...
+de Larry par la rive dr. jusqu’au moment où il tourne au S. 
 
 ———
 
@@ -504,7 +504,7 @@ Laruns. Hôtel des Pyrénées, chez Baylou.
 
 — p. 33 — (1re EXCURSION) COL pe LARRY. — COL D’AYOUS
 
-...pour le franchir sur un petit pont. Si on passait le pont, on irait
+pour le franchir sur un petit pont. Si on passait le pont, on irait
 au col de Bious. On quittera donc le grand sentier, et on continuera 
 l’ascension par la rive dr., direction E., jusqu’à un premier 
 cirque de verdure situé vers 1.750 m. d’alt.
@@ -541,7 +541,7 @@ plus impressionnante des surprises. L'arrivée au Col d’Ayous est
 un inoubliable lever de rideau, et je ne connais que ceux de
 Tuquerouye et du Port de Venasque qui puissent lui être comparés.
 
-La gigantesque pyramide du Pic de Midi d’Ossau (2) surgit...
+La gigantesque pyramide du Pic de Midi d’Ossau (2) surgit
 
 ———
 
@@ -559,7 +559,7 @@ sommets portant les noms suivants : Peña de las Once (pic de 11 h.);
 
 — p. 34 - pic pe LARRY. — pic D’AYOUS  (1re EXCURSION)
 
-...du sol à une portée de fusil et d’un seul jet qui dépasse 1.000 m.;
+du sol à une portée de fusil et d’un seul jet qui dépasse 1.000 m.;
 on dirait que sa double cime va percer le ciel. Rien n’accompagne 
 dans les airs ce sommet qui s’élance en dépassant tout
 ce qui l’environne de plusieurs centaines de m. On éprouvera
@@ -598,7 +598,7 @@ travail romain, avec ses tours et ses créneaux de brique.
 À sa base E., sont les trois lacs d’Ayous que je désigne par
 rang d’alt., de l'E. à l’O. : Lac Romassot (1.812m); petit lac du
 Milieu (1.880m); grand lac d’Ayous ou Gentaou (1.970m). 
-Sur les...
+Sur les
 
 ———
 
@@ -609,6 +609,7 @@ d’Ossau. — Midi de Ferrières (Gabizos). — Midi d’Arrens. — Midi de
 Bigorre. — Midi de Saint-Lary. — Midi de Genost. 
 — Midi de Bordes (Ariège) et Midi de Siguer.
 
+———\
 (1) Malgré ce qui est écrit dans les Grandes Ascensions de Russel,
 j'affirme que toutes les crêtes qui dominent le cirque de Larry sont
 praticables pour des pyrénéistes exercés.
@@ -618,7 +619,7 @@ praticables pour des pyrénéistes exercés.
 
 — p. 35 — (1re Excursion)  BIOUS-ARTIGUES
 
-...bords de ce dernier, on jouit d’une double vue sur le Pic de Midi
+bords de ce dernier, on jouit d’une double vue sur le Pic de Midi
 d’Ossau, car, quoique à 4 k. à vol d’oiseau, il se reflète en entier
 dans les profondeurs bleues de ses eaux.
 
@@ -707,7 +708,7 @@ et c’est avec une grande facilité qu’on franchit les deux autres.
 
 Le terrain s'améliore encore au-dessus de la troisième cheminée, 
 et c’est par des pentes douces d’éboulis et de pierraille qu’on
-arrive à la Pointe de France. Une impressionnante mais courte...
+arrive à la Pointe de France. Une impressionnante mais courte
 
 ———
 
@@ -725,7 +726,7 @@ crampons.
 
 — p. 37 — (1 re EXCURSION) PIC de MIDI D'OSSAU.
 
-...corniche conduit, dans 2 min., au vrai sommet, la Pointe 
+corniche conduit, dans 2 min., au vrai sommet, la Pointe 
 d’Espagne (2.885m), à 30 m. au S.
 
 Le Pic de Midi d’Ossau (1) est le plus beau belvédère de la
@@ -763,7 +764,7 @@ rejoindre la cheminée supérieure.
 Après avoir repris le sac, on suivra à dr., au S.-E., le sentier
 qui descend dans le vallon de Pompie où on trouvera une bonne
 source pour déjeuner. On longera ensuite le ruisseau de Pombie
-qui tourne à l’E., et on ira rejoindre la grand’route au confluent...
+qui tourne à l’E., et on ira rejoindre la grand’route au confluent
 
 ———
 
@@ -779,7 +780,7 @@ sur l’heure légale au Pic du Midi.
 
 — p. 38 — REFUGE DE POMBIE (1re EXCURSION)
 
-...du Val d’Arrius, à 8 k. de Gabas, où on rentrera par la vallée de
+du Val d’Arrius, à 8 k. de Gabas, où on rentrera par la vallée de
 Brousset. On n’aura plus qu’à descendre aux Eaux-Chaudes, à
 8 k. de Gabas.
 

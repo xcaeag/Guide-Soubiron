@@ -290,6 +290,7 @@ seul une caravane.
 
 Les horaires sont larges; les plus rapides sont ceux d’un pyrénéiste moyen.
 
+———\
 (1) Non seulement il était contre l’encordage dans le rocher, mais
 encore dans les glaciers non crevassés. (V. Souvenirs d’un Montagnard,
 2e édition, p. 17.)

@@ -107,14 +107,14 @@ et retour. La vue y est déjà très belle sur Lourdes et la plaine
 de Tarbes; mais son ascension est surtout utile pour repérer
 la voie qui monte au Pibeste.
 
-Droit au S., on apercevra une sente rapide qui monte en ligne...
+Droit au S., on apercevra une sente rapide qui monte en ligne
 
 
 <div class="page"/>
 
 — p. 70 — PIBESTE (4me EXCURSION)
 
-...directe, à travers des taillis, jusqu'à la crête. Il faut, en 
+directe, à travers des taillis, jusqu'à la crête. Il faut, en 
 contournant un mamelon rocheux par la g., rejoindre cette sente
 et la suivre jusqu'en haut, où elle débouche sur l'arête, à 5 min.
 et à l'O. du Pibeste. Sur le versant S., on trouve un sentier qui
@@ -312,7 +312,7 @@ tour d'horizon.
 
 Du Pic de Midi de Bigorre au Gabizos, toute la grande chaine
 est sous les yeux. A ses pieds, au S., s'allonge la vallée d'Argelès
-et, au N., dans un immense éventail, paraissent un grand nombre...
+et, au N., dans un immense éventail, paraissent un grand nombre
 
 ———
 
@@ -325,7 +325,7 @@ y monte gratis.
 
 — p. 74 — GERMS (4me EXCURSION)
 
-...de villes et de villages du Béarn, du Gers et des Hautes-Pyrénées.
+de villes et de villages du Béarn, du Gers et des Hautes-Pyrénées.
 Le lac de Lourdes est là, tout près et, plus loin et dans son axe,
 on peut reconnaître toutes les grandes maisons du boulevard
 des Pyrénées de Pau.
@@ -369,7 +369,7 @@ profile, en plein col, le village de Germs. Et la Clique qui culmine
 encore presque verticalement d'environ 200 m., prend maintenant 
 l'allure d'une haute montagne.
 
-Aux granges de Bourdalats, coule, près de la route, une très...
+Aux granges de Bourdalats, coule, près de la route, une très
 
 
 <div class="page"/>
@@ -377,7 +377,7 @@ Aux granges de Bourdalats, coule, près de la route, une très...
 — p. 75 — (4me EXCURSION) CLIQUE DE GERMS
 
 
-...bonne source; on y fera sa provision d'eau, car celle du vill. de
+bonne source; on y fera sa provision d'eau, car celle du vill. de
 Germs n'est pas des meilleures.
 
 Le village de Germs est situé sur un col, vers 900 m. d'alt.,

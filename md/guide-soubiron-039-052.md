@@ -106,14 +106,14 @@ g. du torrent.
 On marche d'abord sous forêt, puis à découvert par des rochers, 
 et enfin, par une clairière presque horizontale qui précède
 le premier plateau ou Artigue de Sesques; parvenu là, on découvre 
-subitement, au S.-S.-O., le fameux Capéran de Sesques, dont...
+subitement, au S.-S.-O., le fameux Capéran de Sesques, dont
 
 
 <div class="page"/>
 
 — p. 42 — CIRQUE de SESQUES (2me EXCURSION)
 
-...la première ascension a été faite par Pierre Bourdieu, d'Escot, le
+la première ascension a été faite par Pierre Bourdieu, d'Escot, le
 4 juin 1922.
 
 Parvenu au premier plateau, on le traversera direction S. en
@@ -152,7 +152,7 @@ Dans 1/2 h., on fera l'ascension facile du Pic de Sesques en
 suivant, au N., les croupes mi-pierraille, mi-gazon. On y trouvera
 les débris de l'ancien signal.
 
-Le Sesques, qui comprend une double cime, est une montagne...
+Le Sesques, qui comprend une double cime, est une montagne
 
 ———
 
@@ -169,7 +169,7 @@ côte 2.607 n'est atteinte par aucun des pics du massif de Sesques.
 
 — p. 43 —  (2me EXCURSION) PIC de SESQUES
 
-...trapue, soutenue par de puissants contreforts. La pointe secondaire, 
+trapue, soutenue par de puissants contreforts. La pointe secondaire, 
 située à environ 400 m. au N.-O. du sommet principal,
 est en contrebas de quelques m. seulement. L'alt. relativement
 modeste de ce grand pic est compensée par l'immensité de son
@@ -261,13 +261,13 @@ vertige. Les amateurs d'émotions fortes trouveront pleine satisfaction
 dans ce trajet.
 
 Parvenu à hauteur du fort, on débouche dans la vallée d'Aspe,
-et le chemin qui contourne la montagne descend vers le N., par...
+et le chemin qui contourne la montagne descend vers le N., par
 
 <div class="page"/>
 
 — p. 45 —  (2me EXCURSION) URDOS
 
-...la rive dr. du gave, jusqu'au pont de Sebers, où il rejoint la
+la rive dr. du gave, jusqu'au pont de Sebers, où il rejoint la
 grand'route, 8 k. en aval d'Urdos. On n'aura plus qu'à suivre
 cette dernière qui remonte par la rive g. et qui fait passer près
 du Fort du Portalet. On remarquera au passage l'entrée de l'impressionnante 
@@ -312,7 +312,7 @@ profonde entre la Llena de la Garganta, à l'O. et le Pic
 d'Aspe, à l'E.
 
 Au grand lacet de Sansané, 4 k. en deçà du Somport, on quittera 
-la grand'route pour prendre, à dr., un sentier qui passe sous...
+la grand'route pour prendre, à dr., un sentier qui passe sous
 
 ———
 
@@ -323,7 +323,7 @@ la grand'route pour prendre, à dr., un sentier qui passe sous...
 
 — p. 46 — PIC D'ASPE  (2me EXCURSION)
 
-...une hêtraie et va aboutir presque horizontalement près du gave
+une hêtraie et va aboutir presque horizontalement près du gave
 d'Aspe. Ce sentier longe ensuite le gave sur la rive dr. jusqu'à la
 base de puissantes murailles qui ferment l'horizon. On arrive là
 au pied d'un ressaut du haut duquel le gave tombe, en plusieurs
@@ -472,13 +472,13 @@ __le Pic de Cézy (2.209m) et le Col de Lurdé (1.951m).__
 __Conseils.__ — __Itin. recomm.__ — Au N.-N.-E., l'horizon est borné
 par une gracieuse montagne qui domine Gabas d'environ 1.100 m.
 Ses faces blanches, ses crêtes dentelées et ses deux cimes qui
-pointent vers le ciel, lui donnent une allure superbe des plus...
+pointent vers le ciel, lui donnent une allure superbe des plus
 
 <div class="page"/>
 
 — p. 49 —  (2me EXCURSION) PIC pe CEZY
 
-...tentantes. C'est le Pic de Cézy (1) que le 4e jour d'excursion va
+tentantes. C'est le Pic de Cézy (1) que le 4e jour d'excursion va
 nous faire ascendre. Les aigles rôdent souvent autour de son
 sommet, et ses pentes méridionales sont pleines d'Etoiles des
 Neiges.
@@ -570,7 +570,7 @@ des eaux. Bientôt le chemin descend en tournant vers
 la g. et on le voit remonter en face vers une échancrure qu'on
 nomme la Brèque. On aperçoit de ce point le vallon rapide de
 Balour qu'on laisse en contrebas, à dr. et par lequel on pourrait 
-aussi descendre aux Eaux-Bonnes par un temps très clair...
+aussi descendre aux Eaux-Bonnes par un temps très clair
 
 ———
 
@@ -583,7 +583,7 @@ Touring-Club, on a adopté le nom français de « Etoile des Neiges ».
 
 — p. 51 — (2me EXCURSION) EAUX-BONNES
 
-...ou avec un guide. Il vaut mieux suivre le bon chemin du Gourzy.
+ou avec un guide. Il vaut mieux suivre le bon chemin du Gourzy.
 
 Après la Brèque, le sentier continue horizontalement au
 N.-N.-O. vers le signal du Gourzy (1.839m) qu'on laisse à g.

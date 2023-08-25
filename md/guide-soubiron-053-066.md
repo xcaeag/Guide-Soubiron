@@ -160,7 +160,7 @@ muraille surgie du chaos des neiges comme une sombre image
 de la mort, etc., etc. (2). »
 
 Pour varier l'excursion, on pourra descendre au N., à toute
-crête, jusqu'à une petite échancrure qu'on nomme « Brèche des...
+crête, jusqu'à une petite échancrure qu'on nomme « Brèche des
 
 ———
 
@@ -173,7 +173,7 @@ Isards, tome 2, p. 122.
 
 — p. 57 —  (3me EXCURSION) ARRIEL
 
-...Géodésiens ». Ce trajet, un peu délicat, exige quelque attention.
+Géodésiens ». Ce trajet, un peu délicat, exige quelque attention.
 
 On partira à toute crête en franchissant une brèche de 4 ou
 5 m., à pariir de laquelle on continuera sur d'énormes blocs.
@@ -218,7 +218,7 @@ presque.
 
 Si on ne veut pas rentrer au refuge par la même voie, on
 pourra descendre à l'O. au Col de Sobe où on prendra le sentier
-qui se dirige au N. vers le lac d'Arrius. Là, on franchira une...
+qui se dirige au N. vers le lac d'Arrius. Là, on franchira une
 
 
 <div class="page"/>
@@ -231,7 +231,7 @@ qui se dirige au N. vers le lac d'Arrius. Là, on franchira une...
 
 — p. 59 — (3me EXCURSION) COL D'ARREMOULIT
 
-...croupe, au N.-E., pour retrouver, quelques minutes après, le
+croupe, au N.-E., pour retrouver, quelques minutes après, le
 sentier de la veille qui, par le Col d'Arrius, conduit au refuge.
 
 Horaire direct de l'Arriel, aller et retour, 4 h., arrêts en sus.
@@ -372,7 +372,7 @@ voie de pyrénéiste, pleine d'intérêt, que nous allons monter
 au grand Gabizos (2.684m) nommé aussi « Les Taillades. »
 
 On descendra par la vallée d'Azun en suivant le chemin muletier 
-jusqu'à Grougne-Pouret (1.232m), au confluent du vallon de...
+jusqu'à Grougne-Pouret (1.232m), au confluent du vallon de
 
 ———
 
@@ -384,7 +384,7 @@ Balaïtous ».
 — p. 62 — GRAND GABIZOS (3me EXCURSION)
 
 
-...Labas. On remontera ce dernier, direction O., après avoir gagné
+Labas. On remontera ce dernier, direction O., après avoir gagné
 le sentier de la rive g. qui passe à une certaine hauteur. Après
 la cabane de Maouba, on aboutira à un vallon qui grimpe droit
 au N. et au fond duquel coule un petit torrent. On le remontera
@@ -525,13 +525,13 @@ on domine constamment une des plus coquettes régions des Pyrénées.
 On quittera le Bazès en suivant la crête au IN. par une descente 
 au Col des Courades, pour remonter ensuite au Pic de
 Navaillo (1.667m). On sera là tout à fait dans l'axe de la vallée
-d'Estrem de Salles qu'on apercevra en entier. Poursuivant sa...
+d'Estrem de Salles qu'on apercevra en entier. Poursuivant sa
 
 <div class="page"/>
 
 — p. 65 — (3me EXCURSION) SOUM DE GRANQUET
 
-...marche vers le N., on descendra au Col d'Espandelès, où passe
+marche vers le N., on descendra au Col d'Espandelès, où passe
 le grand chemin muletier qui fait communiquer la vallée de
 l'Ouzon avec celle d'Argelès. Suivant toujours la crête, en se tenant 
 de temps en temps sur l'un ou l'autre versant, on fera au
