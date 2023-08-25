@@ -606,7 +606,7 @@ Voici, à ce sujet, les deux proverbes pyrénéens bien connus :
 2° Bruno roujo pét sé, ét bèt témps qu’és vé.\
 (Brume rouge le soir, le beau temps se voit).
 
-Nora. — Le proverbe du matin existe aussi dans les Alpes, et
+Nota. — Le proverbe du matin existe aussi dans les Alpes, et
 voici comment H. Bordeaux le reproduit dans la Maison Morte :
 « Brume rouge le matin, il y aura de l’eau pour le moulin. »
 
