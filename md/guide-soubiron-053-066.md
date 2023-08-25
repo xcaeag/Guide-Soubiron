@@ -1,13 +1,11 @@
 ---
-abstract: |
-    LES PYRÉNÉES
+abstract: LES PYRÉNÉES
     Du PIC d'ANIE au CANIGOU
     En 40 Excursions
-title: |
-    | TROISIÈME EXCURSION
-    | Cinq jours au départ de Laruns
-output: pdf_document 
+title: TROISIÈME EXCURSION
+    Cinq jours au départ de Laruns
 ---
+
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 

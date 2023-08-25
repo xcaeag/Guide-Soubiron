@@ -234,7 +234,7 @@ l'amorce du sentier qui descend par le Cambasque. On aura soin
 de bien le repérer au passage, car, au Péguère, on a souvent
 le brouillard dans l'après-midi, ce qui rend l'orientation difficile.
 
-À partir de ce point, le sentier est plus étroit et on continue
+A partir de ce point, le sentier est plus étroit et on continue
 à contourner le Péguère jusqu'à sa face N. On franchit un
 deuxième col au delà duquel le sentier redescend de quelques
 m. et d'où on découvre tout le haut vallon du Cambasque, vers

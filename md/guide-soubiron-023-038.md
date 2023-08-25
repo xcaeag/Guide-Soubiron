@@ -1,13 +1,11 @@
 ---
-abstract: |
-    LES PYRÉNÉES
+abstract: LES PYRÉNÉES
     Du PIC d'ANIE au CANIGOU
     En 40 Excursions
-title: |
-    | PREMIÈRE EXCURSION
-    | Cinq jours au départ de Lescun
-output: pdf_document 
+title:  EXCURSION
+    Cinq jours au départ de Lescun
 ---
+
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
@@ -595,7 +593,7 @@ Constituée d’assises de grès rouge régulièrement superposées,
 de la base au sommet, on se croirait en présence d’un grand
 travail romain, avec ses tours et ses créneaux de brique.
 
-À sa base E., sont les trois lacs d’Ayous que je désigne par
+A sa base E., sont les trois lacs d’Ayous que je désigne par
 rang d’alt., de l'E. à l’O. : Lac Romassot (1.812m); petit lac du
 Milieu (1.880m); grand lac d’Ayous ou Gentaou (1.970m). 
 Sur les

@@ -1,12 +1,9 @@
 ---
-abstract: |
-    LES PYRÉNÉES
+abstract: LES PYRÉNÉES
     Du PIC d'ANIE au CANIGOU
     En 40 Excursions
-title: |
-    | QUATRIÈME EXCURSION
-    | Trois jours aux environs de Lourdes
-output: pdf_document 
+title: QUATRIÈME EXCURSION
+    Trois jours aux environs de Lourdes
 ---
 
 <style>.centre {text-align: center}</style>
@@ -207,7 +204,7 @@ sous la châtaigneraie. Le chemin muletier qui y conduit s'embranche
 En haut de Saint-Pastous, près d'une grange, on quittera le
 chemin principal pour suivre, à g., un sentier qui monte au N.-E.
 à travers des prairies et des pâturages, et va rejoindre la crête
-à la cote 1143. À partir de là, il file, tantôt à toute crête, tantôt
+à la cote 1143. A partir de là, il file, tantôt à toute crête, tantôt
 à flanc O., jusqu'au point culminant du massif (1.802m), situé en
 amont de la belle forêt de sapins qu'on aperçoit de la plaine. Il
 n'y a pas d'eau au sommet; il sera prudent d'en faire provision
@@ -357,7 +354,7 @@ et dernier col coté 699 m.; un chemin muletier le traverse.
 
 De Lhéret au Col 699, c'est un véritable régal; on domine constamment 
 les deux vallées dont les nombreux villages défilent
-successivement sous les yeux. À partir du Col 699, et après une
+successivement sous les yeux. A partir du Col 699, et après une
 petite remontée, le sentier continue par le flanc O. pour aboutir
 au Col de Lingoust (600m), à la jonction des deux vallées.
 

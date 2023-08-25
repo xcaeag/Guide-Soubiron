@@ -1,12 +1,9 @@
 ---
-abstract: |
-    LES PYRÉNÉES
+abstract: LES PYRÉNÉES
     Du PIC d'ANIE au CANIGOU
     En 40 Excursions
-title: |
-    | LES PYRÉNÉES Du PIC d'ANIE au CANIGOU En 40 Excursions 
-    | Deuxième édition augmentée de 36 Itinéraires nouveaux
-output: pdf_document 
+title: LES PYRÉNÉES Du PIC d'ANIE au CANIGOU En 40 Excursions 
+    Deuxième édition augmentée de 36 Itinéraires nouveaux
 ---
 
 <style>.centre {text-align: center}</style>

@@ -1,13 +1,11 @@
 ---
-abstract: |
-    LES PYRÉNÉES
+abstract: LES PYRÉNÉES
     Du PIC d'ANIE au CANIGOU
     En 40 Excursions
-title: |
-    | DEUXIÈME EXCURSION
-    | Cinq jours au départ des Eaux-Chaudes
-output: pdf_document 
+title: DEUXIÈME EXCURSION
+    Cinq jours au départ des Eaux-Chaudes
 ---
+
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
