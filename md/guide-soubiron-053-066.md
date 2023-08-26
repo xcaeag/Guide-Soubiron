@@ -343,7 +343,7 @@ intérieures sont de 5m sur 3m80, et la forme de la voûte est
 ogivale comme celle du refuge de Tuquerouye. Le lit de camp est
 en sapin.
 
-NOTA. — Au cas où on arriverait de très bonne heure à
+Nota. — Au cas où on arriverait de très bonne heure à
 Labassa, ce qui est très possible, on pourrait continuer la
 descente jusqu'aux cabanes de Grougne-Pouret (1.232m), au confluent 
 du vallon de Labas. Cela diminuerait la journée du lendemain 
@@ -577,7 +577,7 @@ chemin muletier du fond de la vallée. On longera ensuite le ruis-
 
 <div class="page"/>
 
-— p. 66 — ESTREM de SALLES (3me Excursion)
+— p. 66 — ESTREM de SALLES (3me EXCURSION)
 
 -seau de Bergons jusqu'au vill. de Sère où on rejoint la route
 qui, par Gez, conduit directement à Argelès.

@@ -445,7 +445,7 @@ du Col d'Ayous par Bious-Artigues et l'ascension du pic lors de
 la première excursion, le regard aura fait le tour complet de
 cet intéressant sommet.
 
-NOTA. — Au cas où on n'aurait pas réussi la première ascen-
+Nota. — Au cas où on n'aurait pas réussi la première ascen-
 sion de l'Ossau et qu'on veuille la reprendre, on couchera au
 refuge de Pombie, au lieu de redescendre à Gabas.
 

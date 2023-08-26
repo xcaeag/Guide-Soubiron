@@ -649,7 +649,7 @@ de Bious-Artigues (1.500m). Une route conduit ensuite directement
 à Gabas où on couchera, hôtel des Pyrénées, chez Baylou
 (V.2e et 3e E., pp. 48 et 55).
 
-NOTA. — Du col d’Ayous, on peut rejoindre directement le
+Nota. — Du col d’Ayous, on peut rejoindre directement le
 refuge de Pombie dans 3 h. environ, ce qui réduirait d’autant
 la journée du lendemain. On n’a qu’à contourner horizontalement 
 le haut du cirque d’Ayous afin d’aboutir au col de Peyreget, 
@@ -782,7 +782,7 @@ du Val d’Arrius, à 8 k. de Gabas, où on rentrera par la vallée de
 Brousset. On n’aura plus qu’à descendre aux Eaux-Chaudes, à
 8 k. de Gabas.
 
-NOTA. — Au cas où on voudrait prendre le train du soir à
+Nota. — Au cas où on voudrait prendre le train du soir à
 Laruns, on retiendra une voiture qui viendra chercher les
 touristes au confluent d’Arrius, 22 k. de la gare.
 
@@ -796,7 +796,7 @@ Du Col de Suzon à Gabas par Brousset.... 2 h. 45 }
 De Gabas aux Eaux-Chaudes (8 k.)........ 1 h. 30 }
 ```
 
-NOTA. — Si on est parti du refuge de Pombie, 3 h. en moins.
+Nota. — Si on est parti du refuge de Pombie, 3 h. en moins.
 
 <u>__POINTS D’INTERRUPTION__</u>
 

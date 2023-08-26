@@ -359,7 +359,7 @@ connus : au N., le Val de Jéret: à l'O., la Vallée de Gaube;
 
 <div class="page"/>
 
-— p. 95 — (6me ExCURSION) VALLEE DE GAUBE
+— p. 95 — (6me EXCURSION) VALLEE DE GAUBE
 
 au S., le Pic et le Col d'Araillé, et enfin à l'E., la Vallée de Lutour.
 

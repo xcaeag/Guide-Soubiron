@@ -199,7 +199,7 @@ coup d'œil tout le trajet de l’excursion.
 Mais si on veut observer et reconnaître au passage tous les
 détails du terrain parcouru, on se munira d’une carte spéciale
 de la région à grande échelle. Je conseille d’emporter de préférence 
-la carte au 1/100.000° du Ministère de l’Intérieur : 1° parce
+la carte au 1/100.000e du Ministère de l’Intérieur : 1° parce
 qu’elle est d’une lecture très facile; 2° parce qu’elle embrasse
 les deux versants de la frontière; 3° enfin, parce que les noms des
 lieux sont presque toujours plus exacts.
@@ -254,7 +254,7 @@ d’une corde;__ 2° que, dans les Pyrénées, un bon rochassier,
 qui ne pratique pas l’alpinisme acrobatique, ne doit confier sa
 vie à personne et encore bien moins à une corde. Sa tête, ses
 mains et ses pieds doivent être ses seuls auxiliaires. Sur ce point,
-je suis d’accord avec l’illustre pyrénéiste Russell [¹].
+je suis d’accord avec l’illustre pyrénéiste Russell (1).
 
 Malgré la grande majorité de ceux qui ne pensent pas comme
 moi, surtout parmi les partisans de l’alpinisme acrobatique, mon
@@ -288,7 +288,7 @@ seul une caravane.
 Les horaires sont larges; les plus rapides sont ceux d’un pyrénéiste moyen.
 
 ———\
-[¹] Non seulement il était contre l’encordage dans le rocher, mais
+(1) Non seulement il était contre l’encordage dans le rocher, mais
 encore dans les glaciers non crevassés. (V. Souvenirs d’un Montagnard,
 2e édition, p. 17.)
 
@@ -353,7 +353,7 @@ que cela est utile.
 
 # CONSEILS PRATIQUES
 
-NOTA. — Quelques conseils et même certaines recommandations 
+Nota. — Quelques conseils et même certaines recommandations 
 paraîtront puérils aux vieux pyrénéistes exercés; aussi, 
 est-ce surtout aux débutants, c'est-à-dire au grand nombre,
 qu'ils s’adressent.
