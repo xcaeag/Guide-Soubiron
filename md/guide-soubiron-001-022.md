@@ -434,13 +434,12 @@ sous un rocher après avoir éloigné les piolets dont la pointe
 acérée attire la foudre. __Bien se garder de franchir une crête et
 d’y circuler pendant l’orage.__
 
-A) V. Annuaire du C. A. F, 1882, p. 317.
+(1) V. Annuaire du C. A. F, 1882, p. 317.
 
 
 <div class="page"/>
 
 — p. 12 —
-
 
 12.  Enfin, si vous vous sentez des aptitudes et un dévouement à
 toute épreuve pour conduire une caravane, __prenez un porteur__ ;
@@ -496,7 +495,7 @@ il vaut mieux lui donner une indemnité.
 On emportera comme provisions une nourriture selon ses
 goûts mais complétée par un chocolat déjà cuit, pour le matin,
 d’un bouillon chaud précédant chacun des deux grands repas et
-d’un thé bouïllant pour les terminer.
+d’un thé bouillant pour les terminer.
 
 On se reposera 1/2 h. avant de commencer les grands repas.
 
@@ -620,8 +619,7 @@ voici comment H. Bordeaux le reproduit dans la Maison Morte :
 
 Par 2 Touristes :
 
-- Une carte au 1/100.000°, ou tout autre à grande |
-échelle.
+- Une carte au 1/100.000°, ou tout autre à grande échelle.
 - Une Boussole. 
 - Une Jumelle à prismes grossissant huit fois. 
 

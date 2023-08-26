@@ -17,7 +17,7 @@ __Cinq jours au départ de Laruns__
 
 B. E. — Du 15 Juillet à fin Août.
 
-Cartes à émporter : Oloron et Laruns réunies, Tarbes.
+Cartes à emporter : Oloron et Laruns réunies, Tarbes.
 
 __De LARUNS (1) à ARGELÈS,__\
 __par les Eaux-Chaudes, Gabas, le Pallas, le Pic d'Arriel,__\

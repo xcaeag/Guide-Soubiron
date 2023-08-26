@@ -16,7 +16,7 @@ title: DEUXIÈME EXCURSION
 
 __Cinq jours au départ des Eaux-Chaudes__
 
-B. E. — Du 1" Juillet au 15 Septembre.
+B. E. — Du 1er Juillet au 15 Septembre.
 
 Cartes à emporter : Oloron et Laruns réunies.
 

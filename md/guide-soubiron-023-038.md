@@ -800,11 +800,11 @@ Nota. — Si on est parti du refuge de Pombie, 3 h. en moins.
 
 <u>__POINTS D’INTERRUPTION__</u>
 
-__LESCUN et URDOS__ 
-- Pour rejoindre ou abandonner aprés les 1re, 2 ou 3 journée.
+__LESCUN et URDOS__
+- Pour rejoindre ou abandonner aprés les 1re, 2me ou 3me journée.
 
 __GABAS__ 
-- Pour rejoindre ou abandonner après la 4 journée.
+- Pour rejoindre ou abandonner après la 4me journée.
 - Pour rejoindre des Eaux-Chaudes (8 k. de route).
 - Pour rejoindre de Laruns (14 k. de route).
 
