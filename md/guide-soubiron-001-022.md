@@ -6,8 +6,10 @@ title: LES PYRÉNÉES Du PIC d'ANIE au CANIGOU En 40 Excursions
     Deuxième édition augmentée de 36 Itinéraires nouveaux
 ---
 
-<style>.centre {text-align: center}</style>
-<style>.droite {text-align: right}</style>
+<style>
+.centre {text-align: center}
+.droite {text-align: right}
+</style>
 
 # <p class="centre">LES PYRÉNÉES</p>
 <p class="centre">
@@ -18,7 +20,7 @@ EN 40 EXCURSIONS<br>
 
 ----------------
 
-<p class="droite"><u>Guide Soubiron</u></p>
+<p style="text-align: right"><u>Guide Soubiron</u></p>
 
 <p class="centre">
 <b>LES PYRÉNÉES</b><br>
@@ -413,7 +415,7 @@ et les poumons à la marche ascendante.\
 __Marcher toujours la bouche fermée__ pour éviter les points
 de côté.
 
-8. __En montant, parler peu, hoire le moins possible et surtout 
+8. __En montant, parler peu, boire le moins possible et surtout 
 ne pas fumer. Manger peu et souvent.__
 
 9.  Pour traverser le haut d’une vallée ou d’un cirque ou pour
