@@ -1,5 +1,5 @@
 # Guide Soubiron
-Les Pyrénées - du Pic d'Anie au Canigou en 40 excursions, par Pierre Soubiron, cartes par Raymond d'Espouy.
+Les Pyrénées - du Pic d'Anie au Canigou en 40 excursions, par Pierre Soubiron, cartes de Raymond d'Espouy.
 
 Un guide des années 30 glané chez un bouquiniste...
 
