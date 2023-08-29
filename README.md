@@ -31,3 +31,5 @@ Il semble que l'ouvrage soit dans le domaine public... si ce n'était pas le cas
 [Pages 99 à 110 : 7eme Excursion](md/guide-soubiron-099-110.md) : Cinq jours aux environs de Cauterets
 
 [Pages 111 à 118 : 8eme Excursion](md/guide-soubiron-111-118.md) : Quatre jours au départ de Cauterets
+
+[Pages 119 à 132 : 8eme Excursion](md/guide-soubiron-119-132.md) : Une semaine à Gavarnie et ses Environs
