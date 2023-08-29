@@ -216,7 +216,7 @@ les pentes de la rive g. on descendra directement au col.
 
 <div class="page"/>
 
-— p. 44 — CHEMIN pe La MATURE (2me EXCURSION)
+— p. 44 — CHEMIN de La MATURE (2me EXCURSION)
 
 Là, le torrent suit la face O. de la colline par le petit vallon
 accidenté de Licoué. On optera pour le vallon de g., par lequel
@@ -474,7 +474,7 @@ pointent vers le ciel, lui donnent une allure superbe des plus
 
 <div class="page"/>
 
-— p. 49 —  (2me EXCURSION) PIC pe CEZY
+— p. 49 —  (2me EXCURSION) PIC de CEZY
 
 tentantes. C'est le Pic de Cézy (1) que le 4e jour d'excursion va
 nous faire ascendre. Les aigles rôdent souvent autour de son
