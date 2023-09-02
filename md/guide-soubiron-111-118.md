@@ -55,7 +55,7 @@ __d'Araillé (2.763m) et la Hourquette d'Ossoue (2.738m).__
 __Conseils.__ — __Itin. recomm.__ —- On partira vers 5 h. et on remontera 
 la vallée de Lutour pour arriver, vers 9 h., à l'hôtellerie
 du Lac d'Estom. On y déjeunera vers 10 h., afin de pouvoir en
-repartir à 11 h. 30 ou midi. On ne prendra dans son sac que ce
+repartir à 11h.30 ou midi. On ne prendra dans son sac que ce
 
 (1) On trouve cette clé au Syndicat d'Initiative à Cauterets.
 
@@ -69,7 +69,7 @@ qui est nécessaire jusqu'au lendemain soir, et on laissera le reste
 à l'hôtellerie en retenant des lits.
 
 Partant direction S.-O., on suivra le sentier qui monte au Col
-d'Araillé (2.596m) où on déposera le sac. En 1 h. 30, aller et
+d'Araillé (2.596m) où on déposera le sac. En 1h.30, aller et
 retour, on fera au N. du col l'ascension facile du Pic d'Araillé
 (2.763m).
 
@@ -96,10 +96,10 @@ on couchera (1).
 __Horaire de la Journée :__
 
 ``` 
-De Cauterets au Lac d'Estom................. 3 h. 39 }
-Du Lac d'Estom au Col d'Araillé............. 2 h. 50 }    8 h. 45
-Du Col d'Araillé aw Pic d'Araillé et retour. 1 h. 30 } (Arrêts en sus)
-Du Col d'Araillé au refuge d'Ossoue......... 1 h. 15 }
+De Cauterets au Lac d'Estom................. 3h.39 }
+Du Lac d'Estom au Col d'Araillé............. 2h.50 }    8h.45
+Du Col d'Araillé aw Pic d'Araillé et retour. 1h.30 } (Arrêts en sus)
+Du Col d'Araillé au refuge d'Ossoue......... 1h.15 }
 ```
 
 ## DEUXIÈME JOURNÉE
@@ -225,9 +225,9 @@ du Lac d'Estom (1.782m) où on couchera.
 __Horaire de la Journée :__
 
 ``` 
-Du Refuge au Vignemale............... 3 h. 15 } 
-Du Vignemale au Col de Pouymourou.... 3 h. 45 }    9 h. 45
-Du Col de Pouymourou au Lac d'Estom.. 2 h. 45 } (Arrêts en sus)
+Du Refuge au Vignemale............... 3h.15 } 
+Du Vignemale au Col de Pouymourou.... 3h.45 }    9h.45
+Du Col de Pouymourou au Lac d'Estom.. 2h.45 } (Arrêts en sus)
 ```
 
 ———
@@ -327,7 +327,7 @@ __Horaire de la Journée :__
 
 ``` 
 Du Lac d'Estom au refuge de Culaous..... 2h.30 }
-Du refuge de Culaous au Pic de Culaous.. 3h.30 }   9 h. 45
+Du refuge de Culaous au Pic de Culaous.. 3h.30 }   9h.45
 Du Pic de Culaous au Pic de Cestrède.... 1h. » } (Arrêts en sus).
 Du Pic de Cestrède au refuge............ 2h.45 }
 ```
@@ -391,9 +391,9 @@ __Horaire de la Journée :__
 
 ``` 
 
-Du refuge de Culaous à l'Ardiden....... 3 h. »  }
-De l'Ardiden au Lac Grand.............. 1 h. 45 }    8h. »
-Du Lac Grand à Sazos................... 2 h. 45 } (Arrêts en Sus).
-De Sazos à Luz (3 k. de route)......... 0 h. 30 }
+Du refuge de Culaous à l'Ardiden....... 3h. » }
+De l'Ardiden au Lac Grand.............. 1h.45 }    8h. »
+Du Lac Grand à Sazos................... 2h.45 } (Arrêts en Sus).
+De Sazos à Luz (3 k. de route)......... 0h.30 }
 ```
 

@@ -282,12 +282,12 @@ dr. à la grand'route de la rive g.
 __Horaire de la Journée:__
 
 ```
-Des Eaux-Chaudes au Cirque de Sesques.....   3 h  "  }
-Du Cirque au grand Pic de Sesques.........   2 h  "  }
-Du grand Pic de Sesques au Col par le                }  10 h. 30
-  petit pic                                  0 h. 30 }  (Arrêts en sus)
-Du Col de Sesques à la Baigt de Saint-Cours. 2 h. "  }
-De ce point à Urdos (1)....................  3 h. "  }
+Des Eaux-Chaudes au Cirque de Sesques.....   3h  »  }
+Du Cirque au grand Pic de Sesques.........   2h  »  }
+Du grand Pic de Sesques au Col par le               }  10h.30
+  petit pic                                  0h.30  }  (Arrêts en sus)
+Du Col de Sesques à la Baigt de Saint-Cours. 2h. »  }
+De ce point à Urdos (1)....................  3h. »  }
 ```
 
 
@@ -383,10 +383,10 @@ de Canfranc (4 k.). On y trouve déjà trois hôtels.
 __Horaire de la Journée :__
 
 ```
-De Urdos au lacet de Sansané (en voiture). 1 h. 45 }
-Du Lacet de Sansané au Pas d'Aspe......... 1 h. 30 } 9 h. 30
-Du Pas d'Aspe au Pic d'Aspe............... 2 h. 30 } (Arrêts en sus)
-Du Pic d'Aspe à Anglassé.................. 3 h. 45 }
+De Urdos au lacet de Sansané (en voiture). 1h.45 }
+Du Lacet de Sansané au Pas d'Aspe......... 1h.30 }   9h.30
+Du Pas d'Aspe au Pic d'Aspe............... 2h.30 } (Arrêts en sus)
+Du Pic d'Aspe à Anglassé.................. 3h.45 }
 ```
 
 ## TROISIÈME JOURNÉE
@@ -452,9 +452,9 @@ refuge de Pombie, au lieu de redescendre à Gabas.
 __Horaire de la Journée :__
 
 ```
-De la Casa de Anglassé à l'Anayette..... 4 h. "  }  9 h. 30
-De l'Anayette au Col d'Anèou............ 2 h. "  }  (Arrêts en sus)
-Du Col d'Anèou à Gabas.................. 3 h. 30 }
+De la Casa de Anglassé à l'Anayette..... 4h. » }  9h.30
+De l'Anayette au Col d'Anèou............ 2h. » }  (Arrêts en sus)
+Du Col d'Anèou à Gabas.................. 3h.30 }
 ```
 
 Nota. — Si on a couché aux Arañones, 20 min. en sus.
@@ -496,7 +496,7 @@ s'élève en de nombreux lacets, par un chemin rocailleux qui
 remonte la rive dr. du torrent à une certaine distance et presque
 toujours sous forêt.
 
-Environ 2 h. 30 après le départ, avant d'arriver à l'endroit
+Environ 2h.30 après le départ, avant d'arriver à l'endroit
 qu'on nomme « La Tume », on trouve, sur la g., l'amorce d'un
 nouveau sentier qui grimpe au N., puis tourne au N.-E. pour
 longer les falaises de calcaire blanc qui le surplombent. On
@@ -594,10 +594,10 @@ conduisent directement aux Eaux-Bonnes (1).
 __Horaire de la Journée :__
 
 ```
-De Gabas au Col de Lurdé..:............ 3 h. 45 }
-Du Col de Lurdé au Pic de Cézy......... 0 h. 45 } 7 h. 45
-Du Pic de Cézy au Col de Lurdé......... 0 h. 30 } (Arrêts en sus).
-Du Col de Lurdé aux Eaux-Bonnes........ 2 h. 45 }
+De Gabas au Col de Lurdé..:............ 3h.45 }
+Du Col de Lurdé au Pic de Cézy......... 0h.45 }   7h.45
+Du Pic de Cézy au Col de Lurdé......... 0h.30 } (Arrêts en sus).
+Du Col de Lurdé aux Eaux-Bonnes........ 2h.45 }
 ```
 
 ## CINQUIÈME JOURNÉE
@@ -671,9 +671,9 @@ voie d'ascension à 20 min. des Eaux-Bonnes.
 __Horaire de la Journée :__
 
 ```
-Des Eaux-Bonnes au Col du Ger.......... 4 h. 30 } 10 h. 
-Du Col du Ger au Pic de Ger............ 1 h. 30 } (Arrêts en sus)
-Du Pic de Ger aux Eaux-Bonnes.......... 4 h.    }
+Des Eaux-Bonnes au Col du Ger.......... 4h.30 } 10 h. 
+Du Col du Ger au Pic de Ger............ 1h.30 } (Arrêts en sus)
+Du Pic de Ger aux Eaux-Bonnes.......... 4h.   }
 ```
 
 Nota. — En partant à 4 h., on peut rentrer assez tôt pour
@@ -688,7 +688,7 @@ d'excursion.
 - Pour rejoindre de Laruns (14 k.)... 3h.
 
 __GABAS__
-- Pour rentrer à Laruns après la 3° journée... 2 h. 45
+- Pour rentrer à Laruns après la 3° journée... 2h.45
 - Pour rentrer à Laruns après la 4° journée... 1h.
 
 __EAUX-BONNES__

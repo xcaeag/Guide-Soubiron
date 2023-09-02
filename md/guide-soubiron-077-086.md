@@ -177,11 +177,11 @@ du Col de Riou ou avec les vivres tirés du sac.
 __Horaire de la Journée :__
 
 ```
-De Cauterets au Viscos................. 4 h. 10 }
-Du Viscos au Col de Riou............... 1 h. 20 }   
-Du Col de Riou au Soum de Las Aoueil-           }   8 h. 15
-   èros ............................... O h. 50 } (Arrêts en sus).
-Du Soum de Las Aoueillèros à Cauterets. 1 h. 55 }
+De Cauterets au Viscos................. 4h.10 }
+Du Viscos au Col de Riou............... 1h.20 }   
+Du Col de Riou au Soum de Las Aoueil-         }   8h.15
+   èros ............................... Oh.50 } (Arrêts en sus).
+Du Soum de Las Aoueillèros à Cauterets. 1h.55 }
 ```
 
 ## DEUXIÈME JOURNÉE
@@ -265,7 +265,7 @@ directement à Cauterets.
 __Horaire de la Journée :__
 
 ```
-De La Raillère au Péguère.............   4h.   }   6 h. 45
+De La Raillère au Péguère.............   4h.   }   6h.45
 Du Péguère à Cauterets par le Cambasque. 2h.45 } (Arrêts en sus).
 ```
 
@@ -355,9 +355,9 @@ tromper, même par un brouillard intense.
 __Horaire de la Journée :__
 
 ```
-De Cauterets au Montné................ 5 h. »   } 
-Du Montné au Cabaliros................ 2 h. 45  }   10 h.
-Du Cabaliros à Cauterets.............. 2 h. 15  } (Arrêts en sus)
+De Cauterets au Montné................ 5h. »  } 
+Du Montné au Cabaliros................ 2h.45  }   10 h.
+Du Cabaliros à Cauterets.............. 2h.15  } (Arrêts en sus)
 ```
 
 ———\
@@ -456,10 +456,10 @@ et le Cambasque.
 __Horaire de la Journée :__
 
 ```
-De Cauterets au Col d'Ilhèou............  3 h. 30 } 
-Du Col d'Ilhèou au Grand Barbat.........  2 h. 15 }  10 h. 30
-Du Grand Barbat à la Brèche des Hourats.  0 h. 50 } 
-De la Brèche des Hourats aulLac d'Ilhèou. 1 h. 40 }  (Arrêts en sus).
-Du Lac d'Ilhèou à Cauterets.............. 2 h. 15 } 
+De Cauterets au Col d'Ilhèou............  3h.30 } 
+Du Col d'Ilhèou au Grand Barbat.........  2h.15 }   10h.30
+Du Grand Barbat à la Brèche des Hourats.  0h.50 } 
+De la Brèche des Hourats aulLac d'Ilhèou. 1h.40 }  (Arrêts en sus).
+Du Lac d'Ilhèou à Cauterets.............. 2h.15 } 
 ```
  

@@ -163,12 +163,12 @@ près de la ferme de Salabère, d’où on rentrera à Lescun.
 __Horaire de la Journée :__
 
 ```
-De Lescuns au Lac de Lhurs................ 2h. 50 }
-Du Lac de Lhurs à la Table des Trois Rois. 2h. 20 } 
-De la Table des Trois Rois au Pic des             }  9 h. 30
-Trois Rois.............. ................. 0h. 20 }  (arrêts en sus)
-Du Pic des Trois Rois au Port d’Ansabère.  1h. "  }
-Du Port d’Ansabère à Lescun............... 3h. "  }
+De Lescuns au Lac de Lhurs................ 2h.50 }
+Du Lac de Lhurs à la Table des Trois Rois. 2h.20 } 
+De la Table des Trois Rois au Pic des            }  9h.30
+Trois Rois.............. ................. 0h.20 }  (arrêts en sus)
+Du Pic des Trois Rois au Port d’Ansabère.  1h. » }
+Du Port d’Ansabère à Lescun............... 3h. » }
 ```
 
 ———
@@ -309,10 +309,10 @@ Lescun. On raccourcit par là de plus d’un k.
 __Horaire de la Journée :__
 
 ```
-De Lescun au Col d’Anie.................. 3 h. 10 }
-Du Col d’Anie au Pic d’Anie.............. 1 h. 20 }  7h. 30
-Du Col d’Anie à la Cascade Sanchez....... 2h.  "  }  (Arrêts en sus)
-De la Cascade Sanchez à Lescun........... 1h.  "  }
+De Lescun au Col d’Anie.................. 3h.10 }
+Du Col d’Anie au Pic d’Anie.............. 1h.20 }  7h.30
+Du Col d’Anie à la Cascade Sanchez....... 2h. » }  (Arrêts en sus)
+De la Cascade Sanchez à Lescun........... 1h. » }
 ```
 
 Nota. — Si on est parfi du refuge de Labérouat, 1 h. en moins.
@@ -455,11 +455,11 @@ d’Anglus. De ce point, un grand chemin muletier conduit dans
 __Horaire de la Journée :__
 
 ```
-Des Forges d’Abel au Port de &abedaille... 1h. 30  }
-Du Port de Gabedaille au Visaurin......... 3h. "   }  9h. 30
-Du Visaurin au Lac d’Estaës... ........... 2 h. 10 }  (Arrêts en sus)
-Du Lac d’Estaès aux Forges d’Abel ........ 1 h. 30 }
-Des Forges d’Abel à Urdos (7 k.}.......... 1 h. 20 }
+Des Forges d’Abel au Port de &abedaille... 1h.30 }
+Du Port de Gabedaille au Visaurin......... 3h. » }     9h.30
+Du Visaurin au Lac d’Estaës... ........... 2h.10 }  (Arrêts en sus)
+Du Lac d’Estaès aux Forges d’Abel ........ 1h.30 }
+Des Forges d’Abel à Urdos (7 k.}.......... 1h.20 }
 
 N. B. — Si on est monté à pied d’Urdos aux Forges, 1 h. 1/2
 en sus.
@@ -659,10 +659,10 @@ le refuge de Pombie.
 __Horaire de la Journée :__
 
 ```
-D'Urdos au Col d'Ayous............. ..... 3 h. 45 }
-Du Col d'Ayous au Pic de Larry et retour. 0 h. 40 }  8h. 30
-Du Col au Pic d'Ayous.................... O h. 25 }  (Arrêts en sus)
-Du Pic d’Ayous à Gabas .................. 3h . 40 }
+D'Urdos au Col d'Ayous............. ..... 3h.45 }
+Du Col d'Ayous au Pic de Larry et retour. 0h.40 }    8h.30
+Du Col au Pic d'Ayous.................... Oh.25 }  (Arrêts en sus)
+Du Pic d’Ayous à Gabas .................. 3h.40 }
 ```
 
 <div class="page"/>
@@ -682,8 +682,8 @@ pour cette excursion, on retiendra
 à l’avance un guide de la région, en lui donnant rendez-vous
 à l'hôtel Baylou pour la veille au soir du départ.
 
-On partira vers 3 h. ou 3 h. 30, afin d'arriver au sommet vers
-9 h. ou 9 h. 30, car le brouillard y est fréquent à partir de 10 h.
+On partira vers 3 h. ou 3h.30, afin d'arriver au sommet vers
+9h. ou 9h.30, car le brouillard y est fréquent à partir de 10h.
 
 On reprendra le chemin de Bious-Artigues qu’on quittera
 environ 3/4 d’h. après, à Bious-Oumette (1), pour monter à g., au
@@ -789,11 +789,11 @@ touristes au confluent d’Arrius, 22 k. de la gare.
 __Horaire de la Journée :__
 
 ```
-De Gabas au Col de Suzon........ ....... 3 h. 45 }
-Du Col de Suzon au Pic de Midi d'Ossau.. 2 h. 15 }   11h. 30
-Du Pic de Midi d’Ossau au Col de Suzon.. 1 h. 15 }   (Arrêts en sus)
-Du Col de Suzon à Gabas par Brousset.... 2 h. 45 }
-De Gabas aux Eaux-Chaudes (8 k.)........ 1 h. 30 }
+De Gabas au Col de Suzon........ ....... 3h.45 }
+Du Col de Suzon au Pic de Midi d'Ossau.. 2h.15 }     11h.30
+Du Pic de Midi d’Ossau au Col de Suzon.. 1h.15 }   (Arrêts en sus)
+Du Col de Suzon à Gabas par Brousset.... 2h.45 }
+De Gabas aux Eaux-Chaudes (8 k.)........ 1h.30 }
 ```
 
 Nota. — Si on est parti du refuge de Pombie, 3 h. en moins.

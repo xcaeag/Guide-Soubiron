@@ -326,7 +326,7 @@ __Horaire de la Journée :__
 ``` 
 Du Refuge au Col Swan................ 2h. » }
 Du Col au Grand Astazou et retour.... 0h.45 }
-Du Col Swan au Petit Astazou......... 0h.45 }    10 h. 15
+Du Col Swan au Petit Astazou......... 0h.45 }    10h.15
 Du Petit Astazou au Marboré.......... 2h.30 } (Arrêts en sus).
 Du Marboré au Cylindre............. . 1h.15 }
 Du Cylindre au Refuge................ 3h. » }
@@ -446,9 +446,9 @@ l'autre, par Pierre Vergez (hôtel de la Brèche de Roland).
 __Horaire de la dournée :__
 
 ```
-De Tuquerouye au Col du Mont Perdu... 3h. » }    9 h. 30
+De Tuquerouye au Col du Mont Perdu... 3h. » }    9h.30
 Du Col au sommet du Mont Perdu....... 1h.30 } (Arrêts en sus)
-Du Mont Perdu à Ordesa............... 5h. " }
+Du Mont Perdu à Ordesa............... 5h. » }
 ```
 
 <div class="page"/>

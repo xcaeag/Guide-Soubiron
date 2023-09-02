@@ -116,11 +116,11 @@ On rentrera au refuge par la voie d'ascension.
 __Horaire de la Journée :__
 
 ```
-De Cauterets au Pont d'Espagne.......... 1 h. 30 de voiture }
-Du Pont d'Espagne au refuge du Marcadau. 2 h. 30            } 9 h. 15
-Du refuge du Marcadau au Col de la Fache.2 h. 30            }
-Du Col de la Fache à la (Grande Fache... 1 h. 15            } (Arrêts en sus).
-De la Grande Fache au refuge...........  3 h. »             }
+De Cauterets au Pont d'Espagne.......... 1h.30 de voiture }
+Du Pont d'Espagne au refuge du Marcadau. 2h.30            }   9h.15
+Du refuge du Marcadau au Col de la Fache.2h.30            }
+Du Col de la Fache à la (Grande Fache... 1h.15            } (Arrêts en sus).
+De la Grande Fache au refuge...........  3h. »            }
 ```
 
 ## DEUXIÈME JOURNÉE
@@ -227,10 +227,10 @@ la g. et qui rejoint plus bas celui du matin.
 __Horaire de la Journée :__
 
 ```
-Du Refuge au Col d'Aragon............. 2h. 45 }
-Du Col d'Aragon au Pic de Cambalès.... 0h. 30 }   8h. 
-Du Pic de Cambalès au Bernat Barraou.. 3h. »  } (Arrêts en sus).
-Du Bernat Barraou au Refuge........... 1h. 45 }
+Du Refuge au Col d'Aragon............. 2h.45 }
+Du Col d'Aragon au Pic de Cambalès.... 0h.30 }   8h. 
+Du Pic de Cambalès au Bernat Barraou.. 3h. » } (Arrêts en sus).
+Du Bernat Barraou au Refuge........... 1h.45 }
 ```
 
 ## TROISIÈME JOURNÉE
@@ -319,11 +319,11 @@ de Gaube (1.789m) où on couchera.
 __Horaire de la Journée :__
 
 ```
-Du refuge de Marcadau à la digue d'Arra-           }
-   tille ................................ 1 h. 30  } 7 h. 30
-De la digue d'Arratille au Pic de Cha-             }
-   barrou................................ 2 h. 30  } (Arrêts en sus)
-Du Chabarrou au Lac de Gaube............. 3 h. 30  }
+Du refuge de Marcadau à la digue d'Arra-         }
+   tille ................................ 1h.30  } 7h.30
+De la digue d'Arratille au Pic de Cha-           }
+   barrou................................ 2h.30  } (Arrêts en sus)
+Du Chabarrou au Lac de Gaube............. 3h.30  }
 (Si on fait la deuxième pointe du Chabarrou, la journée sera de 9 h.)
 ```
 
@@ -377,15 +377,15 @@ la montée éreintante de la face E. En quelques min. j'ai pu repérer
 une voie directe dont j'ai pris note pour le jour propice.
 
 Le 3 août 1917, avec mon jeune camarade Dulmo, de Cauterets, 
-nous quittons la ville à 5 h. 10 (heure nouvelle) pour prendre
+nous quittons la ville à 5h.10 (heure nouvelle) pour prendre
 le chemin du Vignemale par la vallée de Gaube. Nous arrivons au
-lac à 7 h. 30 et à la cascade de Splumous à 8 h. 20.
+lac à 7h.30 et à la cascade de Splumous à 8h.20.
 
 Nous sommes encore en plein brouillard, mais le froid intense
 qui nous saisit pendant le casse-croûte nous fait présager une
 claire journée.
 
-Repartis à 8 h. 50, nous suivons pendant 1/4 d'h. encore le
+Repartis à 8h.50, nous suivons pendant 1/4 d'h. encore le
 sentier du Vignemale, jusqu'au point où il se rapproche du torrent 
 pour le franchir. Là, obliquant un peu à g., nous nous élevons 
 sur la rive dr., direction S., vers la base d'un contrefort
@@ -397,7 +397,7 @@ pour se diriger vers le S.-E. Au sommet existe encore un petit
 névé qui doit servir de point de repère pour la direction.
 
 Remontant le grand couloir jusqu'au confluent du petit, nous
-entrons dans celui-ci par une pente rapide vers 9 h. 30. Nous
+entrons dans celui-ci par une pente rapide vers 9h.30. Nous
 venons de quitter la mer de nuages et nous sommes, vers 2.100m
 d'alt., en pleine lumière. Toutes les crêtes sont ensoleillées, et
 sur notre droite, le Vignemale nous écrase de sa majesté. Le petit
@@ -415,7 +415,7 @@ flanc de la rive dr., ce que nous faisons aujourd'hui. Après le
 
 Si le bas du couloir est étroit et rapide, le haut en est très
 évasé et en pente douce; nous débarquons facilement au gradin
-supérieur, vers 2.300 m., à 10 h. 10.
+supérieur, vers 2.300 m., à 10h.10.
 
 Nous dominons déjà le lac de Chabarrou, situé à l'O., de l'autre 
 côté de la vallée, à 2.282 m. Sur notre dr. s'étend un plateau
@@ -476,7 +476,7 @@ Du col de Paloumère aux lacs, c'est aujourd'hui un véritable
 régal. Quelques min. de descente dans un gazonné facile, quelques 
 glissades dans deux névés successifs dont l'inférieur plonge
 presque dans le premier lac, et mous rejoignons rapidement le
-banc de pierraille qui sépare les deux lacs, à 14 h. 30.
+banc de pierraille qui sépare les deux lacs, à 14h.30.
 
 Aujourd'hui, ce banc n'émerge que de 2 m. environ au-dessus
 des eaux dans la partie la plus élevée, et encore entend-on et
@@ -522,7 +522,7 @@ rapide, nous aboutissons à un second ressaut où nous répétons la
 première manœuvre pour franchir, à g., un deuxième torrent.
 Comme celui-ci descend directement vers Pouey-Caou, nous le
 longeons par la rive g. et, 20 min. après, nous rejbignons le chemin 
-muletier qui descend du lac d'Estom, vers 16 h. 30.
+muletier qui descend du lac d'Estom, vers 16h.30.
 
 Nous nous assurons, au passage, qu'on pourrait coucher à la
 cabane de Pouey-Caou, et, après avoir franchi le pont, nous reprenons 
@@ -539,10 +539,10 @@ sous forêt jusqu'à La Raïllère. -
 __Horaire de la Journée :__
 
 ```
-Du lac de Gaube au grand Couloir....... 1 h. 25. }
-Du grand Couloir au Pic d'Estibaoude... 2 h. 30  }   8 h. 30
-Du pic aux lacs d'Estibaoude........... 1 h. 20  } (Arrêts en sus).
-Des lacs d'Estibaoude à Cauterets...... 3 h. 15  }
+Du lac de Gaube au grand Couloir....... 1h.25  }
+Du grand Couloir au Pic d'Estibaoude... 2h.30  }   8h.30
+Du pic aux lacs d'Estibaoude........... 1h.20  } (Arrêts en sus).
+Des lacs d'Estibaoude à Cauterets...... 3h.15  }
 ```
 
 Nota. — De la digue des lacs d'Estibaoude, on apercevra en
@@ -552,8 +552,8 @@ le refuge de Culaous et le sentier qui y conduit.
 <u>__POINTS D’INTERRUPTION__</u>
 
 __REFUGE DU MARCADAU__
-- Pour rejoindre de Cauterets : 4 h. 30
-- Pour rentrer à Cauterets : 3 h. 30
+- Pour rejoindre de Cauterets : 4h.30
+- Pour rentrer à Cauterets : 3h.30
 
 __LAC DE GAUBE__
 - Pour rejoindre de Cauterets : 2 h.

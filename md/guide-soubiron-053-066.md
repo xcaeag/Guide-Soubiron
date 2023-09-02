@@ -105,7 +105,7 @@ __Horaire de la Journée :__
 
 ```
 De Laruns au Val d'Arrius (22 k. de route)... 
-De ce point au Refuge d'Arrémoulit...........   3 h. 30
+De ce point au Refuge d'Arrémoulit...........   3h.30
 ```
 
 ———
@@ -353,7 +353,7 @@ point de vue au Gabizos, puisqu'on arriverait plus tôt au sommet.
 __Horaire de la Journée :__
 
 ```
-D'Arrémoulit au Balaïtous.......... 5h.   } 7 h. 45
+D'Arrémoulit au Balaïtous.......... 5h.   }   7h.45
 Du Balaïtous à Labassa............. 2h.45 } (Arrêts EN US).
     (Pour descendre à Grougne-Pouret, 2 h. en sus.)
 ```
@@ -471,7 +471,7 @@ __Horaire de la Journée :__
 
 ```
 De Labassa à Grougne-Pouret........... 2h.   }
-De Grougne-Pouret au Grand Gabizos.... 3h.   }  9 h. 45
+De Grougne-Pouret au Grand Gabizos.... 3h.   }   9h.45
 Du (Grand Gabizos au Petit Gabizos.... 2h.30 } (arrêts en sus).
 Du Petit Gabizos à Arrens............. 2h.15 }
 ```
@@ -590,9 +590,9 @@ depuis le Viscos jusqu'au Ger de Lourdes.
 __Horaire de Ia Journée :__
 
 ```
-D'Arrens au Pic de Bazès............... 3h. 30 }    9h. 30
-Du Pic de Bazès au Soum de Granquet.... 2h. 50 } (Arrêts en sus)
-Du Soum de Granquet à Argelès.......... 3h. 10 } 
+D'Arrens au Pic de Bazès............... 3h.30 }    9h.30
+Du Pic de Bazès au Soum de Granquet.... 2h.50 } (Arrêts en sus)
+Du Soum de Granquet à Argelès.......... 3h.10 } 
 ```
  
 <u>__POINTS D’INTERRUPTION__</u>
@@ -600,15 +600,15 @@ Du Soum de Granquet à Argelès.......... 3h. 10 }
 __ARRÉMOULIT__
 - 1
     - Pour rejoindre de Laruns par Gabas et Arrius : 8h.
-    - Pour rentrer à Laruns par cette voie : 7 h. 30
+    - Pour rentrer à Laruns par cette voie : 7h.30
 - 2
     - Pour rejoindre de Laruns par Soussoueou et Artouste : 5h.
-    - Pour rentrer à Laruns par cette voie : 7h 30.
+    - Pour rentrer à Laruns par cette voie : 7h.30.
 
 __LABASSA__
-- Pour rejoindre d'Argelès : 6h 30.
+- Pour rejoindre d'Argelès : 6h.30.
 - Pour rentrer à Argelès : 6h.
 
 __ARRENS__
 - Pour rejoindre d'Argelès (13 k. de route) 3h.
-- Pour rentrer à Argelès : 2 h. 30
+- Pour rentrer à Argelès : 2h.30

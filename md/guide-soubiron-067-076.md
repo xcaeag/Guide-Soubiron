@@ -179,9 +179,9 @@ rejoindre l'itinéraire à Saint-Pastous, à 5 k. d'Argelès.
 __Horaire de la Journée :__
 
 ```
-De Lourdes au Pibeste................. 3 h. 45  }
-Du Pibeste à Salles................... 2 h.     } 7 h.
-De Salles à Argelès (6 k.)............ 1 h. 15  } (Arrêts en sus)
+De Lourdes au Pibeste................. 3h.45  }
+Du Pibeste à Salles................... 2 h.   }   7 h.
+De Salles à Argelès (6 k.)............ 1h.15  } (Arrêts en sus)
 ```
 
 ## DEUXIÈME JOURNÉE
@@ -260,7 +260,7 @@ Lourdes.
 __Horaire de la Journée :__
 
 ```
-De Boo-Silhen au Hautacamp.......... 4h.30 } 7h. 45
+De Boo-Silhen au Hautacamp.......... 4h.30 } 7h.45
 Du Hautacamp à Lugagnan............. 3h.15 } (Arrêts en sus).
 ```
 
@@ -410,11 +410,11 @@ derrière le Casino.
 __Horaire de la Journée :__
 
 ```
-Du Pic du Ger à Germs............. 3 h. 30 }
-De Germs à la Clique et retour.... 0 h. 40 } 7 h. 45
-De Germs à Labassère.............. 2 h. 10 } (Arrêts en sus).
-De Labassère à Bagnères (6 k.).... 1 h. 15 }
-     (Si on est monté au Ger à pied, 1 h. 15 en sus).
+Du Pic du Ger à Germs............. 3h.30 }
+De Germs à la Clique et retour.... 0h.40 } 7h.45
+De Germs à Labassère.............. 2h.10 } (Arrêts en sus).
+De Labassère à Bagnères (6 k.).... 1h.15 }
+     (Si on est monté au Ger à pied, 1h.15 en sus).
 ```
 
 <u>__AVIS IMPORTANT__</u>

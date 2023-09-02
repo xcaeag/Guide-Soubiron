@@ -90,11 +90,11 @@ on couchait autrefois très à l'étroit.
 __Horaire de la Journée :__
 
 ```
-De Cauterets au Pont d'Espagne, en voi-           }
-    ture................................. 1 h. 30 }   9 h. 30
-Du Pont d'Espagne au Col de la Fache..... 5 h. »  }  (Arrêts en sus)
-Du Col de la Fache au refuge de Campo-            }
-    Plano ............................... 3 h. »  }
+De Cauterets au Pont d'Espagne, en voi-         }
+    ture................................. 1h.30 }   9h.30
+Du Pont d'Espagne au Col de la Fache..... 5h. » }  (Arrêts en sus)
+Du Col de la Fache au refuge de Campo-          }
+    Plano ............................... 3h. » }
 ```
 
 <div class="page"/>
@@ -226,11 +226,11 @@ de Pundillos, vers 2.000 d'alt.
 __Horaire de la Journée :__
 
 ```
-De Campo-Plano au Balaïtous.......... 3 h. 30 }
-Du Balaïtous au Col Wallon par la Brèche      }  10 h. 45
-   Latour............................ 2 h. 15 }
-Du Col Wallon au Paso del Oso........ 2 h. »  } (Arrêts en sus)
-Du Paso del Oso à Sallent............ 3 h. »  }
+De Campo-Plano au Balaïtous.......... 3h.30 }
+Du Balaïtous au Col Wallon par la Brèche    }
+   Latour............................ 2h.15 }   10h.45
+Du Col Wallon au Paso del Oso........ 2h. » } (Arrêts en sus)
+Du Paso del Oso à Sallent............ 3h. » }
 ```
 
 ## TROISIÈME JOURNÉE
@@ -318,13 +318,13 @@ aux bains par la rive dr. du vallon de Caldarès.
 __Horaire de la Journée :__
 
 ``` 
-De Sallent au plateau de Pundgillos....... 2 h.15  }
-Du plateau au lac supérieur de Garmo               }
-    Nègro..........................        1 h. 30 }   10 h. 45
-Du lac au Pic occidental d'Algas.......... 2 h. »  }
-Du Pic occidental d'Algas au Pic oriental. O h. 30 } (Arrêts en sus).
-Du Pic oriental à l'Arollas............... 1 h. 30 }
-De l'Arollas aux Bains de Panticosa....... 3 h. »  }
+De Sallent au plateau de Pundgillos....... 2h.15  }
+Du plateau au lac supérieur de Garmo              }
+    Nègro..........................        1h.30  }   10h.45
+Du lac au Pic occidental d'Algas.......... 2h. »  }
+Du Pic occidental d'Algas au Pic oriental. Oh. 30 } (Arrêts en sus).
+Du Pic oriental à l'Arollas............... 1h.30  }
+De l'Arollas aux Bains de Panticosa....... 3h. »  }
 ```
 
 ## QUATRIÈME JOURNÉE
@@ -400,9 +400,9 @@ dans sa partie la plus large (1).
 __Horaire de la Journée :__
 
 ```
-Des Bains de Panticosa au Pic d'Enfer... 5h. 30 }   10 h. 45
-Du Pic d'Enfer au Port du Marcadau...... 3h. »  } (Arrêts en sus)
-Du Port du Marcadau au Refuge Wallon.... 2h. 15 }
+Des Bains de Panticosa au Pic d'Enfer... 5h.30 }   10h.45
+Du Pic d'Enfer au Port du Marcadau...... 3h. » } (Arrêts en sus)
+Du Port du Marcadau au Refuge Wallon.... 2h.15 }
 ```
 
 ———\
@@ -426,7 +426,7 @@ __le Col de la Haougadé (2.350m) et le Lac d'ilhèou (1.986m).__
 —— GUIDE UTILE ——
 
 __Conseils.__ — __Itin. recomm.__ — Du refuge du Marcadau, on peut
-rentrer à Cauterets dans 3 h. 30; mais, si on veut terminer cette
+rentrer à Cauterets dans 3h.30; mais, si on veut terminer cette
 belle excursion par une intéressante journée, on suivra l'itinéraire 
 suivant qui fait visiter huit lacs, franchir trois cols et
 passer dans trois vallées différentes.
@@ -497,12 +497,12 @@ d'Ihèou et le Cambasque.
 __Horaire de la Journée :__
 
 ```
-Du Refuge du Marcadau au Lac Nère......... 1 h. 30 }
-Du Lac Nère au Lac du Pourtet............. 0 h. 45 }
-Du Lac du Pourtet aux Lacs de Castella-            }
-    barca................................. 0 h. 45 }
-Des Lacs de Castellabarca au Lac d'Ilhèou. 2 h. »  } (Arrêts en sus)
-Du Lac d'Ilhèou à Cauterets............... 2 h. 15 }
+Du Refuge du Marcadau au Lac Nère......... 1h.30 }
+Du Lac Nère au Lac du Pourtet............. 0h.45 }
+Du Lac du Pourtet aux Lacs de Castella-          }
+    barca................................. 0h.45 }
+Des Lacs de Castellabarca au Lac d'Ilhèou. 2h. » } (Arrêts en sus)
+Du Lac d'Ilhèou à Cauterets............... 2h.15 }
 ```
 
 <div class="page"/>
@@ -519,8 +519,8 @@ __SALLENT__
 __BAINS DE PANTICOSA__ 
 - Pour rejoindre ou pour rentrer A Laruns, 6 k. de route, 3h d'autobus
 - Pour rejoindre de Cauterets par le Port de Marcadau : 10h
-- Pour rentrer à Cauterets par le port Marcadau : 8 h. 30
+- Pour rentrer à Cauterets par le port Marcadau : 8h.30
 
 __REFUGE DU MARCADAU__
-- Pour rejoindre de Cauterets : 4 h. 30
-- Pour rentrer à Cauterets : 3 h. 30
+- Pour rejoindre de Cauterets : 4h.30
+- Pour rentrer à Cauterets : 3h.30
