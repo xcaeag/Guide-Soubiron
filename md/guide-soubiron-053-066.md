@@ -478,7 +478,7 @@ Du Petit Gabizos à Arrens............. 2h.15 }
 
 <div class="page"/>
 
-— p. 64 — PIC pe BAZES (3me EXCURSION)
+— p. 64 — PIC de BAZES (3me EXCURSION)
 
 
 ## CINQUIÈME JOURNÉE

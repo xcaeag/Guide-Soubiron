@@ -149,7 +149,7 @@ la base de la muraille de 40 m. Là, selon l'état du couloir de la
 <div class="page"/>
 
 
-— p. 103 — (7me EXCURSION) GORGE pe L'AGUA LIMPIA
+— p. 103 — (7me EXCURSION) GORGE de L'AGUA LIMPIA
 
 brèche et la qualité de la caravane, le guide jugera de la voie
 à suivre pour passer du glacier de la brèche à celui de la Frondella. 

@@ -500,7 +500,7 @@ Laruns. Hôtel des Pyrénées, chez Baylou.
 
 <div class="page"/>
 
-— p. 33 — (1re EXCURSION) COL pe LARRY. — COL D’AYOUS
+— p. 33 — (1re EXCURSION) COL de LARRY. — COL D’AYOUS
 
 pour le franchir sur un petit pont. Si on passait le pont, on irait
 au col de Bious. On quittera donc le grand sentier, et on continuera 
@@ -555,7 +555,7 @@ sommets portant les noms suivants : Peña de las Once (pic de 11 h.);
 
 <div class="page"/>
 
-— p. 34 - pic pe LARRY. — pic D’AYOUS  (1re EXCURSION)
+— p. 34 - pic de LARRY. — pic D’AYOUS  (1re EXCURSION)
 
 du sol à une portée de fusil et d’un seul jet qui dépasse 1.000 m.;
 on dirait que sa double cime va percer le ciel. Rien n’accompagne 
