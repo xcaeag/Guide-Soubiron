@@ -426,7 +426,7 @@ Cauterets, c'est de la Clique de Germs qu'on rentrera à Lour-
 
 <div class="page"/>
 
-— p. 76 — LUGAGNAN (4e Excursion)
+— p. 76 — LUGAGNAN (4e EXCURSION)
 
 -des, par la voie suivante. Du sommet de la Clique, on descendra 
 à l'O. par des sentes faciles jusqu'aux bords de l'Aucère,
