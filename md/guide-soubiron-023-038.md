@@ -120,7 +120,7 @@ que confinent les trois provinces ci-dessus.
 
 <div class="page"/>
 
-— p. 26 —  PIC pes TROIS ROIS (1re EXCURSION)
+— p. 26 —  PIC des TROIS ROIS (1re EXCURSION)
 
 
 A l'E., au pied de la Table des Trois Rois, brille le petit lac
