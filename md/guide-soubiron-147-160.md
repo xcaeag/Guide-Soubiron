@@ -685,8 +685,8 @@ __LAC D'OREDON__
 - Pour rentrer à Saint-Lary : 3h.30
 
 __REFUGE DU RABIET__
-- Pour rejoindre de Barèges : 5h.
+- 1er. Pour rejoindre de Barèges : 5h.
 - Pour rentrer à Barèges : 4h. »
-- Pour rejoindre de Luz par le Bolou : 6h.
+- 2me. Pour rejoindre de Luz par le Bolou : 6h.
 - Pour rentrer à Luz par le Bolou : 4h.
 - Pour rentrer à Luz par la vallée de l'Ise : 5 h.
