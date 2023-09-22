@@ -179,7 +179,7 @@ Col de Naye, et dans celle d’état-major celui de Col d’Escoueste.
 
 <div class="page"/>
 
-— p. 27 —  (1re EXCURSION) VALLON pu LAUGA
+— p. 27 —  (1re EXCURSION) VALLON du LAUGA
 
 
 

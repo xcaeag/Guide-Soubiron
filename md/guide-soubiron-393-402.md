@@ -379,9 +379,7 @@ Le Pic des Trois Seigneurs comprend deux sommets, c'est à
 
 — p. 402 — VALLEÉ DE RABAT
 
-# ************** table ?
-
-la pointe S.-E., point culminant du massif, qu'on trouve a table
+la pointe S.-E., point culminant du massif, qu'on trouve la table
 des Trois Seigneurs, sorte de dalle plate qui surmonte le sommet 
 principal. Le panorama est immense; il s'étend des plaines
 de Saint-Gaudens à celles de l'Aude.
