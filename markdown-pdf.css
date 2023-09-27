@@ -2,7 +2,9 @@ p,
 li,
 ul {
     font-size: 10px;
-    line-height: 120%;
+    line-height: 100%;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 code {

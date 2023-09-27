@@ -46,9 +46,9 @@ Les fichiers :
 [Pages 363 à 372 : 28eme Excursion](md/guide-soubiron-363-372.md) :  \
 [Pages 373 à 384 : 29eme Excursion](md/guide-soubiron-373-384.md) :  \
 [Pages 385 à 392 : 30eme Excursion](md/guide-soubiron-385-392.md) :  \
-[Pages 393 à 402 : 31eme Excursion](md/guide-soubiron-393-402.md) :  \
-[Pages 403 à 410 : 32eme Excursion](md/guide-soubiron-403-410.md) :  \
-[Pages 411 à 422 : 33eme Excursion](md/guide-soubiron-411-422.md) :  \
+[Pages 393 à 402 : 31eme Excursion](md/guide-soubiron-393-402.md) : Quatre jours aux Environs d'Auzat\
+[Pages 403 à 410 : 32eme Excursion](md/guide-soubiron-403-410.md) : Trois jours aux Environs d'Auzat\
+[Pages 411 à 422 : 33eme Excursion](md/guide-soubiron-411-422.md) : Quatre jours au départ d'Auzat\
 [Pages 423 à 432 : 34eme Excursion](md/guide-soubiron-423-432.md) :  \
 [Pages 433 à 448 : 35eme Excursion](md/guide-soubiron-433-448.md) :  \
 [Pages 449 à 460 : 36eme Excursion](md/guide-soubiron-449-460.md) :  \
