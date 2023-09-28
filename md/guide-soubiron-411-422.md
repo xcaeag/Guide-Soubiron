@@ -559,6 +559,7 @@ De Goulier à Vicdessos................... 0h.45 }
 <u>__POINTS D’INTERRUPTION__</u>
 
 __ORRY DU LABINAS__
+
 - Pour rejoindre d'Auzat : 5h.30
 - Pour rentrer à Auzat : 4h. »
   

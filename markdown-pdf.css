@@ -1,10 +1,20 @@
-p,
 li,
 ul {
     font-size: 10px;
     line-height: 100%;
     margin-top: 5px;
-    margin-bottom: 5px;
+    margin-bottom: 3px;
+}
+
+p {
+    font-size: 10px;
+    line-height: 135%;
+    margin-top: 9px;
+    margin-bottom: 7px;
+}
+
+strong {
+    line-height: 100%;
 }
 
 code {
@@ -19,4 +29,8 @@ table {
 
 h1 {
     font-size: 14px;
+}
+
+.hljs {
+    padding: 0;
 }

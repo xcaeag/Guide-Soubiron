@@ -50,7 +50,7 @@ vue d'ensemble sur la magnifique région qu'on va explorer.
 <div class="page"/>
 
 
-— p. 395 — (31em EXCURSION) ROC de QUERQUEOU
+— p. 395 — (31me EXCURSION) ROC de QUERQUEOU
 
 
 ## PREMIÈRE JOURNÉE
