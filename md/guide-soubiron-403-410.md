@@ -260,7 +260,7 @@ verdure où paissent de nombreux moutons. Là, on prendra définitivement
 la direction E. pour suivre un étroit vallon qui
 grimpe jusqu'au petit lac glacé de Pauseplane ne figurant sur
 aucune carte. Ce lac est au pied du col coté 2.742 m., col situé
-au N. du grand pic de l'Etang Fourcat (2. 862") et au S. du pic
+au N. du grand pic de l'Etang Fourcat (2. 862m) et au S. du pic
 de Malcaras (2.850m).
 
 Au début, on trouve un petit sentier qui remonte le vallon
