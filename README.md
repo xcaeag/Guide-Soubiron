@@ -32,7 +32,7 @@ Les fichiers :
 [Pages 181 à 190 : 14eme Excursion](md/guide-soubiron-181-190.md) : Quatre jours aux Environs d'Arreau et en Barousse\
 [Pages 191 à 204 : 15eme Excursion](md/guide-soubiron-191-204.md) : Quatre jours au départ de Saint-Lary \
 [Pages 205 à 218 : 16eme Excursion](md/guide-soubiron-205-218.md) : Cinq jours au départ de Saint-Lary \
-[Pages 219 à 228 : 17eme Excursion](md/guide-soubiron-219-228.md) :  \
+[Pages 219 à 228 : 17eme Excursion](md/guide-soubiron-219-228.md) : Quatre jours au départ d'Arreau \
 [Pages 229 à 248 : 18eme Excursion](md/guide-soubiron-229-248.md) :  \
 [Pages 249 à 264 : 19eme Excursion](md/guide-soubiron-249-264.md) :  \
 [Pages 265 à 276 : 20eme Excursion](md/guide-soubiron-265-276.md) :  \
