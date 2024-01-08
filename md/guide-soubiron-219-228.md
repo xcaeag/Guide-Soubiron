@@ -21,7 +21,7 @@ output: pdf_document
 
 __Quatre jours au départ d'Arreau__
 
-B. E. — Du 15 Juillet au 15 Septembre.
+_B. E. — Du 15 Juillet au 15 Septembre._
 
 Cartes à emporter : Bagnères-de-Luchon et Val d'Arouge réunies.
 

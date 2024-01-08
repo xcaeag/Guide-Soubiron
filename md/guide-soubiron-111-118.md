@@ -19,7 +19,7 @@ title: HUITIÈME EXCURSION
 
 __Quatre jours au départ de Cauterets__
 
-B. E. — Du 15 Juillet à fin Août.
+_B. E. — Du 15 Juillet à fin Août._
 
 Cartes à emporter : Luz et Gavarnie réunies.
 

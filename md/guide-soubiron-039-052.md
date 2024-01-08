@@ -16,7 +16,7 @@ title: DEUXIÈME EXCURSION
 
 __Cinq jours au départ des Eaux-Chaudes__
 
-B. E. — Du 1er Juillet au 15 Septembre.
+_B. E. — Du 1er Juillet au 15 Septembre._
 
 Cartes à emporter : Oloron et Laruns réunies.
 
@@ -152,8 +152,7 @@ les débris de l'ancien signal.
 
 Le Sesques, qui comprend une double cime, est une montagne
 
-———
-
+———\
 (1) Les bergers d'Aspe, qui ont droit de pacage sur cette montagne, 
 l'appellent Mondaout; mais ce nom est presque inconnu sur le
 versant d'Ossau. Dans son guide des Eaux-Bonnes, le Comte de
@@ -312,8 +311,7 @@ d'Aspe, à l'E.
 Au grand lacet de Sansané, 4 k. en deçà du Somport, on quittera 
 la grand'route pour prendre, à dr., un sentier qui passe sous
 
-———
-
+———\
 (1) A Urdos, bon hôtel Ferras.
 
 
@@ -520,8 +518,7 @@ face S. d'une corniche gazonnée qui a l'air d'un jardin suspendu,
 on se demande par quelle voie on va y monter. Rien n'est plus
 facile.
 
-———
-
+———\
 (1) Dans les cartes, ce sommet porte le nom de « Pic de Goupey ».
 
 
@@ -570,8 +567,7 @@ nomme la Brèque. On aperçoit de ce point le vallon rapide de
 Balour qu'on laisse en contrebas, à dr. et par lequel on pourrait 
 aussi descendre aux Eaux-Bonnes par un temps très clair
 
-———
-
+———\
 (1) Cette fleur portait autrefois un nom allemand. Sur la proposition 
 de M. Léon Aucher, président du tourisme en montagne au
 Touring-Club, on a adopté le nom français de « Etoile des Neiges ».
@@ -627,8 +623,7 @@ première halte.
 Le terrain change d'aspect; ce ne sont qu'éboulis et raillères,
 sauf sur la dr., un peu plus haut, où les pentes sont boisées.
 
-——— 
-
+——— \
 (4) Les Eaux-Bonnes (Basses-Pyrénées), desservi par des automobiles 
 depuis la gare de Laruns (6 k.).
 

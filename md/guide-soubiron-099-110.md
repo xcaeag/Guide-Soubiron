@@ -19,7 +19,7 @@ title: SEPTIÈME EXCURSION
 __Cinq jours aux environs de Cauterets__
 
 (3° Série)\
-B. E. — Du 15 Juillet à fin Août.
+_B. E. — Du 15 Juillet à fin Août._
 
 Cartes à emporter : Oloron et Laruns réunies.
 

@@ -17,7 +17,7 @@ title:  EXCURSION
 
 __Cinq jours au départ de Lescun__
 
-B. E. — Du 15 Juillet au 31 Août.
+_B. E. — Du 15 Juillet au 31 Août._
 
 Cartes à emporter : Mauléon et Sainte-Engrace réunies. Oloron et Laruns réunies.
 

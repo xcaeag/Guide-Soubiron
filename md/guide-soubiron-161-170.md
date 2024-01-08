@@ -16,7 +16,7 @@ title: DOUZIÈME EXCURSION
 
 __Trois jours aux Environs de Bagnères-de-Bigorre (556m)__
 
-B. E. — Du 15 Juin au 15 Octobre.
+_B. E. — Du 15 Juin au 15 Octobre._
 
 Cartes à emporter : Tarbes et Luz.
 

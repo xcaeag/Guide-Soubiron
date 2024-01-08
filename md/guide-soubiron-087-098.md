@@ -18,7 +18,7 @@ title: SIXIÈME EXCURSION
 __Quatre jours aux environs de Cauterets__
 
 (2° Série)\
-B. E. — Du 15 Juillet au 15 Septembre.
+_B. E. — Du 15 Juillet au 15 Septembre._
 
 Cartes à emporter : Laruns et Luz.
 

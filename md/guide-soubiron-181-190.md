@@ -18,7 +18,7 @@ output: pdf_document
 
 __Quatre jours aux Environs d'Arreau et En Barousse__
 
-B. E. — Du 15 Juin au 15 Octobre.
+_B. E. — Du 15 Juin au 15 Octobre._
 
 
 Cartes à emporter : Luz, Bagnères-de-Luchon, Saint-Gaudens.

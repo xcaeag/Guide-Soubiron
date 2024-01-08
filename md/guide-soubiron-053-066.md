@@ -15,7 +15,7 @@ title: TROISIÈME EXCURSION
 
 __Cinq jours au départ de Laruns__
 
-B. E. — Du 15 Juillet à fin Août.
+_B. E. — Du 15 Juillet à fin Août._
 
 Cartes à emporter : Oloron et Laruns réunies, Tarbes.
 

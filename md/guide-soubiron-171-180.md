@@ -19,7 +19,7 @@ title: TREIZIÈME EXCURSION
 
 __Trois jours au départ de Bagnères-de-Bigorre__
 
-B. E. — Du 1° Juillet à fin Septembre.
+_B. E. — Du 1° Juillet à fin Septembre._
 
 Cartes à emporter : Luz, Bagnères-de-Luchon.
 

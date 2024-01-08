@@ -15,7 +15,7 @@ title: QUATRIÈME EXCURSION
 
 __Trois jours aux environs de Lourdes__
 
-B. E. — Du 15 Juin au 15 Octobre.
+_B. E. — Du 15 Juin au 15 Octobre._
 
 Carte à emporter : Tarbes.
 

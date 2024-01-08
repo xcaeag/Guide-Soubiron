@@ -19,7 +19,7 @@ title: NEUVIÈME EXCURSION
 
 __Une semaine à Gavarnie et ses Environs__
 
-B. E. — Du 20 Juillet à Fin Août.
+_B. E. — Du 20 Juillet à Fin Août._
 
 Cartes à emporter : Luz et Gavarnie réunies.
 

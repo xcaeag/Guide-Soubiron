@@ -23,7 +23,7 @@ output: pdf_document
 
 __Cinq jours au départ de Saint-Lary__
 
-B. E. — Du 15 Juillet à fin Août.
+_B. E. — Du 15 Juillet à fin Août._
 
 Cartes à emporter : Luz et Gavarnie réunies, Bagnères-de-Luchon et Val d'Arouge réunies.
  

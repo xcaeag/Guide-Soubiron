@@ -22,7 +22,7 @@ output: pdf_document
 
 __Quatre jours aux environs de Cauterets__
 
-B. E. — Du 1° Juillet à fin Septembre.
+_B. E. — Du 1° Juillet à fin Septembre._
 
 Cartes à emporter : Luz et Gavarnie réunies.
 
