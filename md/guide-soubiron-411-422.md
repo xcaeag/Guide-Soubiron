@@ -23,7 +23,7 @@ output: pdf_document
 
 __Quatre jours au départ d'Auzat__
 
-B. E. — Du 15 Juillet au 15 Septembre.
+_B. E. — Du 15 Juillet au 15 Septembre._
 
 Cartes à emporter : Foix et Perles réunies
 

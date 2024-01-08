@@ -20,7 +20,7 @@ __Quatre jours aux Environs d'Auzat__\
 __AU DÉPART DE TARASCON__\
 __(1° Série)__
 
-B. E. — Du 15 Juin au 15 Octobre.
+_B. E. — Du 15 Juin au 15 Octobre._
 
 Cartes à emporter : Foix et Perles.
 

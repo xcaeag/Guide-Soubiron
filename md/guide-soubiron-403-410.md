@@ -23,9 +23,8 @@ output: pdf_document
 
 __Trois jours aux Environs d'Auzat.__
 
-(2° Série)
-
-B. E. — Du 15 Juillet au 15 Seplembre.
+(2° Série)\
+_B. E. — Du 15 Juillet au 15 Seplembre._
 
 Cartes à emporter : Foix et Perles réunies.
 
