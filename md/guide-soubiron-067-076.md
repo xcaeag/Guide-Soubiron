@@ -61,9 +61,7 @@ le Pic Long, le Néouvielle et le Pic de Midi de Bigorre.
 
 <div class="page"/>
 
-— p. 69 —
-
-(4me EXCURSION) MONTEGUT
+— p. 69 — (4me EXCURSION) MONTEGUT
  
 
 ## PREMIÈRE JOURNÉE
@@ -75,7 +73,6 @@ __et Argelès (455m).__
 
 
 —— SANS GUIDE ——
- 
 
 __Conseils.__ — __Itin. recomm.__ — Partant par la basilique, on passera 
 devant la grotte du Loup, et, avant d'entrer dans la forêt
@@ -155,8 +152,7 @@ qu'on rejoindra la route qui conduit à Argelès (6 k.).
 
 Après une petite descente jusqu'à Sère où on franchit le Ber-
 
-———
-
+———\
 (1) Concernant l'étymologie des Pics du Midi, voir note p. 3.
 (2) V. Bulletin de la Section des Pyrénées Centrales, n° 49. 
 
@@ -264,8 +260,7 @@ De Boo-Silhen au Hautacamp.......... 4h.30 } 7h.45
 Du Hautacamp à Lugagnan............. 3h.15 } (Arrêts en sus).
 ```
 
-———
-
+———\
 (1) Certains le nomment « Davantaïgues », d'autres, montagne de
 Gazost.
 
@@ -312,8 +307,7 @@ Du Pic de Midi de Bigorre au Gabizos, toute la grande chaine
 est sous les yeux. A ses pieds, au S., s'allonge la vallée d'Argelès
 et, au N., dans un immense éventail, paraissent un grand nombre
 
-———
-
+———\
 (1) En été, à l'époque des pèlerinages, il est perçu un droit de
 0 fr. 50 pour monter au belvédère. Avec la carte du Touring-Club, on
 y monte gratis.

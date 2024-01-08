@@ -45,7 +45,7 @@ tous les sens à travers le massif du Balaïtous, sans s'exposer
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).<br>
 (Voir aussi page 58 le Plan du Balaïtous).</p>
 
----
+———\
 (1) Laruns, chef-lieu de canton, 2.200 h., point terminus du chemin
 de fer dont l'embranchement est à Pau. Gare desservant les Eaux-
 Bonnes et les Eaux-Chaudes.
@@ -108,8 +108,7 @@ De Laruns au Val d'Arrius (22 k. de route)...
 De ce point au Refuge d'Arrémoulit...........   3h.30
 ```
 
-———
-
+———\
 (1) Le col d'Arrius est situé à 2.25m d'alt., entre le Lurien (2.825m),
 au N.-N.-E. et le petit pic d'Arriel (2.606m), au S.-S.-E.
 
@@ -160,8 +159,7 @@ de la mort, etc., etc. (2). »
 Pour varier l'excursion, on pourra descendre au N., à toute
 crête, jusqu'à une petite échancrure qu'on nomme « Brèche des
 
-———
-
+———\
 (1) V. le volume sur le Balaïtous, p. 85, et aussi Au Pays des
 Isards, tome 2, p. 122.
 (2) V. Bulletin Pyrénéen, année 1907, p. 278.
@@ -372,8 +370,7 @@ au grand Gabizos (2.684m) nommé aussi « Les Taillades. »
 On descendra par la vallée d'Azun en suivant le chemin muletier 
 jusqu'à Grougne-Pouret (1.232m), au confluent du vallon de
 
-———
-
+———\
 (1) Il paraît que le nom officiel de ce refuge est « Refuge du
 Balaïtous ».
 
@@ -579,7 +576,7 @@ chemin muletier du fond de la vallée. On longera ensuite le ruis-
 
 — p. 66 — ESTREM de SALLES (3me EXCURSION)
 
--seau de Bergons jusqu'au vill. de Sère où on rejoint la route
+seau de Bergons jusqu'au vill. de Sère où on rejoint la route
 qui, par Gez, conduit directement à Argelès.
 Quelques min. après le vill. de Gez, on passe du vallon du
 Bergons dans le bassin d'Argelès et, après un tournant de la

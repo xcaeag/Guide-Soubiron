@@ -151,7 +151,7 @@ le Bernat Barraou (2.794m).
 <div class="page"/>
 
 
-— p. 91 — (6éme EXCURSION)  CAMBALES-BERNAT BARRAOU
+— p. 91 — (6me EXCURSION)  CAMBALES-BERNAT BARRAOU
 
 L'excursion de ce jour nous fera contourner en entier le
 cirque de Cambalès et ses magnifiques lacs.
