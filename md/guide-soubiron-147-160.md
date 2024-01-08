@@ -406,7 +406,7 @@ non une caravane, mais quelques compagnons.
 
 __Conseils.__ — __Itin. recomm.__ — Au N. du refuge, on trouve le
 sentier qui, par la vallée du Bolou, descend à Betpouey; on le
-suivra 10 min. environ. Tournant ensuite à g., à l'0., on montera 
+suivra 10 min. environ. Tournant ensuite à g., à l'O., on montera 
 vers un ravin de pierraille, au bout duquel on apercevra
 un petit couloir rapide qui conduit au col situé au S. du sommet 
 principal du Montarrouy. On y laissera le sac et on fera à

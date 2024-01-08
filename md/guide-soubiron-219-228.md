@@ -42,9 +42,8 @@ et du Cirque d'Oô. J'ai adopté ces cotes définitives dans mon
 guide.
 
 
-(Voir ci-contre la Carte de l'Excursion.)
-
-(Voir aussi les cartes des Environs d'Espingo, pp. 202 et 214.)
+<p class="droite">(Voir ci-contre la Carte de l'Excursion.)</p>
+<p class="droite">(Voir aussi les cartes des Environs d'Espingo, pp. 202 et 214.)</p>
  
 
 <u>__GOURGS-BLANCS et CIRQUE d'OO__</u>

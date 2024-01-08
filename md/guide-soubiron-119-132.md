@@ -39,7 +39,7 @@ une semaine, avec le programme ci-dessous.
 Un bon guide est indispensable et, si on part avec un ou deux
 compagnons, on prendra aussi un porteur pour toute l'excursion.
 
-(Voir ci-contre la Carte de 9me Excursion).
+<p class="droite">(Voir ci-contre la Carte de 9me Excursion).</p>
 
 
 <div class="page"/>
@@ -379,7 +379,7 @@ regard s'engouffre dans la vallée d'Arazas.
 Depuis le petit lac, on descendra droit au S., de gradin en gradin, 
 en laissant le ruisseau de Gaulis à dr. Vers 2.300 d'alt., on
 coupera de sentier qui file, à g., vers le Col de Gaulis (2.343m)
-qu'on laissera à l'E. pour faire un crochet vers l'0. Parvenu sur
+qu'on laissera à l'E. pour faire un crochet vers l'O. Parvenu sur
 un replat, on apercevra le nouveau refuge de Gaulis, situé vers
 2.200 m. d'alt., au point où le sentier de Fanlo au plateau de
 Millaris coupe le torrent qui descend d'entre le Cylindre et le
