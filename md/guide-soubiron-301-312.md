@@ -331,7 +331,7 @@ Depuis le Col de Grégonio, on traverse un des paysages les
 — p. 307 — (22me EXCURSION) BRECHE ET PIC D'ALBE
 
 plus désolés, en même temps que l'un des plus grandioses des
-Pyrénées. 'Après la terrifiante muraille du Col Maudit, on côtoie
+Pyrénées. Après la terrifiante muraille du Col Maudit, on côtoie
 les formidables remparts de la face S. de la Maladetta, et on
 chemine sur les gigantesques débris d'anciennes cimes. On est
 entouré de sommets dépassant 3.000 m., et l'horizon ne s'élargit
@@ -500,7 +500,7 @@ Qu'on ne se laisse pas impressionner par le Pas de Mahomet,
 car il est sans danger, si on n'est pas sujet au vertige. Il n'existe
 pas dans les Pyrénées de rocher plus sûr et, comme il n'offre
 aucune difficulté sérieuse, quelques min. suffisent pour franchir
-cette trentaine de 'm. de crête accidentée.
+cette trentaine de m. de crête accidentée.
 
 Le point de vue du Néthou est immense puisqu'on domine toutes
 les Pyrénées. Cette grande hauteur a même son inconvénient :

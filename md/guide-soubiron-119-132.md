@@ -526,7 +526,7 @@ Taillon est le sommet qu'on voit le plus longtemps en venant de
 la plaine. De sa cime, on aperçoit très bien les vill. espagnols de
 Broto et d'Oto; Gavarnie et Gèdre paraissent sous les pieds.
 
-C'est au Taïllon qu'il faut monter pour découvrir toutes les
+C'est au Taillon qu'il faut monter pour découvrir toutes les
 beautés du massif calcaire et tous les mystères du cirque de Gavarnie.
 
 On descendra à l'E., en suivant le sentier de la crête jusqu'au

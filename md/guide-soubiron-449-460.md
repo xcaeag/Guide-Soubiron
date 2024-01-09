@@ -442,7 +442,7 @@ pour jouir de l'admirable décor de ce coin presque inconnu.
 
 LA aqaË € D'EN-BEVS
 
-Le ee d'En-Beys est l'un des plus sauvages'et des plus pitto: <#
+Le ee d'En-Beys est l'un des plus sauvages et des plus pitto: <#
 resques des Pyrénées. Mesurant 28 hectares, il est situé à 1.950 m.
 d'alt., au centre d'un cirque formé bar les pics de Beys (2.683m),
 des Peyrisses (2.690m), de l'Etang-Faury (2.709m), de Madidès :

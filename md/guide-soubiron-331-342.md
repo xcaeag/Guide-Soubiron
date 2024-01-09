@@ -455,7 +455,7 @@ Cette montée est monotone, et ce n'est qu'environ 3 h. après
 le départ que l'intérêt de l'ascension commence en arrivant au
 confluent du torrent qui descend du lac de Montolieu. Quelques
 min. après, le sentier bifurque : celui de g. continue par la
-rive E. de l'Iñola jusqu 'au plateau du Liat; celui de dr. remonte
+rive E. de l'Iñola jusqu'au plateau du Liat; celui de dr. remonte
 direction N. vers la coume de Montolieu et le Port d'Urets; on
 suivra ce dernier qui longe la rive dr. de la gorge jusqu'au
 lac de Montolieu. Ce lac, très encaissé et très sauvage, est glacé

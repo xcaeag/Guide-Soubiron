@@ -496,7 +496,7 @@ __Horaire de la Journée :__
 
 ``` 
 D'Aulon à la Fontaine de Coulariot...... 1h.45 }
-De la Fontaine au Pic 'd'Arbizon........ 2h.30 }     9h.15
+De la Fontaine au Pic  d'Arbizon........ 2h.30 }     9h.15
 Du Pic d'Arbizon au Lac d'Arou.......... 1h.45 } (Arrêts en sus)
 Du Lac d'Arou à Arreau.................. 3h.15 }
 ```

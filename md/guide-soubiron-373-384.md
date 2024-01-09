@@ -288,7 +288,7 @@ cimes de la contrée sont dans son panorama.
 Dans 1/2 h., on pourrait revenir au Port de Sounou pour y
 rejoindre le sentier, mais cet itinéraire serait peu intéressant. Il
 vaut mieux descendre au N.-N.-E. vers le petit étang de Touroun
-d'Arse qu'on aperçoit sur le flanc 'E. de la crête qui sépare la
+d'Arse qu'on aperçoit sur le flanc E. de la crête qui sépare la
 vallée de Fouillet de celle d'Arse. On franchira d'abord quelques
 ressauts rocheux, puis, on arrivera rapidement aux pâturages de
 la rive g. de la Hille de la Laouzo où on rejoint le sentier qui conduit

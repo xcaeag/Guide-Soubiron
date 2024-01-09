@@ -332,7 +332,7 @@ pour les autres.
 <u>__ORTHOGRAPHE DES NOMS DE LIEUX__</u>
 
 Pour les noms de lieux aux multiples formes d’orthographe,
-j'ai adopté de préférence celle qui se rapproche le plus de la prononciaiion 
+j'ai adopté de préférence celle qui se rapproche le plus de la prononciation 
 locale, cela pour faciliter l’obtention de renseignements précis.
 
 <u>__POINTS D’INTERRUPTION__</u>

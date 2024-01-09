@@ -178,7 +178,7 @@ donc la base du Cylindre pour remonter immédiatement
 à l'E. par l'étroit couloir qui mène à la brèche d'où on reviendra
 au Cirque du Sisca.
 
-Après une descente' de 3 min., on tournera à g., à l'E., pour
+Après une descente de 3 min., on tournera à g., à l'E., pour
 couper les contreforts S. du Pic d'Ascobes et aboutir, par une
 marche horizontale, à la base d'une coume rapide qui monte vers
 la crête E. du pic. On laissera là son sac et on fera l'ascension
@@ -285,7 +285,7 @@ Le point de vue de l'Albe est très beau, surtout sur les abords
 immédiats, cirques de Couart et de Rulle, jasse de Pédourès et
 vallée du Mourgouillou. Le Pic d'Ascobes prend l'aspect d'une
 pyramide aiguë et les crêtes qui entourent le cirque du Sisca
-paraissent en entier. Maïs, ce qui attire le plus les regards, c'est
+paraissent en entier. Mais, ce qui attire le plus les regards, c'est
 d'abord le majestueux pic de Rulle, qui se dresse au N.-O., d'un
 élan magnifique, de l'autre côté du cirque; c'est'ensuite le grand
 Élang supérieur de l'Albe qu'on domine presque verticalement
@@ -723,8 +723,7 @@ au N.-O. pour rester toujours sur la crête et, après avoir dépassé
 
 <div class="page"/>
 
-— p. 448 —
-us PIC'oe MIDI de SIGUER (35m EXCURSION)
+— p. 448 — PIC de MIDI de SIGUER (35me EXCURSION)
 
 le Col de Bayle, remonte légèrement direction N. jusqu'au Pic de
 Midi de Siguer (2.002m). Ce n'est pas à proprement parler Ün

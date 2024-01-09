@@ -534,7 +534,7 @@ le gave par la rive dr. jusqu'à la Fruitière. On pourra repérer au
 passage l'amorce du sentier du refuge de Culaous par lequel on
 montera à la 8° Excursion. A la Fruitière, le chemin passe rive g.
 et se transforme, quelques instants après, en une route qui descend 
-sous forêt jusqu'à La Raïllère. -
+sous forêt jusqu'à La Raillère. -
 
 __Horaire de la Journée :__
 

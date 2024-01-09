@@ -172,7 +172,7 @@ Isards, tome 2, p. 122.
 Géodésiens ». Ce trajet, un peu délicat, exige quelque attention.
 
 On partira à toute crête en franchissant une brèche de 4 ou
-5 m., à pariir de laquelle on continuera sur d'énormes blocs.
+5 m., à partir de laquelle on continuera sur d'énormes blocs.
 Quelques min. après, on suivra une petite corniche du versant E.,
 d'où on passera sur le versant O. pour continuer jusqu'à la
 Brèche des Géodésiens. A partir de là, on descendra à l'O., afin

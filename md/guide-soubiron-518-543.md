@@ -127,7 +127,7 @@ NEUVIÈME EXCURSION
 UNE SEMAINE A GAVARNIE ET SES ENVIRONS par
 le Piméné, la Hourquette d'Allans, Tuquerouye, les Pics
 d'Astazou, le Marboré, le Cylindre, le Mont Perdu, la Vallée
-d'Arazas, le Gabiétou, le Taïllon, la Brèche de Roland, le
+d'Arazas, le Gabiétou, le Taillon, la Brèche de Roland, le
 Casque, la Tour, l'Epaule et le Cirque....................
 
 DIXIÈME EXCURSION
@@ -197,7 +197,7 @@ DIX-SEPTIÈME EXCURSION
 D'ARREAU à LUCHON et à MARIGNAC, par la Gorge de
 Clarabide, le Lac de Caillaouas, les Gourgs-Blancs, le Spijeoles
 le Pic Gourdon, le Col des Gourgs-Blancs, la Tusse
-de Montarqué, le Quaïrat, le Montarrouye, Bacanère et le
+de Montarqué, le Quairat, le Montarrouye, Bacanère et le
 Burat
 
 nsc
@@ -418,7 +418,7 @@ De MONTLOUIS à VERNET-LES-BAINS, par la vallée
 d'Eyne, le Pic de Finestrelles, le Col de Nuria, le Pic
 d'Eyne, le Col des Neuf-Croix, le Refuge de Ull de Ter, Roque
 Couloum, le Pic de Costabona, les Bains de La Preste,
-le Pla Guïillem et le Canigou
+le Pla Guillem et le Canigou
 
 esse
 433
@@ -456,7 +456,7 @@ Agnes (Tuc d')............ 380 | Allées Dramatiques........ 163
 Agua-Limpia (gorge d'). 102, 103 | Alos d'Isil...... 365, 367, 368
 Agualluts (plan des)....... 284 | Anaye (vallon et ravin d'). 29
 Aguas-Tuertas (vallon d').. 30 | Anayette (pic d')...... 39, 47
-Aguïla (vallon d')......... 137 | Aneto (vill. d')............. 317
+Aguila (vallon d')......... 137 | Aneto (vill. d')............. 317
 Aiguamoch (vallée d')...... 334 | Anèou (col et pic d')...... 47
 Aiguelongue (ruisseau d').. 454 | Anèou (pourtalet d')....... 48
 Aigue-Torte (col d')....... 392 | Anglassé (Casa de)........ 45
@@ -480,7 +480,7 @@ Pages Pages
 Aragnouet (vill. d')........ 193 | Arties (vill espagnol d').: --,
 Aragon (col et pène d').... 90 321, 323.
 Araillé (col et pic d'). 111, 113.! Artiga de Lin (vallée d'). A? :
-Araïillous (pic) ........... 01 | Artigue (plateau d')....... 173 :
+Araillous (pic) ........... 01 | Artigue (plateau d')....... 173 :
 
 Araing (lac d')....... 350, 355 | Artigue (port de l)........ 378
 Aran (val d.).... 227, 239, Artigue (prairie de l')..... 260
@@ -784,7 +784,7 @@ Cayan (plateau du)........
 Gazaril ...................
 Cazaux-Debat .............
 Céciré (pic de)............
-Centraux (hiimeau de)...
+Centraux (hameau de)...
 Cerisey (cascade du)......
 ertescons (pie et lac de).
 

@@ -244,7 +244,7 @@ vallon: du ruisseau naissant de Morens. Au lieu de monter au N.,
 comme à la précédente excursion, on suivra le sentier qui tourne
 à dr. et qui franchit bientôt le torrent pour aboutir au Pla grand
 de Morens (2.075m). Par là, on empruntera quelques instants le
-passage' du chemin qui va de Thuès à Camprodon par le Col
+passage du chemin qui va de Thuès à Camprodon par le Col
 du Géant. Quittant ce dernier, on traversera le Pla de Morens
 vers JE. jusqu'aux cabanes de bergers qui sont situées à la base
 des pentes d'en face. Là, le sentier prend la direction -N. vers
@@ -289,7 +289,7 @@ Mantet à Setcasas par la Porteilie de Caillau.
 
 Quittant le grand sentier de Campmagré, qui file à l'E. vers le
 Mort de Lescoula (2.460m), on se dirigera au S.-E. ct, après avoir
-dépassé la Porteiile de Caillau qu'on laissera à dr., on montera
+dépassé la Porteille de Caillau qu'on laissera à dr., on montera
 à toute crête à Roque Couloum (2.464m).
 
 Ce pic secondaire est, par sa situation spéciale, non seulemeni
@@ -485,7 +485,7 @@ des Cortalets était exagérée; un contrôle rigoureux et récent l'a ramenée
 
 15 juin à fin septembre. Une petite route de 21 k., pour voitures
 légères, a été construite de Vernet-les-Bains au chalet
-par Fillols, le Col de Miïllères et la forêt de Balatg. '
+par Fillols, le Col de Millères et la forêt de Balatg.
 
 Les piétons peuvent faire ce trajet dans moins de 5 h., en
 utilisant les divers raccourcis. Le plus important est celui
@@ -580,7 +580,7 @@ la plaine du Roussillon.
 ———\
 (1) En réalité, cette cime s'appelle le Pic des Trés Vents, en raison
 
-des. trois vents qui balaiïent alternativement son sommet, le vent
+des. trois vents qui balaient alternativement son sommet, le vent
 d'Espagne, le vent marin et la Tramontane. Les auteurs des cartes
 lui ont attribué dix vents de trop.
 

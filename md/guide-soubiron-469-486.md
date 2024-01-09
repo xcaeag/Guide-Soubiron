@@ -256,10 +256,10 @@ monde rocailleux. Cette situation est unique dans les Pyrénées.
 Les lointains ne sont pas moins intéressants. De l'E. à l'O.
 défilent en arc de cercle : le Capcir, le massif de Madres, la
 chaîne catalane, du Canigou au Puig d'Alp, la Cerdagne et toutes
-les cimes ariégeoises jusqu'aux monts luchonnaïis.
+les cimes ariégeoises jusqu'aux monts luchonnais.
 
 Autrefois, on pouvait descendre directement au déversoir de la
-Bouiïllouse en longeant le ruisseau de Prigue et la rive g. du
+Bouillouse en longeant le ruisseau de Prigue et la rive g. du
 grand étang; mais, depuis la construction du barrage qui a
 transformë ce marais en un immense réservoir, rétablissant ainsi
 lun des plus grands lacs des Pyrénées, le sentier de la rive g.
@@ -354,8 +354,8 @@ Après avoir franchi le déversoir du Lanouzet occidental, on
 montera en écharpe, à travers des pâturages, direction S.-O.
 pour aboutir au Col des Bésineilles (2.450m, situé à environ 1 k.
 au S. du Pic de Bésineilles (2.503m). On retrouvera là la ligne
-de partage des eaux d'Europe qu'on a franchie, la veiile, à la
-Porteïlle d'Espagne, et on la suivra jusqu'au sommet des Pics
+de partage des eaux d'Europe qu'on a franchie, la veille, à la
+Porteille d'Espagne, et on la suivra jusqu'au sommet des Pics
 Pédroux.
 
 Si on ne garde pas le porteur pour le reste de l'excursion, c'est
@@ -370,7 +370,7 @@ Pédroux N. (2.831m). Ce trajet, qui n'offre pas de difficulté, est
 des plus intéressants. On domine constamment les deux cirques
 
 ———\
-(1) La carte d'Etat-Major appelle ce large col : Porteïlle de la
+(1) La carte d'Etat-Major appelle ce large col : Porteille de la
 Serre Blanche. |
 
 <div class="page"/>

@@ -130,7 +130,7 @@ ascension.
 — p. 316 — PORT Er HOSPICE DE VIELLA (23me EXCURSION)
 
 Le barranco du port est parfois si étroit et si profond qu'il
-a fallu tailler le sentier'sur le roc même, à une certaine hauteur;
+a fallu tailler le sentier sur le roc même, à une certaine hauteur;
 on ne longe le torrent que par de courts intervalles et on le domine
 toujours. Après avoir franchi un premier ressaut, le sentier
 passe rive g. et monte par de nombreux lacets jusqu'à un deuxième
@@ -443,7 +443,7 @@ isolé de tous les côtés, assez éloigné de ses voisins pour n'être
 pas dominé par eux, il laisse la vue s'étendre à l'infini, etc., etc. »
 
 La déscente facile à Arties par le Port de Caldas serait plus
-longue et bien moins intéressante. Je conseiile donc de prendre
+longue et bien moins intéressante. Je conseille donc de prendre
 la direction N.-E. vers le petit étang de Lassole qu'on longera
 par la g., afin d'aboutir à une cheminée rapide qui plonge dans
 la coume supérieure de Valarties. Ce passage, un peu impressionnant
@@ -477,7 +477,7 @@ Du Montarto à Arties.................. 3h.30 }
 ## CINQUIÈME JOURNÉE
 
 __D'ARTIES (1.143m) à LUCHON (629m), par le Val d'Aran,__\
-__le Pic d'Aubas (2.072m) et Couradiiles (1.985m).__
+__le Pic d'Aubas (2.072m) et Couradilles (1.985m).__
 
 SANS GU1IDE
 

@@ -625,7 +625,7 @@ On partira du refuge par le sentier qui se dirige au N.-E. vers
 la Porteille de Mantet (2.478m) et, après une descente de 5 min.
 on le quittera par la g., afin de couper un petit vallon et de
 sauter le ruisseau naissant de Morens. On passera à travers la
-rocaille et ïies rhododendrons pour remonter en face vers un
+rocaille et les rhododendrons pour remonter en face vers un
 sapin rabougri que domine un petit rocher en équilibre. Il n'y
 a pas de sentier et l'ascension est un peu rude pendant 1/4 d'h.
 On grimpera direction N. et bientôt, on rejoindra le chemin qui
@@ -723,7 +723,7 @@ arrive au point où la vallée se ferme, à Pentrée des gorges. Le
 site est saisissant (1).
 
 Des murailles verticales. hautes de plusieurs centaines de m.,
-vous dominent de toutes parts; leurs sommets sont hérissés d'aïiguilles
+vous dominent de toutes parts; leurs sommets sont hérissés d'aiguilles
 qui pointent vers le ciel, et la vallée paraît sans issue.
 Le sentier s'engage dans l'étroit défilé où il est taillé souvent
 dans le roc mème, On à dù lui faire franchir plusieurs fois le
@@ -740,7 +740,7 @@ Ce trajet de 12 K. est certainement le plus pittoresque des
 chemins de fer français en travaux d'art en points de vue et en
 beautés naturelles. C'est entre Fhuës et Montlouis qu'on traverse
 
-En cours de roule, on se renseïgnera auprès des bergers pour
+En cours de roule, on se renseignera auprès des bergers pour
 savoir si le trajet par le fond des gorges est en ce moment-là praticable
 Dans tous les cas. on pourra toujours passer par le sentier
 supérieur de la rive dr qui S'amoree en amont des gorges et qui

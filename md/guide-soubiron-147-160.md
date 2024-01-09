@@ -661,7 +661,7 @@ __Horaire de la Journée :__
 ```
 De Barèges au Soum Arrouy............... 4h.   }
 Du SoumArrouy au Pic Léviste............ 0h.30 }  9h.45
-Du Pic Léviste au 'Lac d'Izaby.......... 2h. » } (Arrêts en sus).
+Du Pic Léviste au Lac d'Izaby........... 2h. » } (Arrêts en sus).
 Du Lac d'Izaby à Pierrefitte............ 3h.15 }
 ```
 

@@ -51,7 +51,7 @@ Foix et sur toute la Barguillère qu'on domine en entier.
 Le chemin continue par la face O. de la colline en contournant
 le Picou du Calmil (1.182m) qu'on laisse à g., et on arrive, enfin.
 à la bifurcation du sentier de crête qui quitte celui de la fruitière
-du Calmii. Ce dernier continue tout droit devant soi, entre
+du Calmil. Ce dernier continue tout droit devant soi, entre
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
