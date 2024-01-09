@@ -62,7 +62,7 @@ de l'Intérieur « Certescons ». Les avis étant partagés, j'écris à nouveau
 
 DE SAINT-GIRONS 4 AUZAT
 
-
+![carte p374](../maps/guide-soubiron-0374-carte-portrait.jpg)
 
 <div class="page"/>
 

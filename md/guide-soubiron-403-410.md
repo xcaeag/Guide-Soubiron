@@ -52,7 +52,7 @@ On retiendra donc un guide à l'avance, et on arrivera à Auzat
 dans la matinée pour avoir le temps de prendre les dernières
 dispositions, et être prèt à partir vers treize heures.
 
-(Voir ci-contre la Carte de l'Excursion}
+<p class="droite">(Voir ci-contre la Carte de l'Excursion)</p>
 
 
 ## PREMIÈRE JOURNÉE

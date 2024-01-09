@@ -34,8 +34,8 @@ Les fichiers :
 [Pages 205 à 218 : 16eme Excursion](md/guide-soubiron-205-218.md) : Cinq jours au départ de Saint-Lary \
 [Pages 219 à 228 : 17eme Excursion](md/guide-soubiron-219-228.md) : Quatre jours au départ d'Arreau \
 [Pages 229 à 248 : 18eme Excursion](md/guide-soubiron-229-248.md) : Cinq jours aux environs de Luchon \
-[Pages 249 à 264 : 19eme Excursion](md/guide-soubiron-249-264.md) :  \
-[Pages 265 à 276 : 20eme Excursion](md/guide-soubiron-265-276.md) :  \
+[Pages 249 à 264 : 19eme Excursion](md/guide-soubiron-249-264.md) : Cinq jours aux environs de Luchon \
+[Pages 265 à 276 : 20eme Excursion](md/guide-soubiron-265-276.md) : Cinq jours aux Environs de Luchon \
 [Pages 277 à 300 : 21eme Excursion](md/guide-soubiron-277-300.md) :  \
 [Pages 301 à 312 : 22eme Excursion](md/guide-soubiron-301-312.md) :  \
 [Pages 313 à 324 : 23eme Excursion](md/guide-soubiron-313-324.md) :  \

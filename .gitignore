@@ -4,3 +4,6 @@ md/guide-soubiron-*.html
 *.sh
 maps/*.tif
 maps/*.points
+md/guide-soubiron-*.jpeg
+md/guide-soubiron-*.png
+*.brut.*
