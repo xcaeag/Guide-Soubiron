@@ -261,7 +261,7 @@ Dans nul autre sommet, on ne trouvera une vue mieux groupée,
 et son panorama s'étend des monts Aspois aux monts Ariégeois. 
 Si les lointains sont splendides, ses abords immédiats
 sont de toute beauté. Rien n'est plus impressionnant que ses
-murailles à pic, surtout celle de Ja face N. qui tombe verticalement 
+murailles à pic, surtout celle de la face N. qui tombe verticalement 
 de 500 m. environ sur le Lac Tourrat.
 
 Du haut du Pic Long, on peut repérer tout le trajet de l'après-
