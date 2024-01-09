@@ -20,18 +20,19 @@ output: pdf_document
 
 # VINGT et UNIÈME et VINGT-DEUXIÈME EXCURSIONS
 
-Le MASSIF des MONIS-MAUDITS
+__Le MASSIF des MONTS-MAUDITS__\
+__Et ses Environs__
 
-Et ses Environs
+__En deux Excursions au départ de LUCHON__
 
-En deux Excursions au départ de LUCHON
 _B. E. — Du 15 Juillet au 15 Septembre._
 
 Cartes à emporter : Bagnères-de-Luchon et Val d'Arouge.
 
-AVERTISSEMENT de l'AUTEUR
+<u>__AVERTISSEMENT de l'AUTEUR__</u>
+
 Un mois serait nécessaire pour visiter tous les sites intéressants
-du massif des Monts-Maudits et notamment ipour ascendre ses
+du massif des Monts-Maudits et notamment pour ascendre ses
 principaux sommets dont 18 dépassent 3.000 m. A ceux qui ne
 disposent que de peu de jours, je conseille d'y faire deux courses
 de cinq jours avec les programmes de la vingt et unième et de la
@@ -42,14 +43,14 @@ terrain et des glaciers et la qualité de la caravane.
 
 Depuis l'apparition de la première édition de mon « Guide
 des Pyrénées » en juillet 1920, deux événements nouveaux sont
-venus compiéter la connaissance des Monts-Maudits et modifier
+venus compléter la connaissance des Monts-Maudits et modifier
 sensiblement la manière d'explorer cet important massif :
 
 1° Le repérage détaillé et définitif du Couloir Maudit et la fixation 
 des conditions essentielles pour en franchir le fameux col
 sans danger (1);
 
-Voir à la p. 284 la carte spéciale des Monts-Maudits (*).
+<p class="droite">Voir à la p. 284 la carte spéciale des Monts-Maudits (2).</p>
 
 ———\
 (1) V. Bulletin de la Section des Pyrénées Centrales, n° d'octobre-
@@ -65,10 +66,10 @@ de Luchon.
 2° L'attribution de mon nom au pic coté 2.865 m., pic situé au.
 S.-E. du massif, et la mise en évidence de cet intéressant sommet.
 
-Par leur position particulière, ces deux sites offrent aux pyréenéistes
+Par leur position particulière, ces deux sites offrent aux pyrénéistes
 des attraits nouveaux par des voies nouvelles : le premier,
 parce qu'il est situé au cœur même des Monts-Maudits et qu'il
-permet ainsi de nombreuses variantes. à travers le massif; le second, 
+permet ainsi de nombreuses variantes à travers le massif; le second, 
 parce qu'il occupe le centre d'une région étrange, à peu
 près inconnue.
 
@@ -81,10 +82,10 @@ voies nouvelles et plus rapides.
 
 Si on se rend à La Rencluse pour réaliser immédiatement les
 quatre courses, on a intérêt à les effectuer comme je les indique;
-mais, si'on ne veut exécuter qu'une partie/du programme, on peut
+mais, si on ne veut exécuter qu'une partie du programme, on peut
 sans inconvénient en intervertir l'ordre.
 
-AVIS IMPORTANT
+<u>__AVIS IMPORTANT__</u>
 
 Si on n'est pas soi-même un pyrénéiste très exercé, et qu'aucun
 membre de la caravane ne connaisse déjà le massif des Monts-
@@ -101,7 +102,7 @@ __Cinq jours au départ de Luchon__
 
 (Emporter des conserves pour cinq repas).
 
-JOURNÉE D'APPROCHES
+## JOURNÉE D'APPROCHES
 
 __De LUCHON (629m) à LA RENCLUSE (2.133m),__\
 __par l'Hospice de France (1.360m), le Port de Venasque (2.448m)__\
