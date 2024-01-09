@@ -55,7 +55,7 @@ de Laruns (6 k.).
 
 — p. 40 —
 
-![Alt text](../maps/guide-soubiron-0040-carte.jpg)
+![carte p40](../maps/guide-soubiron-0040-carte.jpg)
 
 
 <div class="page"/>

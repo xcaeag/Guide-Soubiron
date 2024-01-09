@@ -59,7 +59,7 @@ le versant de Barèges, pour monter en droite ligne, grâce à
 
 — p. 172 —
 
-![Alt text](../maps/guide-soubiron-0172-carte.jpg)
+![carte p172](../maps/guide-soubiron-0172-carte.jpg)
 
 deux petits tunnels, jusqu’au Col de Sencours. Dans ce trajet,
 elle s’élève en corniche par les flancs O. du Pic du Tourmalet

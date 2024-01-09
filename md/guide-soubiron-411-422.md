@@ -58,7 +58,7 @@ les vivres de trois jours et demi qu'il faut emporter.
 
 — p. 412 — VALLEE de SOULCEN (33me EXCURSION)
 
- ![Alt text](../maps/guide-soubiron-0412-carte.jpg)
+ ![carte p412](../maps/guide-soubiron-0412-carte.jpg)
 
 <div class="page"/>
 

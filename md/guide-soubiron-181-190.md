@@ -63,7 +63,7 @@ joli point de vue sur les environs immédiats.
 
 — p. 182 — ENVIRONS D'ARREAU (14me EXCURSION)
  
-![Alt text](../maps/guide-soubiron-0182-carte.jpg)
+![carte p182](../maps/guide-soubiron-0182-carte.jpg)
 
 <p class="centre">
 CARTE DES ENVIRONS D'ARREAU<br>

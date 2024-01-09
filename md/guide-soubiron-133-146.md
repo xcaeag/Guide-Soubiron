@@ -38,7 +38,7 @@ rendez-vous à Gèdre, vers 13 ou 14 h.
 
 — p. 134 — (10me EXCURSION)
 
-![Alt text](../maps/guide-soubiron-0134-carte.jpg)
+![carte p134](../maps/guide-soubiron-0134-carte.jpg)
 
 
 <div class="page"/>

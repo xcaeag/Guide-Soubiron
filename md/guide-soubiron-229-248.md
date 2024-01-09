@@ -143,7 +143,7 @@ qui forment l'Ourse de Ferrère.
 
 — p. 232 — MONTNE de LUCHON  (l8m18me EXCURSION)
 
-![Alt text](../maps/guide-soubiron-0232-carte.jpg) 
+![carte p232](../maps/guide-soubiron-0232-carte.jpg) 
 
 On franchira les deux premiers ruisseaux, afin de rejoindre le
 sentier qui monte de Crouhens par la rive g., au point où il
@@ -333,7 +333,7 @@ semble s'avancer au milieu du cirque pour offrir au touriste son
 
 — p. 236 — REFUGE d'ESPINGO (18me EXCURSION)
 
-![Alt text](../maps/guide-soubiron-0236-clip.jpg)
+![gravure p236](../maps/guide-soubiron-0236-clip.jpg)
 
 <div class="page"/>
 
@@ -498,7 +498,7 @@ Comolo Forno. Tout à fait à l'O., la pointe noire du Pic Long
 
 — p. 240 — (18me EXCURSION) ENVIRONS DE LUCHON + PARTIE SUD
 
-![Alt text](../maps/guide-soubiron-0240-carte.jpg)
+![carte p240](../maps/guide-soubiron-0240-carte.jpg)
 
 <div class="page"/>
 

@@ -221,7 +221,7 @@ qui se dirige au N. vers le lac d'Arrius. Là, on franchira une
 
 — p. 58 — PLAN du BALAÏTOUS (3me EXCURSION)
 
-![Alt text](../maps/guide-soubiron-0058-carte.jpg)
+![carte p58](../maps/guide-soubiron-0058-carte.jpg)
 
 <div class="page"/>
 

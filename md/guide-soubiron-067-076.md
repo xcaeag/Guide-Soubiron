@@ -57,7 +57,7 @@ le Pic Long, le Néouvielle et le Pic de Midi de Bigorre.
 
 — p. 68 —
 
-![Alt text](../maps/guide-soubiron-0068-carte.jpg)
+![carte p68](../maps/guide-soubiron-0068-carte.jpg)
 
 <div class="page"/>
 

@@ -51,7 +51,7 @@ d'eaux.
 
 — p. 78 — 5° EXCURSION
 
-![Alt text](../maps/guide-soubiron-0078-carte.jpg)
+![carte p78](../maps/guide-soubiron-0078-carte.jpg)
 
 <div class="page"/>
 

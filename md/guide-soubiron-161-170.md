@@ -39,7 +39,7 @@ Bagnères.
 
 — p. 162 — ENVIRONS de BAGNERES-DE-BIGORRE (12me EXCURSION)
 
-![Alt text](../maps/guide-soubiron-0162-carte.jpg)
+![carte p162](../maps/guide-soubiron-0162-carte.jpg)
 
 <div class="page"/>
 

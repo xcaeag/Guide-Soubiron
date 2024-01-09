@@ -45,7 +45,7 @@ prix modérés.
 
 — p. 88 —
 
-![Alt text](../maps/guide-soubiron-0088-carte.jpg)
+![carte p88](../maps/guide-soubiron-0088-carte.jpg)
 
 <div class="page"/>
 

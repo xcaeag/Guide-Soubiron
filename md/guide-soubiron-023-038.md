@@ -61,7 +61,7 @@ d’Oloron au Somport par la vallée d’Aspe.
 [//]: # (— p. 24 —)
 
 
-![Alt text](../maps/guide-soubiron-0024-carte.jpg)
+![carte p24](../maps/guide-soubiron-0024-carte.jpg)
 
 N. B. — Le tableau des signes conventionnels ci-dessus est
 unique pour toutes les cartes.

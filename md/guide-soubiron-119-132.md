@@ -46,7 +46,7 @@ compagnons, on prendra aussi un porteur pour toute l'excursion.
 
 — p. 120 — MASSIF CALCAIRE (9me EXCURSION)
 
-![Alt text](../maps/guide-soubiron-0120-carte.jpg)
+![carte p120](../maps/guide-soubiron-0120-carte.jpg)
 
 CARTE DU MASSIF CALCAIRE
 

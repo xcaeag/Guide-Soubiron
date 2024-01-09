@@ -63,7 +63,7 @@ repartir à 11h.30 ou midi. On ne prendra dans son sac que ce
 
 [//]: # (— p. 112 —)
 
-![Alt text](../maps/guide-soubiron-0112-carte.jpg)
+![carte p112](../maps/guide-soubiron-0112-carte.jpg)
 
 qui est nécessaire jusqu'au lendemain soir, et on laissera le reste
 à l'hôtellerie en retenant des lits.

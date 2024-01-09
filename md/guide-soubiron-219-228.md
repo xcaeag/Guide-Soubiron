@@ -62,7 +62,7 @@ effectuerait un trajet de 10 k. environ sans la quitter. A cette
 
 — p. 220 — D'ARREAU A LUCHON ET A MARIGNAC (17me EXCURSION)
  
-![Alt text](../maps/guide-soubiron-0220-carte.jpg)
+![carte p220](../maps/guide-soubiron-0220-carte.jpg)
 
 situation unique dans les Pyrénées, s'ajoute le spectacle grandiose 
 du Cirque d'Oô couronné de 14 sommets, dont 11 dépassent 

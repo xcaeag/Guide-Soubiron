@@ -4,15 +4,17 @@ abstract: |
     Du PIC d'ANIE au CANIGOU
     En 40 Excursions
 title: |
-    | xxxxxxxxxx EXCURSION
-    | xxxxxxxxxxxxxxxxxxx
+    | VINGT et UNIÈME et VINGT-DEUXIÈME EXCURSIONS
+    | Le MASSIF des MONIS-MAUDITS et ses Environs
 output: pdf_document 
 ---
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
 -----------------------
-[//]: # (— p. XX —)
+[//]: # (— p. 277 —)
+
+# ***************
 
 — p. 277 —
 

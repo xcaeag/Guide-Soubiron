@@ -59,7 +59,7 @@ tramway électrique.
 
 — p. 206 —  DE SAINT-LARY A LUCHON  (16me EXCURSION)
 
-![Alt text](../maps/guide-soubiron-0206-carte.jpg)
+![carte p206](../maps/guide-soubiron-0206-carte.jpg)
 
 <div class="page"/>
 
@@ -444,7 +444,7 @@ magnifique centre d'excursions (1).
 
 — p. 214 — ENVIRONS D'ESPINGO - PARTIE EST (16me EXCURSION)
 
-![Alt text](../maps/guide-soubiron-0214-carte.jpg)
+![carte p214](../maps/guide-soubiron-0214-carte.jpg)
 
 Au Chalet-Hôtel d'Espingo, on trouve des lits, des provisions
 et des repas à des prix modérés. Voir à la 18° Excursion la Notice

@@ -64,7 +64,7 @@ d'un tramway électrique.
 
 — p. 192 — DE SAINT-LARY A LOUDENVIELLE (15me EXCURSION)
 
-![Alt text](../maps/guide-soubiron-0192-carte.jpg)
+![carte p192](../maps/guide-soubiron-0192-carte.jpg)
 
 <div class="page"/>
 
@@ -333,7 +333,7 @@ la rive dr. de la Cinqueta d'Aygues-Cruses.
 
 <div class="page"/>
 
-![Alt text](../maps/guide-soubiron-0198-carte.jpg)
+![carte p198](../maps/guide-soubiron-0198-carte.jpg)
 
 même en continuant une ligne droite, direction N.-O., pour
 monter à la crête du Batchimale à laquelle elle se soude,
@@ -511,7 +511,7 @@ Val d'Arouge. (V. 19me E.)
 — p. 202 — ENVIRONS D'ESPINGO — PARTIE OUEST (15me EXCURSION)
 
 
-![Alt text](../maps/guide-soubiron-0202-carte.jpg)
+![carte p202](../maps/guide-soubiron-0202-carte.jpg)
 
 CARTE des RÉGIONS de CAILLAOUAS, du HOURGADE,
 des GOURGS-BLANCS, d'ESPINGO et d'OO.

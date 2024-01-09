@@ -74,7 +74,7 @@ des provisions aux orrys du Carla.
 
 — p. 404 — aux ENVIRONS d'AUZAT (32me EXCURSION)
 
-![Alt text](../maps/guide-soubiron-0404-carte.jpg)
+![carte p404](../maps/guide-soubiron-0404-carte.jpg)
 
 
 <div class="page"/>

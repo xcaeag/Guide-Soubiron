@@ -47,7 +47,7 @@ des compagnons exercés et résistants à la fatigue.
 
 — p. 100 —
 
-![Alt text](../maps/guide-soubiron-0100-carte.jpg)
+![carte p100](../maps/guide-soubiron-0100-carte.jpg)
 
 <div class="page"/>
 
