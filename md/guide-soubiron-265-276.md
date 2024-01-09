@@ -57,7 +57,7 @@ __par l'Entécade, Bosost, le Montlude et le Pont du Roi.__
 
 __De LUCHON (629m) au REFUGE d'ESPINGO (1.925m),__\
 __par Superbagnères (1.797m),__\
-__le Céciré (2.400m) et le Col de Montarrouye (2.600m).__\
+__le Céciré (2.400m) et le Col de Montarrouye (2.600m).__
 
 —— GUIDE INDISPENSABLE ——
 
