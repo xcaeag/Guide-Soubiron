@@ -4,35 +4,31 @@ abstract: |
     Du PIC d'ANIE au CANIGOU
     En 40 Excursions
 title: |
-    | xxxxxxxxxx EXCURSION
-    | xxxxxxxxxxxxxxxxxxx
+    | VINGT-DEUXIÈME EXCURSION
+    | CINQ JOURS AU DÉPART DE LUCHON
 output: pdf_document 
 ---
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
 -----------------------
-[//]: # (— p. XX —)
-
-— p. 301 —
+[//]: # (— p. 301 —)
 
 # VINGT-DEUXIÈME EXCURSION
 
-(Suite du MASSIF des MONTS-MAUDITS)
+__(Suite du MASSIF des MONTS-MAUDITS)__
 
-CINQ JOURS AU DÉPART DE LUCHON
-
-— 200 —
+__CINQ JOURS AU DÉPART DE LUCHON__
 
 <u>__AVIS AUX TOURISTES__</u>
 
 Pour réaliser les courses C et D, il faut simplement aller
 coucher à La Rencluse la veille, et emporter des provisions
 pour cinq repas. Si, à la 21me Excursion, on a réussi l'ascension
-du Sauvegarde ct qu'on ne veuille pas la répéter, il suffit
+du Sauvegarde et qu'on ne veuille pas la répéter, il suffit
 de partir de Luchon après déjeuner.
 
-## DEUXIÈME JOURNÉE D'APPROGHES
+## DEUXIÈME JOURNÉE D'APPROCHES
 
 __De LUCHON (629m) à LA RENCLUSE (2.133m),__\
 __par l'Hospice de France (1.360m) et le Port de Venasque (2.448m).__
@@ -44,9 +40,10 @@ Rencluse est classique. On part vers 13h.30 en auto jusqu'à
 l'Hospice de France où l'on fait une petite halte. En en repartant
 à 15 h., on arrive à La Rencluse vers 19 h. sans avoir trop souffert
 de la chaleur. (Voir la description du trajet p. 279.)
-Coursz= C (trois jours)
 
-Le Tour des Monts-Maudits
+__<p class="centre">Course C (trois jours)</p>__
+
+__Le Tour des Monts-Maudits__
 
 <u>__AVIS AUX TOURISTES__</u>
 
@@ -60,7 +57,7 @@ qui complète merveilleusement celui du Sauvegarde.
 2° Celui d'effectuer le tour des Monts-Maudits en en faisant
 explorer la face S.
 
-3° Enfin, de permettre la reprise de la traversée du Cl
+3° Enfin, de permettre la reprise de la traversée du Col
 Maudit, au cas où, pour une cause quelconque, on aurait échoué
 à la précédente course.
 
@@ -77,7 +74,7 @@ __par le Col des Salenques (2:801m) et le Pic Russell (3.201m).__
 
 Nota. — Dans la course C, l'ascension du Pic Russell s'effectuera
 par la même voie que celle de la première édition de mon
-Guide, mais en sens inverse. :
+Guide, mais en sens inverse.
 
 __Conseils.__ — __Itin. recomm.__ — On reprendra l'itinéraire de la
 première journée de la course A jusqu'au Col des Salenques.
@@ -112,14 +109,14 @@ A environ 3 k. au S.-E., paraît le Pic Pierre-Soubiron dont les
 parois N. s'enfoncent dans le splendide Lac Packe.
 
 Si le temps est clair, la descente sur le Cirque de Llosas est
-des plus simples, car on en aperçoit tout ile trajet. On dévalera
+des plus simples, car on en aperçoit tout le trajet. On dévalera
 direction S.-O. par des pentes rocheuses; puis, parvenu en vue
 d'un névé situé au pied des murailles, on obliquera légèrement
 à dr. par une petite corniche qui permet de débarquer sur la
 
 <div class="page"/>
 
-— p. 303 — (22me EXCURSION) LLOSAS Er RIBERETA
+— p. 303 — (22me EXCURSION) LLOSAS ET RIBERETA
 
 lisière N. du névé. A partir de là, on reprendra la direction S.-O.
 et on descendra par le vallon de Llosas, en laissant à dr. les lacs
@@ -153,7 +150,7 @@ d'Eroucil qui conduit la vue vers le Néthou.
 Les renseignements puisés sur les lieux, auprès des bergers,
 sont contradictoires. D'après les uns, il y aurait une autre cabane
 portant le nom de « Ribéréta », ce serait celle située sur la rive
-dr., à peu près à la même alt., mais plus'en aval. Pour d'autres,
+dr., à peu près à la même alt., mais plus en aval. Pour d'autres,
 cette dernière se nomme : « Planalarga ». |
 
 Pour notre but, c'est à la première qu'il faut coucher, et nous
@@ -162,9 +159,9 @@ lui conservons son joli nom de « Ribéréta ».
 __Horaire de la Journée :__
 
 ```
-De La Rencluse au Col des Salenques.... 3h.15  } 8h.45
-Du Col des Salenques au Pic Russell.... 2h.30 }
-Du Pic Russell à la Cabane de Ribéréta.. 3h. } (Arrêts en sus).
+De La Rencluse au Col des Salenques.... 3h.15 } 
+Du Col des Salenques au Pic Russell.... 2h.30 }   8h.45
+Du Pic Russell à la Cabane de Ribéréta..3h.   } (Arrêts en sus).
 ```
 
 Nota. — En amont, au S.-E. de la cabane, on apercevra les
@@ -174,11 +171,11 @@ traces du sentier par lequel on descendra du Malibierne le lendemain.
 
 — p. 304 — GRAND PIC de MALIBIERNE (22me EXCURSION)
 
-Course C
+__<p class="centre">Course C</p>__
 
 ## DEUXIÈME JOURNÉE
 
-Ascension des deux Pics de Malibierne (3.067m-3.055m).
+__Ascension des deux Pics de Malibierne (3.067m-3.055m).__
 
 —— GUIDE INDISPENSABLE ——
 
@@ -252,8 +249,8 @@ De la Cabane de Ribéréta au Col de Malibierne
 Du Col au grand Pic de Malibierne...... t h. 25 1. 30 }
 Du grand au petit Pic de Malibierne..... 0h.15 } (Arrêts en sus).
 Du petit Pic à la Cabane de Ribéréta .... 2h. »  }
-Course C }
 ```
+__<p class="centre">Course C</p>__
 
 ## TROISIÈME. JOURNÉE
 
@@ -382,16 +379,16 @@ Du Pic d'Albe à La Rencluse............ 2h.15 }
 
 — p. 308 — NOTICE sur Le NETHOU (22me EXCURSION)
 
-Course D
+__<p class="centre">Course D</p>__
 
-JOURNÉE DE RETOUR
+## JOURNÉE DE RETOUR
 
-Dans la matinée, Ascension du Néthou (3.404m)
-avec retour à La Reneluse pour déjeuner.
+__Dans la matinée, Ascension du Néthou (3.404m)__\
+__avec retour à La Rencluse pour déjeuner.__
 
 —— GUIDE UTILE ——
 
-NOTICE sur le NÉTHOU
+__NOTICE sur le NÉTHOU__
 
 La première ascension du point culminant des Pyrénées date
 du 20 juillet 1842; elle a été effectuée par MM. de Franqueville et
@@ -412,7 +409,7 @@ Luchon.
 
 A 5 min. à l'O. du chalet-Hôtel, les ruisseaux de Paderne et de
 la Maladetta se réunissent et forment l'une des sources de l'Eséra.
-C'est près du confluent des- deux ruisseaux, à g., que s'amorce la
+C'est près du confluent des deux ruisseaux, à g., que s'amorce la
 voie directe d'ascension du Néthou. Elle monte droit au S., au
 Portilion d'en haut, où elle franchit la crête de ce nom, traverse
 le glacier du Néthou jusqu'au haut du Dôme pour passer, enfin, au
@@ -424,8 +421,8 @@ l'ascension
 
 —— SANS GUIDE ——
 
-De la face N.-E. de la Maladetta, se détache un ichaînon secondaire
-qui descend jusqu'au Pic de (La Rencluse, et qu'on nomme
+De la face N.-E. de la Maladetta, se détache un chaînon secondaire
+qui descend jusqu'au Pic de La Rencluse, et qu'on nomme
 
 ———\
 (1) Aneto des Espagnols.
@@ -434,7 +431,7 @@ qui descend jusqu'au Pic de (La Rencluse, et qu'on nomme
 
 — p. 309 — (22me EXCURSION) GLACIER du NETHOU
 
-« Crête du Portillon ». C'est dans ce chainon que s'échancrent
+« Crête du Portillon ». C'est dans ce chaînon que s'échancrent
 les deux passages appelés « Portillon d'en haut » et « Portillon
 d'en bas ». Cette crête sépare le glacier de la Maladetta, à l'O.
 de celui du Néthou, à l'E.
@@ -493,7 +490,7 @@ sinon, on filera tout droit.
 
 Parvenu au Col Coroné, on remontera par la g. au haut du
 Dôme, où on déposera sac et piolet; on n'aura plus qu'à franchir
-le Pas de Mahomet, et dans moins de 10 imin., on atteindra le
+le Pas de Mahomet, et dans moins de 10 min., on atteindra le
 point culminant des Pyrénées.
 
 Qu'on ne se laisse pas impressionner par le Pas de Mahomet,
@@ -528,7 +525,7 @@ On redescendra à La Rencluse par la même voie; mais, parvenu
 au Portillon d'en bas; on gagnera ainsi quelques minutes,
 tout en variant le trajet.
 
-Horaire du Néthou, aller et retour, 6 h., arrêts en sus.
+__Horaire du Néthou__, aller et retour, 6 h., arrêts en sus.
 
 Nota. — Pout les Espagnols, le programme est le même que
 pour les Français, sauf qu'ils descendront à Venasque dans
@@ -541,12 +538,12 @@ l'après-midi au lieu de rentrer à Luchon.
 
 — p. 311 — (22me EXCURSION) PORT DE LA PICADE
 
-APRÈS-MIDI DE RETOUR
+## APRÈS-MIDI DE RETOUR
 
-De LA RENCLUSE (2.133m) à LUCHON (629m),
-par le Port de la Picade (2.475m), le Pas et le Soum
-de l'Escalette (2.454m),
-le Pas de la Mounjoye (2.115m) et l'Hospice de France (1.360m).
+__De LA RENCLUSE (2.133m) à LUCHON (629m),__\
+__par le Port de la Picade (2.475m), le Pas et le Soum__\
+__de l'Escalette (2.454m),__\
+__le Pas de la Mounjoye (2.115m) et l'Hospice de France (1.360m).__
 
 —— SANS GUIDE ——
 
@@ -567,10 +564,10 @@ au Port de Venasque, et celui de dr. monte au Port de la
 Picade qu'on aperçoit devant soi, au N.-E.
 
 Le Port de la Picade (2.475m) fait communiquer la vallée de
-l'Eséra, qui est en Aragon, avec celle d'Artiga-de-Lin qui est ën
+l'Eséra, qui est en Aragon, avec celle d'Artiga-de-Lin qui est en
 Catalogne. Bien qu'échancré sur la ligne de partage des eaux
 d'Europe, ce n'est pas là qu'on franchit la frontière comme l'ont
-écrit certains auteurs, mais bien au (Pas de l'Escalette, 1/4 d'h.
+écrit certains auteurs, mais bien au Pas de l'Escalette, 1/4 d'h.
 plus loin.
 
 On fera une petite halte avant de franchir le port, afin de donner
@@ -596,20 +593,20 @@ regard au massif des Monts-Maudits.
 
 Si, du port de la Picade et du Sauvegarde, on a une vue d'ensemble
 sur le grand massif, avec ses vallées profondes et ses
-formidables remparts, c'est du Soum de lEscalette au'on en distingue
+formidables remparts, c'est du Soum de l'Escalette qu'on en distingue
 le mieux les splendeurs. La crête de la Picade qui barre
 à mi-hauteur la vue des Monts-Maudits, n'en laisse apercevoir
 que les parties les plus grandioses : glaciers étincelants, hauts
 sommets vertigineux, immense crête aérienne qui est bien la
 grande épine dorsale du plus imposant massif des Pyrénées.
 
-Après avoir donné un coup d'œil plongeant vers la vallée d'Ar-
-tiga-de-Lin et le Val d'Aran, on descendra à g., à travers les pelouses
-pour retrouver le grand sentier quitté au haut de l'Esca-
-lette (1). Ce sentier est des plus intéressants. On longe à une
-grande hauteur le vallon fleuri de la Frèche qui s'enfonce à g., el
-on côtoie par la dr. la crête frontière jusqu'au Pas de la Mounjove
-(2.115m). On rejoint là le sentier aui va de l'Ermitage d'Artiga-de-
+Après avoir donné un coup d'œil plongeant vers la vallée d'Artiga-
+de-Lin et le Val d'Aran, on descendra à g., à travers les pelouses
+pour retrouver le grand sentier quitté au haut de l'Escaette (1). 
+Ce sentier est des plus intéressants. On longe à une
+grande hauteur le vallon fleuri de la Frèche qui s'enfonce à g., et
+on côtoie par la dr. la crête frontière jusqu'au Pas de la Mounjoye
+(2.115m). On rejoint là le sentier qui va de l'Ermitage d'Artiga-de-
 Lin à Luchon.
 
 Quittant alors la frontière, le chemin tourne carrément à g.
@@ -622,14 +619,16 @@ __Horaire de l'après-midi :__
 
 ```
 De La Rencluse à l'Hospice de France.. 3h.50 }
-: 6 h.
-D giegpe de France à Luchon 1  } aura
+D l'Hospice de France à Luchon               }    6h
+  (10 k. 500 ..........................2h.10 } (Arrêts en sus)
 ```
 
 <u>__POINT UNIQUE D’INTERRUPTION__</u>
 
-Soit pour rejoindre de Luchon.
-LA RENCLUSE | Soit pour abandonner après une excursion.
+__LA RENCLUSE__
+
+- Soit pour rejoindre de Luchon.
+- Soit pour abandonner après une excursion.
 
 ———\
 (1) Le mot Escalette signifie « Petite Echelle ».
