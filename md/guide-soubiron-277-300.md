@@ -557,7 +557,7 @@ En amont des derniers sapins, vers 1.800 m. d'alt., on découvre
 subitement la cuvette d'un ancien lac, transformé aujourd'hui
 en un cirque de verts pâturages. Au-dessus, la pente ke redresse
 immédiatement pour conserver une moyenne qui dépasse 30 %.
-Aux 3/4 de la hauteur, on trouve encore troïs lacs étagés, lacs
+Aux 3/4 de la hauteur, on trouve encore trois lacs étagés, lacs
 qui restent glacés pendant 11 mois. La splendeur de la Haute
 Ribagorzana n'a d'égale que l'oubli dans lequel on l'a laissée jusqu'à 
 ce jour.

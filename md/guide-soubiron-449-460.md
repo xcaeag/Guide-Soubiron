@@ -539,14 +539,14 @@ aux baraques situées près du barrage.
 
 Les travaux exécutés par la Pyrénéenne pour emmagasiner
 une grande réserve de houille blanche ont considérablement
-agrandi le lac. de Naguilles. I1 aurait une superficie de 65 hectares
+agrandi le lac. de Naguilles. Il aurait une superficie de 65 hectares
 environ, au lieu de 46 avant les travaux; sa profondeur
 dépasse 60 m.
 
 Le Lac de Naguilles est l'un des plus beaux des Pyrénées, tant
 par ses dimensions que par la magnificence de ses alentours. Ce
 qui en fait aussi son grand charme, c'est qu'il est l'un des plus
-cachés du versant français. |
+cachés du versant français.
 
 Un tunnel de 710 m., creusé dans le granit, amène les eaux
 vers l'O. au vallon de Coumanicles; de là, elles descendent presque

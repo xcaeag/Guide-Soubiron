@@ -122,7 +122,7 @@ laissera au pied du glacier.
 
 On suivra, au S.-E., le chemin de Gavarnie environ 20 min.
 afin de contourner l'éperon E. du petit Vignemale (3.205m). Selon
-l'époque de l'excursion et l'état du. glacier, on pourra faire
+l'époque de l'excursion et l'état du glacier, on pourra faire
 
 ———\
 (1) Le refuge gardé d'Ossoue a été construit en 1899 et inauguré le

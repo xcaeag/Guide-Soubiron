@@ -155,7 +155,7 @@ supérieur (2.560m). On peut aussi, lorsque les eaux sont basses,
 franchir le déversoir du premier gourg et contourner celui-ci
 par l'E., pour rejoindre l'itinéraire précédent au gourg supérieur.
 Obliquant légèrement à g., direction S.-E., on laissera à dr. le
-grand glacier des (Gourgs-Blancs pour attaquer, à l'E., une rude
+grand glacier des Gourgs-Blancs pour attaquer, à l'E., une rude
 pente de neige qui, par un couloir, rampe jusqu'à la brèche située
 entre le Spijeoles et le Pic Noir. On y déposera le sac et on fera,
 au N.-O., l'ascension du Spijeoles à toute crête en se tenant de
@@ -170,7 +170,7 @@ Gourgs-Blancs comprend trois lacs superposés aux altitudes de 2.395,
 2.524 et 2.560. Anciennement, ces gourgs de haute alt. étaient constamment 
 glacés et couverts de neige; ils le sont encore actuellement
 pendant dix mois et demi. De cet état des lieux est né le nom de
-« Gourgs-Blancs » donné à cette admirable région».
+« Gourgs-Blancs » donné à cette admirable région.
 
 
 <div class="page"/>
