@@ -360,7 +360,7 @@ de Paül, au-dessous duquel le glacier continue encore 2 ou 300 m.
 
 Après une descente de quelques min. au N. vers le haut de la
 vallée d'Astos, on trouvera un sentier qui file à l'E., à flanc de
-montagne et qui, par la rive dr. de ia vallée, conduit directement
+montagne et qui, par la rive dr. de la vallée, conduit directement
 à la grande cabane de Turmes (1.675m) où l'on couchera.
 
 __Horaire de la Journée :__

@@ -51,7 +51,7 @@ casse-croûte.
 
 CARTES de la 25“ EXCURSION
 La vingt-cinquième excursion évolue sur une quarantaine
-de k. …au S. ct au N. de Salardu. Comme la partie méridionale
+de k. au S. ct au N. de Salardu. Comme la partie méridionale
 est très riche en sites touristiques, deux cartes m'ont paru
 indispensables. La première comprend la partie au S. de
 Salardu jusqu'au Grand Péguéra et la deuxième, la partie au

@@ -17,36 +17,34 @@ output: pdf_document
 — p. 518 —
 
 NOTE CONCERNANT
-“L'ASCENSION DIRECTE DU CANIGOU
+L'ASCENSION DIRECTE DU CANIGOU
 
 Si on veut faire l'ascension directe du Canigou en venant de
 la plaine, voici comment je la conseille :
 
 On arrivera dans la matinée à la gare de Villefranche-de-
 Conflent, d'où un autobus conduira à Vernet-les-Bains (6 k.)
-
 pour y déjeuner. On en repartira au plus tard à 14 h. par le
-
 vieux Vernet, après lequel on laissera la route à g. Poursuivant
 droit à l'E., on prendra le sentier qui fait passer au premier
 raccourci; on montera vers le col de Jouell, afin de rejoindre la
 route à moitié parcours, à 11 k. du Chalet des Cortalets.
 
-. En amont de la maison forestière de Balach, vers 1.600 m.
+En amont de la maison forestière de Balach, vers 1.600 m.
 d'alt., on quittera la route, qui va faire un long détour à l'O., et
 on suivra à g. le sentier qui monte au Col des Cortalets, sentier
 plus intéressant que la route et par lequel on raccourcit d'au
 moins une demi-h. Quelques min. après le col, on apercevra le
-chalet droit au S. |
+chalet droit au S.
 
-On couchera au refuge et, le isvdematn matin, on fera l'ascension 
-du sommet en suivant le sentier qui passe au col de Ia
+On couchera au refuge et, le lendemain matin, on fera l'ascension 
+du sommet en suivant le sentier qui passe au col de la
 Perdiu. On redescendra déjeuner au refuge, ce qui permettra de
 reprendre le train le soir même.
 
 __Horaires probables :__
 
-De Vernet-les-Bains au ehalet des Cortalets 5h. » 2h. »
+De Vernet-les-Bains au chalet des Cortalets 5h. » 2h. »
 Du chalet au Canigou, aller et retour.... SD n A res x
 <div class="page"/>
 
@@ -60,6 +58,7 @@ Afin de maintenir la concordance entre les deux éditions,
 nous conservons la pagination du Guide aux programmes tirés
 à part, et nous donnons les mêmes références dans la table
 spéciale des 49 Excursions.
+
 PREMIÈRE EXCURSION
 
 De LESCUN aux EAUX-CHAUDES, par le Pic des Trois-
@@ -101,18 +100,15 @@ Barraou, le Chabarrou et le Pic d'Estibaoude.......... 57
 
 <div class="page"/>
 
-— p. 520 —
+— p. 520 — TABLE METHODIQUE
 
- nue Me
-
-520 TABLE METHODIQUE -
 SEPTIÈME EXCURSION
 
 CINQ. JOURS AUX ENVIRONS DE CAUTERETS
 (3° Série). De CAUTERETS à CAUTERETS, par le Balaïitous
 Sallent, l'Algas, l'Arollas, les Bains de Panticosa, le Pic
 d'Enfer, le Port du Marcadau, les Încs Nère, du Pourtet, de
-Castellabarca et d'Ilhèou.….................................
+Castellabarca et d'Ilhèou.....................................
 
 HUITIÈME EXCURSION
 
@@ -156,17 +152,15 @@ BIGORRE, par le Montné, le Castel-Mouly, le Casque de
 Lhéris, le Col de Banios, les cabanes d'Ordincède, le Lac
 Bleu et le Lac Vert.
 
-# TREIZIÈME EXCURSION
+TREIZIÈME EXCURSION
 
-__De BAGNERES-DE-BIGORRE à ARREAU, par la Cascade__\
-__de Garet, le Pic de Midi, le Pic des Quatre Termes et l'Arbi-__
-__DO ana semaeeesontNe dame ns nine 55e 0e
+De BAGNERES-DE-BIGORRE à ARREAU, par la Cascade
+de Garet, le Pic de Midi, le Pic des Quatre Termes et l'Arbi-
+DO ana semaeeesontNe dame ns nine 55e 0e
 
 <div class="page"/>
 
-— p. 521 —
-
-TABLE METHODIQUE
+— p. 521 — TABLE METHODIQUE
 
 QUATORZIÈME EXCURSION
 
@@ -234,9 +228,7 @@ Pont du Roi
 
 <div class="page"/>
 
-— p. 522 —
-
-522 | TABLE METHODIQUE
+— p. 522 — TABLE METHODIQUE
 
 VINGT ET UNIÈME EXCURSION
 
@@ -262,6 +254,7 @@ Bohi, le Comolos Bienes, le Comolos Pales, le Tuc de la Tuménéja
 le:Montarto d'Aran, le Pic d'Aubas et Couradilles..
 
 VINGT-QUATRIÈME EXCURSION
+
 LE MASSIF DU GARS ET DU CAGIRE................
 
 VINGT-CINQUIÈME EXCURSION
@@ -284,21 +277,12 @@ De SENTEIN à SEIX, par le Lac d'Araing, le Crabère,
 les Etangs Liat, le Pic de l'Homme, le Pic de Montolieu,
 N.-D. de Mongarri, les Pics de Marimana, la Pica de Bonabé,
 la Roca Blanca et le Port de Salau........................
-301
-
-313
-
-325
-
-343
-
-353
 
 <div class="page"/>
 
-— p. 523 —
-TABLE METHODIQUE
-VINGT-H UITIÈME EXCURSION
+— p. 523 — TABLE METHODIQUE
+
+VINGT-HUITIÈME EXCURSION
 
 De SAINT-GIRONS à USTOU, par le Montvalier, la Palo
 de la Claouëro, Alos d'Isil, les Pics de Mont Rouch, la Roya
@@ -327,7 +311,7 @@ le Pic de Risoul, le Col de Grail, le Pic de Lercoul, le
 Roc de Berquié, le Pic des Trois Seigneurs, le Pas de la
 Pourtanelle et la Vallée de Rabat........................
 
-TRENTE-DEUXIÈME EXCURSION |
+TRENTE-DEUXIÈME EXCURSION
 
 TROIS JOURS AUX ENVIRONS D'AUZAT (2 Série),
 par le Montcalm, la Pique d'Estats, le Pla Soulcen, le Malcaras
@@ -347,23 +331,9 @@ D'AUZAT à SIGUER, par le Pic d'Endron, l'Etang Fourcat
 le Pic de Rialp, l'Estanyo, le Pic de Serrère, le Port
 de Siguer, le Lac de Peyregrand et la Gorge de Brouquenat.
 
-523
-
-363
-
-385
-
-393
-
-103
-
-411
-
 <div class="page"/>
 
-— p. 524 —
-
-524 TABLE METHODIQUE
+— p. 524 — TABLE METHODIQUE
 
 TRENTE-CINQUIÈME EXCURSION
 
@@ -375,15 +345,13 @@ de Joucla, les Etangs de Fontargente, le Pic de Mil-Ménut,
 la Gorge de Quioules, la° Vallée d'Aston, le Pic du Pas de las
 Aygues et le Pic de Midi de Siguer
 
-.e..000eeeeeoesecsceese
-
-| TRENTE-SIXIÈME EXCURSION
+TRENTE-SIXIÈME EXCURSION
 
 QUATRE JOURS AUX ENVIRONS D'AX (ire Série), par
 le Saquet, le Pic de l'Etang-Rebenty, le Lac de Comte, Mé-
 
 rens, le Cap de Larguis, le Lac d'En-Beys et le Lac de
-Naguilles .…......
+Naguilles ..........
 
 TRENTE-SEPTIÈME EXCURSION
 
@@ -401,8 +369,6 @@ le Pic Pédroux, le Carlitte, le Col de Puymorens, le Lac de
 Font-Nègre, les Sources de l'Ariège, le Pic Nègre d'Embalire
 et le Campcardos
 
-essences see
-
 TRENTE-NEUVIÈME EXCURSION
 
 De BOURG-MADAME à MONTLOUIS, par le Puigmal, le
@@ -418,18 +384,7 @@ De MONTLOUIS à VERNET-LES-BAINS, par la vallée
 d'Eyne, le Pic de Finestrelles, le Col de Nuria, le Pic
 d'Eyne, le Col des Neuf-Croix, le Refuge de Ull de Ter, Roque
 Couloum, le Pic de Costabona, les Bains de La Preste,
-le Pla Guïillem et le Canigou
-
-esse
-433
-
-449
-
-461
-
-469
-
-487
+le Pla Guillem et le Canigou
 
 <div class="page"/>
 
@@ -445,38 +400,38 @@ soit parce qu'ils présentent un intérêt louristique, soit parce qu'ils
 servent de point de repère pour l'orientation et la bonne direction
 de la caravane.
 
-Pages Pages
-Aas (coume d')............ 51 | Albelle (port de l')........ 427
-Abel (forges d')........... 30 | Albi (port d')............. 356
-Abellanés (col et pic des). 317 | Alet (lac et vallon d').... 376
-Affumats (cap et serre des). Alfred (col)…............... 292
-446, 447 | Algas (pic d')........ 104, 105
-Agalots (crête des)........ 175 | Allans (Hourquette d')..... 121
-Agnes (Tuc d')............ 380 | Allées Dramatiques........ 163
-Agua-Limpia (gorge d'). 102, 103 | Alos d'Isil...... 365, 367, 368
-Agualluts (plan des)....... 284 | Anaye (vallon et ravin d'). 29
-Aguas-Tuertas (vallon d').. 30 | Anayette (pic d')...... 39, 47
-Aguïla (vallon d')......... 137 | Aneto (vill. d')............. 317
-Aiguamoch (vallée d')...... 334 | Anèou (col et pic d')...... 47
-Aiguelongue (ruisseau d').. 454 | Anèou (pourtalet d')....... 48
-Aigue-Torte (col d')....... 392 | Anglassé (Casa de)........ 45
-Aiguilles (pic de las)...... 144 | Anie (lac et pic d').... 21, 28
-Aiguillous (vallon des)..... 136 | Anouillas (plateau d')...... 5A
-Aiguillous (pic des).. 137, 138 | Ansabe (vallée d')......... 23
-Alate (étang d')...... 382, 383 | Ansabère (port d')......... 26
-Albe (brèche d').… 305, 307 | Antenac (soum de l'). 262, 263
-Albe (Dent d')…. 292, 295 | Aoubo (col d')............. 169
+```
+Aas (coume d')............. 51  | Albelle (port de l')........ 427
+Abel (forges d')........... 30  | Albi (port d').............. 356
+Abellanés (col et pic des). 317 | Alet (lac et vallon d')..... 376
+Affumats (cap et serre des).    | Alfred (col)................ 292
+  .................... 446, 447 | Algas (pic d')......... 104, 105
+Agalots (crête des)........ 175 | Allans (Hourquette d')...... 121
+Agnes (Tuc d')............. 380 | Allées Dramatiques.......... 163
+Agua-Limpia (gorge d') 102, 103 | Alos d'Isil....... 365, 367, 368
+Agualluts (plan des)....... 284 | Anaye (vallon et ravin d')... 29
+Aguas-Tuertas (vallon d')... 30 | Anayette (pic d')........ 39, 47
+Aguïla (vallon d')......... 137 | Aneto (vill. d')............ 317
+Aiguamoch (vallée d')...... 334 | Anèou (col et pic d')........ 47
+Aiguelongue (ruisseau d').. 454 | Anèou (pourtalet d')......... 48
+Aigue-Torte (col d')....... 392 | Anglassé (Casa de)........... 45
+Aiguilles (pic de las)..... 144 | Anie (lac et pic d')..... 21, 28
+Aiguillous (vallon des).... 136 | Anouillas (plateau d')....... 5A****
+Aiguillous (pic des).. 137, 138 | Ansabe (vallée d')........... 23
+Alate (étang d')...... 382, 383 | Ansabère (port d')........... 26
+Albe (brèche d').......305, 307 | Antenac (soum de l')... 262, 263
+Albe (Dent d')........ 292, 295 | Aoubo (col d').............. 169
 Albe (pic espagnol d). 305, 307 | Aoueillèros (soum de las),
 Albe (pic ariégeois de Pl), 77, 81
 438. 1439 Aouèran (col d')........... 359
-Albe (étangs ariégeois de |). 439 Aragnouet (pont d')…. 143
+Albe (étangs ariégeois de |). 439 Aragnouet (pont d').... 143
+```
 
 <div class="page"/>
 
-— p. 526 —
-Pie à Se : ne RER È Te
-526 INDEX ALPHABETIQUE
-Pages Pages
+— p. 526 — INDEX ALPHABETIQUE
+
+```
 Aragnouet (vill. d')........ 193 | Arties (vill espagnol d').: --,
 Aragon (col et pène d').... 90 321, 323.
 Araillé (col et pic d'). 111, 113.! Artiga de Lin (vallée d'). A? :
@@ -530,13 +485,13 @@ Arse (vallée et cascade d'). Aygues-Tortes (port d').... 199
 Artalas (fontaine d').... .. 327 | Ayous (col, pic et lacs d').
 Arties (vallée d'). 382, 408, 426 32, 33, 34
 Azun (vallée d})..,........ 61
+```
+
 <div class="page"/>
 
-— p. 527 —
-INDEX ALPHABETIQUE 527
-!
-B
-Pages Pages
+— p. 527 — INDEX ALPHABETIQUE
+
+```
 Bacanère ................. 227 | Bazès (col el pic de).. 53, (64
 Bachimana (vallon cet lacs i Bazillac (pic) ............. 130
 dé) sossansssrssssnsaguss 107 | Beauregard (pont)......... 207
@@ -583,13 +538,13 @@ Bat-de-Bun (La)........... 84 Bonabé ......... 358, 361, 365
 Bat-Escure (brèche de).... 85 Bonac .................... 352
 Batoua (pic de)...... 209, 210 Bonaïgue (port de la)...... 334
 Baulou (roc de)........... 450 | Bonascre (plateau de)..... 451
+```
 
 <div class="page"/>
 
 — p. 528 —
 
-ñ
-
+```
 Boo-Silhen
 Bordes-sur-Lez
 Bordette (La)
@@ -736,15 +691,13 @@ Cap de la Coume de Pignou.
 Cap de la Coumette........ 452
 Cap de la Dosse...... 388, 39%
 Cap del Camp (le)........
+```
 
 <div class="page"/>
 
-— p. 529 —
+— p. 529 — INDEX ALPHABETIQUE
 
-INDEX ALPHABETIQUE 529
-
->
-
+```
 Cap de la Lit..... Be Le 268 m8 8
 Cap de Larguis............
 Cap de las Costes..........
@@ -902,22 +855,23 @@ DIC de) .sssiemssssonsse. 320
 Comolos Pales (pic de).... 320
 Comolos Torres (coume de). 319
 Comte (lac de)...... 449, 452
-
 34
+
+```
 
 <div class="page"/>
 
 — p. 530 —
+INDEX ALPHABETIQRE
 
-2
 
+```
 . Corre (port de la)
 
 : Corel (col des).
 
 540: Fa
 
-INDEX ALPHABETIQRE
 
 An rs ref AS PTS 0 UE
 
@@ -1075,11 +1029,13 @@ Coumette (V. Cap de la)...
 
 345
 163: :
+```
+
 <div class="page"/>
 
-— p. 531 —
-INDEX ALPHABETIQUE
+— p. 531 — INDEX ALPHABETIQUE
 
+```
 En-Beys (lac d')..... 455,
 459,
 En-Beys (refuge d').. 458,
@@ -1167,7 +1123,7 @@ Eychounzé (vallon d').....
 499 : Eyne (pic d')..............
 
 F DR
-: Féchan (pic)....…..........
+: Féchan (pic).................
 143 | Ferrera (Val) ............
 101 | Ferrère ............. 187.
 89 | Ferrère (bains de)........
@@ -1226,6 +1182,8 @@ al
 
 DD8
 
+```
+
 <div class="page"/>
 
 — p. 532 —
@@ -1270,7 +1228,7 @@ Garin (moraine de)..
 Garin (vill de)......
 Garmo-Négro (massif et lac
 
-de) ….ssssouumens de cost
+de) ....ssssouumens de cost
 Gars (pic du)........ 325,
 Garseing (cabanes de). 438,
 Gaube (lac et vallée de). 92,
@@ -1777,7 +1735,7 @@ Montarto d'Aran (le). 321,
 Moñtaspet (le) ...... 189,
 Montauban de Luchon ....
 Montbéas (tuc de).........
-Montcalm (le)...... … 405,
+Montcalm (le)...... ... 405,
 Mont Ceint (pic de).. 382,
 Mont Fourcat (le).... 391,
 Mont Garias (le)..........
@@ -2030,7 +1988,7 @@ Fène Nère (le)........ 77, 80 | Pla Guillem ..............
 Pérafeu (métairie de)...... 512 | Pla Subra .............n
 Perche (signal de la)...... 507 : Planalarga (cabane de)...
 Perdighero (pic de).. 268, 269 | Plan d'Aragnouet .... 137,
-Perdiu (col de la).. 514, 916 | Plan (port du)...........….
+Perdiu (col de la).. 514, 916 | Plan (port du)...............
 Pessons (cirque dels)...... 484 | Plan des Aguailluts........
 Petches (hameau de)...... 453 | Plan des Etangs...........
 Petsiguer (étangs de)...... 421 : Pointe-Couronne (montagne :
@@ -2060,7 +2018,7 @@ Pont Napoléon ............
 Pont Sainte-Suzanne ......
 Pont Séjourné ............
 Pont Soubiron ............
-Porta. …....sss is ss à ssscaur
+Porta. .......sss is ss à ssscaur
 Portalet (fort du).........
 Portarras (pic de).........
 Portarron d'Espot .........
@@ -2088,7 +2046,7 @@ Portillon d'En-bas ... 298,
 Portillon (lac glacé du)...
 Port-Vieux (le) ...........
 
-Quaïirat …....::::..scnssacs
+Quaïirat .......::::..scnssacs
 Quatre Termes (pic des).
 
 174,
@@ -2152,7 +2110,7 @@ Rabat (vallée de)....
 Rabiet (lac de)......
 _Rabiet (refuge du)...
 
-_Raïllôre (la) ….ssssssssua cs
+_Raïllôre (la) ....ssssssssua cs
 Rancié (mines de)........
 RaNGt, 223 554546
 Ratère (port de la)........
@@ -2379,7 +2337,7 @@ Tarascon ...... 388, 395,
 Tarbézou (pic de)...... à 54
 Fartereau (col de)........
 Taurinya (ruisseau, vallée
-de) …....sssussssessss
+de) .......sssussssessss
 Tausse (pics de la)........
 
 Tech (vallée du)
@@ -2408,7 +2366,7 @@ Trèdos (bains de)
 Trégon (cascade de)
 ,Treize Vents (pic de)
 
-….....
+........
 
 'Trimounts (carrières de)..
 
@@ -2485,7 +2443,7 @@ Suzon (col de)............
 Swan (col) ................
 E
 
-.0e.…0ee
+.0e....0ee
 
 Tristagnes (pic de)
 Tristanya (coma de)......

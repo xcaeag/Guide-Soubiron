@@ -557,7 +557,7 @@ En amont des derniers sapins, vers 1.800 m. d'alt., on découvre
 subitement la cuvette d'un ancien lac, transformé aujourd'hui
 en un cirque de verts pâturages. Au-dessus, la pente ke redresse
 immédiatement pour conserver une moyenne qui dépasse 30 %.
-Aux 3/4 de ia hauteur, on trouve encore troïs lacs étagés, lacs
+Aux 3/4 de la hauteur, on trouve encore troïs lacs étagés, lacs
 qui restent glacés pendant 11 mois. La splendeur de la Haute
 Ribagorzana n'a d'égale que l'oubli dans lequel on l'a laissée jusqu'à 
 ce jour.
@@ -674,7 +674,7 @@ Du Col Alfred, on descendra à sa fantaisie, direction N., en
 obldiquant légèrement à dr., afin d'aboutir au vallon qui contourne
 le massif des Barrancs par l'E.; on y rencontre trois petits lacs
 et on passe près du Col des Aranais qu'on daisse à dr. On longera
-les deux premiers lacs par la dr. et le troisième par ia g.
+les deux premiers lacs par la dr. et le troisième par la g.
 Après ce dernier, on trouve un bon sentier qui descend directement
 au Plan des Agualluts, et on rejoint bientôt le chemin de
 la veille, près du Trou du Toro. De là, 3/4 d'h. suffiront pour

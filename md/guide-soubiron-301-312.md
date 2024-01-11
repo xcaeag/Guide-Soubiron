@@ -141,7 +141,7 @@ De la cabane de Llosas à celle de Ribéréta (2.020m), le trajet
 est des plus simples. On franchit le torrent 5 min. plus bas que la
 cabane, sur un alignement de grosses pierres; puis on suit le sentier
 qui le longe à découvert par la rive g. pendant 1/2 h. environ.
-Parvenu à l'orée de ia forèt, au point où le torrent tourne direction
+Parvenu à l'orée de la forêt, au point où le torrent tourne direction
 N.-O. le sentier oblique légèrement à g. en s'éloignant du
 ruisseau de Malibierne. On traversera alors plusieurs vertes clairières, 
 et c'est à l'extrémité de la plus importante qu'on apercevra
@@ -234,7 +234,7 @@ des Posets aux monts ariégeois. Au S. et au S.-E., se creusent,
 Afin de varier le trajet, on passera au pic occidental. Une crête
 assez délicate sépare les deux sommets; mais, pour un pyrénéiste
 exercé, c'est la voie la plus intéressante en même temps que la
-plus courte. Comme Ia distance d'un pic à l'autre est d'environ
+plus courte. Comme la distance d'un pic à l'autre est d'environ
 100 im., il faut 1/4 d'h. à peine pour aller à toute crête du pic
 oriental (3.067m) au pic occidental (3.055m). La vue est analogue
 à celle d'un grand pic; elle la complète, surtout vers le S.-O.

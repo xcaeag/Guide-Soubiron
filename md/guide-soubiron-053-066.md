@@ -584,7 +584,7 @@ route, on voit se dérouler devant soi un des plus jolis panoramas
 de la contrée. D'un seul coup d'œil, on embrasse toute la vallée
 depuis le Viscos jusqu'au Ger de Lourdes.
 
-__Horaire de Ia Journée :__
+__Horaire de la Journée :__
 
 ```
 D'Arrens au Pic de Bazès............... 3h.30 }    9h.30

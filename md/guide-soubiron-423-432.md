@@ -132,7 +132,7 @@ excursion (V. 33° E., p. 422). |
 
 On: suivra le chemin de Petsiguer jusqu'au torrent de ce nom où
 on le quittera pour tourner à dr. On trouve, sur la rive g.,
-l'amorce d'un pétit sentier qui contourne Ia face N. du Pic de
+l'amorce d'un pétit sentier qui contourne la face N. du Pic de
 Petsiguer et qui aboutit presque horizontalement à la jasse de la
 Chaudière (V. 32° E., p. 410).
 

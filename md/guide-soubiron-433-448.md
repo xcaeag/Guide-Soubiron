@@ -116,7 +116,7 @@ cours de l'Ariège.
 
 — p. 436 —
 
-136 ROC MELE — PIC ng La CABANETTE (35me EXCURSION) ….
+136 ROC MELE — PIC ng La CABANETTE (35me EXCURSION)
  - ER NE 2 nié |
 
 Le refuge forestier de la Bésine du Sisca (1) est situé sur la
@@ -376,7 +376,7 @@ par la face N.-O. aux cabanes de Garseing; mais, pour
 donner à l'excursion son maximum d'intérêt, on ira faire le tour
 par les étangs de Joucla, le Pic Noir et les étangs de Fontargente.
 
-Prenant à ia large brèche le couloir S.-O., on descendra directement
+Prenant à la large brèche le couloir S.-O., on descendra directement
 aux étangs français de Joucla (2) en obliquant un peu à g..
 vers le fond. On franchira le déversoir du grand étang (2.350m)
 qu'on longera par la rive O. jusqu'à la base du ravin pierreux.
@@ -606,7 +606,7 @@ Du Flateau de Garseing au Col de la
 Coume d'Ose ....................... 2h.15 10h. »
 Du Col de la Coume d'Ose au Mil-Ménut.. 2h. »
 Du Mil-Ménut à la Jasse de Quioules..... 2h. » } (Arrêts en sus).
-De la Jasse de Quioules à Aston....... … 3h.45 /
+De la Jasse de Quioules à Aston......... 3h.45 /
 ```
 
 ———\

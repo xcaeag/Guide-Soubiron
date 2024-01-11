@@ -287,7 +287,7 @@ __Horaire de la Journée :__
 ```
 D'Ax au Col de Joux..............ssss 3h. » | E7h.30
 Du Col de Joux au Cap de Larguis...... 0h.55 } (Arrêts en sus).
-Du Cap de Larguis à Ax.............. … 3h.35 #
+Du Cap de Larguis à Ax.............. ... 3h.35 #
 ```
 
 ## TROISIÈME JOURNÉE

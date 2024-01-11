@@ -880,7 +880,7 @@ COL des NEUF-CROIX | Pour descendre à Thuës par la Val-
 
 et lée de Cardic.::: 2 soma msnsss 4h.40
 ) Pour rejoindre de Thuës par la Val-
-OL de CARANER | lée de Carança..................…. 6h.30
+OL de CARANER | lée de Carança...................... 6h.30
 
 + Soit pour abandonner à la fin de la 3 journée, soil
 } P

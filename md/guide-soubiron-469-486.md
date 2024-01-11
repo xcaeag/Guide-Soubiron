@@ -107,8 +107,8 @@ Le Pic de lPEÉtang Faurv (2.709m) s'élève au point de jonction
 de trois crêtes, au centre de lun des plus jolis coins de la haute
 
 A) Le qualificatif de « Porteille » est impropre pour un si large
-col: c'est plutôt Couillade de Madidès qu'il faudrait dire, puisque le.
-mot … Porteille » signifie une brèche, un étroit passage.
+col: c'est plutôt Couillade de Madidès qu'il faudrait dire, puisque le
+mot Porteille » signifie une brèche, un étroit passage.
 
 <div class="page"/>
 
@@ -298,7 +298,7 @@ __Horaire de la Journée :__
 
 ```
 Du lac d'En-Beys à la Porteille d'Espagne. 2h.15 /
-De la Porteille au Pic de Prigue......…. 1h.100 6h.
+De la Porteille au Pic de Prigue.......... 1h.100 6h.
 Du Pic de Prigue à La Bouillouse........ 2h.35 } (Arrêts en sus).
 ```
 
@@ -421,7 +421,7 @@ rejoint la crète du Carlitte entre les deux sommets. Des Pédroux.
 on peut, à la lorgnette, en examiner tous les détails, ce qui
 
 ———\
-(1) Les cartes cotent le Lanoux à 2.154 m.… mais des nivellements
+(1) Les cartes cotent le Lanoux à 2.154 m. mais des nivellements
 récents ont élevé l'alt. de ses eaux à 2.176 m.
 
 <div class="page"/>
