@@ -187,7 +187,7 @@ __Conseils.__ — __Itin. recomm.__ — On prendra, au bout du grand
 baraque. Environ 1/2 h. après, on coupera celui qui descend du
 port de la Hourquette vers Salardu par la vallée de Bagerque. On
 tournera alors à g., à l'E., pour monter au Col de Mauberme
-(2.520m) (V. 25° E., p. 341). De ce point, on apercevra, à VE.
+(2.520m) (V. 25° E., p. 341). De ce point, on apercevra, à l'E.
 l'échancrure du Col de Montolieu (2.590m) et on découvrira le
 chemin des mineurs qui y conduit en laissant le Port d'Urets à g.
 On passera par là près des baraques de la mine de blende qui

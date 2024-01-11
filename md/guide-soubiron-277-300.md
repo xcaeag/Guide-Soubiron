@@ -418,8 +418,6 @@ contournant le lac par les hautes berges de droite. Du col, on
 
 — p. 287 — (21me EXCURSION) PIC PIERRE-SOUBIRON
 
-******
-
 grimpera à flanc S. de crête, droit au sommet coté 2.865 et surmonté
 d'un petit cairn.
 
@@ -765,8 +763,6 @@ temps subit ou une chute de neige fraîche.
 
 — p. 294 —
 
-***
-
 ![gravure p294](../maps/guide-soubiron-0294-dessin.jpg)
 
 <div class="page"/>
@@ -941,13 +937,12 @@ Le lendemain, on pourrait rentrer à La Rencluse par le Pic
 d'Albe (3.096m).
 
 ## CINQUIÈME JOURNÉE
+
 __De la vingt et unième Excursion__
 
 __De LA RENCLUSE (2.133m) à LUCHON (629m)__\
 __par le Lac des Gourgoutes, le Pic de Sacroux (2.678m),__\
 __le Cirque des Graouès et la Cascade du Cœur.__
-
-****
 
 —— GUIDE UTILE ——
 
@@ -962,36 +957,36 @@ On franchira le torrent qui descend du lac des Gourgoutes et
 
 on suivra le sentier qui en remonte la rive dr., en de multiples
 lacets, jusqu'au premier plateau. Là, il passe rive g. et, après
-avoir traversé des pâturages et fait un crochet vers VE. il
+avoir traversé des pâturages et fait un crochet vers l'E. il
 revient vers le torrent pour s'engager dans le vallon des Gourgoutes
 qu'il suit jusqu'au port. En amont du lac des Gourgoutes,
 à 2 min. du Port de la Glère (2.323m), on trouve l'une des meilleures
 sources de la région. Laissant le port à dr., on montera
-direction N.-O., afin jd'aboutir au pied du Sacroux dont on fera
+direction N.-O., afin d'aboutir au pied du Sacroux dont on fera
 l'ascension directe par la face S.
 
 Le Sacroux (2.678m), d'accès facile, est un magnifique belvédère
 sur le Cirque du Lys et sur la vallée de la Pique. Tous
-ceux qui, de (Luchon, sont montés à la vallée du Lys ou à PHospice
+ceux qui, de Luchon, sont montés à la vallée du Lys ou à l'Hospice
 de France, ont aperçu de la route, avant d'arriver à Ravi,
 la calotte noire d'un sommet qui s'estompe dans le ciel, droit
 au S.; c'est le Sacroux.
 
-Quoique certains écrivains le placent en dehors du magüifique
+Quoique certains écrivains le placent en dehors du magnifique
 Cirque du Lys, il doit être compris dans le nombre des sommets
 qui le couronnent. La ligne de crête qui forme la branche E.
 du fer à cheval prend naissance au Mail Barrat (3.060m) à partir
 duquel elle décline par le Mail Pintrat, le Sacroux et la Serre
 des Cabales jusqu'au Mont du Lys (2.222m).
 
-Du Sacroux, on domine, à l'O., toute la région des Graouës,
+Du Sacroux, on domine, à l'O., toute la région des Graouès,
 du Boum et de la Tusse de Maupas. On pourra repérer presque
 toute la voie d'ascension aux deux derniers sommets.
 
-Du sommet du Sacroux, on se dirigera à l'O.'et, par une marche
+Du sommet du Sacroux, on se dirigera à l'O. et, par une marche
 presque horizontale en longeant les pentes N. du Pic des
-Taouas, on ira rejoindre le haut de la crête de la Serre des Ca:
-bales. On trouvera par dà les traces de l'ancien sentier, aujourd'hui 
+Taouas, on ira rejoindre le haut de la crête de la Serre des Cabales. 
+On trouvera par là les traces de l'ancien sentier, aujourd'hui 
 disparu. Parvenu au haut de la Serre des Cabales, on dominera
 tout le Ciraue des Graouès et on aura à ses pieds. à g., le
 magnifique lac de Port Bieil, enchâssé dans sa conque de granit.
@@ -1009,7 +1004,7 @@ de la cascade de Solage. Au bas de la prairie, on retrouve le che-
 — p. 300 — VALLEE du LYS (21me EXCURSION)
 
 min qui descend directement à l'Hôtellerie du Lys, en longeant
-au passage la belle cascade du Cœur. |
+au passage la belle cascade du Cœur.
 
 De l'Hôtellerie du Lys à Luchon, 11 k. de route qu'on pourra,
 sans doute, faire en voiture, les occasions étant fréquentes l'été.
@@ -1017,10 +1012,10 @@ sans doute, faire en voiture, les occasions étant fréquentes l'été.
 __Horaire de la Journée :__
 
 ```
-De La Rencluse à la Fontaine de La Glère. 31h.30  }
-De la Fontaine de La Glère au Pic de Sa-  } 8h.45
-TOUR, -»--o sceau: pmanxt sement ve 1h. » } (Arrêts en sus).
-Du Sacroux à Luchon.................. } 4h.15
+De La Rencluse à la Fontaine de La Glère. 3 h.30 }
+De la Fontaine de La Glère au Pic de Sa-         } 8h.45
+  croux.................................. 1 h. » } (Arrêts en sus).
+Du Sacroux à Luchon...................... 4 h.15 }
 ```
 
 Nota. — On peut aussi, au départ de Luchon, faire l'ascension 
@@ -1031,7 +1026,7 @@ le sentier du Port de la Glère, qu'on nomme « Chemin de
 l'Impératrice ». Ce sentier s'amorce sur le chemin du Port de
 Venasque à 1/4 d'h. environ de l'Hospice, immédiatement après
 le deuxième pont. Il contourne presque horizontalement les
-contreforts .N. de la crête de Baliran, pour aboutir au cirque de
+contreforts N. de la crête de Baliran, pour aboutir au cirque de
 la Glère, d'où il monte au port en de nombreux lacets.
 
 2°. En allant coucher à la maison forestière de Jouèou pour
