@@ -273,7 +273,7 @@ souhait : c'est que la peseta retrouve sa modestie d'antan.
 
 — p. 283 — (21me EXCURSION) Le TROU du TORO
 
-# Course A (deux jours)
+__<p class="centre">Course A (deux jours)</p>__
 
 ## PREMIÈRE JOURNÉE
 
@@ -569,7 +569,7 @@ en faisant au passage la Fourcanade et le Moulières.
 
 — p. 290 — HAUTE RIBAGORZANA (21me EXCURSION)
 
-__Course A__
+__<p class="centre">Course A</p>__
 
 ## DEUXIÈME JOURNÉE
 
@@ -686,7 +686,7 @@ Du Col Alfred au Moulières (all. et ret.) 1h.15 } (Arrêts en sus).
 Du Col Alfred à La Rencluse.............. 2h.45 }
 ```
 
-__Course B (un jour)__
+__<p class="centre">Course B (un jour)</p>__
 
 ## Traversée du Col Maudit
 
