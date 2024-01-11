@@ -564,10 +564,8 @@ De la Brèche à Gavarnie................ 2h.45 }
 
 __Ascensions du Casque (3.005m), de la Tour (3.017m)__\
 __et de l'Epaule du Marboré (3.085m).__
-
  
 —— GUIDE INDISPENSABLE ——
-
 
 __Conseils.__ — __Itin. recomm.__ — Avec cette journée, on aura vu le
 cirque sous tous les aspects, et on aura reconnu les formes de son

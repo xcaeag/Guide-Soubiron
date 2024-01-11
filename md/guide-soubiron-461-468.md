@@ -73,7 +73,6 @@ Sur sa g., une colline gazonnée sépare le vallon de Cabane-
 Longue de la vallée de Gabantsa; sa croupe, qu'on nonïme Coumeil
 de Brasseil, monte directement jusqu'au pied de la Dent
 d'Orlu. On s'élèvera itisensiblement sur sa face O., afin de gagne:
-
 la crête. Un petit sentier passe près d'un bouquet de hêtres, sous
 lequel on trouve la dernière fontaine.
 
