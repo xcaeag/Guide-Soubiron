@@ -51,7 +51,7 @@ casse-croûte.
 
 CARTES de la 25“ EXCURSION
 La vingt-cinquième excursion évolue sur une quarantaine
-de k. …au S. ct au N. de Salardu. Comme la partie méridionale
+de k. au S. ct au N. de Salardu. Comme la partie méridionale
 est très riche en sites touristiques, deux cartes m'ont paru
 indispensables. La première comprend la partie au S. de
 Salardu jusqu'au Grand Péguéra et la deuxième, la partie au
@@ -138,7 +138,7 @@ bientôt la nouvelle route (1) du port de la Bonaïgueet on tournera
 au S. pour remonter la vallée d'Aiguamoch jusqu'aux Bains
 dé Trédos (1.725m). Là, le chemin muletier passe rive dr. 1/2 h.
 environ et on revient définitivement rive g. jusqu'au lac de la
-Llosa (2.035m) situé à l'entrée du cirque de €Colomès. Droit
+Llosa (2.035m) situé à l'entrée du cirque de Colomès. Droit
 au S., apparaît alors, majestueux, le Grand Pic de Colomès
 flanqué d'énormes précipices sur sa face N.
 

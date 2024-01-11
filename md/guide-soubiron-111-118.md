@@ -122,7 +122,7 @@ laissera au pied du glacier.
 
 On suivra, au S.-E., le chemin de Gavarnie environ 20 min.
 afin de contourner l'éperon E. du petit Vignemale (3.205m). Selon
-l'époque de l'excursion et l'état du. glacier, on pourra faire
+l'époque de l'excursion et l'état du glacier, on pourra faire
 
 ———\
 (1) Le refuge gardé d'Ossoue a été construit en 1899 et inauguré le
@@ -308,7 +308,7 @@ embrasse tous les grands sommets de la région : de l'E. à l'O. le
 Néouvielle, le Pic Long, le Campbieil, les Aiguillous, la Munia, le
 Massif Calcaire et enfin, le Vignemale qui est à deux pas. C'esi
 au Cestrède qu'il faut monter pour reconnaître d'une façon précise 
-les formes si compliquées de ia région qu'encerclent les trois
+les formes si compliquées de la région qu'encerclent les trois
 vallées de Lutour, d'Ossoue et de Gavarnie.
 
 On n'est entouré que de crêtes tourmentées, de petits cirques

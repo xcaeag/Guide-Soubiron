@@ -132,7 +132,7 @@ excursion (V. 33° E., p. 422). |
 
 On: suivra le chemin de Petsiguer jusqu'au torrent de ce nom où
 on le quittera pour tourner à dr. On trouve, sur la rive g.,
-l'amorce d'un pétit sentier qui contourne Ia face N. du Pic de
+l'amorce d'un pétit sentier qui contourne la face N. du Pic de
 Petsiguer et qui aboutit presque horizontalement à la jasse de la
 Chaudière (V. 32° E., p. 410).
 
@@ -359,7 +359,7 @@ Immédiatement au S.-O. du Serrère, on aura remarqué l'amorce
 d'un large couloir d'éboulis qui plonge vers l'O.; c'est par là
 qu'on descendra au vallon de Serrère nommé aussi Sorteny.
 Parvenu au fond du ravin, on obliquera à g., au S.-O., pour
-aboutir près du ruisseau de. Sorteny, en aval du lac de cé nom.
+aboutir près du ruisseau de. Sorteny, en aval du lac de ce nom.
 On n'aura ensuite qu'à longer le ruisseau par la rive dr., et
 bientôt, on rejoindra l'itinéraire du matin pour rentrer au Serrat.
 

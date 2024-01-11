@@ -81,7 +81,7 @@ ensuite à dr., à l’O., aboutit sur une crête d’où on découvre un
 beau cirque de verdure. Le ruisseau de Lhurs coule devant soi.
 A partir de là, le chemin muletier longe la forêt de Larrangus,
 en montant au N.-O., par la rive g. du vallon de Lhurs, jusqu’à
-1/4 d'h. du lac. I1 passe rive droite à la base des rochers qui
+1/4 d'h. du lac. Il passe rive droite à la base des rochers qui
 forment la digue du cirque, grimpe sur un monticule d’où il
 redescend pour aller se perdre au déversoir du lac.
 

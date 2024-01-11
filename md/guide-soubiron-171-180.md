@@ -455,7 +455,7 @@ gazon. C'est le seul chemin direct de descente par la face N., chemin
 impressionnant, mais sans danger pour un pyrénéiste un
 peu exercé. Il ne serait délicat qu'avant fin juin, à cause de la
 couche de neige glacée qui, jusqu'à cette époque, garnit le couloir 
-rapide du fond. Il faudrait alors tailler des pas pour le
+rapide **** du fond. Il faudrait alors tailler des pas pour le
 franchir.
 
 On peut aussi descendre au Lac d'Arou en contournant le

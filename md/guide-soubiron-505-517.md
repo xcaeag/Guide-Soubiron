@@ -4,26 +4,23 @@ abstract: |
     Du PIC d'ANIE au CANIGOU
     En 40 Excursions
 title: |
-    | xxxxxxxxxx EXCURSION
-    | xxxxxxxxxxxxxxxxxxx
+    | QUARANTIÈME EXCURSION EXCURSION
+    | Quatre jours au départ de Montlouis
 output: pdf_document 
 ---
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
 -----------------------
-[//]: # (— p. XX —)
-
-— p. 505 —
+[//]: # (— p. 505 —)
 
 # QUARANTIÈME EXCURSION
 
 (N° 30 de la 1re édition)
 
 Quatre jours au départ de Montlouis
-_B. E. — Du 15 Juillet au 15 Septembre._
 
-+4 — —
+_B. E. — Du 15 Juillet au 15 Septembre._
 
 Cartes à emporter : Saillagouse, Prades et Céret réunies.
 
@@ -36,7 +33,7 @@ La Preste, le Pla Guillem et le Canigou.
 
 <u>__AVIS AUX TOURISTES__</u>
 Comme on l'a constaté à la 39° excursion, les montagnes
-catalanes sont sans difficultés. Les sommets de la 40° r'offrent
+catalanes sont sans difficultés. Les sommets de la 40° n'offrent
 des passages un peu délicats qu'aux endroits où on voudrait
 couper court pour arriver plus tôt. Pour le touriste qui à
 parcouru les Pyrénées Centrales et escaladé leurs hauts sommets
@@ -44,30 +41,30 @@ l'ascension des pics catalans n'est qu'un jeu.
 
 Soit par lyrisme, soit par méconnaissance des autres régions,
 certains auteurs espagnols en ont exagéré les difficultés. En
-réalité. elles sont nulles pour tous les sommets à l'E. du
-Col de Puymaurens, si l'on suit la meilleure voic.
+réalité, elles sont nulles pour tous les sommets à l'E. du
+Col de Puymaurens, si l'on suit la meilleure voie.
 
 On pourrait prendre, à Montlouis, un porteur du pays pour
-loute lPexcursion, à la condition qu'il connaisse le chemin jusqu'au 
+toute l'excursion, à la condition qu'il connaisse le chemin jusqu'au 
 Col de Nuria. J'indiquerai plus loin de trajet pour lequel
 un guide peut être utile.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
+
 <div class="page"/>
 
 — p. 506 —
 
+![carte p506](../maps/guide-soubiron-0506-carte-portrait.jpg)
+
 <div class="page"/>
 
-— p. 507 —
-
-(4Ume ExGURSION) VALLEE D'EYNE - PIC de FINESTRELLES 507
-
-![carte p506](../maps/guide-soubiron-0506-carte-portrait.jpg)
+— p. 507 — (40me EXCURSION) VALLEE D'EYNE - PIC de FINESTRELLES
 
 ## PREMIERE JOURNEE
 
-__De MONTLOUIS (1.603m) à ULL DE TER (2.325m),__\
+__De MONTLOUIS (1.603m) à ULL DE TER (2.325m),__
+
 __par la Vallée d'Eynre,__\
 __le Pic de Finestrelles (2.826m), le Col de Nuria (2.650m),__\
 __le Pic d'Eyne (2.786m), le Col de Noufonts (2.640m),__\
@@ -78,7 +75,7 @@ __et le Col de la Marrana (2.500m).__
 —— SANS GUIDE ——
 
 __Conseils.__ — __Itin. recomm.__ On partira de très bonne heure
-par la Cabanasse et on prendra le chemin qui monte au Signai
+par la Cabanasse et on prendra le chemin qui monte au Signal
 de la Perche (1.622m). De ce point, on peut éviter de descendre
 au vill. d'Eyne et gagner 20 min. On n'aura qu'à suivre, par la 8.
 un canal d'arrosage qui conduit en pente douce au creux de la
@@ -101,7 +98,7 @@ Paronas (2.679m),
 
 Droit au S. de lautre côté du cirque, on aperçoit un ravin
 rapide qui grimpe directement au Pic de Finestrelles. On motilera
-par là, ee qui fera gagner 1h. Seul, le porteur suivra le
+par là, et qui fera gagner 1h. Seul, le porteur suivra le
 sentier régulier et ira attendre la caravane au Col de Nuria
 (2.650m) dont on aperçoit l'échancrure du Pla de la Bégude.
 
@@ -112,10 +109,7 @@ N. du pie. Cette dernière voie, qui n'est pas plus longue, est plus
 
 <div class="page"/>
 
-— p. 508 —
-
-, Nbre ti A RCE L<
-508 PIC D'EYNE - COL de NOUFONTS (40me EXCURSION) !
+— p. 508 — PIC D'EYNE - COL de NOUFONTS (40me EXCURSION)
 
 intéressante, car on aperçoit mieux et plus tôt la vallée du Sègre.
 On traversera donc le Pla de la Bégude et on fera l'ascension
@@ -134,7 +128,7 @@ Du Pic de Finestrelles, on continuera l'excursion à toute crête,
 au N.-E., tantôt sur l'un, tantôt sur l'autre versant. On fera au
 passage le pic du Col d'Eyne (2.788m) et, de là, on descengra au
 Col de Nuria (2.650m) où on rejoindra le porteur pour le déjeuner.
-- Le Col de Nuria,. qu'on nomme aussi Col d'Eyne, estssitué au
+Le Col de Nuria,. qu'on nomme aussi Col d'Eyne, est situé au
 S.-O. et tout près du Pic d'Eyne (2.786m). On y jouit d'un très
 joli point de vue sur la vallée, sur Font-Romeu et la région du
 Carlitte.
@@ -167,9 +161,8 @@ en suivant toujours la crête frontière, on escaladera au passage
 
 <div class="page"/>
 
-— p. 509 —
+— p. 509 — (40me EXCURSION) COUME DE FRESER
 
-(4Ume EXCURSION) COUME DE FRESER 509
 un sommet sans nom qui sépare le vallon de Noufonts de la
 Coume de Mullères. A partir de là, on s'en va presque partout
 en plaine jusqu'au Col des Neuf-Croix (2.800m). (V. 39° E., p. 494).
@@ -221,9 +214,8 @@ qu'en cas de brouillard qu'on pourrait commettre des erreurs
 
 <div class="page"/>
 
-— p. 510 —
+— p. 510 — PORTEILLE de MORENS (40me EXCURSION)
 
-810 PORTEILLE ne MORENS (40me EXCURSION)
 dans le trajet de Ull de Ter à Roque Couloum. Donc, si la journée
 est sombre, on se fera accompagner par un berger ou un chasseur
 jusqu'à Roque Couloum. à
@@ -271,9 +263,8 @@ en cas de brouillard, à cause du moutonnement du terrain pen-
 
 <div class="page"/>
 
-— p. 511 —
+— p. 511 — (40me EXCURSION) ROQUE COULOUM
 
-(40me EXCURSION) ROQUE COULOUM 511
 dant ce trajet. Le sentier se dirige droit à l'E., sauf à la serre de
 Caillau où il fait un crochet au N.-E. pour franchir cette dernière
 et passer du vallon des Fourques à celui de Caillau. L'important,
@@ -322,9 +313,7 @@ mais moins intéressante. On descendra donc à toute crête jus-
 
 <div class="page"/>
 
-— p. 512 —
-
-512  PIC de COSTABONE (40me EXCURSION)
+— p. 512 — PIC de COSTABONE (40me EXCURSION)
 
 qu'au Col du Pal (2.335m) et, de là, on montera de même jusqu'au
 Costabona (2.464m). Pendant ce trajet, on jouira constamment de
@@ -350,7 +339,6 @@ sur sa g On dégringolera alors les pentes vers le torrent pour
 le longer jusqu'à la rencontre du sentier qui descend du Col de
 Sizern. On passera près de la métairie de Perafeu et, à partir de
 là, on n'aura qu'à suivre le chemin muletier qui conduit aux
-
 Bains de la Preste en longeant d'abord la Soulanette, puis le
 Tech.
 
@@ -375,9 +363,7 @@ Tech qui dessert les bains de la Preste; d'abord, par un tramway
 autobus pour les derniers 7 Kk. de route.
 <div class="page"/>
 
-— p. 513 —
-
-(4Ume EXCURSION) La PRESTE - PLA GUILLEM 513
+— p. 513 — (40me EXCURSION) La PRESTE - PLA GUILLEM
 
 ## TROISIÈME JOURNÉE
 
@@ -422,13 +408,12 @@ cinq ou six, abri qu'on nomme « Cabane de la Rouquette »; cette
 cabane est située au S. du rocher coté 2,253, vers 2.240 m. d'alt.
 
 Du Pla Guillem, on se dirigera au N.-E., en longeant les pentes
-«le la chaine, afin de couper le haut du vallon de Llapoudère.
+le la chaine, afin de couper le haut du vallon de Lapoudère.
 
 <div class="page"/>
 
-— p. 514 —
+— p. 514 — VALLEE de CADY - Le CANIGOU (40m EXCURSION)
 
-514 VALLEE de CADY - Le CANIGOU (40m EXCURSION) 5%
 qui descend à g., et de passer tout près du Col de Boucacers
 (2.285m) qu'on laissera à dr. Continuant sa marche de flanc, on
 contournera par le N. le Pic de Sept Hommes (2.550m) et, immédiatement
@@ -479,9 +464,7 @@ des Cortalets était exagérée; un contrôle rigoureux et récent l'a ramenée
 à 2.060 m.
 <div class="page"/>
 
-— p. 515 —
-
-(Une EXCURSION) CHALET des CORTALETS 515
+— p. 515 — (40me EXCURSION) CHALET des CORTALETS
 
 15 juin à fin septembre. Une petite route de 21 k., pour voitures
 légères, a été construite de Vernet-les-Bains au chalet
@@ -531,9 +514,7 @@ la face E. du Canigou. On aura devant soi la cheminée rapide,
 
 <div class="page"/>
 
-— p. 516 —
-
-516 BRECHE DURIER - COL 58 La PERDIU (40me EXCURSION):
+— p. 516 — BRECHE DURIER - COL 58 La PERDIU (40me EXCURSION)
 
 mais facile, qui grimpe à la Brèche Durier, du haut de laquelle on
 découvre le versant de Cady. Dans l'après-midi, surtout si on est
@@ -586,9 +567,7 @@ lui ont attribué dix vents de trop.
 
 <div class="page"/>
 
-— p. 517 —
-
-(40nce EXCURSION) VERNET-LEs-BAINS 517
+— p. 517 — (40me EXCURSION) VERNET-LES-BAINS
 
 Du Col des Cortalets, le chemin descend, au N.-O., à travers
 la forêt de Balatg et, après avoir franchi le ruisseau de Taurinya,

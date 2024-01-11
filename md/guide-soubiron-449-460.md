@@ -287,7 +287,7 @@ __Horaire de la Journée :__
 ```
 D'Ax au Col de Joux..............ssss 3h. » | E7h.30
 Du Col de Joux au Cap de Larguis...... 0h.55 } (Arrêts en sus).
-Du Cap de Larguis à Ax.............. … 3h.35 #
+Du Cap de Larguis à Ax.............. ... 3h.35 #
 ```
 
 ## TROISIÈME JOURNÉE
@@ -440,7 +440,7 @@ pour jouir de l'admirable décor de ce coin presque inconnu.
 
 — p. 458 —
 
-LA aqaË € D'EN-BEVS
+LA aqaË  D'EN-BEVS
 
 Le ee d'En-Beys est l'un des plus sauvages et des plus pitto: <#
 resques des Pyrénées. Mesurant 28 hectares, il est situé à 1.950 m.
@@ -539,14 +539,14 @@ aux baraques situées près du barrage.
 
 Les travaux exécutés par la Pyrénéenne pour emmagasiner
 une grande réserve de houille blanche ont considérablement
-agrandi le lac. de Naguilles. I1 aurait une superficie de 65 hectares
+agrandi le lac. de Naguilles. Il aurait une superficie de 65 hectares
 environ, au lieu de 46 avant les travaux; sa profondeur
 dépasse 60 m.
 
 Le Lac de Naguilles est l'un des plus beaux des Pyrénées, tant
 par ses dimensions que par la magnificence de ses alentours. Ce
 qui en fait aussi son grand charme, c'est qu'il est l'un des plus
-cachés du versant français. |
+cachés du versant français.
 
 Un tunnel de 710 m., creusé dans le granit, amène les eaux
 vers l'O. au vallon de Coumanicles; de là, elles descendent presque

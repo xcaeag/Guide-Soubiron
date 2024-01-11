@@ -311,7 +311,7 @@ sa route quelques instants pour le voir de près et y monter
 dessus. On reprendra ensuite le grand chemin pour descendre
 à Vicdessos.
 
-Horaire de ia Journée :
+Horaire de la Journée :
 
 ```
 D'Auzat au Pic de Risoul............... 2h. » }   7h. »

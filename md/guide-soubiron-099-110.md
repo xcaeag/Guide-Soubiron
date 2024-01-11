@@ -153,7 +153,7 @@ la base de la muraille de 40 m. Là, selon l'état du couloir de la
 
 brèche et la qualité de la caravane, le guide jugera de la voie
 à suivre pour passer du glacier de la brèche à celui de la Frondella. 
-I1 existe trois passages : 1° la traversée directe par la
+Il existe trois passages : 1° la traversée directe par la
 brèche, si le rocher qui y est coincé est en l'air et laisse un vide
 suffisant pour passer dessous; 2° les corniches Casse-Latour et
 J. Blanchet; 3° enfin, plus au S., par la Brèche Anonyme entaillée

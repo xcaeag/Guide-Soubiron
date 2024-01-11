@@ -123,7 +123,7 @@ __Conseils.__ — __Itin. recomm.__ — On prendra un billet direct pour
 Luchon, afin d'y faire enregistrer la valise qu'on retrouvera le
 lendemain au soir, et on descendra à la station de Loures-Barbazan 
 pour aller coucher à Mauléon-Barousse (10 k.), la veille de
-l'excursion. I1 existe un service d'autobus entre ces deux localités 
+l'excursion. Il existe un service d'autobus entre ces deux localités 
 aux principaux trains.
 
 Le lendemain, on quittera Mauléon à l'aurore, et on partira par
@@ -274,7 +274,6 @@ Le Cirque du Lys affecte la forme d'un fer à cheval incliné
 à 45°.
 
 <div class="page"/>
-
 
 — p. 235 — (18me EXCURSION) COUME be BOURG — COL de BASSIERET
 
