@@ -4,17 +4,15 @@ abstract: |
     Du PIC d'ANIE au CANIGOU
     En 40 Excursions
 title: |
-    | xxxxxxxxxx EXCURSION
-    | xxxxxxxxxxxxxxxxxxx
+    | TRENTE-NEUVIÈME EXCURSION
+    | Quatre jours au départ de Bourg-Madame
 output: pdf_document 
 ---
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
 -----------------------
-[//]: # (— p. XX —)
-
-— p. 487 —
+[//]: # (— p. 487 —)
 
 # TRENTE-NEUVIÈME EXCURSION
 
@@ -26,17 +24,15 @@ _B. E. — Du 15 Juillet uu 15 Septembre._
 
 Cartes à emporter : Ax et Saillagouse réunies.
 
-De BOURG-MADAME à MONTLOUIS,
+__De BOURG-MADAME à MONTLOUIS,__
 
-par le Puigmal, le Sanctuaire de Nuria,
-le Pic de la Fosse du Géant, les deux Pics de la Vaca,
-le Pic de l'Enfer,
-le Pic de Fréser, le Pic du Géant, le Pic del Gra de Fajol,
-le Refuge de UIl de Ter,
-le Pic de la Donia, la Vallée et les Gorges de Carança,
-les Pics de la Tausse et Font-Romeu.
-
-em ose
+__par le Puigmal, le Sanctuaire de Nuria,__\
+__le Pic de la Fosse du Géant, les deux Pics de la Vaca,__\
+__le Pic de l'Enfer,__\
+__le Pic de Fréser, le Pic du Géant, le Pic del Gra de Fajol,__\
+__le Refuge de Ull de Ter,__\
+__le Pic de la Donia, la Vallée et les Gorges de Carança,__\
+__les Pics de la Tausse et Font-Romeu.__
 
 <u>__AVIS AUX TOURISTES__</u>
 
@@ -72,16 +68,14 @@ pourra ainsi partir seul ou avec un simple porteur du pays.
 
 <div class="page"/>
 
-— p. 489 —
-
-(39me EXCURSION) BOURG-MADAME - VALCEBOLLERE 489
+— p. 489 — (39me EXCURSION) BOURG-MADAME - VALCEBOLLERE
 
 ## PREMIÈRE JOURNÉE
 
-De BOURG-MADAME (1.140m) au SANCTUAIRE de NURIA (1.985m),
-par la Vallée d'Osséja,
-Valcebollère (1.493m), le Pas dels Lladres (2.500m ?),
-la Tosa (2.700m ?) et le Puigmal (2.909m).
+__De BOURG-MADAME (1.140m) au SANCTUAIRE de NURIA (1.985m),__\
+__par la Vallée d'Osséja,__\
+__Valcebollère (1.493m), le Pas dels Lladres (2.500m ?),__\
+__la Tosa (2.700m ?) et le Puigmal (2.909m).__\
 
 —— SANS GUIDE ——
 
@@ -123,9 +117,8 @@ prendra l2 chemin de chars qui se dirige au $. et qui, 5 min.
 
 <div class="page"/>
 
-— p. 490 —
+— p. 490 — AY%0 . , PAS pezs LLADRES - La TOSA (39me EXCURSION)
 
-AY%0 . , PAS pezs LLADRES - La TOSA (S59me. EXCURSION): :
 après, fait un lacet à g., pour conduire près de la croix. Sur le
 plateau, le chemin bifurque; celui de dr. mène à la chapelle de
 -Saint-Barnabé qui, vue de loin, a l'aspect d'une cabane. On prendra
@@ -166,6 +159,7 @@ vue sur la région catalane, mais surtout sur les profondeurs de la
 vallée d'Err. La croupe arrondie du Puigmal paraît à deux pas,
 et on peut repérer en entier la voie qui y conduit. Un petit sentier
 va à toute crête d'un pic à l'autre.
+
 ———\
 (1) La dépression située au N.-O. de la Tosa est nommée Col de las
 Clèdes par les Espagnols.
@@ -175,10 +169,9 @@ Pas dels Lladres.
 
 <div class="page"/>
 
-— p. 491 —
-(3Yme EXCURSION) Le PUIGMAL 491
+— p. 491 — (39me EXCURSION) Le PUIGMAL
 
-Après unc descente de 3 min. et une marche presque horizountale
+Après une descente de 3 min. et une marche presque horizountale
 de 1/4 d'h., on grimpe la rampe finale qui mène, en 45 min.
 à la tourelle du Puigmal (2.909m).
 
@@ -186,7 +179,7 @@ Le Puigmal est un sommet aux formes trapues, du haut duquel
 on jouit d'un panorama immense dans toutes les directions.
 Au N.-O., presque à ses pieds, on découvre la luxuriante Cerdagne
 avec ses nombreux vill. à demi cachés dans la verdure.
-” Puigcerda sur son promontoire et Font-Romeu sur sa terrasse
+Puigcerda sur son promontoire et Font-Romeu sur sa terrasse
 font un effet merveilleux. Plus loin, on aperçoit toutes les hautes
 cimes ariégeoises caractérisées par de petits névés. Vers lO..
 l'œil peut identifier presque tous les sommets de premier ordre.
@@ -226,19 +219,17 @@ franchi le torrent. On pourra alors, à son choix, soit descendre
 
 <div class="page"/>
 
-— p. 492 —
-492 s SANCTUAIRE DE NURIA (39m EXCURSION)
+— p. 492 — SANCTUAIRE DE NURIA (39me EXCURSION)
 
 
 tout droit à travers les croupes gazonnées, soit suivre un des
-
 nombreux sentiers qui sillonnent le vallon. Vers le fond du Pia
 d'Eugacers, on passera sur la rive dr. pour quelques min., mais
 on reviendra à la rive g., dès qu'on parviendra en arñront de la
 gorge rocheuse qui se creuse au bas de la coma de Lambut. On
 trouve là un bon sentier muletier qui rejoint bientôt celui qui
 descend du Col de Finestrelles (2.558m) par la rive dr. du ruisseau
-de ce nom. De ce point, on découvre subitement les hbâfiments
+de ce nom. De ce point, on découvre subitement les bâtiments
 du sanctuaire de Nuria qui est 1/4 d'h. plus bas, au centre
 d'un joli cirque de verdure.
 
@@ -251,7 +242,8 @@ Du Pas dels Lladres au Puigmal......... 1h.45
 Du Puigmal au Sanctuaire de Nuria..... 2h.15 } (Arrêts en sus).
 ```
 
-Note concernant NURIA
+__Note concernant NURIA__
+
 On peut affirmer que le sanctuaire de Nuria est le paràdis des
 pyrénéistes qui veulent explorer la région s'étendant du Puigmai
 au Pic de l'Enfer, y compris les hautes vallées d'Eyne et de Carança
@@ -276,15 +268,14 @@ ou de Finestrelies (2.558m), en 5h.30 environ;
 d'Eyne (2.650m), en 6 h. environ; |
 
 3° De Fonpédrouse (960m), par la vallée de Prats-Balaguer et le
-€ol de Noufonts (2.640m), en 7h.30 environ;
+col de Noufonts (2.640m), en 7h.30 environ;
 
 4° Enfin, de Thuës-entre-Valls (816m), par les gorges et la vallée
 de Carança et le Col des Neuf-Croix (2.800m), en 8h.30.
 
 <div class="page"/>
 
-— p. 493 —
-(3ÿme EXCURSION) COUME DE MULLERES 193
+— p. 493 — (39me EXCURSION) COUME DE MULLERES
 
 ## DEUXIEME JOURNEE
 
@@ -317,8 +308,8 @@ par là sans apercevoir des isards et des lagopèdes (1), ces
 vivants et gracieux ornements de la haute montagne.
 
 __Conseils.__ — __Itin. recomm.__ -- Comme on trouvera des provisions
-à UIl de Ter, on n'emportera que ce qui est nécéssaire pour ia
-journée. |
+à Ull de Ter, on n'emportera que ce qui est nécéssaire pour ia
+journée.
 
 On partira de Nuria par derrière l'église et, 2 min. après, on
 passera un petit pont pour prendre le sentier qui monte au
@@ -337,13 +328,9 @@ au N., vers le col de Noufonts; celui de dr. monte au N.-E., par
 
 <div class="page"/>
 
-— p. 494 —
+— p. 494 —  COL des NEUF-CROIX - FOSSE du GEANT (39me EXCURSION)
 
-134 COL des NEUF-CROIX - FOSSE du GEANT (39me ExcuRsi0
-4 “
-
-la coume de Mullères, au Col_ des Neuf-Croix (2.800m); c'est cé 
-
+la coume de Mullères, au Col_ des Neuf-Croix (2.800m); c'est ce
 dernier qu'il faut suivre, Le sentier, très bien tracé, s'élève en
 pente douce en longeant la rive dr. du ruisseau de Mullères jusqu'à 
 sa source, en haut de la coume. On fera là sa provision d'eau.
@@ -357,9 +344,7 @@ jusqu'au Col des Neuf-Croix, situé à l'O. du pic de la Fosse du
 Géant (2.809m).
 
 Le trajet de Nuria au col, qui se fait toujours à l'ombre, si
-
 on part vers 5 h., est des. plus agréables. On ne perd jamais le
-
 sanctuaire de vue, et on le voit s'enfoncer petit à petit, tandis
 que le massif du Puigmal s'élève derrière lui.
 
@@ -372,8 +357,7 @@ dans l'une ou l'autre de ces deux vallées sans difficulté.
 
 Actuellement, on trouve au col 14 croix de fer, de 0m 40 à
 0m 60 de hauteur, plantées dans le roc. Sur chacune d'elles, est
-gravé le nom de la victime de la tourmente et la date de l'accident
-k
+gravé le nom de la victime de la tourmente et la date de l'accident.
 
 Pour jouir du point de vue complet, on montera, à l'E. du col,
 au pic de la Fosse du Géant (2.809m) qu'on atteint dans 5 min.
@@ -390,13 +374,11 @@ Géant, le Col de Carança (2.725m), le flanc S. des pics de la Vaca
 (2.812m-2.830m), la Coma de Fréser et le Col de la Marrana (2.500”).
 Comme on le voit, il dessert admirablement toute cette belle partie
 de la crête catalane et les nombreux sommets qu'on rencontre
-D
 
 <div class="page"/>
 
-— p. 495 —
+— p. 495 — (39me EXCURSION) COL DE CARANÇA - PICS DE LA VACA
 
-(3Yme EXCURSION) COL DE CARANÇA - PICS DE LA VACA 493
 du Pic de la Fosse du Géant äu Pic del Gra de Fajol. On peut, à
 tout moment, limiter son ascension en rejoignant le sentier pour
 se rendre directement au refuge.
@@ -445,9 +427,7 @@ sur la frontière. On remontera à toute crête jusqu'au pied du Pic
 
 <div class="page"/>
 
-— p. 496 —
-
-496 PIC de L'RNFER - PIC du GEANT (39me EXCURSION)
+— p. 496 — PIC de L'ENFER - PIC du GEANT (39me EXCURSION)
 
 des Gourgs qu'on contournera par la g., afin d'aboutir au col qui
 le sépare de l'Enfer. On y laissera le sac et, dans moins de
@@ -497,9 +477,8 @@ toute la Catalogne et on a sous les yeux tous les grands sommets
 
 <div class="page"/>
 
-— p. 497 —
+— p. 497 — (39me EXCURSION) COL DE LA MARRANA - GRA DE FAJOL
 
-(39me EXCURSION) COL DE LA MARRANA - GRA DE FAJOL 497
 de la région, depuis le Carlitte à la Méditerranée. Vers l'O., la vue
 s'étend sur la chaine ariégeoise et jusqu'aux Monts-Maudits.
 
@@ -549,15 +528,12 @@ Gra de Fajol que se réfugient souvent les isards de la contrée.
 
 <div class="page"/>
 
-— p. 498 —
-498 REFUGE de ULL DE TER (39me EXCURSION) ÉA
+— p. 498 — REFUGE de ULL DE TER (39me EXCURSION)
 
 * Le Gra de Fajol est l'un des plus jolis belvédères de la région.
 
 Les premiers plans sont admirables, surtout la partie de la chaîne
-
 frontière qui décrit un arc de cercle du Géant au Costabona,
-
 entourant ainsi plusieurs petits cirques. Par le Col du Géant, on
 aperçoit le Prats de Bassibès et, dans le lointain, les montagnes
 de Madres. A l'E.-N.-E., par delà le Campmagré,|émerge, splendide
@@ -601,9 +577,7 @@ dormir et une provision de bois pour se chauffer.
 
 <div class="page"/>
 
-— p. 499 —
-
-(me EXCURSION) COL per GEANT - PIC De LA DONYA 499
+— p. 499 — (39me EXCURSION) COL per GEANT - PIC De LA DONYA
 
 ## TROISIÈME JOURNÉE
 
@@ -649,9 +623,8 @@ de jonction de plusieurs voies de montagne qui filent dans toutes
 
 <div class="page"/>
 
-— p. 500 —
+— p. 500 — COUME de BASSIBES - VALLEE DE CARANÇA (39me EXCURSION)
 
-500 COUME de BASSIBES - VALLEE DE CARANÇA (39me ExCURS.).
 les directions. Immédiatement au-dessous, à l'E., s'ouvre la Porteille
 de Mantet (2.478m), par laquelle passe l'une des plus importantes
 de ces voies, celle qui fait communiquer la région es:
@@ -698,9 +671,8 @@ arrive près d'une grande cabane située sur la rive g., vers 1.800
 
 <div class="page"/>
 
-— p. 501 —
+— p. 501 — (39me EXCURSION)  GORGE DE CARANÇA
 
-\J9me EXCURSION) _ GORGE DE C AK ANÇA 501
 Valt. C'est en amont de cette cabane que s'umorce le sentier
 du Col Mitja par lequel on peut passer à la vallée de Prats-
 Balaguer et aussi descendre à Fontpédrouse par la gorge de
@@ -748,8 +720,7 @@ débute par une remontée.
 
 <div class="page"/>
 
-— p. 502 —
-: 502 VALLEE de La TET - MONTLOUIS (39m ExcUR810ÿ)
+— p. 502 — VALLEE de La TET - MONTLOUIS (39me EXCURSION)
 
 le merveilleux pont Séjourné de 65 m. de haut et le pont suspendu, 
 construction vertigineuse de Gisclard, qui franchit la
@@ -758,7 +729,7 @@ Tet à 80 m. de hauteur.
 __Horaire de la Journée :__
 
 ```
-De UIl de Ter au Pic de la Donya....... 1h.20 «
+De Ull de Ter au Pic de la Donya....... 1h.20 «
 De la Donya à la Jasse de Carança...... 2h. » G h. »
 De la Jasse de Carança à Thuëès-entre- } (Arrêts en sus).
 Valls ....... dosettes sesesereseeeeee 2h.40
@@ -803,9 +774,8 @@ Cortals après lequel il s'infléchit à lV'E.-S.-E., pour rejoindre,
 
 <div class="page"/>
 
-— p. 503 —
+— p. 503 — (39me EXCURSION) PICS DE LA TAUSSE
 
-(3%me EXCURSION) PICS DE LA TAUSSE 503
 plus loin, la route stratégique qui monte aux forts de la Tausse.
 On jouira pendant ce trajet de belles échappées sur la Cerdagne
 et la chaine frontière, et on dominera constamment Montlouis.
@@ -852,9 +822,7 @@ la Cerdagne el un magnifique belvédère sur la chaine frontière
 
 <div class="page"/>
 
-— p. 504 —
-
-504 | FONT-ROMEU (B9me EXCURSION) |
+— p. 504 — FONT-ROMEU (39me EXCURSION)
 
 qui lui fait face. Après l'ascension des pics de la Tausse, l'excursion
 de Font-Romeu s'impose pour jouir de toutes hi beautés

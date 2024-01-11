@@ -440,7 +440,7 @@ pour jouir de l'admirable décor de ce coin presque inconnu.
 
 — p. 458 —
 
-LA aqaË € D'EN-BEVS
+LA aqaË  D'EN-BEVS
 
 Le ee d'En-Beys est l'un des plus sauvages'et des plus pitto: <#
 resques des Pyrénées. Mesurant 28 hectares, il est situé à 1.950 m.

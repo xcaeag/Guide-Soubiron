@@ -359,7 +359,7 @@ Immédiatement au S.-O. du Serrère, on aura remarqué l'amorce
 d'un large couloir d'éboulis qui plonge vers l'O.; c'est par là
 qu'on descendra au vallon de Serrère nommé aussi Sorteny.
 Parvenu au fond du ravin, on obliquera à g., au S.-O., pour
-aboutir près du ruisseau de. Sorteny, en aval du lac de cé nom.
+aboutir près du ruisseau de. Sorteny, en aval du lac de ce nom.
 On n'aura ensuite qu'à longer le ruisseau par la rive dr., et
 bientôt, on rejoindra l'itinéraire du matin pour rentrer au Serrat.
 

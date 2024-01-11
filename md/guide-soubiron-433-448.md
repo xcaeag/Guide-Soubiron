@@ -199,7 +199,7 @@ les deux étangs andorrans de Joucla (2.300m), qui ne figurent
 dans aucune carte, quoique très importants. Leurs eaux s'écoulent
 dans la vallée d'Incles qu'on domine de l'Ascobes (1).
 
-On redescendra au refuge par la rive €. du cirque en passant
+On redescendra au refuge par la rive E. du cirque en passant
 près des estagnoles de Régalécio et de Moulsude et en laissant
 l'Etang du Sisca à dr. On fera ainsi le tour complet du cirque.
 Par cette voie, non seulement on trouvera moins d'éboulis, mais

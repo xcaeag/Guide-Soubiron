@@ -138,7 +138,7 @@ bientôt la nouvelle route (1) du port de la Bonaïgueet on tournera
 au S. pour remonter la vallée d'Aiguamoch jusqu'aux Bains
 dé Trédos (1.725m). Là, le chemin muletier passe rive dr. 1/2 h.
 environ et on revient définitivement rive g. jusqu'au lac de la
-Llosa (2.035m) situé à l'entrée du cirque de €Colomès. Droit
+Llosa (2.035m) situé à l'entrée du cirque de Colomès. Droit
 au S., apparaît alors, majestueux, le Grand Pic de Colomès
 flanqué d'énormes précipices sur sa face N.
 
