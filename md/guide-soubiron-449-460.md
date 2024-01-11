@@ -179,7 +179,7 @@ réduite à 8h.30 de marche effective.
 
 ## DEUXIÈME JOURNÉE
 
-Ascension du Cap de Larguis (1.861»),
+Ascension du Cap de Larguis (1.861m),
 par Petches et le Col de Joux (1.685m), avec retour à Ax
 par le Col de Surt (1.775m), la Vallée
 et le village d'Orgeix.

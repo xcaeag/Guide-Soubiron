@@ -14,10 +14,6 @@ output: pdf_document
 -----------------------
 [//]: # (— p. 277 —)
 
-# ***************
-
-— p. 277 —
-
 # VINGT et UNIÈME et VINGT-DEUXIÈME EXCURSIONS
 
 __Le MASSIF des MONTS-MAUDITS__\
@@ -102,7 +98,7 @@ __Cinq jours au départ de Luchon__
 
 (Emporter des conserves pour cinq repas).
 
-## ## JOURNÉE D'APPROCHES
+## JOURNÉE D'APPROCHES
 
 __De LUCHON (629m) à LA RENCLUSE (2.133m),__\
 __par l'Hospice de France (1.360m), le Port de Venasque (2.448m)__\
@@ -122,15 +118,15 @@ qu'on s'élève, on aperçoit, vers l'E. et vers le N., les collines secondaires
 s'abaisser et presque se niveler avec la plaine, tandis
 que des pics voisins émergent à l'horizon.
 
-Divers points de vue retiennent l'attention jau passage : 1° le
-Culet, roche lisse, presque verticale, sur laquelle glissent plusieurs
+Divers points de vue retiennent l'attention au passage : 1° le
+_Culet_, roche lisse, presque verticale, sur laquelle glissent plusieurs
 petites cascades; 2° l'Homme, longue pierre posée debout
 sur un rocher pour indiquer la voie au voyageur quand la couche
-de neige est très épaisse (1); 3° le Trou des chaudronniers,
+de neige est très épaisse (1); 3° le _Trou des chaudronniers_,
 grande cavité située à g. du chemin, dans laquelle périrent, sous
-la neige, neuf ouvriers de cette profession; 4° les cinq lacs de
-Boum quit se déversent l'un dans l'autre, dans un site splendide;
-enfin, la grande merveille : le Port de Venasque.
+la neige, neuf ouvriers de cette profession; 4° les _cinq lacs de
+Boum_ qui se déversent l'un dans l'autre, dans un site splendide;
+enfin, la grande merveille : _le Port de Venasque_.
 
 Au Port de Venasque, surgit tout d'un coup, comme dans un
 
@@ -145,12 +141,10 @@ Au Port de Venasque, surgit tout d'un coup, comme dans un
 
 ![carte 280](../maps/guide-soubiron-0280-clip.jpg)
 
-Massif des Monts-Maudits\
+__Massif des Monts-Maudits__\
 (Vu du Port de Venasque)
 
-**********
-
-_1. Col des Salenques (2.801m). 2. Pic de La Rencluse. 3. Pic Mangalide
+_1. Col des Salenques (2.801m). 2. Pic de La Rencluse. 3. Pic Margalide
 (3.258m). 4. Néthou (3.404m). 5. Portillon d'en bas (2.815m). 6. Col
 Coroné (3.173m). 7. Pic Coroné (3.310m). 8. Portillon d'en haut (2.908m). 9. 
 Pic du Milieu (3.345m). 10. Pic Maudit (3.354m). 11. Maladetta
@@ -175,7 +169,7 @@ volume, à la 18me Excursion.
 
 <div class="page"/>
 
-— p. 281 — (21me EXCURSION) PIC ne SAUVEGARDE
+— p. 281 — (21me EXCURSION) PIC de SAUVEGARDE
 
 Turmon, maintenant transformé en canal par la percée de son
 mur d'enceinte. Si cette cascade peut être utile aux touristes
@@ -207,16 +201,16 @@ pour le simple touriste, l'excursion rêvée, puisqu'on peut monter
 
 Si, de la tourelle, on s'avance d'une quarantaine de m. à toute
 crête vers l'O., on aperçoit une partie de la ville de Venasque; du
-côté N., parait littéralement sous les pieds, à 500 m. de profon- :
-deur, le joli petit lac de Baliran. Vers l'O. et vers l'E., la vue
+côté N., parait littéralement sous les pieds, à 500 m. de profondeur, 
+le joli petit lac de Baliran. Vers l'O. et vers l'E., la vue
 s'étend à l'infini.
 
 Sur le versant espagnol, au S.-O. et à moins de 10 min. du port,
 on trouve une bonne source près de laquelle on déjeunera, face
 aux Monts-Maudits. L'endroit est des plus attrayants.
 
-Pour se rendre à La Pencluse, on ira rejoindre, à une centaine
-de im. à l'E. de la source, le chemin qui va du port à la ville de
+Pour se rendre à La Rencluse, on ira rejoindre, à une centaine
+de m. à l'E. de la source, le chemin qui va du port à la ville de
 Venasque par la vallée de l'Esera. Après quelques lacets en descente
 sur un flanc de colline rocheuse, on filera horizontalement,
 direction S.-E., à travers le haut plateau gazonné de Peña Blanca,
@@ -227,8 +221,8 @@ Picade. Le chemin de Venasque tourne alors à dr. en descente
 
 — p. 282 — La RENCLUSE (21me EXCURSION)
 
-rapide direction S.-O0., pour aboutir au fond de la Vallée de
-l'Esera. On ie quittera 10 min. après, à la première amorce d'un
+rapide direction S.-O., pour aboutir au fond de la Vallée de
+l'Esera. On le quittera 10 min. après, à la première amorce d'un
 sentier qui tourne à g. et qui, après être descendu au Plan des
 Etangs vers 1.900 m. d'alt., remonte en face, droit à La Rencluse.
 On aura perdu le chalet-hôtel de vue en arrivant au creux de la
@@ -237,13 +231,14 @@ arriver.
 
 __Horaire :__
 
-De Luchon à l'Hospice de France, 10 k. 500 de route.
-De l'Hospice au Port de Venasque...... 2h.45 (6h. de marche
-Du Port au Sauvegarde, aller et retour.. 1h.15 ( (Arrêts en sus).
-Du Port de Venasque à La Rencluse.... 2h. »
+```
+De Luchon à l'Hospice de France, 10 k. 500 de route. }
+De l'Hospice au Port de Venasque.............. 2h.45 } 6h. de marche
+Du Port au Sauvegarde, aller et retour........ 1h.15 } (Arrêts en sus).
+Du Port de Venasque à La Rencluse............. 2h. » }
+```
 
 Nota. — Le programme général des courses aux Monts-Maudits
-
 est le même pour les Espagnols que pour les Français, sauf
 qu'ils devront se rendre à La Rencluse le soir de la « Journée
 d'approches », et qu'ils redescendront à Venasque l'après-midi
@@ -257,14 +252,14 @@ est situé à l'E. de l'ancienne cabane, sur un petit plateau qui le
 met à l'abri des avalanches et de la tramontane; il a été auvert
 au public en 1916. C'est une bâtisse ordinaire qu'on aperçoit très
 bien du port de Venasque, ainsi que le sentier qui y conduit. Une
-quarantaine de personnes peuvent y coucher, soit dans les chanibres
+quarantaine de personnes peuvent y coucher, soit dans les chambres
 particulières du premier, soit dans le dortoir du second.
 
 Tous ceux qui, depuis la construction, ont eu le rare plaisir
 de pouvoir séjourner à La Rencluse et surtout d'ascendre quelques-
 unes des grandes cimes voisines, estiment à un haut degré
 la commodité de cette hôtellerie de montagne et l'aménité sans
-pareïlle de la tenancière, Mme Sayo. A l'ancienne Rencluse, dans
+pareille de la tenancière, Mme Sayo. A l'ancienne Rencluse, dans
 cette rustique cahute sous roche, nous avions déjà apprécié les
 qualités de cœur de cette aimable dame, qualités qui se sont amplifiées
 avec le confortable des lieux. Cuisine excellente et copieuse, 
@@ -278,7 +273,7 @@ souhait : c'est que la peseta retrouve sa modestie d'antan.
 
 — p. 283 — (21me EXCURSION) Le TROU du TORO
 
-Course A (deux jours)
+# Course A (deux jours)
 
 ## PREMIÈRE JOURNÉE
 
@@ -297,29 +292,29 @@ où s'engouffrent les eaux pour reparaître on ne sait où.
 
 Le Trou du Toro est l'une des curiosités de la région des Monts-
 Maudits. Situé au Plan des Agualluts, à 2.020 d'alt., il forme un
-bassin rond, très régulier «et très profond, où les eaux des glaciers
+bassin rond, très régulier et très profond, où les eaux des glaciers
 du Néthou, des Salenques et du Moulières tombent en une belle
 cascade. Entouré de toutes parts de murailles à pic, on domine,
 sur tout son pourtour et à une grande hauteur, les eaux tranquilles
 de son lac. On voit par où elles entrent dans le bassin, mais
 on ne voit pas où elles s'écoulent.
 
-L'Enigme du Trou du Toro vient d'entrer, je crois, dans sa
-phase finale, grüce aux trois campagnes spéléologiques de notre
-courageux et savant collègue du C. A. F., M. Norbert Casterel.
-Voici ses conclusions dont il entend conserver toute la responsabilité
+_L'Enigme du Trou du Toro vient d'entrer, je crois, dans sa
+phase finale, grâce aux trois campagnes spéléologiques de notre
+courageux et savant collègue du C. A. F., M. Norbert Casteret.
+Voici ses conclusions dont il entend conserver toute la responsabilité_
 
-1° La source géographique du rio Eséra, jamais précisée, se
-trouve au dac supérieur de Villamuerta;
+1° _La source géographique du rio Eséra, jamais précisée, se
+trouve au lac supérieur de Villamuerta;_
 
-2° Les eaux englouties au Trou du Toro ne revoient pas le jour
-dans la vallée de l'Eséra;
+2° _Les eaux englouties au Trou du Toro ne revoient pas le jour
+dans la vallée de l'Eséra;_
 
-3° Le torrent qui jaillit au Goueil de Jouéou, dans la vallée
+3° _Le torrent qui jaillit au Goueil de Jouéou, dans la vallée
 d'Artiga de Lin, est celui-là même qui disparait sous terre au Trou
-du Toro;
+du Toro;_
 
-4° La Garonne occidentale prend sa source aux grands glaciers
+4° _La Garonne occidentale prend sa source aux grands glaciers_
 
 <div class="page"/>
 
@@ -327,15 +322,13 @@ du Toro;
 
 ![carte 284](../maps/guide-soubiron-0284-carte.jpg)
 
-MASSIF des MONTS-MAUDITS
-
-N. du Néthou qui sont tributaires de l'Océan Atlantique. Le rio
-des Barrancs n'est autre chose que la Garonne naïssante (1).
+_N. du Néthou qui sont tributaires de l'Océan Atlantique. Le rio
+des Barrancs n'est autre chose que la Garonne naissante (1)._
 
 Longeant le Trou du Toro par la g., on traversera le Plan des
 Agualluts direction S., afin d'aboutir à l'étroit goulet qui s'ouvre
 à l'entrée du vallon des Barrancs. En passant par là, on raccourcit
-sur le trajet du sentier qui s'amtorce plus à l'E., en haut du
+sur le trajet du sentier qui s'amorce plus à l'E., en haut du
 Plan des Agualluts. 
 
 On grimpera pendant quelques min. entre deux bandes rocheu-
@@ -343,7 +336,7 @@ On grimpera pendant quelques min. entre deux bandes rocheu-
 ———\
 (1) Norbert Casteret. « L'Enigme du Trou du Toro. Détermination
 des sources du rio Esera et de la Garonne occidentale. » (Bulletin de
-da Société d'Histoire naturelle de Toulouse, 1er fascicule 1931.,
+da Société d'Histoire naturelle de Toulouse, 1er fascicule 1931.)
 
 <div class="page"/>
 
@@ -356,7 +349,7 @@ le vallon s'élargit. Il faut alors franchir le torrent et monter sur
 les terrasses gazonnées de la rive g., au haut desquelles le vallon
 se divise en deux. C'est par la branche E., et par une étroite
 gorge, que s'écoule le ruisseau qui descend du Lac des Barrancs;
-mais c'est par la branchelO. qu'on trouve encore quelques traces
+mais c'est par la branchel O. qu'on trouve encore quelques traces
 de sentier. On montera donc par le vallon O. jusqu'au petit Col
 des Barrancs (2.478m).
 
@@ -377,13 +370,13 @@ est un très beau belvédère vers le S. et vers le N.; dans cette
 dernière direction, la vue passe par-dessus la chaîne frontière
 pour s'étendre jusqu'aux plaines de Saint-Gaudens et de Toulouse.
 
-Pour parvenir au Pic Pierre-Soubiron, il'faut perdre d'abord
+Pour parvenir au Pic Pierre-Soubiron, il' aut perdre d'abord
 une centaine de m. d'alt. dans la vallée des Salenques, puis remonter
 en face, droit au S., afin de contourner le contrefort E.
 du Russell. Si le glacier qui est au-dessous du col est ramolli dans
 sa couche supérieure, sous l'action du soleil, on gagnera au moins
 20 min en le descendant en glissade. S'il est bien glacé, on le
-longera vers le bas par les rochers de dr.,'en perdant le moins
+longera vers le bas par les rochers de dr., en perdant le moins
 d'alt. On remontera immédiatement en face, puis on passera à la
 base du contrefort E. du Russell en suivant une vague trace de
 sentier. Bientôt le Pic Pierre-Soubiron apparaît, majestueux, droit
@@ -404,7 +397,9 @@ franchira le déversoir. Obliquant alors vers l'O., par une petite
 remontée, on parviendra au haut des berges N. du Lac Packe
 qu'on aura littéralement sous les pieds, à 100 m. de profondeur.
 
-Pic Pierre-Soubiron (2.865m). Face Nord. 4. 
+![gravure p286](../maps/guide-soubiron-0286-dessin.jpg)
+
+__Pic Pierre-Soubiron__ (2.865m). Face Nord. 1. 
 Lac Packe (2.650m). — 2. Pic. — 3. Col Pierre-Soubiron (2.750m).
 
 Cette région est splendide. Je ne connais rien dans les Pyrénées
@@ -416,18 +411,20 @@ Le Pic Pierre-Soubiron est là, en face, de l'autre côté du lac,
 dont la muraille N., haute de plus de 200 m., baigne directement
 dans ses eaux. A dr. du pic, tout près, on aperçoit le Col Pierre-
 Soubiron qui fait communiquer la vallée des Salenques avec les
-vallons de Llauzet et de Rio Bueno; on se dirigera vers lui ex
+vallons de Llauzet et de Rio Bueno; on se dirigera vers lui en
 contournant le lac par les hautes berges de droite. Du col, on
 
 <div class="page"/>
 
 — p. 287 — (21me EXCURSION) PIC PIERRE-SOUBIRON
 
+******
+
 grimpera à flanc S. de crête, droit au sommet coté 2.865 et surmonté
 d'un petit cairn.
 
 La première ascension du Pic Pierre-Soubiron en a été faite
-en août 1920, par mes disciples Jean Arlavd et Herri Sabadic.
+en août 1920, par mes disciples Jean Arlaud et Henri Sabadie.
 Sur la proposition d'Arlaud, la Commission de toponymie franco-
 espagnole lui a donné mon nom, en reconnaissance de mes services
 au pyrénéisme. La deuxième ascension a été effectuée par
@@ -444,7 +441,7 @@ qui est presque verticale et qui plonge directement dans le Lac
 Packe, son ascension en est très facile. C'est son grand éloignement
 de tout gite qui en rend l'ascension assez dure.
 
-Situation du pic Pierre-Soubiron et notes explicatives
+__Situation du pic Pierre-Soubiron et notes explicatives__
 
 De la chaine qui va du pic Russell aux pics de Malibierne, se
 détache, vers l'E., un chaînon secondaire qui sépare la vallée
@@ -474,13 +471,13 @@ bon marcheur aurait le temps de faire, de jour, le trajet de
 La Rencluse à Venasque par le pic Pierre-Soubiron, le col et la
 vallée de Malibierne.
 
-L'ascension du pic (Pierre-Soubiron peut être facilement faite
+L'ascension du pic Pierre-Soubiron peut être facilement faite
 dans la journée des points ci-dessous, et par les itinéraires suivants
 
 1° De La Rencluse, par le col des Salenques, en 10 h., aller
 et retour;
 
-2° De l'Hospice de ;Viella, par le vallon de Rio Bueno, en
+2° De l'Hospice de Viella, par le vallon de Rio Bueno, en
 9 h., aller let retour;
 
 3° De Senet, par de col de ce nom et les lacs de Rio Bueno,
@@ -488,7 +485,7 @@ en 8h.45, aller et retour.
 
 Arrêts en sus.
 
-Du sommet du pic, on domine au S. le vallon désolé de (Los
+Du sommet du pic, on domine au S. le vallon désolé de Los
 Anglos et au S.-E., celui de Rio Bueno qui lui fait suite avec ses
 trois jolis lacs. On descendra de terrasse en terrasse vers les
 lacs de Rio Bueno qu'on longera par la g.; on rejoint là un petit
@@ -499,7 +496,7 @@ la vallée des Salenques à 500 m. de profondeur, et plus loin, à
 dr., son confluent avec celle de la Ribagorzana.
 
 Une vague trace de sentier descend maintenant rapide, à travers
-des éboulis, pour aller se perdre dans\un flanc inextricable
+des éboulis, pour aller se perdre dans un flanc inextricable
 de taillis et de rhododendrons; c'est le seul trajet désagréable
 de la journée. On descendra lentement et verticalement en utilisant
 le creux d'un minuscule vallon herbeux, au bas duquel
@@ -507,23 +504,23 @@ on rejoindra un nouveau sentier qui conduit près du torrent
 des Salenques.
 
 A partir de ce point, il y a un sentier sur chaque rive; mais,
-pour aller à l'Hospice de Viella, ion a avantage à suivre celui
+pour aller à l'Hospice de Viella, on a avantage à suivre celui
 de la rive g.; on sautera donc le ruisseau, soit à travers de
 grosses pierres, soit en passant sur un tronc de sapin, s'il existe
-encore. 'Après une demi-h. de marche, on débouche à la grande
+encore. Après une demi-h. de marche, on débouche à la grande
 vallée de la Ribagorzana, 5 k. en aval de l'Hospice de Viella,
 et on passe de l'Aragon dans la Catalogne.
 
-Un grand chemin de ichars remonte la vallée par la rive dr.
-jusqu'à 10 min. de l'Hospice de Viella (1.626”), où il passe rive g.
+Un grand chemin de chars remonte la vallée par la rive dr.
+jusqu'à 10 min. de l'Hospice de Viella (1.626m), où il passe rive g.
 L'Hospice est construit au centre de vertes pelouses qu'entou-
 
 <div class="page"/>
 
-— p. 289 — (21me EXCURSION) . HOSPICE de VIELLA
+— p. 289 — (21me EXCURSION)  HOSPICE de VIELLA
 
-rent des forêts noires de sapins gigantesques. Les icrêtes très
-élevées qui le dominent 'le protègent contre la fureur des vents.
+rent des forêts noires de sapins gigantesques. Les crêtes très
+élevées qui le dominent le protègent contre la fureur des vents.
 
 L'Hospice de Viella n'est pas très confortable; il y a cependant
 quelques lits et la nourriture est passable. Il est très important
@@ -531,33 +528,35 @@ de faire les prix du tout à l'avance. (V. 23° E.)
 
 __Horaire :__
 
-De La Rencluse au (Col des Salenques.... 3h.15
-Du Col des Salenques au Pic Pierre- SoubiDO
-;: onmes sans csmostenmedse modes 2h.30 ° hs #0
-Du Pic Pierre-Soubiron à l'Hospice de CATÉLS ED 80S).
-Viella
+```
+De La Rencluse au Col des Salenques.... 3h.15 }
+Du Col des Salenques au Pic Pierre-Soubi-     }
+  ron.................................. 2h.30 }   9 h. 45
+Du Pic Pierre-Soubiron à l'Hospice de         } (Arrêts en sus).
+  Viella                                4h    }
+```
 
-La Maute Ribagorzana
+### La Haute Ribagorzana
 
 La Haute Ribagorzana est une véritable vallée suspendue, d'un
 pittoresque grandiose, qui a pour base l'Hospice de Viella
 (1.626m) et pour sommet le Pic de Moulières (3.005m) qui trône
 dans pon axe, tout en haut, à l'O. Elle est creusée entre la ligne
-de partage des eaux d'Europe, qui passe à la crête du /Gerbauze,
-et les hautes murailles du Féchan qu la dominent verticalement
+de partage des eaux d'Europe, qui passe à la crête du Gerbauze,
+et les hautes murailles du Féchan qui la dominent verticalement
 sur toute sa longueur.
 
 Dans mon guide des Pyrénées, p. 222, j'ai décrit le site au
 centre duquel est bâti l'Hospice de Viella et les forêts qui l'entourent; 
 c'est un lambeau de l'une de ces forêts qui cache aux
-passants l'entrée de la haute (vallée de la Ribagorzana, l'une des
-plu$ captivantes des Pyrénées.
+passants l'entrée de la haute vallée de la Ribagorzana, l'une des
+plus captivantes des Pyrénées.
 
 En amont des derniers sapins, vers 1.800 m. d'alt., on découvre
 subitement la cuvette d'un ancien lac, transformé aujourd'hui
-en un cirque de verts pâturages. Au-dessus, la pente ke redresse
+en un cirque de verts pâturages. Au-dessus, la pente se redresse
 immédiatement pour conserver une moyenne qui dépasse 30 %.
-Aux 3/4 de ia hauteur, on trouve encore troïs lacs étagés, lacs
+Aux 3/4 de la hauteur, on trouve encore trois lacs étagés, lacs
 qui restent glacés pendant 11 mois. La splendeur de la Haute
 Ribagorzana n'a d'égale que l'oubli dans lequel on l'a laissée jusqu'à 
 ce jour.
@@ -572,7 +571,7 @@ en faisant au passage la Fourcanade et le Moulières.
 
 — p. 290 — HAUTE RIBAGORZANA (21me EXCURSION)
 
-Course A
+__Course A__
 
 ## DEUXIÈME JOURNÉE
 
@@ -591,24 +590,24 @@ traverse des prairies et tourne, à l'O., vers la forêt de sapins
 qui dissimule l'entrée ide la Haute Ribagorzana. Le chemin zigzague
 la forêt, puis débouche à découvert sur la digue de l'ancien
 lac, aujourd'hui transformé en cirque verdoyant. On franchira
-alors le torrent et on longera ensuïte de petit cirque par
+alors le torrent et on longera ensuite de petit cirque par
 le S. jusqu'en haut, où l'on passera définitivement sur la rive g. de
 la vallée. A partir de là, la pente est très raide jusqu'à la crête
 de Gerbauze.
 
 Au début, il faut s'élever très haut par la dr. afin de rejoindre
-un sentierde moutons qui longe la base des rochers pendant
+un sentier de moutons qui longe la base des rochers pendant
 3/4 d'h., et qui tourne ensuite légèrement à g., à travers des
 pâturages, jusqu'à des bandes rocheuses très inclinées. Au Haut
 de celles-ci, on découvrira subitement le premier des trois lacs,
 le plus grand, dans sa cuvette de granit. On se retournera alors
-pour jouir du beau point de vue sur les Bécibéri et'le Comolo
+pour jouir du beau point de vue sur les Bécibéri et le Comolo
 Forno.
 
 On continuera l'ascension le long des lacs qu'on laissera à g.
-et, parvenu à da hauteur du troisième et dernier, on tournera
+et, parvenu à la hauteur du troisième et dernier, on tournera
 carrément à dr., direction N., pour zigzaguer de rudes pentes
-gazonnées,;, on grimpera ensuite, par une succession de petites
+gazonnées; on grimpera ensuite, par une succession de petites
 terrasses et un ravin d'éboulis, vers une petite échancrure de la
 crête de Gerbauze qu'on aperçoit seulement 20 min. avant d'y
 arriver. Cette brèche est située entre un contrefort du petit Moulières, 
@@ -631,50 +630,50 @@ De la brèche de Gerbauze, on marchera presque horizontalement,
 afin d'aboutir directement au pied de la pointe S., où l'on déposera
 le sac et le piolet. C'est par un petit couloir de la face S.
 de la pointe méridionale qu'on montera, pour passer ensuite à
-la pointe N. qui est la plus élevée; un icol impressionnant, mais
-facile, les fait communiauer.
+la pointe N. qui est la plus élevée; un col impressionnant, mais
+facile, les fait communiquer.
 
-Pour cette ascension, les conseils suivants me paraissent indispensables
-: 1° A l'ascension de la première pointe, ile meilleur
+Pour cette ascension, les conseils suivants me paraissent indispensables: 
+1° A l'ascension de la première pointe, le meilleur
 pyrénéiste passera le premier; le guide montera le dernier, afin
 d'enrayer en cas de dérapage; 2° Pour le passage d'une pointe
 à l'autre, on renversera l'ordre de marche; 3° Pour la descente.
-le guide passera le premier, suivi immédiatement du touriste ie
+le guide passera le premier, suivi immédiatement du touriste le
 moins exercé. On redescendra par la voie d'ascension.
 
-Le plus joli point de vue est à la pointe N. i(2.882m), mais ce
+Le plus joli point de vue est à la pointe N. (2.882m), mais ce
 qui fait de grand intérêt de la Fourcanade, c'est da difficulté spéciale
 de son ascension. On ne domine le paysage que dans un
-petit rayon, et cependant on a ila sensation d'être suspendu très
-haut, sur un terrain des tplus instables.
+petit rayon, et cependant on a la sensation d'être suspendu très
+haut, sur un terrain des plus instables.
 
-Sauf sur la crête du Comolo Forno, sur aucun autre sommel
-je n'ai ressenti pareille impression. Sur les faces N., Îles pointes
-de la Fourcanade sont terrifiantes; on les croirait en surplomh.
+Sauf sur la crête du Comolo Forno, sur aucun autre sommet
+je n'ai ressenti pareille impression. Sur les faces N., les pointes
+de la Fourcanade sont terrifiantes; on les croirait en surplomb.
 
-Après avoir frepris le sac et le piolet, on remontera direction
-S., en suivant [la base de la crête qui relie la Fourcanade
+Après avoir repris le sac et le piolet, on remontera direction
+S., en suivant la base de la crête qui relie la Fourcanade
 au Petit Moulières, afin d'aboutir au Col Alfred (2.849m). Ce col
-est une large dépression de la crête, au N. et tout près du Petil
+est une large dépression de la crête, au N. et tout près du Petit
 Moulières;, on y déposera le sac et on fera, au S.-O., l'ascension
 facile du Moulières (3.005m) en 1h.15, aller et retour.
 
-Le Moulières est un belvédère de premier ordre; si on s'avanc:
+Le Moulières est un belvédère de premier ordre; si on s'avance
 de quelques pas au S. et à d'E. de la tourelle, on revoit avec
-émotion presque tout le jpaysage parcouru depuis la veille. L:
+émotion presque tout le paysage parcouru depuis la veille. Le
 Pic Pierre-Soubiron est à deux pas, et l'Hospice de Viella parait
-tout au fond, au milieu de son cirque verdoyant. Les lointairs
+tout au fond, au milieu de son cirque verdoyant. Les lointains
 sont magnifiques.
 
 <div class="page"/>
 
-(21me EXCURSION) 
+— p. 292 — COL ALFRED  (21me EXCURSION) 
 
 Du Col Alfred, on descendra à sa fantaisie, direction N., en
-obldiquant légèrement à dr., afin d'aboutir au vallon qui contourne
+obliquant légèrement à dr., afin d'aboutir au vallon qui contourne
 le massif des Barrancs par l'E.; on y rencontre trois petits lacs
 et on passe près du Col des Aranais qu'on daisse à dr. On longera
-les deux premiers lacs par la dr. et le troisième par ia g.
+les deux premiers lacs par la dr. et le troisième par la g.
 Après ce dernier, on trouve un bon sentier qui descend directement
 au Plan des Agualluts, et on rejoint bientôt le chemin de
 la veille, près du Trou du Toro. De là, 3/4 d'h. suffiront pour
@@ -683,27 +682,27 @@ rentrer à La Rencluse.
 __Horaire :__
 
 ```
-De l'Hospice de Viella à La Fourcanade.. 4h.30 :
-De La Fourcanade au Col Alfred........ 1h. » 9h.30
-Du Col Alfred au Moulières (all. et ret.).. 1h.15 } (Arrêts en sus).
-Du Col Alfred à La Rencluse........... 2h.45 | 
+De l'Hospice de Viella à La Fourcanade... 4h.30 }
+De La Fourcanade au Col Alfred........... 1h. » }   9h.30
+Du Col Alfred au Moulières (all. et ret.) 1h.15 } (Arrêts en sus).
+Du Col Alfred à La Rencluse.............. 2h.45 }
 ```
 
-Course B (un jour)
+__Course B (un jour)__
 
-Traversée du Col Maudit
+## Traversée du Col Maudit
 
-De LA RENCLUSE (2.133») à LA RENCLUSE,
-par la Dent d'Albe (3.114m),
-le Lac Grégonio, le Col Maudit (3.150m) et la Maladetta (3.312m).
+__De LA RENCLUSE (2.133m) à LA RENCLUSE,__\
+__par la Dent d'Albe (3.114m),__\
+__le Lac Grégonio, le Col Maudit (3.150m) et la Maladetta (3.312m).__
 
-NOTICE sur le COL MAUDIT
+<u>__NOTICE sur le COL MAUDIT__</u>
 
 Bien que Russell ait écrit « Il n'y a pas un isard qui puisse le
 traverser » (1), l'itinéraire de son passage en est maintenant
 connu et précisé, grâce à un compte rendu paru dans le Bulletin
 de la Section des Pyrénées Centrales, d'octobre à décembre 1922.
-r'out pyrénéiste exercé peut s'offrir, désormais sans m AReR Je
+Tout pyrénéiste exercé peut s'offrir, désormais sans danger, le
 régal de cet impressionnant passage.
 
 Voici la liste des traversées connues à fin 1923 :
@@ -712,7 +711,7 @@ Voici la liste des traversées connues à fin 1923 :
 de Barcelone, avec le guide Anselmo, de Venasque.
 
 ———\
-(1) Souvenirs d'un Montagnard, % édition, p. 472.
+(1) Souvenirs d'un Montagnard, 2e édition, p. 472.
 
 <div class="page"/>
 
@@ -725,7 +724,7 @@ corde de 60 m., en ont réussi la deuxième.
 1919, accompagné des guides J. Haurillon et Antonio Abadia.
 
 4° La première traversée à la descente a été réalisée en juillet
-1920, par une Laravane de sept Catalans, sous la direction de
+1920, par une caravane de sept Catalans, sous la direction de
 Luis Estasen, grâce à plusieurs rappels de corde.
 
 5° L'unique traversée sans cordes ni guide a été merveilleuscment
@@ -735,36 +734,38 @@ traversée qui a permis de fixer définitivement le meilleur itinéraire,
 la meilleure époque et l'heure la plus favorable pour éviter
 le danger des chutes de pierres.
 
--6° Enfin, Île 13 août 1923, la première traversée féminine du
-fameux passage a été effectuée par une jeune Toulousainc.
-Mie Jane Renodier, accompagnée de M. Laborde-Padie et .de
+6° Enfin, le 13 août 1923, la première traversée féminine du
+fameux passage a été effectuée par une jeune Toulousaine
+Mlle Jane Renodier, accompagnée de M. Laborde-Padie et de
 M. Jean Sabadie comme chef de course.
 
 Depuis, on ne compte plus, tellement est important le nombre
 de ceux qui le franchissent tous les ans à la belle saison.
 
-CONCLUSIONS PERSONNELLES sur la Traversée du COL MAUDIT
+<u>__CONCLUSIONS PERSONNELLES sur la Traversée du COL MAUDIT__</u>
 
 A. — Jusqu'au 10 août, à da condition d'être au moins trois
 et que le couloir soit sans neige, les difficultés sont moyennes
 pour des pyrénéistes exercés.
 
 B. — Passé le 10 août, on s'expose à trouver la rimaye de
-base grande ouverte, ce qui constituera la plus grande difficult.
+base grande ouverte, ce qui constituera la plus grande difficulté
 soit à la montée, soit à la descente.
 
 C. — La traversée à la montée offre plus de charme qu'à là
 descente et est moins dangereuse.
 
-D. —— Comme nombre de touristes, il faut être au moins trois,
+D. — Comme nombre de touristes, il faut être au moins trois,
 mais ne pas dépasser six.
 
-E. —- Il ne faut pas tenter le passage, s'il survient un mauvais
+E. — Il ne faut pas tenter le passage, s'il survient un mauvais
 temps subit ou une chute de neige fraîche.
 
 <div class="page"/>
 
 — p. 294 —
+
+***
 
 ![gravure p294](../maps/guide-soubiron-0294-dessin.jpg)
 
@@ -772,7 +773,7 @@ temps subit ou une chute de neige fraîche.
 
 — p. 295 — (21me EXCURSION) DENT D'ALBE
 
-__Conseils.__ — __Itin. recomm.__ -—- On partira de très bonne heure,
+__Conseils.__ — __Itin. recomm.__ — On partira de très bonne heure,
 car, pour éviter le danger des chutes de pierres au couloir Maudit, 
 il faut y passer, non seulement avant l'arrivée du soleil, mais
 encore avant le relèvement de la température qui, à cette alt. et
@@ -780,7 +781,7 @@ encore avant le relèvement de la température qui, à cette alt. et
 le col soit franchi.
 
 On prendra, au S.-O., le sentier qui monte au Lac Paderne
-qu'on longera :par la dr., pour gagner les terrasses supérieures
+qu'on longera par la dr., pour gagner les terrasses supérieures
 vers le massif d'Albe. Après 2 h. d'ascension, on parviendra à
 hauteur du Pic d'Albe (3.096m), qu'on laissera à dr.; on remontera
 par la g. l'étroit vallon qui mène à la brèche supérieure
@@ -795,7 +796,7 @@ tourelle, on passera sur le versant S., en faisant un crochet de
 2 min. à dr., et on déposera le sac et le piolet au pied d'une
 petite cheminée rapide qui monte au petit col situé entre les
 deux pointes. A quatre pattes, en 20 min., aller et retour, on fera
-lPascension de la pointe N. qui a nom Dent d'Albe (3.114m). C'est
+l'ascension de la pointe N. qui a nom Dent d'Albe (3.114m). C'est
 la cime la plus intéressante de l'extrémité N.-O. du massif, tant
 par sa forme accidentée que par son magnifique point de vue.
 
@@ -838,8 +839,8 @@ hissant à la force du poignet sur une petite corniche qui rejoint
 l'étroit canal au-dessus du rocher coincé. Les prises sont très
 bonnes, et tout pyrénéiste exercé passera par là.
 
-A partir du rocher coincé, la partie est gaghée; il n'y a plus
-ia moindre difficulté. L'important est de marcher en rang serré,
+A partir du rocher coincé, la partie est gagnée; il n'y a plus
+la moindre difficulté. L'important est de marcher en rang serré,
 à cause de la forte pente à travers des cailloux instables qui
 garnissent Je creux du couloir. La moindre petite pierre qui
 filerait serait un gros danger pour le dernier touriste, s'il était
@@ -854,7 +855,7 @@ Passage de droite : Par un rétablissement facile et quelques
 pas vers le S., on débarque sur une terrasse rocheuse qui domine
 le couloir, et qui constitue une partie du Col Maudit.
 
-Passage de gauche : I] faut se hisser sur une étroite et rapide
+Passage de gauche : Il faut se hisser sur une étroite et rapide
 corniche, bordée en dehors par une petite arête en dents de
 scie qui forme rampe, corniche qui grimpe droit au col. C'est
 un chemin acrobatique, qui procure à celui qui y passe un supplément
@@ -881,7 +882,7 @@ montant à la Maladetta (3.312m).
 plus intéressante. Cette ascension est le complément naturel de
 la traversée du Col Maudit.
 
-On montera direction iN. vers le petit col qui s'échancre dans
+On montera direction N. vers le petit col qui s'échancre dans
 la crête S. de la Maladetta, où on déposera le sac et le piolct.
 A partir de là, on grimpera d'abord à flanc E. de crête, puis,
 pendant quelques min., à flanc O., et enfin à toute crête jusqu'au
@@ -912,20 +913,20 @@ on remonte le Dôme et on franchit le Pas de Mahomet.
 __Horaire :__
 
 ```
-De La Rencluse à la Dent d'Albe........ 3h. »  }
-De la Dent d'Albe au pied du Couloir  }
-MAUQIÉ sus s munis os nocis somme soutient. 1h.50  } 8h.45
-Du pied du Couloir au Col Maudit...... Oh. 50 }
-Du Col Maudit à la Maladetta.......... Oh,35  } (Arrêts en sus)
-De la Maladetta à La Rencluse.......... 2h.30  }
+De La Rencluse à la Dent d'Albe....... 3h. » }
+De la Dent d'Albe au pied du Couloir         }
+  maudit.............................. 1h.50 }   8h.45
+Du pied du Couloir au Col Maudit...... Oh.50 }
+Du Col Maudit à la Maladetta.......... Oh.35 } (Arrêts en sus)
+De la Maladetta à La Rencluse......... 2h.30 }
 ```
 
 <u>__AVIS AUX TOURISTES__</u>
 
 Si, parvenu au pied du couloir Maudit, on est obligé, pour
 une cause quelconque, de renoncer au passage, on redescendra
-coucher aux Bains de Venasque (1.702m) par l'itinéraire suivant
-: On dévalera sur le Lac de Grégonio qu'on longera par la
+coucher aux Bains de Venasque (1.702m) par l'itinéraire suivant: 
+On dévalera sur le Lac de Grégonio qu'on longera par la
 rive dr. jusqu'au déversoir. On remarquera au passage un grand
 abri sous un immense rocher situé au N. du lac, abri où pourraient
 coucher 50 personnes.
@@ -937,15 +938,16 @@ milieu d'un bouquet d'arbres. De ce point, les Bains de Venasque
 paraissent au N., à 20 min. en contrebas.
 
 Le lendemain, on pourrait rentrer à La Rencluse par le Pic
-
 d'Albe (3.096m).
 
 ## CINQUIÈME JOURNÉE
+__De la vingt et unième Excursion__
 
-__De la vingt et unième Excursion__\
 __De LA RENCLUSE (2.133m) à LUCHON (629m)__\
 __par le Lac des Gourgoutes, le Pic de Sacroux (2.678m),__\
 __le Cirque des Graouès et la Cascade du Cœur.__
+
+****
 
 —— GUIDE UTILE ——
 
