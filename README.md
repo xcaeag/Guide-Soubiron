@@ -36,10 +36,10 @@ Les fichiers :
 [Pages 229 à 248 : 18eme Excursion](md/guide-soubiron-229-248.md) : Cinq jours aux environs de Luchon \
 [Pages 249 à 264 : 19eme Excursion](md/guide-soubiron-249-264.md) : Cinq jours aux environs de Luchon \
 [Pages 265 à 276 : 20eme Excursion](md/guide-soubiron-265-276.md) : Cinq jours aux Environs de Luchon \
-[Pages 277 à 300 : 21eme Excursion](md/guide-soubiron-277-300.md) :  \
-[Pages 301 à 312 : 22eme Excursion](md/guide-soubiron-301-312.md) :  \
-[Pages 313 à 324 : 23eme Excursion](md/guide-soubiron-313-324.md) :  \
-[Pages 325 à 330 : 24eme Excursion](md/guide-soubiron-325-330.md) :  \
+[Pages 277 à 300 : 21eme Excursion](md/guide-soubiron-277-300.md) : Le MASSIF des MONIS-MAUDITS et ses Environs \
+[Pages 301 à 312 : 22eme Excursion](md/guide-soubiron-301-312.md) : Suite du MASSIF des MONTS-MAUDITS \
+[Pages 313 à 324 : 23eme Excursion](md/guide-soubiron-313-324.md) : Cinq jours en Haut Aran et à la Sierra de Montarto \
+[Pages 325 à 330 : 24eme Excursion](md/guide-soubiron-325-330.md) : Le Massif du Gars et du Cagire \
 [Pages 331 à 342 : 25eme Excursion](md/guide-soubiron-331-342.md) :  \
 [Pages 343 à 352 : 26eme Excursion](md/guide-soubiron-343-352.md) :  \
 [Pages 353 à 362 : 27eme Excursion](md/guide-soubiron-353-362.md) :  \
