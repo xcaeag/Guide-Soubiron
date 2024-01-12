@@ -41,7 +41,7 @@ Les fichiers :
 [Pages 313 à 324 : 23eme Excursion](md/guide-soubiron-313-324.md) : Cinq jours en Haut Aran et à la Sierra de Montarto \
 [Pages 325 à 330 : 24eme Excursion](md/guide-soubiron-325-330.md) : Le Massif du Gars et du Cagire \
 [Pages 331 à 342 : 25eme Excursion](md/guide-soubiron-331-342.md) : Cinq jours en Haut Aran et en Catalogne \
-[Pages 343 à 352 : 26eme Excursion](md/guide-soubiron-343-352.md) :  \
+[Pages 343 à 352 : 26eme Excursion](md/guide-soubiron-343-352.md) : Quatre jours aux Environs de Saint-Girons \
 [Pages 353 à 362 : 27eme Excursion](md/guide-soubiron-353-362.md) :  \
 [Pages 363 à 372 : 28eme Excursion](md/guide-soubiron-363-372.md) :  \
 [Pages 373 à 384 : 29eme Excursion](md/guide-soubiron-373-384.md) :  \
