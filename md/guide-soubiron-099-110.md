@@ -310,7 +310,7 @@ A environ 400 m. au N.-E., s'entaille le Col de Pundillos, par
 lequel on passera le lendemain pour se rendre au Pic d'Enfer.
 
 Pour descendre aux Bains de Panticosa, on reviendra au Col
-d'Arollas, puis on se dirigera au |S.-E., en traversant, par la g.,
+d'Arollas, puis on se dirigera au S.-E., en traversant, par la g.,
 le névé par lequel on y est monté. On rejoindra plus bas les traces
 du sentier qui vient de Sallent par le Col de Pundillos, et on arrivera 
 aux bains par la rive dr. du vallon de Caldarès.
