@@ -9,7 +9,7 @@ Le format choisi : le markdown. Permet des transformations assez aisées vers du
 
 A vous de l'explorer, de confronter vos itinéraires à ceux-là, assez soutenus parfois. Le vocabulaire est sympa, du sommet 'ascendu', du langage et des mœurs des bergers, aux conseils aux touristes improbables, comme celui de boire le moins possible (de vin ?).
 
-Les notes sur la présence des lacs glacés, des glaciers maintenant fondus, des rimailles à franchir sont intéressantes. Les conseils pour emprunter les lignes de tramways ou d'autobus font rêver !
+Les notes sur la présence des lacs glacés, des glaciers maintenant fondus, des rimailles à franchir sont intéressantes. Les conseils pour emprunter les lignes de tramways électriques ou d'autobus font rêver !
 
 Il semble que l'ouvrage soit dans le domaine public... si ce n'était pas le cas, prévenez moi vite !
 
