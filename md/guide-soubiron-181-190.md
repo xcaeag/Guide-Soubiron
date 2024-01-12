@@ -92,7 +92,7 @@ d'aboutir directement au Soum de Menvieille (1.170m). On laissera
 ainsi le vill. de Lançon à ses pieds au S.
 
 Le Soum de Menvieille est le premier sommet d'un intéressant
-chainon qui nait à Arreau même et qui grimpe droit au S. par
+chaînon qui nait à Arreau même et qui grimpe droit au S. par
 la Serre d'Azet, le Pic d'Estos (2.804m) et le Pic de Parraouis
 (2.908m) jusqu'au Lustou (3.025m), son point culminant. C'est ce
 chaînon qui sépare la vallée d'Aure de celle du Louron.

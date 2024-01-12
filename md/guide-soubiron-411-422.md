@@ -217,7 +217,7 @@ Pedrosa, plus au S., est en partie masquée par un contrefort de
 la Roca Entravesado.
 
 Comme son nom l'indique, la Roca Entravesado (roche mise
-en travers) coupe net un chainon qui monte du S. au N. vers
+en travers) coupe net un chaînon qui monte du S. au N. vers
 la frontière, créant ainsi un large col qui empêche sa soudure
 avec la grande chaîne. C'est ce chaînon qui sépare la Catalogne
 de l'Andorre.

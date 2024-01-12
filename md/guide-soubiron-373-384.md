@@ -408,7 +408,7 @@ point, à environ 1/2 h. d'Aulus, on aperçoit à la fois trois cascades
 Garbétou 1 h. en amont, et enfin, celle plus importante du Garbct
 qui domine superbement la vallée, tout en haut, au S. |
 
-Sortant d'Aulus par lV'E., on suivra la route qui remonte la
+Sortant d'Aulus par l'E., on suivra la route qui remonte la
 rive dr. du Garbet jusqu'à Castel Minier (3 k. 500). Là, se trouve
 une baraque qui sert de buvette, l'été, et c'est là aussi que s'embranche
 vers le N.-E. le chemin du port de Saleix. On laissera
@@ -502,7 +502,7 @@ tes; il domine ainsi les vallées de Saleix, d'Aulus, de Suc et de
 Massat. Cette situation privilégiée fait de ce petit sommet un belvédère
 de premier ordre. Au N., le massif des Trois Seigneurs et
 le petit étang d'Arbu qui dort à ses pieds semblent à deux pas.
-Vers les lointains, de l'O. à V'E., paraissent lies grandes cimes de
+Vers les lointains, de l'O. à l'E., paraissent lies grandes cimes de
 la chaîne frontière. Au S.-S.-O.., assez près, la mappe sombre du
 Lac du Garbet fait grand effet et, si on regarde encore plus près,
 à quelques min. au S. du Port, on est agréablement surpris de découvrir

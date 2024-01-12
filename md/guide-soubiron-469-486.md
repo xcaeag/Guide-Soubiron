@@ -698,7 +698,7 @@ direction en suivant le petit sentier qui longe la source principale
 de l'Ariège jusqu'au point où ele disparaît, dans un cirque de
 rocaille, au pied du pic. Là, il tourne à g. et on aperçoit les lacets
 qui grimpent vers le petit Col des Isards, par lequel il franchit le
-chainon secondaire des Porteilles, vers 2.550 d'alt. Il redescend
+chaînon secondaire des Porteilles, vers 2.550 d'alt. Il redescend
 quelques m. par la dr. pour passer dans la partie haute du grand
 cirque et, tout de suite, on distingue, droit au S., la large échancrure
 du Port de Font-Nègre (2.625m). Le sentier y conduit directement

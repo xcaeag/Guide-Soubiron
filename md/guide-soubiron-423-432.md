@@ -225,7 +225,7 @@ au Rialp, et il est certain qu'avant le passage de ses eaux
 dans le roc vers l'O., passage qui diminue tous les jours son importance
 le lac du Rialp devait mesurer 40 ou 50 hectares (1).
 
-De la petite brèche, la pointe du Rialp paraît, à V'E., à 10 min.:
+De la petite brèche, la pointe du Rialp paraît, à l'E., à 10 min.:
 on n'a qu'à contourner un sommet secondaire par le S. et à remonter
 à flanc de crête droit à la cime. |
 
@@ -315,7 +315,7 @@ montagne, afin de gagner le faite d'une croupe gazonnée qui
 monte à l'E., droit à l'Estanyo. On apercevra, d'ailleurs, ce dernier
 dès qu'on atteindra la crête.
 
-On arrivera là sur un chainon de haute alt. orienté O.-E.; c'est
+On arrivera là sur un chaînon de haute alt. orienté O.-E.; c'est
 un belvédère merveilleux d'un bout à l'autre sur les montagnes
 de l'Andorre et de la crête frontière. C'est plutôt une serre parseméc
 de petits arbustes vers le fond et d'herbes fines dans la

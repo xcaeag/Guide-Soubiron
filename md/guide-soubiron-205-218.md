@@ -405,7 +405,7 @@ afin d'aboutir au ravin qui descend de la brèche située
 entre le pic du Port d'Oô et celui des Gourgs-Blancs. On grimpera
 par une pente rapide en contournant un gendarme, et on atteindra 
 la brèche où on passera sur le versant espagnol. En 10 min.
-d'escalade à V'E., sur d'excellent granit, on arrivera au Pic du
+d'escalade à l'E., sur d'excellent granit, on arrivera au Pic du
 Port d'Oô (3.065m).
 
 C'est par erreur que la carte d'Etat-Major attribue 3.114 m.

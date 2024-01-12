@@ -742,7 +742,7 @@ soit une marche d'environ 2h.45, arrêts compris.
 Pour faire l'ascension du Port de Venasque à l'ombre et avec
 le minimum de fatigue, on partira au plus tard à 6 h., heure
 nouvelle. Un vallon rapide monte au port de Venasque entre le
-chainon qui va du pic de la Pique au pic de la Mine. à g., et la
+chaînon qui va du pic de la Pique au pic de la Mine. à g., et la
 
 
 <div class="page"/>

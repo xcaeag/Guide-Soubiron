@@ -93,7 +93,7 @@ Une infinité de vallées, avec leurs nombreux vill., se creusent
 autour de soi dans toutes les directions, et la vue vers la plaine
 s'étend jusqu'à Toulouse qu'on aperçoit très bien par une journée
 claire. L'œil est ensuite attiré par une muraille blanche, unique
-dans les Pyrénées; c'est le chainon calcaire du Plantaurel, qui
+dans les Pyrénées; c'est le chaînon calcaire du Plantaurel, qui
 s'étend du Mas-d'Azil à Lavelanet, et qui a l'air d'une barrière
 entre la montagne et la plaine.
 
@@ -120,7 +120,7 @@ A l'E.-S.-E., le massif de Tabe, qu'on aperçoit en entier, paraît
 — p. 388 — ROC des LOUVETIERES - SAURAT (30me EXCURSION)
 
 Pour jouir des principaux points de vue de cet intéressant
-chainon, on en suivra la crête à l'E. jusqu'au Roc des Louvetières
+chaînon, on en suivra la crête à l'E. jusqu'au Roc des Louvetières
 (1.501m), situé à 3 k. C'est un amas de rochers superposés,
 au sommet de la crête et dominant un beau centre de verdoyants
 pâturages, parmi lesquels le Prat d'Albis, au N.-E. On fera là

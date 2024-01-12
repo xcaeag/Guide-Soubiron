@@ -452,7 +452,7 @@ pic. Mais, pour jouir d'un nouveau point de vue, on ascendra au
 passage le Pic de Fréser.
 
 Après avoir repris le sac, on contourngra le Pic des Gourgs
-par V'E., pour aboutir presque horizontalement au col frontière.
+par l'E., pour aboutir presque horizontalement au col frontière.
 Passant alors sur le versant espagnol, on n'aura qu'à grimper à
 flanc de crête au pic pointu de Fréser (2.825m).
 
@@ -770,7 +770,7 @@ ainsi au touriste une succession de points de vue splendides
 aussi nombreux que variés.
 
 On prendra ce chemin qui conduit, d'abord, au Hameau des
-Cortals après lequel il s'infléchit à lV'E.-S.-E., pour rejoindre,
+Cortals après lequel il s'infléchit à l'E.-S.-E., pour rejoindre,
 
 <div class="page"/>
 

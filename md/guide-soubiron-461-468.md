@@ -264,7 +264,7 @@ d'où on découvre le versant de Montségur. Près de la
 cabine téléphonique, on trouve l'amorce d'un petit sentier qui
 part à flanc E. de la montagne de Soularac, à travers des rhododendrons
 et qui passe bientôf sous la cascade qui descerid de
-V'Etang Tort. Il grimpe ensuite sur un ressaut rocheux au haut
+l'Etang Tort. Il grimpe ensuite sur un ressaut rocheux au haut
 duquel il fait un crochet à g. pour conduire, dans quelques min.
 près de l'étang. L'Etang Tort, à forme imprécise, constitue pour
 le touriste une agréable surprise; ce petit lac, suspendu à flanc

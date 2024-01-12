@@ -104,7 +104,7 @@ le soir même, à Bordes ou Castillon.
 
 Du refuge, on descendra au $., au petit cirque des Estagnous
 qu'on traversera pour remonter en face; obliquant ensuite à
-g, à V'E., on trouvera l'amorce d'un sentier qui monte au Col
+g, à l'E., on trouvera l'amorce d'un sentier qui monte au Col
 de Faustin (2.600m) où on laissera le sac. On n'aura plus qu'à
 tourner au N. et à gravir des pentes faciles par lesquelles on
 atteint le Montvalier en 40 min.

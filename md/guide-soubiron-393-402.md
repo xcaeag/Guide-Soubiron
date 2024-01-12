@@ -99,7 +99,7 @@ Querquéou (1.887m).
 — p. 396 — ORUS — VICDESSOS (31me EXCURSION)
 
 Le Roc de Querquèou est le dernier sommet important du
-chainon à l'E. des Trois Seigneurs, et l'un des mieux situés
+chaînon à l'E. des Trois Seigneurs, et l'un des mieux situés
 de la région. La cime est constituée par un amas de rochers
 granitiques, entassés les uns sur les autres, comme s'ils étaient
 tombés du ciel. C'est par le Querquèou qu'il faut débuter pour

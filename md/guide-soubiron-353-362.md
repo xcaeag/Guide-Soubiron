@@ -333,7 +333,7 @@ d'un belvédère splendide dans toutes les directions. Au N.-E.,
 repérer la voie d'ascension pour le lendemain. Vers le S., paraissent
 toutes les grandes cimes des régions de Sabourède, de Colomès
 et des Encantados. Sauf les Monts Rouch qui sont tout près,
-à V'E., et qu'une prochaine excursion nous fera connaitre, on ne
+à l'E., et qu'une prochaine excursion nous fera connaitre, on ne
 sera entouré que de cimes familières qui rappelleront les précédentes
 excursions.
 

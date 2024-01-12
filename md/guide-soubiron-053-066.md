@@ -554,7 +554,7 @@ la forme des lieux ne correspond pas du tout à ce qu'indiquent
 les cartes. Une grosse erreur s'y est glissée et perpétuée. Au lieu
 d'apercevoir le vallon de l'Arrioussec courir E.-O., presque parallèlement 
 à la chaîne du Prat deou Rey au Granquet, on trouve
-un chainon qui est perpendiculairement soudé à cette chaîne et
+un chaînon qui est perpendiculairement soudé à cette chaîne et
 qui descend direction N., entre les deux Génies. C'est sur ce chaînon 
 qu'est échancré le Col d'Espadrès qui fait pendant à celui du
 Prat deou Rey, plus à l'E., et qui fait communiquer cette dernière
