@@ -4,41 +4,40 @@ abstract: |
     Du PIC d'ANIE au CANIGOU
     En 40 Excursions
 title: |
-    | xxxxxxxxxx EXCURSION
-    | xxxxxxxxxxxxxxxxxxx
+    | VINGT-CINQUIÈME EXCURSION
+    | Cinq jours en Haut Aran et en Catalogne
 output: pdf_document 
 ---
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
 -----------------------
-[//]: # (— p. XX —)
-
-— p. 331 —
+[//]: # (— p. 331 —)
 
 # VINGT-CINQUIÈME EXCURSION
 
 (No 19 de la 1re édition)
 
-Cinq jours en Haut Aran et en Catalogne
+__Cinq jours en Haut Aran et en Catalogne__\
+__AU DÉPART DE MARIGNAC OU DE LUCHON__
 
-AU DÉPART DE MARIGNAC OU DE LUCHON
 _B. E. — Du 15 Juillet au 15 Septembre._
 
 Cartes à emporter : Saint-Girons et Mont Rouch réunies.
 De MARIGNAC à SENTEIN,
 
-par le Val d'Aran,
-= Jes Sources de la Garonne, le Grand Pic de Colomès,
-le Grand Péguéra, la Pointe de Sabourède,
-Salardu, la Vallée de Bagerque, le Maubermé ét le Port d'Urets.
+__par le Val d'Aran,__\
+__Les Sources de la Garonne, le Grand Pic de Colomès,__\
+__le Grand Péguéra, la Pointe de Sabourède,__\
+__Salardu, la Vallée de Bagerque, le Maubermé et le Port d'Urets.__\
 
 <u>__AVIS AUX TOURISTES__</u>
+
 Si les vingtième et vingt-troisième excursions nous ont fait
 visiter la majeure partie du beau Val d'Aran, la vingt-cinquième
 nous en fera connaître la. haute région, qui est magnifique
 c'est-à-dire les Cirques de Colomès et de Sabourède et
-les Sources de la Garonne. (
+les Sources de la Garonne.
 
 On prendra un guide luchonnais connaissant les régions de
 Colomès et de Los Encantados, ou tout au moins la première;
@@ -49,7 +48,8 @@ pour Los Encantados.
 On emportera des provisions pour cinq repas et les divers
 casse-croûte.
 
-CARTES de la 25“ EXCURSION
+<u>__CARTES de la 25me EXCURSION__</u>
+
 La vingt-cinquième excursion évolue sur une quarantaine
 de k. au S. et au N. de Salardu. Comme la partie méridionale
 est très riche en sites touristiques, deux cartes m'ont paru
@@ -57,8 +57,8 @@ indispensables. La première comprend la partie au S. de
 Salardu jusqu'au Grand Péguéra et la deuxième, la partie au
 N. jusqu'à Sentein.
 
-<p class="droite">(Voir ci-contre la Carte de la Partie S.).</p>
-<p class="droite">(Voir page 340, celle de la Partie N.).</p>
+<p class="droite">(Voir ci-contre la Carte de la Partie S.).<br/>
+(Voir page 340, celle de la Partie N.).</p>
 
 <div class="page"/>
 
@@ -72,8 +72,8 @@ N. jusqu'à Sentein.
 
 ## PREMIÈRE JOURNÉE
 
-De MARIGNAC (500m) à SALARDU (1.268m)
-et aux SOURCES de la GARONNE (1.872m), par le Val d'Aran.
+__De MARIGNAC (500m) à SALARDU (1.268m)__\
+__et aux SOURCES de la GARONNE (1.872m), par le Val d'Aran.__
 
 —— SANS GUIDE ——
 
@@ -111,8 +111,8 @@ naissante, et on rentrera à Salardu par le Cap de Aran.
 __Horaire de la Journée :__
 
 ```
-De Salardu au port de Béret............ 2h. » 3h.30
-Du Col de Béret à Salardu.............. 1h.30 } (Arrêts en sus).
+De Salardu au port de Béret........ 2h. » }   3h.30
+Du Col de Béret à Salardu.......... 1h.30 } (Arrêts en sus).
 ```
 
 ———\
@@ -125,18 +125,18 @@ de Marignac.
 
 ## DEUXIÈME JOURNÉE
 
-De SALARDU (1.268m) à la PLETA DE LOS GAVACHOS (2.125m),
-par la Vallée d'Aiguamoch,
-le Cirque de Colomès et le Grand Pic de Colomès (2.930m).
+__De SALARDU (1.268m) à la PLETA DE LOS GAVACHOS (2.125m),__\
+__par la Vallée d'Aiguamoch,__\
+__le Cirque de Colomès et le Grand Pic de Colomès (2.930m).__
 
 —— GUIDE INDISPENSABLE ——
 
 __Conseils.__ — __Itin. recomm.__ — On sortira de Salardu par la
 route de Trédos et, quelques min. après, on franchira la Garonne
 pour la longer par la rive g. jusqu'à hauteur du vill. On quittera
-bientôt la nouvelle route (1) du port de la Bonaïgueet on tournera
+bientôt la nouvelle route (1) du port de la Bonaïgue et on tournera
 au S. pour remonter la vallée d'Aiguamoch jusqu'aux Bains
-dé Trédos (1.725m). Là, le chemin muletier passe rive dr. 1/2 h.
+de Trédos (1.725m). Là, le chemin muletier passe rive dr. 1/2 h.
 environ et on revient définitivement rive g. jusqu'au lac de la
 Llosa (2.035m) situé à l'entrée du cirque de Colomès. Droit
 au S., apparaît alors, majestueux, le Grand Pic de Colomès
@@ -146,13 +146,13 @@ Bien que la vallée d'Aiguamoch soit des plus intéressantes, ce
 n'est vraiment qu'à partir du lac de la Llosa que l'esprit est
 captivé par la splendeur de cette région.
 
-Par sa forme particulière et ses nombreux lacs, le Cirque d
+Par sa forme particulière et ses nombreux lacs, le Cirque de
 Colomès est unique dans les Pyrénées. Une crête secondaire (2)
-qui se détache du (Grand Pic de Colomès, s'avance au centre du
+qui se détache du Grand Pic de Colomès, s'avance au centre du
 cirque sur les deux tiers de sa longueur, le partageant en deux
 vallons reliés entre eux par le N., ce qui lui donne la forme
 d'un U. Grands ou petits, on compte plus de 40 lacs, presque
-tous visibles du pic de Colomès. L
+tous visibles du pic de Colomès.
 
 C'est par le vallon oriental que nous allons monter au grand
 pic en longeant la plupart des beaux lacs de l'admirable cirque.
@@ -162,12 +162,12 @@ continue direction S.-O. vers le port de Colomès (2.585m) d'où
 on peut descendre à Caldas de Bohi; on prendra celui de g. en
 franchissant le ruisseau qui vient du Lac Major, et on longera
 ensuite le lac de la Llosa par la rive méridionale. Tournant alors
-direction S., on laissera à g. le lac de Las: Clotos, facilement
+direction S., on laissera à g. le lac de Lac Clotos, facilement
 
 ———\
 (1) Voir 23° E., p. 313.
 
-(2) C'est sur cette crête que s'élève le sommét nommé par M. Gourdon
+(2) C'est sur cette crête que s'élève le sommet nommé par M. Gourdon
 « Pouce de Colomès » et que les gens du pays appellent « Tuc
 del Cap de Colomès ». V. Annuaire du C. A. F., année 1877, p. 559.
 
@@ -199,7 +199,7 @@ pour préparer la couchée et on fera l'ascension du pic avec
 le guide.
 
 Après être passé sur le versant méridional, on se dirigera. à
-VO. à flanc de montagne, pour arriver à une dépression située
+l'O. à flanc de montagne, pour arriver à une dépression située
 sur un chaînon secondaire qui se détache au S. du Grand Colomès
 On pourra y laisser le sac, car on repassera là à la descente
 Une rude escalade à toute crête, droit au N., conduira
@@ -214,12 +214,12 @@ de soi.
 
 Le panorama est immense dans toutes les directions, mais ce
 qui retient le plus l'attention après le massif des Monts-Maudits,
-ce sont les profondeurs de l'Aran et la chaîne ariégcoise du.
+ce sont les profondeurs de l'Aran et la chaîne ariégcoise du
 Crabère aux deux Mont Rouch. Au S.-E., le (Grand Péguéra est
 magnifique, et on se rend bien compte qu'il est le souverain
 de la contrée.
 
-On redescendra au S. jusqu'à la dépression du chainon secon-
+On redescendra au S. jusqu'à la dépression du chaînon secon-
 
 <div class="page"/>
 
@@ -236,11 +236,12 @@ beaucoup plus grand, est plus au S.
 
 __Horaire de la Journée :__
 
-De Salardu à Las Clotos.............:. 3h.45
-De Las Clotos au Traouc del Rat....... 2h.15 YJh. )»
-Du Traouc del Rat au grand Colomès.. 1h. »
-} (Arrêts en sus).
-Du Colomès à la Pleta de Los Gavachos. 2h. >» )
+```
+De Salardu à Las Clotos............... 3h.45 }
+De Las Clotos au Traouc del Rat....... 2h.15 }  9 h. »
+Du Traouc del Rat au grand Colomès.... 1h. » } (Arrêts en sus).
+Du Colomès à la Pleta de Los Gavachos. 2h. » }
+```
 
 ## TROISIÈME JOURNÉE
 
@@ -266,18 +267,18 @@ col fait communiquer la vallée de Saint-Nicolas qu'on vient de
 quitter avec celle de Subenulls qu'on va traverser.
 
 Au col, on découvre subitement cette dernière, ses deux jolis
- lacs et un deuxième col (2.510m) ouvert, plus au S.-E., sur Ja
+lacs et un deuxième col (2.510m) ouvert, plus au S.-E., sur la
 crête qui sépare les deux vallées parallèles de Subenulls et de
 Monestero. Le col franchi, on descendra en biais vers le lac
-supérieur pour remonter en face au deuxième col. On jouira er
+supérieur pour remonter en face au deuxième col. On jouira en
 
 <div class="page"/>
 
 — p. 337 — (25me EXCURSION) LE GRAND PEGUERA
 
 y arrivant d'un point de vue magnifique sur une région splendide
-A dr., au S., le Grand Péguéra parait dans toute sa ma-
-jesté; à g., au N.-E., s'élancent vers le ciel les deux pointes de
+A dr., au S., le Grand Péguéra parait dans toute sa majesté; 
+à g., au N.-E., s'élancent vers le ciel les deux pointes de
 Los Encantados; enfin, sous les pieds, à l'E. et à l'O., se creusent
 les deux coquettes vallées de Monestero et de Subenulls. Aucune
 région des Pyrénées n'affecte le caractère étrange et captivant
@@ -322,7 +323,7 @@ de m. à l'O. du lac. On pourra toujours coucher dans la forêt
 
 <div class="page"/>
 
-— p. 338 — POINTE Er CIRQUE ne SABOUREDE (25me EXCURSION)
+— p. 338 — POINTE et CIRQUE de SABOUREDE (25me EXCURSION)
 
 voisine. A quelques min. du déversoir du lac, sur le chemin
 d'Espot, on trouve encore la chapelle où l'on se rend tous les
@@ -331,17 +332,17 @@ ans en pèlerinage.
 __Horaire de la Journée :__
 
 ```
-De la Pleta de Los Gavachos au Grand \ Sk. 5
-PÉRUÉER . se: succes RP TT 5h.30 } (Arrêts en sus).
-Du Grand Péguéra au Lac de San Mauricio 3h.30 | °
+De la Pleta de Los Gavachos au Grand          }   9 h.
+  Péguéra...............................5h.30 } (Arrêts en sus).
+Du Grand Péguéra au Lac de San Mauricio 3h.30 }
 ```
 
 ## QUATRIÈME JOURNÉE
 
-Du LAC de SAN MAURICIO (1.895m) à SALARDU (1.268m),
-par le Port de la Ratère (2.544m)
-la Pointe de Sabourède (2.861m), le Cirque de Sabourède
-| et la Vallée de Ruda.
+__Du LAC de SAN MAURICIO (1.895m) à SALARDU (1.268m),__\
+__par le Port de la Ratère (2.544m)__\
+__la Pointe de Sabourède (2.861m), le Cirque de Sabourède__\
+__et la Vallée de Ruda.__
 
 —— GUIDE INDISPENSABLE ——
 
@@ -352,7 +353,7 @@ Ratère et qui, après avoir franchi plusieurs cuvettes de lacs
 Ratère est herbeux et d'accès très facile; on y jouit d'un joli
 point de vue, surtout sur la région des Encantados. Immédiatement
 après, on s'élèvera en écharpe vers le N.-E. et on fera
-l'ascension directe, à flanc ©. de crête, de la Pointe de Sabourède
+l'ascension directe, à flanc O. de crête, de la Pointe de Sabourède
 (2.861m). Ce sommet domine merveilleusement trois régions
 constellées de lacs : celle de la vallée de Gerbel au N.-E., celle
 du Cirque de Sabourède au N.-O. et celle de San Mauricio au S.
@@ -376,10 +377,10 @@ de la Ratère.
 
 — p. 339 — (25me EXCURSION) VALLEE De BAGERQUE
 
-On suivra la rive g. 20 min. environ, on reviendra momentinément
+On suivra la rive g. 20 min. environ, on reviendra momentanément
 rive dr., et on repassera définitivement rive g. en longeant
 la Garonne de Ruda jusqu'à Salardu. Le sentier, à
-peine iracé en plusieurs endroits, traverse un terrain très accidenté
+peine tracé en plusieurs endroits, traverse un terrain très accidenté
 parsemé de rhododendrons. Il devient plus régulier à
 mesure qu'on descend et on rejoint enfin, vers 1.600 m. d'alt.
 la nouvelle route qui mène directement à Salardu. 
@@ -387,13 +388,13 @@ la nouvelle route qui mène directement à Salardu.
 __Horaire de la Journée :__
 
 ```
-De San-Mauricio au Port de la Ratère.... 2h.15
-Du Port à la Pointe de Sabourède....... 2h.10 9h.30
+De San-Mauricio au Port de la Ratère... 2h.15 }
+Du Port à la Pointe de Sabourède....... 2h.10 }   9h.30
 De la Pointe au Lac de Sabourède....... 1h.50 } (Arrêts en sus).
-Du Lac de Sabourède à Salardu......... 3h.15
+Du Lac de Sabourède à Salardu.......... 3h.15 }
 ```
 
-ENCANTADOS et SASOURÈDE
+<u>__ENCANTADOS et SABOURÈDE__</u>
 
 Toute cette région a été explorée en détail, en 1926, par les
 campeurs de la Section des Pyrénées Centrales, sous la direction
@@ -403,11 +404,12 @@ nombreuses premières en pratiquant l'alpinisme acrobatique.
 
 ## CINQUIÈME JOURNÉE
 
-De SALARDU (1.268m) à SENTEIN (760m) [2],
-par la Vallée de Bagerque,
-le Maubermé (2.880m) et le Port d'Urets (2.547m).
+__De SALARDU (1.268m) à SENTEIN (760m) [2],__\
+__par la Vallée de Bagerque,__\
+__le Maubermé (2.880m) et le Port d'Urets (2.547m).__
 
 —— GUIDE UTILE ——
+
 Nota. — Cette journée d'excursion nous fait passer des
 Pyrénées centrales aux Pyrénées ariégeoises et catalanes. C'est
 du magnifique belvédère du Maubermé que nous verrons encore
@@ -432,7 +434,7 @@ avec la gare de Saint-Girons.
 
 <div class="page"/>
 
-— p. 340 — DE SALARDU 1 SENTEIN (25me EXCURSION)
+— p. 340 — DE SALARDU A SENTEIN (25me EXCURSION)
 
 ![carte p340](../maps/guide-soubiron-0340-carte.jpg)
 
@@ -447,7 +449,7 @@ le chemin jusqu'au Port d'Urets, d'où on le renverra.
 
 Partant au N.-E., on suivra le chemin de chars jusqu'au vill.
 de Bagerque situé à l'entrée de la vallée de ce nom. Après le
-ill, le sentier prend définitivement la direction N. pour remonter
+vill., le sentier prend définitivement la direction N. pour remonter
 cette longue vallée en longeant, souvent à une grande
 hauteur, le rio Iñola qui descend du plateau du Liat.
 
@@ -461,8 +463,7 @@ suivra ce dernier qui longe la rive dr. de la gorge jusqu'au
 lac de Montolieu. Ce lac, très encaissé et très sauvage, est glacé
 dix mois de l'année. On le laissera à dr. et on montera directement
 au Port d'Urets (2.547m). On remarquera au passage les
-anciennes baraques des mineurs de Montolieu, aujourd'hui aban-
-données.
+anciennes baraques des mineurs de Montolieu, aujourd'hui abandonnées.
 
 Parvenu au Port d'Urets, on y laissera le sac à la garde du
 porteur. Ce port est situé sur la crête frontière, entre le Maubermé
@@ -476,7 +477,7 @@ L'ascension du Maubermé par l'E. serait très délicate. Il est
 préférable de faire un petit détour par le S. et d'y monter par
 le S.-O. On suivra donc vers l'O. le sentier qui longe les escarpements
 S. du pic pour aboutir au Col de Maubermé. Ce Col est
-situé au N. du Tuc des Crabes (2.616m) sur la crête qui séparc
+situé au N. du Tuc des Crabes (2.616m) sur la crête qui sépare
 la coume de Montolieu du plateau du Liat vers lequel le sentier
 descend. On v jouira d'un point de vue magnifique. On
 laissera le sentier à g., et on commencera l'ascension du Maubermé
@@ -487,16 +488,16 @@ la face S.-O.
 
 <div class="page"/>
 
-— p. 342 — SENTEIN | (25me EXCURSION)
+— p. 342 — SENTEIN  (25me EXCURSION)
 
 Le Maubermé est formé d'une étroite crête d'une trentaine de
-m., orientée du N.-O. au S.-E. Æ chacune des extrémités, s'élève
+m., orientée du N.-O. au S.-E. A chacune des extrémités, s'élève
 une tourelle d'environ 2 m. de hauteur, et au centre une croix
 en bois. C'est l'un des plus beaux belvédères des Pyrénées, tant
 par l'immensité de son panorama que par la coquetterie de la
 région qu'il domine. C'est un balcon placé en face des Pyrénées
-centrales, ce qui permet de revivre la majeure partie des excur*
-sions qu'on a faites dans cette région. C'est avec émotion qu'on
+centrales, ce qui permet de revivre la majeure partie des excursions 
+qu'on a faites dans cette région. C'est avec émotion qu'on
 revoit les cimes familières sur lesquelles on a vécu de si belles
 heures.
 
@@ -514,7 +515,7 @@ pitons terrifiants et ses blancs glaciers. Au N. et à l'E., des cimes
 débonnaires pour la plupart, vers lesquelles rampent les serres
 aux paresseuses ondulations; des forêts aux essences variées:
 des sources et des fleurs à chaque pas; en un mot, le charme
-dans la grandeur. |
+dans la grandeur.
 
 On reviendra au port par la voie d'ascension et, après avoir
 renvoyé le porteur, on franchira la frontière pour descendre
@@ -528,8 +529,8 @@ Bocart d'Eylie, conduit directement à Sentein.
 __Horaire de la Journée :__
 
 ```
-De Salardu à Bagerque................. 0h.45
-De Bagerque au Port d'Urets............ 3h.30 10h.30
-Du Port d'Urets au Maubermé (al. et ret.). 24h.45 } (Arrêts en sus).
-Du Port d'Ürets à Sentein.............. 3h.30
+De Salardu à Bagerque..................... 0h.45 }
+De Bagerque au Port d'Urets............... 3h.30 }   10h.30
+Du Port d'Urets au Maubermé (al. et ret.). 2h.45 } (Arrêts en sus).
+Du Port d'Ürets à Sentein................. 3h.30 }
 ```
