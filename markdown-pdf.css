@@ -18,8 +18,8 @@ strong {
 }
 
 code {
-    font-size: 7px;
-    line-height: 100%;
+    line-height: 135%;
+    font-size: 8px;
 }
 
 table {
@@ -39,4 +39,16 @@ h2 {
     padding: 0;
     margin-top: 6px;
     margin-bottom: 6px;
+    background-color: None;
+}
+
+pre {
+    background-color: #ffffff;
+    border: 0px;
+}
+
+
+pre:not(.hljs),
+pre.hljs code>div {
+    padding: 1px;
 }

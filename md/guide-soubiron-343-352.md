@@ -4,27 +4,26 @@ abstract: |
     Du PIC d'ANIE au CANIGOU
     En 40 Excursions
 title: |
-    | xxxxxxxxxx EXCURSION
-    | xxxxxxxxxxxxxxxxxxx
+    | VINGT-SIXIÈME EXCURSION
+    | Quatre jours aux Environs de Saint-Girons
 output: pdf_document 
 ---
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
 -----------------------
-[//]: # (— p. XX —)
-
-— p. 343 —
+[//]: # (— p. 343 —)
 
 # VINGT-SIXIÈME EXCURSION
 
-Quatre jours aux Environs de |Saint-Girons
+__Quatre jours aux Environs de Saint-Girons__
 
 _B. E. — Du 15 Juin au 15 Octobre._
 
 Carte à emporter : Saint-Girons.
 
 <u>__AVIS AUX TOURISTES__</u>
+
 Les programmes des quatre journées peuvent ètre réalisés
 séparément en allant coucher, la veille, au point de départ.
 On peut aussi rentrer à Saint-Girons et à Toulouse les soirs
@@ -34,10 +33,10 @@ de la deuxième et de la quatrième journée.
 
 ## PREMIÈRE JOURNÉE
 
-De SAINT-GIRONS (413m) à SEIX (503m), par Lacourt (451m),
-Erp (697m), le Col d'Ayens (1.000m),
-le Tuc de la Courate (1.422m), Saint-Pierre de Soulan (607m),
-“Pontaut (480m), Vic et Oust (499m).
+__De SAINT-GIRONS (413m) à SEIX (503m), par Lacourt (451m),__\
+__Erp (697m), le Col d'Ayens (1.000m),__\
+__le Tuc de la Courate (1.422m), Saint-Pierre de Soulan (607m),__\
+__Pontaut (480m), Vic et Oust (499m).__
 
 —— SANS GUIDE ——
 
@@ -70,7 +69,7 @@ verdoyant de Soulan est sous les yeux, et les toits d'ardoise de
 ses nombreux hameaux étincellent au soleil matinal. Les premiers
 plans de la moyenne montagne décrivent un arc de cercle
 autour du col, tandis que, plus loin et plus haut, s'étagent les
-sommets de la grande chaîne. Le Montvalier cest majestueux.
+sommets de la grande chaîne. Le Montvalier est majestueux.
 
 Du Col d'Ayens, on prendra la petite route forestière qui file
 par la g., à flanc de montagne, en s'élevant en pente douce
@@ -90,13 +89,13 @@ sentier de crête qui monte au point culminant (1.422m).
 Le Tuc de la Courate, point de triangulation de premier ordre.
 est un merveilleux belvédère. La vue s'étend du Pic de Midi de
 Bigorre au Soularac, en passant par le Nèouvielle, la chaine
-frontière et le Carlitte. Au! N., toute la plaine de Toulouse; à
+frontière et le Carlitte. Au N., toute la plaine de Toulouse; à
 l'E. celle de l'Aude et, à l'O., celle de Saint-Gaudens. Sous soi,
-tout le Saint-Gironnais et tout le bassin du Salat. Au $S., l'Arac
+tout le Saint-Gironnais et tout le bassin du Salat. Au S., l'Arac
 et la route qui serpente à près de 1.000 m. de profondeur retiennent
 longtemps l'attention.
 
-Comme les chaîinons secondaires qui séparent les vallées sont
+Comme les chaînons secondaires qui séparent les vallées sont
 moins élevés, rien ne gêne la vue qui grimpe jusqu'aux majestueux
 sommets de la chaine frontière.
 
@@ -137,7 +136,7 @@ tout son intérêt, on ne suivra pas la route; on se dirigera
 sur Seix en ligne droite. A 300 m. en aval du pont de Pontaut,
 au N. d'une maison, on apercevra un chemin qui grimpe raide
 vers l'O. et qui mène, en 1/4 d'h., près d'une grange située à g.,
-au bord d'un pré. [En remontant ce dernier en diagonale, on
+au bord d'un pré. En remontant ce dernier en diagonale, on
 parviendra dans 10 min. au faîte de la colline qui sépare la
 vallée de Massat de celle d'Aulus, vers 650 d'alt. De ce point,
 on domine tout le bassin de Seix dont on a sous les veux
@@ -147,10 +146,10 @@ A deux pas, en face, s'élève le Cap de Bouirech (1.872m), dont
 on aperçoit toute la voie d'ascension au départ de Sentenac.
 Plus haut, au S.-O., le Montvalier trône sur tout le paysage. Enfin,
 si on se retourne, on voit s'étaler devant soi, comme un immense
-amphithéâtre, tout le' cirque de Soulan.
+amphithéâtre, tout le cirque de Soulan.
 
 Pour descendre vers le vill. de Vic, on se dirigera à g. vers
-le S., puis on laissera à dr. lelchemin qui conduirait à Soueix.
+le S., puis on laissera à dr. le chemin qui conduirait à Soueix.
 Au delà d'une métairie, on fera un crochet à g., vers le fond du
 ravin, pour passer ensuite sous une futaie, et déboucher, 10 min.
 après, dans un plateau. Le chemin longe alors plusieurs prairies
@@ -166,18 +165,17 @@ arrive, enfin, à Seix.
 __Horaire de la Journée :__
 
 ```
-De Saint-Gironslau Col d'Ayens......... 2h.45
-Du Col au Tuc de la Courate........... 1h.45 8h. »
+De Saint-Gironslau Col d'Ayens........ 2h.45 }
+Du Col au Tuc de la Courate........... 1h.45 }   8h. »
 De la Courate au pont de Pontaut...... 1h.40 } (Arrêts en sus).
-Du pont de Pontaut à Seix.............. 1h.50
+Du pont de Pontaut à Seix............. 1h.50 }
 ```
 
 ## DEUXIÈME JOURNÉE
 
-De SEIX (503m) à SENTEIN (760m), par le Cap de Bouirech (1.872m),
-
-le Tuc de Pélatos (1.617m), le Col de Larrech (1.450m)
-et Les Bordes-sur-Lez (578m).
+__De SEIX (503m) à SENTEIN (760m), par le Cap de Bouirech (1.872m),__\
+__le Tuc de Pélatos (1.617m), le Col de Larrech (1.450m)__\
+__et Les Bordes-sur-Lez (578m).__
 
 —— SANS GUIDE ——
 
@@ -215,11 +213,11 @@ Pic des Trois-Seigneurs, le Mont Ceint et le Port de Saleix.
 
 De la fontaine de Coumière, en gagnera la crête dans 10 min.
 et, à partir de là, si la journée est claire, on cheminera dans un
-ravissement continu. On dominera constamment les deux versants
-: à g., celui des vallées d'Esbints et de Bethmale; à dr.
+ravissement continu. On dominera constamment les deux versants: 
+à g., celui des vallées d'Esbints et de Bethmale; à dr.
 celui du cirque d'Alos et aussi toute la plaine du Saint-Gironnais.
 L'ascension se fait en pente douce par des sentiers qui sillonnent
-des bruyères et des gazons, et touours à toute crête. On marche
+des bruyères et des gazons, et toujours à toute crête. On marche
 ainsi parallèlement à la chaîne frontière, et il semble qu'on est
 sur un balcon placé là par la nature, pour jouir longtemps de la
 splendeur de ses hautes cimes.
@@ -230,8 +228,8 @@ de la frontière.
 
 Au rocher de Cartignos (1.670m), on pourra faire une petite
 halte, car on y jouit déjà d'une vue superbe. Encore 40 min. de
-marche, et on arrive au point culminant de cet intéressant chainon
-au Cap de Bouirech (1.872m). |
+marche, et on arrive au point culminant de cet intéressant chaînon
+au Cap de Bouirech (1.872m).
 
 Le Bouirech n'a aucun caractère d'un pic; c'est le point culminant
 et le mieux situé d'une chaîne secondaire très isolée qui
@@ -257,25 +255,25 @@ Portech (930m), col par lequel passe le chemin de Moulis à Alos.
 
 <div class="page"/>
 
-— p. 349 — (26me EXCURSION) COL ne LARRECH
+— p. 349 — (26me EXCURSION) COL de LARRECH
 
 Le Tuc de Pélatos est, comme le Bouirech, un très joli belvédère
 régional, car sa vue rayonne dans toutes les directions. De
 son sommet, on domine toute la vallée de Bethmale, et on a sous
-soi, au S.-S.-O., son joli lac. |
+soi, au S.-S.-O., son joli lac.
 
 Continuant à toute crête, on descendra dans 20 min. au Col de
 Larrech, au S.-O. duquel est situé le nouveau refuge, vers 1.500 m.
 d'alt. Ce refuge, destiné surtout aux sports d'hiver, peut abriter
 une trentaine de personnes, avec paillasses de couchage pour
-douze touristes. Pour la clé, s adresser à M. Dunglas, pharmacien,
+douze touristes. Pour la clé, s'adresser à M. Dunglas, pharmacien,
 à Castillon.
 
 En 1h.30, on peut descendre du Col de Larrech à Castillon,
 si on veut rentrer à Saint-Girons par le dernier tramway;
 mais, si l'on doit continuer par l'excursion des deux jours
 suivants, ou simplement de l'un des deux, on ira coucher à
-Sentcin en suivant l'itinéraire ci-dessous.
+Sentein en suivant l'itinéraire ci-dessous.
 
 Sur le versant O., près du refuge, s'amorce un sentier qui descend
 directement au hameau d'Arret, où l'on rejoint la route à
@@ -286,10 +284,10 @@ Sentein.
 __Horaire de la Journée :__
 
 ```
-De Seix à Sentenac (3 k.)............... 0h.35
-De Sentenac à la fontaine de Coumiere... 2h. »  } 7h.30
-De la fontaine au Cap de Bouirech...... h.25 } (Arrêts en sus).
-Du Cap de Bouirech à Bordes.......... 3h.30
+De Seix à Sentenac (3 k.)............... 0h.35 }
+De Sentenac à la fontaine de Coumiere... 2h. » }    7h.30
+De la fontaine au Cap de Bouirech....... 1h.25 } (Arrêts en sus).
+Du Cap de Bouirech à Bordes............. 3h.30 }
 ```
 
 <div class="page"/>
@@ -298,16 +296,16 @@ Du Cap de Bouirech à Bordes.......... 3h.30
 
 ## TROISIÈME JOURNÉE
 
-De SENTEIN (760m) à SENTEIN, par le Lac d'Araing (1.880m),
-la Serre d'Araing (2.200m), la Mine du Bentaillou (1.895m)
-et la Gorge d'Eylie.
+__De SENTEIN (760m) à SENTEIN, par le Lac d'Araing (1.880m),__\
+__la Serre d'Araing (2.200m), la Mine du Bentaillou (1.895m)__\
+__et la Gorge d'Eylie.__
 
-mm —— GUIDE UTILE ——
+—— GUIDE UTILE ——
 
 __Conseils.__ — __Itin. recomm.__ — Par un temps clair, un guide serait
 inutile, mais on fera bien de prendre un porteur pour faire
 monter le sac jusqu'au lac d'Araing, d'où on le renverra en lui
-payant la matinée. |
+payant la matinée.
 
 Au départ de Sentein, on suivra la rive g. du Lez et, 50 m.
 avant le premier pont, on quittera la route pour prendre à dr.,
@@ -336,17 +334,18 @@ d'admirer à son aise ce magnifique paysage, et on ira
 déjeuner à la Mine du Bentaillou.
 
 Un sentier s'amorce sur la rive dr. du déversoir et monte di-
+
 ———\
 (1) Cette voie d'ascension est déjà décrite dans la première édition
 de mon guide, à la vingtième excursion, p. 245.
 
 <div class="page"/>
 
-— p. 351 — (26me EXCURSION) MINE ou BENTAILLOU
+— p. 351 — (26me EXCURSION) MINE du BENTAILLOU
 
 rection S.-E. pour franchir la Serre d'Araing vers 2.200 m. d'alt.;
 on le suivra. Parvenu à la Serre, on découvre subitement, à
-V'E.-S.-E., les baraquements de la mine du Bentaillou. On jouit
+l'E.-S.-E., les baraquements de la mine du Bentaillou. On jouit
 là d'un très beau point de vue. A l'O., tout le cirque d'Araing,
 très éclairé, avec, au centre, la magnifique nappe bleue de son
 lac. Au S., tous les hauts sommets de la frontière, depuis le Crabère
@@ -357,11 +356,11 @@ Par une pente gazonnée des plus faciles, on descendra, au
 S.-E., dans 1/2 h. environ, à la cantine du Bentaillou (1.895m)
 située à côté des galeries de la mine. De ce point, on peut rentrer
 à Sentein par deux voies différentes : 1° en 3 h. environ, par le
-sentier qui s'amorce à l'E. de la cantine et qui descend directcement
+sentier qui s'amorce à l'E. de la cantine et qui descend directement
 au Bocart, en longeant les câbles aériens; 2° en 3h.30, par
 la route qui zigzague la forêt au S.-E. et qui va rejoindre le haut
 de la vallée du Lez, près de la cascade. Cette dernière est plus
-intéressante et moins pénible. “
+intéressante et moins pénible.
 
 Au fond de la vallée, on rejoint le sentier qui descend du Port
 d'Urets (V. 25° E., p. 342) et on tourne alors direction N., pour
@@ -376,9 +375,9 @@ jusqu'à Sentein.
 __Horaire de la Journée :__
 
 ```
-De Sentein au Lac d'Araing............. 3h.30
-Du Lac d'Araing aux Mines du Bentaillou. 1h.45. 8h.45
-Des Mines du Bentailldu à Sentein...... 3h.30 } (Arrêts en sus).
+De Sentein au Lac d'Araing.............. 3h.30 }
+Du Lac d'Araing aux Mines du Bentaillou. 1h.45.}   8h.45
+Des Mines du Bentailldu à Sentein....... 3h.30 } (Arrêts en sus).
 ```
 
 <div class="page"/>
@@ -387,10 +386,10 @@ Des Mines du Bentailldu à Sentein...... 3h.30 } (Arrêts en sus).
 
 ## QUATRIÈME JOURNÉE
 
-De SENTEIN (760m) à TOULOUSE, par Bonac (750m),
-le Pic de l'Arraing (1.667m), Salsein, Castillon (528m)
+__De SENTEIN (760m) à TOULOUSE, par Bonac (750m),__\
+__le Pic de l'Arraing (1.667m), Salsein, Castillon (528m)__\
+__et Saint-Girons.__
 
-et Saint-Girons.
 —— SANS GUIDE ——
 
 Nota. — Le programme de la quatrième journée, qui n'exige
@@ -401,19 +400,18 @@ deuxième journée, si on n'effectue pas la troisième.
 __Conseils.__ — __Itin. recomm.__ — On partira par Bonac, 2 k. de
 Sentein, et, au milieu du vill., on prendra à g. un sentier qui
 monte au N. jusqu'au Col de l'Arraing (1.350m). Dans ce trajet,
-on passera entre Balacet qu'on laissera à dr., à V'E., et Irazem
+on passera entre Balacet qu'on laissera à dr., à l'E., et Irazem
 qu'on laissera à g. Après avoir coupé la route qui relie ces deux
 vill., le chemin fait plusieurs lacets sur la petite colline qui les
 sépare, pour aboutir près du refuge du col, où l'on pourra laisser
 le sac. Du Col de l'Arraing, on montera direction N.-O. par des
-croupes faciles et, dans moins de 1 ñ., on atteindra le Pic de
+croupes faciles et, dans moins de 1 h., on atteindra le Pic de
 l'Arraing (1.667m).
 
 Ce sommet, d'accès très facile et qui n'a nullement la forme
 d'un pic, est cependant un très joli belvédère. Ce qui en fait
 surtout le charme, c'est sa vue très étendue vers l'O., car on aperçoit
-notamment le Pic de Midi de Bigorre, l'Arbizon et le Nèou-
-vielle.
+notamment le Pic de Midi de Bigorre, l'Arbizon et le Nèouvielle.
 
 Revenu au col, on descendra au N.-E. à travers une petite
 forêt à l'orée de laquelle on trouve le chemin muletier qui mène
@@ -427,12 +425,11 @@ correspond, à Saint-Girons, au dernier train sur Toulouse.
 __Horaire de la Journée :__
 
 ```
-De Sentein au Col de l'Arraing.......... 2h.15 6h.15
-Du Col au Pic, aller et retour........... 1h.30 } (Arrêts en sus).
-Du Col de l'Arraing à Castillon......... 2h.30
+De Sentein au Col de l'Arraing........ 2h.15 }   6h.15
+Du Col au Pic, aller et retour........ 1h.30 } (Arrêts en sus).
+Du Col de l'Arraing à Castillon....... 2h.30 }
 ```
 
-Nota. — Cette excursion peut être faite aussi de Saint-Gi-
-
-rons à Saint-Girons dans la journée, en partant par le premier
+Nota. — Cette excursion peut être faite aussi de Saint-Girons 
+à Saint-Girons dans la journée, en partant par le premier
 train du matin.
