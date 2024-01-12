@@ -25,7 +25,7 @@ Cinq jours en Haut Aran et en Catalogne
 AU DÉPART DE MARIGNAC OU DE LUCHON
 _B. E. — Du 15 Juillet au 15 Septembre._
 
-Cartes à emporter : Saint-Girons ct Mont Rouch réunies.
+Cartes à emporter : Saint-Girons et Mont Rouch réunies.
 De MARIGNAC à SENTEIN,
 
 par le Val d'Aran,
@@ -51,7 +51,7 @@ casse-croûte.
 
 CARTES de la 25“ EXCURSION
 La vingt-cinquième excursion évolue sur une quarantaine
-de k. au S. ct au N. de Salardu. Comme la partie méridionale
+de k. au S. et au N. de Salardu. Comme la partie méridionale
 est très riche en sites touristiques, deux cartes m'ont paru
 indispensables. La première comprend la partie au S. de
 Salardu jusqu'au Grand Péguéra et la deuxième, la partie au

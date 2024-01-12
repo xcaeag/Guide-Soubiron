@@ -82,7 +82,7 @@ jusqu'à la Jasse de Madidès-d'en-Haut, vers 2.200 m. d'alt.
 Repartant par Mérens-d'en-Haut, on remontera au S.-E., par
 la rive dr., la vallée rocuilleuse du Nabré jusqu'à la cascade
 du Nabreil (1.705m). Là, on franchira le torrent pour passer
-rive g., ct bientôt on parviendra à la jasse de Présassé (1.820m),
+rive g., et bientôt on parviendra à la jasse de Présassé (1.820m),
 au confluent du ruisseau de l'Estagnas. De ce point, on aperçoit,
 au N.-E., la Porteille de l'Etang Tort. Quelques min. plus haut,
 on laissera à g. le ruisseau qui descend du petit lac de Parade.
@@ -208,7 +208,7 @@ et l'ascension du couloir qui mène à la Porteille est une véritable
 escalade de cheminée qu'il faudra effectuer en rang serré.
 
 La Forteille d'Espagne est située sur la ligne de partage des
-eaux d'Europe, entre le Pic de Camporeils, au N.-E., ct la Pique
+eaux d'Europe, entre le Pic de Camporeils, au N.-E., et la Pique
 Rouge (2.730m), à l'O.; cc large col servait de passage frontière
 avant le traité des Pyrénées qui nous à donné la moitié de la
 Cerdagne. On a sous les veux : au N., la profonde vallée de

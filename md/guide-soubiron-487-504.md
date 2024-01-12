@@ -607,7 +607,7 @@ va de Camprodon à Thuès par le Col du Géant. Environ 20 min.
 après, on arrivera à la crête frontière, au Col du Géant (2.600m).
 
 Là, on découvre subitement, à ses pieds, le cirque supérieur
-de Bassibès ct la cuvette du petit lac glacé de ce nom. La coume
+de Bassibès et la cuvette du petit lac glacé de ce nom. La coume
 de Bassibès se creuse devant soi en tournant vers la dr.
 
 On quittera le grand sentier pour suivre, vers le N.-E., celui

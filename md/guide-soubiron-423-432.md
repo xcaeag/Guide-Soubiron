@@ -25,7 +25,7 @@ _B. E. — Du 15 Juillet au 15 Septembre._
 
 es.
 
-Cartes à emporter : Foix ct Perles réunies.
+Cartes à emporter : Foix et Perles réunies.
 
 D'AUZAT à SIGUER (),
 

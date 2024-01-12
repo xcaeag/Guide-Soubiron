@@ -219,7 +219,7 @@ Du Pic d'Ascobes au Refuge............ 2h. » ;
 
 1 Au S. de ces deux étangs, existe le très joli Pic Noir andorran
 de Joucla, 2.640 m. environ. Nous avons donc deux pics Noir de
-Joucla un en France ct un en Andorre), comme nous avons quatre
+Joucla un en France et un en Andorre), comme nous avons quatre
 étangs de Joucla. V. p. 441.
 
 <div class="page"/>
@@ -539,7 +539,7 @@ rive g. du torrent, on rejoindra le sentier qui descend directement
 La Jasse de Quioules est, peut-être, la plus importante de
 l'Ariège; elle voit passer, à l'aller et au retour, tous les troupeaux
 qui pâturent aux jasses supérieures de la Coume d'Ose, la Caume
-de Seignac, de Soulanet ct des deux Sabines. Un berger m'4a
+de Seignac, de Soulanet et des deux Sabines. Un berger m'4a
 affirmé qu'on pourrait faire pacager 30.000 moutons dans ces
 jasses réunies.
 

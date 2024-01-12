@@ -65,7 +65,7 @@ pour Quié, situé 1 k. à l'O. de la gare. En haut du
 vill., on prendra le grand chemin muletier qui monte en de nombreux 
 lacets au plateau de Génat. Après 20 min. d'ascension, un
 sentier file à dr., vers le Bois de la Garrigue, tandis que celui
-de Génat tourne à g., ct passe sous des taillis pendant 10 min.;
+de Génat tourne à g., et passe sous des taillis pendant 10 min.;
 on arrive alors à la base d'un petit vallon qui monte direction 
 S.-E., et moins de 1/4 d'h. après, on débouche, à l'entrée
 du plateau, au large col coté 907 m.

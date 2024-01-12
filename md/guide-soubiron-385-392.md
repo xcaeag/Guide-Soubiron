@@ -315,7 +315,7 @@ PAiguille de Souloumbrie (1.277m) fait un effet superbe.
 De la clairière, le sentier repart en pente douce, direction N.,
 et, à mesure qu'on avance, on découvre l'autre versant vers Mercus
 et Foix. Au S.. on aperçoit maintenant presque tout le massif
-du Lujat. Après avoir franchi le ruisseau d'Arnave ct traversé
+du Lujat. Après avoir franchi le ruisseau d'Arnave et traversé
 un ravin, on quitte la forêt pour aborder les pâturages supérieurs
 vers 1.600 m. d'alt. On inclinera alors légèrement à dr.,
 

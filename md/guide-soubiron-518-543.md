@@ -458,7 +458,7 @@ Aret (pic d')......... 143, 144 | Aston (vallée et vill. d').
 Argelès......... 53, 64 69, 71 442, 446
 Arguénos ............ 325, 328 | Astorg (pointe d')......... 126
 Arinsal (port et vallée d').. 416 | Astos (vallée d')........... 212
-Arollas (col ct pic d'). 104, 105 | Aubas (pic d')....... 323, 324
+Arollas (col et pic d'). 104, 105 | Aubas (pic d')....... 323, 324
 Arou (lac d').............. 178 | Aube (vallée d')...... 201, 204
 Arouge (cap, col et val d'). Aubert (col d')............ 149
 | 201, 251, 252 | Aubert (lac d')............ 149
@@ -1537,7 +1537,7 @@ ss...
 Llauzet (lac de)...........
 Llauzet (vallon de)
 
-Madidès (jasse ct lacs de).
+Madidès (jasse et lacs de).
 Madidès (porteille de)
 
 Madres (massif de).. 474,
@@ -2062,7 +2062,7 @@ Pages Pages
 45 ; Pourtet (lac du)........... 108
 107 | Pouylané (col de)......... 273
 315 | Pouylouby (soum de). 253, 254
-462 | Pouymourou (col ct pic de).
+462 | Pouymourou (col et pic de).
 
 135 | 113, 115
 435 ! Prade de Saint-Jean (la).. 130
@@ -2272,7 +2272,7 @@ San Mauricio (lac de). 336, 338 | Sierra de Montech (la).... 414
 Santédan (col de)......... 254 | Siguer (port, vallée, vill.
 Santète (la) .............. 231 de) ....sncse 431, 446, 448
 S ousat (lac) ... 213, 223, 268 | Sirbal (pont et vallon de).. 446
-Saquet ou Tuto de l'Ours Sisca (vallon ct refuge du).
+Saquet ou Tuto de l'Ours Sisca (vallon et refuge du).
 
 Vel ssesanbuse-be-nsses 449 | ; 433, 435
 Sarnès (cabane de)........ 226 | Sisca (cirque du). 433, 435, 437
