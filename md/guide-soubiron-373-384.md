@@ -4,40 +4,38 @@ abstract: |
     Du PIC d'ANIE au CANIGOU
     En 40 Excursions
 title: |
-    | xxxxxxxxxx EXCURSION
-    | xxxxxxxxxxxxxxxxxxx
+    | VINGT-NEUVIÈME EXCURSION
+    | Cinq jours au départ de Saint-Girons
 output: pdf_document 
 ---
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
 -----------------------
-[//]: # (— p. XX —)
-
-— p. 373 —
+[//]: # (— p. 373 —)
 
 # VINGT-NEUVIÈME EXCURSION
 
 (N° 22 de la 1° édition)
 
-Cinq jours au départ de Saint- Girons
+__Cinq jours au départ de Saint-Girons__
+
 _B. E. — Du 15 Juillet au 15 Septembre._
 
-Ce Saint-Girons et Mont Rouch réunies.
-P | Foix et Perles réunies.
+Cartes à emporter : Saint-Girons et Mont Rouch réunies, 
+Foix et Perles réunies.
 
-4
-
-De SAINT-GIRONS à AUZAT,
-par Ustou, le Pic de Certescons (1), la Vallée de Castillo.
-le Pic de Turgulla, la Vallée et la Cascade d'Arse, Aulus,
-le Lac du Garbet, le Port de Saleix, le Pic de Mont Ceint,
-le Pic de Cabanatous et les Etangs de Bassiès.
+__De SAINT-GIRONS à AUZAT,__\
+__par Ustou, le Pic de Certescons (1), la Vallée de Castillo.__\
+__le Pic de Turgulla, la Vallée et la Cascade d'Arse, Aulus,__\
+__le Lac du Garbet, le Port de Saleix, le Pic de Mont Ceint,__\
+__le Pic de Cabanatous et les Etangs de Bassiès.__
 
 <u>__AVIS AUX TOURISTES__</u>
+
 Les trois premiers jours de cette excursion s'échelonnant
 dans une région très accidentée et peu connue, un guide me
-paraît indispensable. (C'est surtout à Saint-Lizier d'Ustou
+paraît indispensable. C'est surtout à Saint-Lizier d'Ustou
 qu'on pourra en trouver un connaissant les deux versants de
 la frontière jusqu'à Aulus. On ira donc déjeuner à Saint-Lizier,
 à l'Hôtel Gleyzes, et on profitera de ce temps d'arrêt pour louer
@@ -45,7 +43,7 @@ un guide pour trois jours.
 
 On emportera des provisions pour quatre repas et les divers
 casse-croûte, car on passera sûrement deux jours sans rencontrer
-âme qui vive. °
+âme qui vive.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
@@ -56,11 +54,7 @@ de l'Intérieur « Certescons ». Les avis étant partagés, j'écris à nouveau
 
 <div class="page"/>
 
-— p. 374 —
-
-(29me EXCURSION) -_
-
-DE SAINT-GIRONS 4 AUZAT
+— p. 374 — (29me EXCURSION) DE SAINT-GIRONS A AUZAT
 
 ![carte p374](../maps/guide-soubiron-0374-carte-portrait.jpg)
 
@@ -108,14 +102,12 @@ __Horaire de la Journée :__
 
 ```
 De Saint-Girons à Saint-Lizier d'Ustou, 30 k. d'autobus.
-De Saint-Lizier au Cirque de Cagateïlles, 2h.30 } (Arrêts en sus).
+De Saint-Lizier au Cirque de Cagateilles, 2h.30, (Arrêts en sus).
 ```
 
 <div class="page"/>
 
-— p. 376 —
-
-376 PIC de CERTESCONS (me EXCURSION)
+— p. 376 — PIC de CERTESCONS (29me EXCURSION)
 
 ## DEUXIÈME JOURNÉE
 
@@ -154,11 +146,11 @@ qui est en Espagne.
 
 Le belvédère du Certescons (2.840m) est de premier ordre; il
 est analogue à celui des Monts Rouch, du massif des Monts-Maudits
-aux cimes de l'Andorre. La Pique d'Estats et le Montcalni.
+aux cimes de l'Andorre. La Pique d'Estats et le Montcalm.
 qui paraissent à deux pas, sont magnifiques. Au S.-O., on domine
 merveilleusement les lacs de Flamisella et le vallon de Gueroso
-jusqu'à Cuanca. Vers l'O., l'œil remonte la Roya de Mollas jus-
-qu'aux deux pointes des Monts Rouch qui s'estompent, tout près,
+jusqu'à Cuanca. Vers l'O., l'œil remonte la Roya de Mollas jusqu'aux 
+deux pointes des Monts Rouch qui s'estompent, tout près,
 sur le ciel. Droit au S., l'œil prend en enfilade la Sierra dels Canals
 dont le point culminant (2.739m), qui n'est qu'à 1.500 m.
 
@@ -172,7 +164,7 @@ les domine admirablement, car, depuis les lacs de la Roya de
 Mollas, à l'O., jusqu'à ceux de. Sounou, à l'E., on les a presque
 tous sous les yeux.
 
-Mais le pus beau et le plus important, c'est le grand lac de
+Mais le plus beau et le plus important, c'est le grand lac de
 Certescons qu'on a presque sous ses pieds à plus de 500 m. de
 profondeur.
 
@@ -198,7 +190,7 @@ Vogueira.
 __Horaire de la Journée :__
 
 ```
-Du Cirque de Cagateilles au Certescons.. 4h.45 9h. »
+Du Cirque de Cagateilles au Certescons.. 4h.45 }   9h. »
 Du Certescons à la cabane de Boahil..... 4h.15 } (Arrêts en sus).
 ```
 
@@ -263,7 +255,7 @@ supérieur de Sounou, ses deux lacs superposés et, tout en
 haut, un peu à dr., l'échancrure très nette du port (2.402m). En
 face, dominant tout le cirque, trône le pic de Turgulla (2.495m).
 
-Les lacs de Sounou sont ordinairement glacés jusqu'au 15 juillet
+Les lacs de Sounou sont ordinairement glacés jusqu'au 15 juillet.
 On les appelle aussi « lacs de Turgulla. » J'ai adopté de préférence
 le nom de Sounou pour qu'on ne les confonde pas avec
 l'étang de Turgulla qui est situé en France, sur le versant N.
@@ -273,12 +265,12 @@ l'étang de Turgulla qui est situé en France, sur le versant N.
 — p. 379 — (29me EXCURSION) PORT de SOUNOU - PIC DE TURGULLA
 
 Le sentier passe près du premier lac qu'il longe par la dr., puis,
-
 en de multiples lacets par un terrain facile, monte directement
 au Port de Sounou (2.402m), situé sur la frontière. Là, au lieu de
 descendre en France, on quittera le sentier pour suivre, à g,
 Parête frontière et on montera à toute crête au Pic de Turgulla
 (2.495m).
+
 Quoique de petite alt., le Turgulla est un des plus jolis belvédères
 de la région. Situé à la jonction de trois crêtes, il domine
 merveilleusement, au N., les trois vallées d'Arse, de Fouillet et
@@ -305,7 +297,7 @@ plaine. Ce coin est de toute beauté et vaut à lui seul une excursion
 spéciale.
 
 En aval de la Hille de l'Etang, le chemin passe sur la rive dr.
-et on longe l'étroit défilé et l'étang de Las Touëtos, petit lac très
+et on longe l'étroit défilé et l'étang de Las Touétos, petit lac très
 abrité, comme l'indique son nom qui signifie (lac des Abris).
 
 Au sortir du défilé de Las Touétos, on débouche dans un large
@@ -344,34 +336,34 @@ M. Calvet, est membre du Club Alpin Français.
 __Horaire de la Journée :__
 
 ```
-De Boahil au Port de Sounou........... +. 4h.15 |
-Du Port de Sounou au Pic de Turgulla.. Oh.45 :9h.15 } (Arrêts en sus).
-Du Pic de Turgulla à Aulus............ 4h.15
+De Boahil au Port de Sounou........... 4h.15 }
+Du Port de Sounou au Pic de Turgulla.. Oh.45 }    9h.15 
+Du Pic de Turgulla à Aulus............ 4h.15 } (Arrêts en sus).
 ```
 
 ## QUATRIEME JOURNEE
 
-Cueillette facultative d'Etoiles des Neiges et ascension
-du Lac du Garbet (1.670m).
+__Cueillette facultative d'Etoiles des Neiges et ascension__\
+__du Lac du Garbet (1.670m).__
 
 —— SANS GUIDE ——
 
 __Conseils.__ — __Itin. recomm.__ — Dans la matinée, en 3 h., aller et
 retour, on peut faire une cueillette d'étoiles des neiges et, dans
-laprès-midi, monter au lac du Garbet, puisque la majeure partie
+l'après-midi, monter au lac du Garbet, puisque la majeure partie
 de cette ascension se fait à l'ombre.
 
 Plusieurs grands pyrénéistes ont affirmé qu'on ne trouve plus
-d'étoiles des neiges à l'E. de la vallée du'Louron. Seul, M. M. Gourdon
+d'étoiles des neiges à l'E. de la vallée du Louron. Seul, M. M. Gourdon
 en signale une colonie au Cagire en ajoutant que ce sont,
-sans doute, les dernières des Pyrénées vers l'E. 11 n'en est rien,
-car au N.-E. et à 1 h. 1/2 d'Aulus»il existe un très beau champ
+sans doute, les dernières des Pyrénées vers l'E. Il n'en est rien,
+car au N.-E. et à 1 h. 1/2 d'Aulus il existe un très beau champ
 de ces rares fleurs. C'est dans les parties supérieures des pentes
-S. de la Pico de Laou (1.815m) et surtout dans les pentes ©. du
-Tuc d'Agnes (1.684m) qu'on pourra en gueillir. Le terrain est delicat
+S. de la Pico de Laou (1.815m) et surtout dans les pentes O. du
+Tuc d'Agnes (1.684m) qu'on pourra en cueillir. Le terrain est delicat
 et les prises rocheuses, garnies d'herbes, sont inclinées en
 dehors. Il ne faut s'y aventurer que si on est déjà un pyrénéiste
-un peu exercé. |
+un peu exercé.
 
 <div class="page"/>
 
@@ -385,7 +377,7 @@ le vallon supérieur se divise en deux. On montera vers celui de
 dr. pour le franchir 10 min. après, et on attaquera ensuite, vers
 l'E., le flanc occidental du Tuc d'Agnes en faisant la cueillette
 pendant l'ascension. On zigzaguera les pentes dès le début, mais
-c'est surtout dans la partie supérieure, près de la crète, qu'on
+c'est surtout dans la partie supérieure, près de la crête, qu'on
 trouve les plus belles fleurs. C'est là que j'en ai cueilli une qui,
 aplatie, mesure plus de 7 centimètres de diamètre.
 
@@ -394,19 +386,19 @@ la dr. le lambeau de forêt qui borde le contrefort S.-O. du tuc
 d'Agnes. On retrouvera le chemin d'ascension au confluent des
 deux petits vallons.
 
-Horaire : Aller et retour, 2h.30. (lemps de la cueillette en sus.)
+__Horaire :__ Aller et retour, 2h.30. (temps de la cueillette en sus.)
 
 Dans l'après-midi, on montera au Lac du Garbet (1.670m) avec
 un simple casse-croûte dans sa poche.
 
-L'ascension du lac du Garbet est la plus intéressanie des euvirons
+L'ascension du lac du Garbet est la plus intéressanie des environs
 immédiats d'Aulus. On la fait facilement dans une demi-
 journée, soit environ 5 h., aller et retour. On ne rencontre que
 de riantes prairies, de vertes forêts et, parvenu à nn certain
-point, à environ 1/2 h. d'Aulus, on aperçoit à la fois trois cascades
-: celle de Castel Minier à deux pas devant soi, celle du
-Garbétou 1 h. en amont, et enfin, celle plus importante du Garbct
-qui domine superbement la vallée, tout en haut, au S. |
+point, à environ 1/2 h. d'Aulus, on aperçoit à la fois trois cascades:
+celle de Castel Minier à deux pas devant soi, celle du
+Garbétou 1 h. en amont, et enfin, celle plus importante du Garbet
+qui domine superbement la vallée, tout en haut, au S.
 
 Sortant d'Aulus par l'E., on suivra la route qui remonte la
 rive dr. du Garbet jusqu'à Castel Minier (3 k. 500). Là, se trouve
@@ -416,7 +408,7 @@ ce dernier à g. et on continuera tout droit et presque horizontalement
 direction S.
 
 Les cartes indiquent sur la rive g. un sentier qui monterait
-jusqu'au Garbétou. Il n'existe plus dans la partie supérieure, ct
+jusqu'au Garbétou. Il n'existe plus dans la partie supérieure, et
 c'est par la rive dr. qu'il faut faire ce trajet.
 
 Le chemin muletier longe par l'E. les pâturages d'Agneserre
@@ -426,17 +418,15 @@ du cirque, on trouve une belle cabane et, après une descente de
 
 <div class="page"/>
 
-— p. 382 —
-3 SK Sy bus ee 24 ET sas A + 7 ef
-382 LAC du GARBET
+— p. 382 — LAC du GARBET  (29me EXCURSION)
 
 2 min., on franchit le Garbet sur un alignement de grosses pierres
 On passe alors définitivement sur la rive g., et c'est sur les
 pentes d'en face qu'il faut aller chercher l'amorce du sentier qui
 monte au lac en contournant le cirque par l'O.
 
-Le petit cirque du Garbétou est un coin délicieux, et de Sum
-breux baigneurs d'Aulus limitent là leur excursion. De forme
+Le petit cirque du Garbétou est un coin délicieux, et de nombreux 
+baigneurs d'Aulus limitent là leur excursion. De forme
 ronde, presque régulière, il mesure environ 800 m. de diamètre;
 il est coupé dans son milieu par le cours du Garbet, dès que la
 magnifique cascade de ce nom en a aspergé la partie supérieure.
@@ -458,7 +448,7 @@ d'Aulus, du Pic de Mont Ceint (2.088m) au Tuc de Montbéas
 
 On rentrera à Aulus par le chemin d'ascension.
 
-Horaire du Garbet (aller et retour), 5 h. environ.
+__Horaire du Garbet__ (aller et retour), 5 h. environ.
 
 ## CINQUIÈME JOURNÉE
 
@@ -487,18 +477,18 @@ par le port de Saleix que passera la grande route des Pyrénées.
 
 Le chemin du port qui monte tout d'abord vers l'E., fait bientôt
 un long crochet à g., direction N., pour gagner le haut du ressaut
-ct aboutir au plateau de Coumebère. De ce dernier point, on
+et aboutir au plateau de Coumebère. De ce dernier point, on
 découvre toute la voie d'ascension jusqu'au port et on aperçoit
 les nombreux lacets du chemin qui y conduit.
 
 Du Port de Saleix (1.801m), on domine merveilleusement Aulus
-et ses environs vers l'Ù., et on découvre toute la région d'Auzat
-vers l'E. La vue est limitée au N. et au $S. On déposera le sac au
+et ses environs vers l'O., et on découvre toute la région d'Auzat
+vers l'E. La vue est limitée au N. et au S. On déposera le sac au
 Col et, en 1 h., aller et retour, on fera à toute crête, au N., l'ascension
 facile du Pic de Mont Ceint (2.088m).
 
-Le Mont Ceint est situé sur le point de jonction de quatre crè-
-tes; il domine ainsi les vallées de Saleix, d'Aulus, de Suc et de
+Le Mont Ceint est situé sur le point de jonction de quatre crêtes; 
+il domine ainsi les vallées de Saleix, d'Aulus, de Suc et de
 Massat. Cette situation privilégiée fait de ce petit sommet un belvédère
 de premier ordre. Au N., le massif des Trois Seigneurs et
 le petit étang d'Arbu qui dort à ses pieds semblent à deux pas.
@@ -507,9 +497,9 @@ la chaîne frontière. Au S.-S.-O.., assez près, la mappe sombre du
 Lac du Garbet fait grand effet et, si on regarde encore plus près,
 à quelques min. au S. du Port, on est agréablement surpris de découvrir
 brillant au soleil, le petit étang d'Alate au milieu d'une
-région pleine de rocaille. |
+région pleine de rocaille.
 
-Au $S. du port de Saleix, un pic secondaire duquel on jouit
+Au S. du port de Saleix, un pic secondaire duquel on jouit
 aussi d'un point de vue spécial, fait pendant au Mont Ceint :
 c'est le Pic de Cabanatous (2.058m). On en fera l'ascension par le
 N.-E. en allant préalablement déjeuner sur les bords de l'Etang
@@ -569,17 +559,17 @@ Français.
 __Horaire de la Journée :__
 
 ```
-D'Aulus au Port de Saleix............... 3h. »
-Du Port de Saleix au Pic de Mont Ceint 8h. »
-(aller et retour)........,.............. 1h. »
-Du Port de Saleix au Cabanatous........ 0h.50 } (Arrêts en sus).
-Du Cabanatous à Auzat................. 3h.10
+D'Aulus au Port de Saleix............... 3h. » }
+Du Port de Saleix au Pic de Mont Ceint         }    8h. » 
+  (aller et retour)........,............ 1h. » }
+Du Port de Saleix au Cabanatous......... 0h.50 } (Arrêts en sus).
+Du Cabanatous à Auzat................... 3h.10 }  
 ```
 
 <u>__POINTS D’INTERRUPTION__</u>
 
-AULUS pour rejoindre de Saint-Girons (32 k.), afin d'effectuer la
+__AULUS__
 
-Soit pour abandonner après la 3° ou #* journée, soit
-<
-| 5e journée.
+- Soit pour abandonner après la 3e ou 4e journée, soit
+pour rejoindre de Saint-Girons (32 k.), afin d'effectuer la 
+5e journée.

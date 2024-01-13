@@ -44,7 +44,7 @@ Les fichiers :
 [Pages 343 à 352 : 26eme Excursion](md/guide-soubiron-343-352.md) : Quatre jours aux Environs de Saint-Girons \
 [Pages 353 à 362 : 27eme Excursion](md/guide-soubiron-353-362.md) : Quatre jours au départ de Sentein \
 [Pages 363 à 372 : 28eme Excursion](md/guide-soubiron-363-372.md) : Quatre jours au départ de Saint-Girons \
-[Pages 373 à 384 : 29eme Excursion](md/guide-soubiron-373-384.md) :  \
+[Pages 373 à 384 : 29eme Excursion](md/guide-soubiron-373-384.md) : Cinq jours au départ de Saint-Girons \
 [Pages 385 à 392 : 30eme Excursion](md/guide-soubiron-385-392.md) :  \
 [Pages 393 à 402 : 31eme Excursion](md/guide-soubiron-393-402.md) : Quatre jours aux Environs d'Auzat\
 [Pages 403 à 410 : 32eme Excursion](md/guide-soubiron-403-410.md) : Trois jours aux Environs d'Auzat\
