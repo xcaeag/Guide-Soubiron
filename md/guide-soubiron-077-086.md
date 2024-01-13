@@ -307,7 +307,7 @@ Le sentier continue régulièrement en de nombreux lacets jusqu'à
 Puis on grimpe sans danger ni difficultés une pente de roches
 redressées et on débouche à la crête. Le point culminant (2.724m),
 surmonté d'une tourelle et invisible de Cauterets, est quelques
-min. plus à l'O. On peut v arriver, soit à toute crête, soit par une
+min. plus à l'O. On peut y arriver, soit à toute crête, soit par une
 sente du flanc N.
 
 <div class="page"/>

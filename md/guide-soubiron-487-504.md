@@ -810,7 +810,7 @@ L'APRÈS-MIDI à FONT-ROMEU
 
 Dans l'après-midi, on repartira par la route de Formiguères
 et, 1/4 d'h. après, on prendra, à g., celle de Font-Romeu au
-poteau indicateur. I v a 7 k. de Montlouis à Font-Romeu, le
+poteau indicateur. Il y a 7 k. de Montlouis à Font-Romeu, le
 trajet se fait la plupart du temps en forêt, ce qui le rend très
 agréable, surtout par la grande chaleur,
 

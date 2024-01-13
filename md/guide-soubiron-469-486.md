@@ -381,7 +381,7 @@ Serre Blanche. |
 
 du Lanoux et des Bésines, et, lorsqu'on arrive au sommet du
 Pédroux N., on jouit de lun des plus jolis belvédères de la
-contrée. La vue sur le Lanoux v est bien plus complète que du
+contrée. La vue sur le Lanoux y est bien plus complète que du
 Carlitte.
 
 En parcourant la crête des Bésineilles, on comprend combien

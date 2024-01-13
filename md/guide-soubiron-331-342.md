@@ -479,7 +479,7 @@ le S.-O. On suivra donc vers l'O. le sentier qui longe les escarpements
 S. du pic pour aboutir au Col de Maubermé. Ce Col est
 situé au N. du Tuc des Crabes (2.616m) sur la crête qui sépare
 la coume de Montolieu du plateau du Liat vers lequel le sentier
-descend. On v jouira d'un point de vue magnifique. On
+descend. On y jouira d'un point de vue magnifique. On
 laissera le sentier à g., et on commencera l'ascension du Maubermé
 direction N.-O., en s'élevant légèrement en corniche et
 en contournant le pic par l'O. On parviendra bientôt à la base
