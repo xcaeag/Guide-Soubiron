@@ -124,7 +124,7 @@ plateau, le chemin bifurque; celui de dr. mène à la chapelle de
 -Saint-Barnabé qui, vue de loin, a l'aspect d'une cabane. On prendra
 celui de g. qui file presque horizontalement par le flanc E.
 du plateau, pour aller rejoindre le creux du vallon à la jasse de
-Monteils (2.088”).
+Monteils (2.088m).
 
 A partir de là, on sera canalisé vers le S.-E., et on suivra les
 rives du ruisseau de Faylou jusqu'à sa source, en amont de la
@@ -371,7 +371,7 @@ Le « Centre Excursionista de Catalunya » a fait construire un
 très joli sentier muletier qui va directement du Col des Neuf-
 Croix au refuge de Ull de Ter, par le N. du Pic de la Fosse du
 Géant, le Col de Carança (2.725m), le flanc S. des pics de la Vaca
-(2.812m-2.830m), la Coma de Fréser et le Col de la Marrana (2.500”).
+(2.812m-2.830m), la Coma de Fréser et le Col de la Marrana (2.500m).
 Comme on le voit, il dessert admirablement toute cette belle partie
 de la crête catalane et les nombreux sommets qu'on rencontre
 

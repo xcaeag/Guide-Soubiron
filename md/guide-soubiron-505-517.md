@@ -301,7 +301,7 @@ l'E., on domine le joli cirque verdoyant des sources du Tech
 et toute la vallée de ce nom; au N.-E., l'œil suit l'arête régulière
 qui mène au superbe Canigou; au N., s'étalent le Pla du Camp-
 magré, les crêtes secondaires du Conflent et, comme fond de
-tableau, le massif de Madres au dernier plan; au N.-O. et à VO.
+tableau, le massif de Madres au dernier plan; au N.-O. et à l'O.
 les grands monts catalans jusqu'au Puigmal, et enfin, au S. se
 creuse la vallée de Carlat qui descend à Camprodon.
 

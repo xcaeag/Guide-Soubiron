@@ -140,7 +140,7 @@ de grosses pierres et on remontera devant soi en zigzaguant
 les pentes et en contournant les bosses du terrain, de façon à
 rejoindre la frontière 500 m. au S.-E. du Roc Mélé (2.813m). On
 montera au sommet et on continuera à toute crête, vers l'O., en
-faisant au passage le Pic de la Cabanette (2.841”) et le Signal de
+faisant au passage le Pic de la Cabanette (2.841m) et le Signal de
 Siscarou (2.830m). A partir de là, la crête frontière prend la
 direction N.; on la suivra à flanc sur le versant andorran jusqu'au
 Cylindre d'Ascobes où on descendra d'une cinquantaine de m.
@@ -410,7 +410,7 @@ les fait communiquer avec les étangs français de Joucla.
 (CABANES De GARSEING (35me: EXCURSION)
 
 les pelouses, conduit, dans 1/4 d'h., à la première cabane: de,
-Garseing 1.960”) où on couchera. Il en existe une autre 150 m.
+Garseing 1.960m) où on couchera. Il en existe une autre 150 m.
 plus loin, mais moins importante. 1 . |
 Les deux cabanes de Garseing sont admirablement situées-sur
 un beau plateau de verdure, rive dr. de la haute vallée d'Aston.
