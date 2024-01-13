@@ -388,10 +388,11 @@ le Pla Guillem et le Canigou
 
 <div class="page"/>
 
-— p. 525 —
-INDEX ALPHABÉTIQUE
+[//]: # (— p. 525 —)
 
-des 1.500 Noms de Lieux
+# INDEX ALPHABÉTIQUE
+
+__des 1.500 Noms de Lieux__
 
 Nota. — Je donne dans cet index : 1° les noms des vallées, des
 montagnes, des pics, des lacs, des cirques et de toutes les curiosités
@@ -401,11 +402,13 @@ servent de point de repère pour l'orientation et la bonne direction
 de la caravane.
 
 ```
+==============================  A  ===============================
+
 Aas (coume d')............. 51  | Albelle (port de l')........ 427
 Abel (forges d')........... 30  | Albi (port d').............. 356
 Abellanés (col et pic des). 317 | Alet (lac et vallon d')..... 376
 Affumats (cap et serre des).    | Alfred (col)................ 292
-  .................... 446, 447 | Algas (pic d')......... 104, 105
+                       446, 447 | Algas (pic d')......... 104, 105
 Agalots (crête des)........ 175 | Allans (Hourquette d')...... 121
 Agnes (Tuc d')............. 380 | Allées Dramatiques.......... 163
 Agua-Limpia (gorge d') 102, 103 | Alos d'Isil....... 365, 367, 368
@@ -416,15 +419,15 @@ Aiguamoch (vallée d')...... 334 | Anèou (col et pic d')........ 47
 Aiguelongue (ruisseau d').. 454 | Anèou (pourtalet d')......... 48
 Aigue-Torte (col d')....... 392 | Anglassé (Casa de)........... 45
 Aiguilles (pic de las)..... 144 | Anie (lac et pic d')..... 21, 28
-Aiguillous (vallon des).... 136 | Anouillas (plateau d')....... 5A****
+Aiguillous (vallon des).... 136 | Anouillas (plateau d')....... 50
 Aiguillous (pic des).. 137, 138 | Ansabe (vallée d')........... 23
 Alate (étang d')...... 382, 383 | Ansabère (port d')........... 26
 Albe (brèche d').......305, 307 | Antenac (soum de l')... 262, 263
 Albe (Dent d')........ 292, 295 | Aoubo (col d').............. 169
 Albe (pic espagnol d). 305, 307 | Aoueillèros (soum de las),
-Albe (pic ariégeois de Pl), 77, 81
-438. 1439 Aouèran (col d')........... 359
-Albe (étangs ariégeois de |). 439 Aragnouet (pont d').... 143
+Albe (pic ariégeois de l'),     |                           77, 81
+                       438, 439 | Aouèran (col d')............ 359
+Albe (étangs ariégeois de)  439 | Aragnouet (pont d')......... 143
 ```
 
 <div class="page"/>
@@ -432,26 +435,25 @@ Albe (étangs ariégeois de |). 439 Aragnouet (pont d').... 143
 — p. 526 — INDEX ALPHABETIQUE
 
 ```
-Aragnouet (vill. d')........ 193 | Arties (vill espagnol d').: --,
-Aragon (col et pène d').... 90 321, 323.
-Araillé (col et pic d'). 111, 113.! Artiga de Lin (vallée d'). A? :
-Araillous (pic) ........... 01 | Artigue (plateau d')....... 173 :
+Aragnouet (vill. d')........ 193 | Arties (vill espagnol d').
+Aragon (col et pène d')...... 90 |                         321, 323
+Araillé (col et pic d') 111, 113 | Artiga de Lin (vallée d')..  312
+Araillous (pic) ............. 91 | Artigue (plateau d')........ 173
+Araing (lac d')........ 350, 355 | Artigue (port de l)......... 378
+Aran (val d.).......... 227, 239 | Artigue (prairie de l')..... 260
+                     274 323 333 | Artigue (vallée de l)....... 405
+Aranais (col des)........... 292 | Artigue (vill. d').......... 227
+Aranones (vill. des)......... 47 | Artouste (lac d')............ 55
+Arazas (vallée d')..... 126, 128 | Ascobes (pic d')....... 435, 437
+Arbeille (port de l')....... 427 | Ascou (forges et vill. d').
+Arbizon (pic d')....... 178, 179 |                         462, 464
+Arboucau (gorges de l)....... 69 | Aspe (pic et pas d').. 39,45, 46
+Arbu (étang d')..............383 | Aspe (vallée d')...... 21, 27 39
+Ardengost .................. 188 | Aspet ...................... 328
+Ardengost (ruisseau d')..... 188 | Aspin (col et vill. d')..... 185
 
-Araing (lac d')....... 350, 355 | Artigue (port de l)........ 378
-Aran (val d.).... 227, 239, Artigue (prairie de l')..... 260
-974 323 333 | Artigue (vallée de l)...... 4035
-Aranais (col des).......... 292 | Artigue (vill. d')........... 227
-Aranones (vill. des)....... 47 | Artouste (lac d')........... 55
-Arazas (vallée d').... 126, 128 | Ascobes (pic d')..... 435, 437
-
-Arbeille (port de l')....... 427 ; Ascou (forges et vill. d?).
-Arbizon (pic d')..... 178, 179 ! 462, 464
-Arboucau (gorges de l).... 69 | Aspe (pic et pas d'). 39,45, 46
-Arbu (étang d')..scssvseus. 383 | Aspe (vallée d').... 21, 27 39
-Ardengost ................ 188 | Aspet ..................... 328
-Ardengost (ruisseau d').... 188 | Aspin (col et vill. d').,.... 185
 Ardiden (pourtère et pic) Aspre (pic d')....... 420, 421
-D ses ssssssosssussee 118 | Astau (granges d'). 234, 238, 249
+                             118 | Astau (granges d'). 234, 238, 249
 Areng (pic d')....... 187, 188 | Astazou (pics et col d'). 123, 124
 
 Aret (pic d')......... 143, 144 | Aston (vallée et vill. d').
@@ -562,21 +564,9 @@ Boum (pic de).......
 Bourdious (granges de)..
 Bourg-d'Oueil
 
-rss... eee.
-
-es...
-
-sc... ee
-
-CC
-
-er
-
 Cabaliros ............ 71,
 Caballeros (lac de los). 319,
 Cabanasse (La)
-
-eee eee
 
 Cabanatous (pic de).......
 Cabanette (pic de la). 435,
@@ -661,6 +651,7 @@ de) ..................... 150
 Bugaret (pic de)..... 153, 154
 Burat (pic de)............. 227
 Burbe (vallon de).... 242, 244
+
 Campbieil (Hourquette de). :
 137, 138
 Campbieil (vallée de)...... 139
