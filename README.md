@@ -49,7 +49,7 @@ Les fichiers :
 [Pages 393 à 402 : 31eme Excursion](md/guide-soubiron-393-402.md) : Quatre jours aux Environs d'Auzat\
 [Pages 403 à 410 : 32eme Excursion](md/guide-soubiron-403-410.md) : Trois jours aux Environs d'Auzat\
 [Pages 411 à 422 : 33eme Excursion](md/guide-soubiron-411-422.md) : Quatre jours au départ d'Auzat\
-[Pages 423 à 432 : 34eme Excursion](md/guide-soubiron-423-432.md) :  \
+[Pages 423 à 432 : 34eme Excursion](md/guide-soubiron-423-432.md) : Quatre jours au départ d'Auzat \
 [Pages 433 à 448 : 35eme Excursion](md/guide-soubiron-433-448.md) :  \
 [Pages 449 à 460 : 36eme Excursion](md/guide-soubiron-449-460.md) :  \
 [Pages 461 à 468 : 37eme Excursion](md/guide-soubiron-461-468.md) :  \
