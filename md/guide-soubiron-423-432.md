@@ -427,7 +427,7 @@ conduit en 3/4 d'h. à Siguer.
 __Horaire de la Journée :__
 
 ```
-Du Serrat au Port de Siguer........... 2h.30 } 7h.30
+Du Serrat au Port de Siguer........... 2h.30 }   7h.30
 Du Port au village de Siguer.......... 5h. » } (Arrêts en sus).
 ```
 

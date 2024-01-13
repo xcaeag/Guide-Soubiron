@@ -634,19 +634,19 @@ En sus des accessoires ci-dessus, chaque pyrénéiste
 doit être muni de :
 
 1. Un bon piolet dont le poids oscillera (selon la taille du touriste) 
-2. entre 900 et 1.100 grammes, et dont les dimensions seront
+entre 900 et 1.100 grammes, et dont les dimensions seront
 les suivantes : la moitié de la taille du touriste, augmentée de
 dix centimètres. Les piolets trop longs sont dangereux pour la
 figure tout en perdant de leur résistance.
 
-1. Une gourde à eau en aluminium d’une contenance de 1 litre.
+2. Une gourde à eau en aluminium d’une contenance de 1 litre.
 
-2. Une bougie et une boîte d’allumettes.
+3. Une bougie et une boîte d’allumettes.
 
-3. Une musette pour y réunir les provisions qu’on remettra au
+4. Une musette pour y réunir les provisions qu’on remettra au
 porteur ou qu’on déposera en réserve au refuge.
 
-1. Enfin, une paire de lunettes noires pour les glaciers, ou,
+5. Enfin, une paire de lunettes noires pour les glaciers, ou,
 mieux encore, une voilette en mousseline de soie, noire ou verte.
 
 
