@@ -4,36 +4,33 @@ abstract: |
     Du PIC d'ANIE au CANIGOU
     En 40 Excursions
 title: |
-    | xxxxxxxxxx EXCURSION
-    | xxxxxxxxxxxxxxxxxxx
+    | TRENTE CINQUIÈME EXCURSION
+    | Quatre jours au départ de l'Hospitalet
 output: pdf_document 
 ---
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
 -----------------------
-[//]: # (— p. XX —)
-
-— p. 433 —
+[//]: # (— p. 433 —)
 
 # TRENTE CINQUIÈME EXCURSION
 
 (N° 26 de la 1re édition)
 
-Quatre jours au départ de l'Hospitalet
+__Quatre jours au départ de l'Hospitalet__
 
 _B. E. — Du 1* au 20 Juillet ou du 20 Août au 15 Septembre._
 
 Cartes à emporter : Foix et Perles réunies.
 
-De l'HOSPITALET à SIGUER,
-
-par le Cirque du Sisca, le Roc Mélé, le Pic de la Cabanette,
-le Signal de Siscarou, le Pic d'Ascobes, le Pic de l'Albe,
-le Pic de Rulle, le Pic Noir de Joucla,
-les Etangs de Fontargente,
-le Pic de Mil-Ménut, la Gorge de Quioules, la Vallée d'Astorn,
-le Pic du Pas de las Aygues et le Pic de Midi de Siguer.
+__De l'HOSPITALET à SIGUER,__\
+__par le Cirque du Sisca, le Roc Mélé, le Pic de la Cabanette,__\
+__le Signal de Siscarou, le Pic d'Ascobes, le Pic de l'Albe,__\
+__le Pic de Rulle, le Pic Noir de Joucla,__\
+__les Etangs de Fontargente,__\
+__le Pic de Mil-Ménut, la Gorge de Quioules, la Vallée d'Astorn,__\
+__le Pic du Pas de las Aygues et le Pic de Midi de Siguer.__
 
 <u>__AVIS AUX TOURISTES__</u>
 
@@ -44,12 +41,12 @@ a été renversé. Il présente ainsi les avantages suivants :
 situer le couchage en montagne; 3° enfin, de faire prendre par
 en haut la longue vallée d'Aston, ce qui fait gagner un jour.
 
-U n'existc pas, dans la région, de guides connaissant la course
+Il n'existe pas, dans la région, de guides connaissant la course
 en entier; mais on trouvera un porteur à l'Hospitalet. On
 pourrait en louer un pour les deux premiers jours.
 
-<p class="droite">(Voir ci-contre la Carte du Sisca, du Rulle et de Fontargente).</p>
-<p class="droite">(Voir, page 440, la Carte générale de l'Excursion).</p>
+<p class="droite">(Voir ci-contre la Carte du Sisca, du Rulle et de Fontargente).<br/>
+(Voir, page 440, la Carte générale de l'Excursion).</p>
 
 ———\
 (1) L'Hospitalet (Arièze), 148 hab., c. d'Ax-les-Thermes (17 k.), ligne
@@ -57,16 +54,13 @@ d'Ax à Bourg-Madame.
 
 <div class="page"/>
 
-— p. 434 —
-
-/ (B5me ExeuRsion)
+— p. 434 — SISCA - RULLE - FONTARGENTE  (35me EXCURSION)
 
 ![carte p434](../maps/guide-soubiron-0434-carte-portrait.jpg)
 
 <div class="page"/>
 
-— p. 435 —
-(35me EXCURSION) REFUGE du SISCA 435
+— p. 435 — (35me EXCURSION) REFUGE du SISCA
 
 ## PREMIÈRE JOURNÉE
 
@@ -90,9 +84,9 @@ pentes S. du Pic de Clote Flouride. A 3/4 d'h. de l'Hospitalet.
 on franchira le ruisseau du Sisca sur un pont formé par deux
 dalles en pierre et, 20 m. plus haut, on laissera à dr. le sentier
 qui conduirait à l'éting de Pédourès par le Val d'Arques. Là, le
-vallon du Sisca tourne au S.-O. et le sentier en remonte la rive £g.
+vallon du Sisca tourne au S.-O. et le sentier en remonte la rive g.
 jusqu'au pied des cascades du Saut du Taureau où il passe, pour
-1/4 d'h., rive ür. En amont des cascades, on reviendra définitivement
+1/4 d'h., rive dr. En amont des cascades, on reviendra définitivement
 rive g. pour longer le torrent jusqu'au refuge du Sisca
 (2.080m).
 
@@ -103,9 +97,11 @@ entre deux étroites et profondes brèches par lesquelles on peut
 passer en Andorre.
 
 Le Cylindre d'Ascobes, d'une alt. de 2.600 m. environ, a été
- gravi pour la première fois, ie 7 juillet 1920, par mon disciple.
-le D' Jean Arlaud (V. La Montagne, 1920. p. 149).
-Pour que la voice ferrée puisse, en quittant la gare de l'Hospitalet
+gravi pour la première fois, ie 7 juillet 1920, par mon disciple,
+le Dr Jean Arlaud (V. La Montagne, 1920. p. 149).
+
+———\
+(1) Pour que la voie ferrée puisse, en quittant la gare de l'Hospitalet
 décrire la courbe nécessaire à son entrée dans le grand tunnel
 de 3 kil. de cette localité à Porté, on a déplacé l'Ariège, vers l'O. au
 point de l'ancienne passerelle, Un pont nouveau, en une seule arche
@@ -114,17 +110,14 @@ cours de l'Ariège.
 
 <div class="page"/>
 
-— p. 436 —
-
-136 ROC MELE — PIC ng La CABANETTE (35me EXCURSION)
- - ER NE 2 nié |
+— p. 436 — ROC MELE — PIC de La CABANETTE (35me EXCURSION)
 
 Le refuge forestier de la Bésine du Sisca (1) est situé sur la
 rive g., à 20 m. du torrent et à 10 min. du cirque. Il est confortable
 puisqu'il est pourvu d'un lit de camp en bois, d'une cheminée
 qui tire bien et d'une porte qui ferme au loquet. Il y a
 de la place pour cinq ou six personnes et, même avec du brouillard
-on ne risque pas de le manquer, si on suit le sentier qui:
+on ne risque pas de le manquer, si on suit le sentier qui
 longe la rive g. du ruisseau.
 
 On arrive là à l'entrée d'une merveille pyrénéenne presque
@@ -157,21 +150,18 @@ le N. et faire l'ascension un peu délicate de l'Ascobes par cette
 face; mais ce trajet serait moins intéressant que celui qui fait
 franchir la brèche N.-E. du Cylindre pour repasser au cirque.
 
-Far caprice, sans doute, la nature a creusé là, sur les deux
+Par caprice, sans doute, la nature a creusé là, sur les deux
 versants, deux petits couloirs rapides et faciles qui grimpent
 vers une étroite et très profonde entaille de la crête où il n'y a
 de passage que pour une personne. De cette brèche, on domine
 
 ———\
-(1)° Il ne faut pas confondre ce refuge avec celui de la vallée des
-Bôsines, au N.-E. de l'Hospitalet.
-
-\
+(1) Il ne faut pas confondre ce refuge avec celui de la vallée des
+Bésines, au N.-E. de l'Hospitalet.
 
 <div class="page"/>
 
-— p. 437 —
-(3ôme EXCURSION) PIC D'ASCOBES 437
+— p. 437 — (35me EXCURSION) PIC D'ASCOBES
 
 le Cirque du Sisca au S.-E. et la vallée d'Incles à l'O. On contournera
 donc la base du Cylindre pour remonter immédiatement
@@ -191,8 +181,8 @@ immédiats et surtout sur le cirque.
 
 On domine merveilleusement ce dernier dont tous les détails
 sont en lumière. L'Etang du Sisca, qui en occupe le centre, retient
-longtemps: l'attention avec sa petite île rocheuse. Plus près de
-soi, perdus dans la: rocaille, brillent quatre aûtres petits étangs.
+longtemps l'attention avec sa petite île rocheuse. Plus près de
+soi, perdus dans la rocaille, brillent quatre autres petits étangs.
 
 Sur le versant andorran, au N.-O. de l'Ascobes, on remarquera
 les deux étangs andorrans de Joucla (2.300m), qui ne figurent
@@ -203,35 +193,34 @@ On redescendra au refuge par la rive E. du cirque en passant
 près des estagnoles de Régalécio et de Moulsude et en laissant
 l'Etang du Sisca à dr. On fera ainsi le tour complet du cirque.
 Par cette voie, non seulement on trouvera moins d'éboulis, mais
-
 on repèrera, au passage, le sentier de départ du lendemain par
 la rive g.
 
 __Horaire de la Journée :__
 
 ```
-De l'Hospitalet au Refuge de la Bésine... 2h. ».
-Du Refuge au Roc MB6IS........:..4,44 2h.10 9h.45
-Du Roc Mélé au Cylindre d'Ascobes..... 2h.15
-Du Cylindre au Pic d'Ascobes........... 1h.20 } (Arrêts en sus).
-Du Pic d'Ascobes au Refuge............ 2h. » ;
+De l'Hospitalet au Refuge de la Bésine... 2h. » }
+Du Refuge au Roc Mélé.................... 2h.10 }   9h.45
+Du Roc Mélé au Cylindre d'Ascobes........ 2h.15 }
+Du Cylindre au Pic d'Ascobes............. 1h.20 } (Arrêts en sus).
+Du Pic d'Ascobes au Refuge............... 2h. » }
 ```
 
-1 Au S. de ces deux étangs, existe le très joli Pic Noir andorran
+———\
+(1) Au S. de ces deux étangs, existe le très joli Pic Noir andorran
 de Joucla, 2.640 m. environ. Nous avons donc deux pics Noir de
-Joucla un en France et un en Andorre), comme nous avons quatre
+Joucla un en France et un en Andorre, comme nous avons quatre
 étangs de Joucla. V. p. 441.
 
 <div class="page"/>
 
-— p. 438 —
-PORTEILLE du -SISCA
+— p. 438 — PORTEILLE du SISCA  (35me EXCURSION)
 
 ## DEUXIÈME JOURNÉE
 
 __Du SISCA aux CABANNES de GARSEING (1.960m) [1],__\
-__par la Porteille du Sisca (2.450m), le Pic de lAlbe (2.764m),__\
-__le Pic de Rulle (2.788m), le Pic Noir de dJoucla (2.612m)__\
+__par la Porteille du Sisca (2.450m), le Pic de l'Albe (2.764m),__\
+__le Pic de Rulle (2.788m), le Pic Noir de Joucla (2.612m)__\
 __et les Etangs de Fontargente.__
 
 —— SANS GUIDE ——
@@ -243,7 +232,7 @@ afin de monter à la Porteille du Sisca, en laissant le petit étang
 de Moulsude à g. Pendant le second quart d'heure, le sentier, qui
 monte à travers des pelouses, est à peine tracé. Il se précise et
 s'agrandit dans les pentes supérieures, et, après avoir fait un crochet
-à dr., file droit au N., jusqu'à la Portejlle du Sisca (2:450m),
+à dr., file droit au N., jusqu'à la Portejlle du Sisca (2.450m),
 où apparaît subitement, sur l'autre vérsant, le bel Etang de
 Pédourès.
 
@@ -262,7 +251,7 @@ incliné. Ce couloir conduit directement à la crête, 10 min. au S.
 de la Tose de l'Albe, large bosse gazonnée, dont on apercevra
 bientôt la tourelle (2.600m).
 
-A partir de là, on marchera sur une troupe arrondie, parsemée
+A partir de là, on marchera sur une croupe arrondie, parsemée
 de pierraille et de jispet, pour parvenir, 20 min. après, au
 Pic de l'Albe (2.764m), à 40 m. de la tourelle. On déposera là son
 sac, et on arrivera au Signal à toute crête (2).
@@ -270,16 +259,14 @@ sac, et on arrivera au Signal à toute crête (2).
 ———\
 (1) Les gens du pays prononcent Garsangn.
 
-(2) Sur les régions de l'Albe, du Ruile, de Fontargente et sur le
+(2) Sur les régions de l'Albe, du Rulle, de Fontargente et sur le
 Cirque du Sisca, voir les articles très intéressants et très documentés
 de M. L. Rouch : 1° au Bulletin Pyrénéen, année 1914, pages 321 et
 362; 2° à La Montagne, n° d'avril-juin 1916.
 
 <div class="page"/>
 
-— p. 439 —
-
-(3me EXCURSION) PIC ET ETANGS D'ALBE 439
+— p. 439 — (35me EXCURSION) PIC ET ETANGS D'ALBE
 
 Le point de vue de l'Albe est très beau, surtout sur les abords
 immédiats, cirques de Couart et de Rulle, jasse de Pédourès et
@@ -287,11 +274,11 @@ vallée du Mourgouillou. Le Pic d'Ascobes prend l'aspect d'une
 pyramide aiguë et les crêtes qui entourent le cirque du Sisca
 paraissent en entier. Mais, ce qui attire le plus les regards, c'est
 d'abord le majestueux pic de Rulle, qui se dresse au N.-O., d'un
-élan magnifique, de l'autre côté du cirque; c'est'ensuite le grand
-Élang supérieur de l'Albe qu'on domine presque verticalement
+élan magnifique, de l'autre côté du cirque; c'est ensuite le grand
+Étang supérieur de l'Albe qu'on domine presque verticalement
 de plus de 400 mètres.
 
-A PO. du Pic de l'Albe, un beau couloir très facile, s'il est sans
+A l'O. du Pic de l'Albe, un beau couloir très facile, s'il est sans
 neige, plonge directement vers le grand Etang de l'Albe (2.330m);
 c'est par là qu'on descendra, en faisant un crochet, à g.. au bas
 du couloir, pour éviter un à-pic.
@@ -299,7 +286,7 @@ du couloir, pour éviter un à-pic.
 Situé dans un cadre d'une coquetterie sauvage, l'Etang supérieur
 de l'Albe est un des plus attrayants des Pyrénées. On le
 longera par la rive dr. jusqu'à son déversoir qu'on franchira
-100 im. plus bas; on se dirigera ensuite vers le Rulle en passant
+100 m. plus bas; on se dirigera ensuite vers le Rulle en passant
 entre les deux étangs de l'Albe.
 
 En face, au N.-O. de l'Etang inférieur de l'Albe (2.285m), on
@@ -307,7 +294,7 @@ apercevra, d'abord, une pente gazonnée, puis, tout en haut, un
 vert couloir qui grimpe vers la crête et la rejoint à l'E. du Rulle;
 c'est la voie d'ascension par le cirque S.-E. (1). On zigzaguera
 la pente gazonnée et, parvenu en haut, on tournera à g. pour
-éviter la fastidieuse traversée d'une. profonde cuvette de gros
+éviter la fastidieuse traversée d'une profonde cuvette de gros
 éboulis. Après avoir décrit un arc de cercle de g. à dr., en gagnant
 de la hauteur, on aboutira au vert couloir supérieur qu'on remonlera
 avec précaution. En appuyant un peu à dr., dès qu'on aura
@@ -318,10 +305,11 @@ arête N.-E. du Rulle. A partir de là, c'est un entassement de gros
 blocs qu'on escaladera à toute crête jusqu'au sommet principai
 du Rulle (2.788m).
 
-- Par sa situation privilégiée, puisque aucun pic de plus haute
+Par sa situation privilégiée, puisque aucun pic de plus haute
 altitude ne gène sa vue (2), le Rule est un belvédère de tout pre-
 
-(4) Si on partait de lPétang Couart, on pourrait monter par le cirque
+———\
+(4) Si on partait de l'étang Couart, on pourrait monter par le cirque
 E. et rejoindre le premier itinéraire à la crête, en haut du vert
 couloir,
 
@@ -330,9 +318,7 @@ couloir,
 
 <div class="page"/>
 
-— p. 440 —
-
-De L'HOSPITALET à SIGUER (35e EXCURSION 
+— p. 440 — De L'HOSPITALET à SIGUER (35e EXCURSION)
 
 ![carte p440](../maps/guide-soubiron-0440-carte.jpg)
 
@@ -351,16 +337,14 @@ Fontargente seraient le même pic. Pour d'autres (ceux de la
 
 <div class="page"/>
 
-— p. 441 —
-
-(35me, ExCURSION) PIC NOIR De JOUCLA 441
+— p. 441 — (35me, ExCURSION) PIC NOIR De JOUCLA
 
 région d'Aston), c'est le Pic Noir de Joucla (2.612m) qui serait le
 vrai pic de Fontargente (1).
 
 Du sommet principal (sommet E.), on descendra, à l'O. à la
-large brèche qui sépare les deux cimes et on y déposera' le sac;
-c'est là que prend naissance le couloir S.-O0. par lequel on quittera
+large brèche qui sépare les deux cimes et on y déposera le sac;
+c'est là que prend naissance le couloir S.-O. par lequel on quittera
 le Rulle. On fera à toute crête le sommet O., surmonté de
 deux tourelles jumelles de construction particulière. Bâties sur
 des dalles qui forment un pont à leurs bases, on voit le jour
@@ -368,9 +352,9 @@ par-dessous en y arrivant.
 
 Le sommet O. est en contrebas de quelques mètres et la vue v
 est analogue à celle du sommet E., sauf sur les abords immédiats:
-il fau faire les deux cimes pour jouir du panorama complet.
+il faut faire les deux cimes pour jouir du panorama complet.
 
-Excepté par la muraille qui domine le cirque S.-E., le Rulic
+Excepté par la muraille qui domine le cirque S.-E., le Rulle
 est accessible par toutes ses faces. Dans moins de 2 h., on descendrait
 par la face N.-O. aux cabanes de Garseing; mais, pour
 donner à l'excursion son maximum d'intérêt, on ira faire le tour
@@ -385,34 +369,33 @@ est situé vers 2.500 m. d'alt., au S.-O. du Pic Noir de Joucla
 (2.612m), où on déposera le sac. On fera ensuite, au N.-E., l'ascension
 du sommet, partie à toute crête, partie à flanc.
 
-Du Pic Noir de Joucla, on dominera de 500"m. les beaux étangs
+Du Pic Noir de Joucla, on dominera de 500m. les beaux étangs
 de Fontargente situés au N.-O., vers lesquels on descendra après
 être revenu au col. Là, naissent deux longs couloirs d'éboulis
-dont l'un, celui de dr., se dirige vers le grand étang, et l'autre.
+dont l'un, celui de dr., se dirige vers le grand étang, et l'autre
 vers le petit. On prendra ce dernier, afin d'aller rejoindre le
 sentier qui vient du Port de Fontargente (2.252m). Passant ensuite
 entre les deux étangs, on quittera le plateau en obliquant un peu
 à dr. au N.-E., pour suivre le sentier qui longe la rive g. du
-déversoir du grand étang jusqu'au ruisseau d'Aston qw'il franchil.
+déversoir du grand étang jusqu'au ruisseau d'Aston qu'il franchit.
 On trouvera sur la rive dr. un chemin muletier qui, à travers
 
-UV. à ce sujet l'article de M. L. Rouch dans le Bulletin Pyrénéen.
+———\
+(1) V. à ce sujet l'article de M. L. Rouch dans le Bulletin Pyrénéen.
 année 1917, p. 68.
 
-2) Les deux étangs ATrEne de Joucla dont il est question à la
+(2) Les deux étangs andorrans de Joucla dont il est question à la
 page 437, sont plus au S., de l'autre côté de la frontière. Un col facile
 les fait communiquer avec les étangs français de Joucla.
 
 <div class="page"/>
 
-— p. 442 —
+— p. 442 — CABANES De GARSEING (35me EXCURSION)
 
-(CABANES De GARSEING (35me: EXCURSION)
-
-les pelouses, conduit, dans 1/4 d'h., à la première cabane: de,
-Garseing 1.960m) où on couchera. Il en existe une autre 150 m.
-plus loin, mais moins importante. 1 . |
-Les deux cabanes de Garseing sont admirablement situées-sur
+les pelouses, conduit, dans 1/4 d'h., à la première cabane de
+Garseing 1.960m où on couchera. Il en existe une autre 150 m.
+plus loin, mais moins importante.
+Les deux cabanes de Garseing sont admirablement situées sur
 un beau plateau de verdure, rive dr. de la haute vallée d'Aston.
 La plus confortable est la première, celle qui appartenait à
 l'ancien berger principal, Papy (1).
@@ -424,11 +407,13 @@ de Pédourès.
 
 __Horaire de la Journée :__
 
-Du Refuge à la Porteille du Sisca........ 0h.45
-De la Porteille au Pic de l'Albe.......... 1h.30 | =
-Du Fic de l'Albe au Pic de Rulle...,... 2h.15 AS
-Du Pic de Rulle au Pic Noir de Joucla.. 2h. » } (Arrêts en sus).
-Du Pic Noir aux Cabanes de Garseing.... 1h.45
+```
+Du Refuge à la Porteille du Sisca........ 0h.45 }
+De la Porteille au Pic de l'Albe......... 1h.30 }
+Du Pic de l'Albe au Pic de Rulle......... 2h.15 }  8h. 15
+Du Pic de Rulle au Pic Noir de Joucla.... 2h. » } (Arrêts en sus).
+Du Pic Noir aux Cabanes de Garseing...... 1h.45 }
+```
 
 ## TROISIÈME JOURNÉE
 
@@ -446,20 +431,19 @@ pyrénéiste, il faut « couper » horizontalement les pentes d'en
 face, afin de rejoindre la Coume de Varilhes à mi-hauteur. Un
 trajet de ce genre, au début de l'excursion, se fait sans fatigue.
 
-Frarchissant l'Aston au S. de la cabane, on obliquera immédiatement
+Franchissant l'Aston au S. de la cabane, on obliquera immédiatement
 à dr. pour contourner le flanc N. de la montagne. Après
 
 ———\
 (1) Papy était un bon chasseur qui connaissait admirablement les
-inontagnes de Fontargente et qui pouvait donner des renseignements
+montagnes de Fontargente et qui pouvait donner des renseignements
 précieux. Comme il était très serviable, c'était, pour le touriste qui
 passait dans cette région, le berger providentiel.
 
 <div class="page"/>
 
-— p. 443 —
+— p. 443 — (35me EXCURSION) COL. de la COUME d'OSE
 
-(35me EXCURSION) COL. »E LA COUME d'OSE 443
 20 min. de marche vers l'O., on rejoindra un petit sentier qui,
 venant des étangs de Fontargente, se dirige horizontalement vers
 la Coume de Varilhes. Là, on franchira le ruisseau de la Coume
@@ -478,7 +462,7 @@ d'un profond coup de scie entre le Pic de la Coume d'Enfer
 (2.580m) et le Pic de la Coume d'Ose (2.662m). Le Col de la Portaneille
 fait communiquer la vallée d'Aston avec l'Andorre par la
 Coume de Varilhes; c'est par un étroit couloir d'éboulis qu'on
-grimpe à celte brèche pour aboutir ensuite, par une pente rapide.
+grimpe à cette brèche pour aboutir ensuite, par une pente rapide
 à la Coma de Ransol, en Andorre.
 
 En haut de la Coume de Varilhes, on parviendra à la base d'un
@@ -489,11 +473,11 @@ le Col de la Coume d'Ose (2.352m).
 
 Le Col de la Coume d'Ose fait communiquer la Coume de
 Varilhes avec celle d'Ose. Orienté E.-O., il est en entier en France.
-ct il ne faut pas le confondre avec le Port-Vieux de la Coume
+et il ne faut pas le confondre avec le Port-Vieux de la Coume
 d'Ose qui est situé sur la crête frontière et est orienté N.-S.
 
-Immédiatement à l'O. du Col, on aura sous ses pieds, en contre-
-bas de plus de 300 m., le petit étang de la Coume d'Ose. A une
+Immédiatement à l'O. du Col, on aura sous ses pieds, en contrebas 
+de plus de 300 m., le petit étang de la Coume d'Ose. A une
 heure matinale, ce petit étang, comme celui de la Coume d'Enfer,
 apparaît sous un aspect lugubre. Seule, sa partie S. est moirée
 d'argent, sous la chute d'une cascade qu'alimente un névé.
@@ -509,26 +493,22 @@ en est très facile.
 
 <div class="page"/>
 
-— p. 444 —
+— p. 444 — MIL-MENUT — JASSE de QUIOULES (35me EXCURSION)
 
-N ya MIL-MENUT — JASSE de QUIOULES" (35me Ex@y
-
-On quittera le Col par la ge, et, par une marche horizontale, on
+On quittera le Col par la g., et, par une marche horizontale, on
 coupera les terrasses du flanc N. du Pic de la Coume d'Ose. On
 dominera constamment le petit étang, qu'on laissera à dr., et on
-aboutira bientôt à la base du grand couloir qui monte au PortVieux
-de la Coume d'Ose (2. 500?). Ce port est situé entre le Pic
-de la Coume d'Ose (2.662m), à l'E., et le Pic de Mil-Ménut (2. 735%),
+aboutira bientôt à la base du grand couloir qui monte au Port-
+Vieux de la Coume d'Ose (2.500?). Ce port est situé entre le Pic
+de la Coume d'Ose (2.662m), à l'E., et le Pic de Mil-Ménut (2.735m),
 à l'O. Une grimpette de 20 min. mènera au port. On n'aura plus
-qu'à faire, à l'O:, l'ascension du Mil-Ménut à toute crête.
+qu'à faire, à l'O., l'ascension du Mil-Ménut à toute crête.
 
-Sans qu'elle puisse: être comparée à celles du Rulle et du Ser-
-
-rère, la vue du Mil-Ménut est très belle, surtout vers le N. et le
+Sans qu'elle puisse: être comparée à celles du Rulle et du Serrère, 
+la vue du Mil-Ménut est très belle, surtout vers le N. et le
 S. On aperçoit de son sommet les multiples vallons secondaires
-- Qui, aussi bien sur le versant andorran que sur le versant français
-apportent aux grandes vallées le tribut de leurs eaux torren-
-tueuses.
+Qui, aussi bien sur le versant andorran que sur le versant français
+apportent aux grandes vallées le tribut de leurs eaux torrentueuses.
 
 Du Mil-Ménut, on descendra, au N.-O., par un contrefort et un
 couloir vers la cuvette de l'ancien petit étang de la Coume de
@@ -538,17 +518,15 @@ rive g. du torrent, on rejoindra le sentier qui descend directement
 
 La Jasse de Quioules est, peut-être, la plus importante de
 l'Ariège; elle voit passer, à l'aller et au retour, tous les troupeaux
-qui pâturent aux jasses supérieures de la Coume d'Ose, la Caume
-de Seignac, de Soulanet et des deux Sabines. Un berger m'4a
+qui pâturent aux jasses supérieures de la Coume d'Ose, la Coume
+de Seignac, de Soulanet et des deux Sabines. Un berger m'a
 affirmé qu'on pourrait faire pacager 30.000 moutons dans ces
 jasses réunies.
 
 On trouve à la Jasse de Quioules une belle cabane couverte en
-
 ardoise et munie d'une porte en fer fermant à clé. C'est un beau
-
-centre d'excursion, et c'est là que je conseille d'aller coucher s:
-on veut faire le: pic de Serrère séparément. Au cas où on irail
+centre d'excursion, et c'est là que je conseille d'aller coucher si
+on veut faire le pic de Serrère séparément. Au cas où on irait
 avant saison, on s'informera à Aston si la cabane est habitée.
 
 De la Jasse de Quioules, le chemin, bien tracé, suit la rive dr.
@@ -566,8 +544,7 @@ certaines parties; des falaises de 2 à 300 mètres de hauteur et
 
 <div class="page"/>
 
-— p. 445 —
-(35me EXCURSION) GORGE de QUIOULES oo 445
+— p. 445 — (35me EXCURSION) GORGE de QUIOULES
 
 presque verticales; un chemin souvent accroché très haut sur le
 flanc de la montagne : voilà la partie supérieure de la gorge.
@@ -579,10 +556,10 @@ gorge est si resserrée que leurs branches crochues se sont enchevêtrées
 avec celles des arbres de l'autre rive.
 
 On a jeté là un tout petit pont en fer (1) pour passer rive g.
-où une remontée de chemin mène à un col situé sur un contre-
-fort rocheux. Après le col, on reprendra la descente rapide et on
+où une remontée de chemin mène à un col situé sur un contrefort 
+rocheux. Après le col, on reprendra la descente rapide et on
 sera à nouveau canalisé vers le fond de la gorge, pour rejoindre
-le torrent pres du confluent de l'Aston qui descend de Fontargente
+le torrent prés du confluent de l'Aston qui descend de Fontargente
 A partir de là, le chemin s'aplanit en traversant des jasses
 de verdure de la rive g. et une belle forêt. Il continue en bordure
 de l'Aston qu'il domine souvent d'une centaine de m., et, après
@@ -602,30 +579,27 @@ de Sirbal.
 __Horaire de la Journée :__
 
 ```
-Du Flateau de Garseing au Col de la
-Coume d'Ose ....................... 2h.15 10h. »
-Du Col de la Coume d'Ose au Mil-Ménut.. 2h. »
-Du Mil-Ménut à la Jasse de Quioules..... 2h. » } (Arrêts en sus).
-De la Jasse de Quioules à Aston......... 3h.45 /
+Du Plateau de Garseing au Col de la           }
+  Coume d'Ose ......................... 2h.15 }   10h. »
+Du Col de la Coume d'Ose au Mil-Ménut.. 2h. » }
+Du Mil-Ménut à la Jasse de Quioules.... 2h. » } (Arrêts en sus).
+De la Jasse de Quioules à Aston........ 3h.45 }
 ```
 
 ———\
-(1) Pont de la Crabe 11.300m), appelé ainsi parce qu'une chèvre le
+(1) Pont de la Crabe 1.300m, appelé ainsi parce qu'une chèvre le
 franchirait d'un bond.
 
 (2) Aston, 334 hab., c. des Cabannes (3 k.).
 
 <div class="page"/>
 
-— p. 446 —
-
-gas CRAN ee OT OT R R R
-46 , ASTON — VALLON ne SIRBAL (éme. Excunao)
+— p. 446 — ASTON — VALLON de SIRBAL (35me EXCURSION)
 
 ## QUATRIEME JOURNEE
 
 __D'ASTON (580m) à SIGUER (745m),__\
-__par lé Vallon de Sirbal, le Pas de l'Escalier (1.800m),__\
+__par le Vallon de Sirbal, le Pas de l'Escalier (1.800m),__\
 __la Serre des Affumats (2.095-2.187m),__\
 __le Pic du Pas de las Aygues (2.288m) et le Pic de Midi__\
 __de Siguer (2.002m).__
@@ -667,11 +641,10 @@ n'y a pas de sentier régulier, mais de nombreuses traces sur un
 ———\
 (1) La cote 1268 est celle de la carte d'Etat-Major; à mon avis, cette
 cabane est au moins à 1.400 m.
+
 <div class="page"/>
 
-— p. 447 —
-
-(3ôme EXCURSION) PAS DE L'ESCALIER — SERRE des AFFUMATS 447
+— p. 447 — (35me EXCURSION) PAS DE L'ESCALIER — SERRE des AFFUMATS
 
 terrain facile qu'on zigzaguera à sa fantaisie jusqu'au Pas des
 Escaliers (1.800m). On ne peut pas se tromper; c'est la dépression
@@ -687,12 +660,12 @@ On arrive là sur une magnifique terrasse de pâturages, longue
 de 2 k. environ et large de 300 m. Orientée E.-O., à une alt.
 moyenne de 2.100 m., elle procure le plaisir de faire sans fatigue
 une promenade ravissante. On aperçoit successivement plusieurs
-vill. des vallées d'Ax, de Siguer, de Vicdessos, et on domine aus.
+vill. des vallées d'Ax, de Siguer, de Vicdessos, et on domine au S.
 le vallon de Larnoum.
 
-Pour augmenter l'agrément,'on fera un petit crochet à dr., au
+Pour augmenter l'agrément, on fera un petit crochet à dr., au
 N.-E., afin de passer au point culminant, au Cap de la Serre des
-Affumats (2.187m), d'où on «a uné jolie vue plongeante vers Siguer
+Affumats (2.187m), d'où on a une jolie vue plongeante vers Siguer
 et la vallée de ce nom.
 
 Du Cap de la Serre des Affumats, on aperçoit, au S.-S.-O., la
@@ -726,15 +699,15 @@ au N.-O. pour rester toujours sur la crête et, après avoir dépassé
 — p. 448 — PIC de MIDI de SIGUER (35me EXCURSION)
 
 le Col de Bayle, remonte légèrement direction N. jusqu'au Pic de
-Midi de Siguer (2.002m). Ce n'est pas à proprement parler Ün
+Midi de Siguer (2.002m). Ce n'est pas à proprement parler un
 pic, car il n'en a aucun caractère; c'est le point culminant d'une
 colline gazonnée qui n'a l'aspect d'un pic que vu de Siguer. C'est
-un joli belvédère sur les abords immédiats, surtoût sur les vil.
+un joli belvédère sur les abords immédiats, surtout sur les vil.
 de Gestiès, de Siguer, de Lercoul et de Lapège; ce dernier s'étage,
 suspendu à flanc de montagne, sur la rive g. de-la grande vallée
-de Vicdessos. . :
+de Vicdessos.
 
-Du Pic de Midi, on suivra, d'abord, la croupe N.-E. aui descend
+Du Pic de Midi, on suivra, d'abord, la croupe N.-E. qui descend
 en pente douce, puis on tournera à dr., à l'E. afin d'aller
 trouver le grand sentier de la Jasse de Périguels. A partir de là,
 il y a plusieurs chemins pour descendre à Siguer : le premier
@@ -743,30 +716,32 @@ le second continue droit au N. et, après avoir franchi le torrent
 de Durbat, y aboutit 1 k. en amont de Siguer. Les deux sont
 bons et demandent le même temps.
 
-Nota. - \1 peut, en 1/2 h., descendre de Siguer à Larramade
+Nota. - on peut, en 1/2 h., descendre de Siguer à Larramade
 (2 k. 500) et là, prendre le petit train, soit pour Vicdessos ou
 Auzat, soit pour Tarascon.
 
 __Horaire de la Journée :__
 
 ```
-D'Aston au Pont de Sirbal.............. 1h.10 :
-Du Pont de Sirbal au Pas des Escaliers.. 3h.20
-Du Pas des Escaliers au Pic du Pas de 9h.30
-Las AMQUES à sasamssumanmecsms sceaux sus 1h.45 |
-Du Pic du Pas de las Aygues au Pic de } (Arrêts en sus).
-Midi de Siguer...................... 1h.»
-Du Pic de Midi à Siguer................ 2h.15
+D'Aston au Pont de Sirbal............... 1h.10 }
+Du Pont de Sirbal au Pas des Escaliers.. 3h.20 }
+Du Pas des Escaliers au Pic du Pas de          }    9h.30
+  las Aygues............................ 1h.45 }
+Du Pic du Pas de las Aygues au Pic de          } (Arrêts en sus).
+  Midi de Siguer........................ 1h.»  }
+Du Pic de Midi à Siguer................. 2h.15 }
 ```
 
 <u>__POINTS D’INTERRUPTION__</u>
 
-REFUGE \ Pour rejoindre de l'Hospitalet.............. . 2h »
-DU SISCA } Pour rentrer à l'Hospilalet..... Boss eesssese.e 1h.30.,
-CABANNES Pour rejoindre des Cabannes................. Gh. »
+__REFUGE DU SISCA__
+- Pour rejoindre de l'Hospitalet : 2h »
+- Pour rentrer à l'Hospilalet : 1h.30.
 
-DE GARSEING Pour rentrer aux Cabannes ...... éressssess se 5h. ».
+__CABANNES DE GARSEING__
+- Pour rejoindre des Cabannes : 6h. »
+- Pour rentrer aux Cabannes : 5h. »
 
-Pour rejoindre des Cabannes, afin d'effectuer la qua-
-ASTON trième journée, 35 minutes.
-Pour rentrer aux Cabannes, après la 3° journée, 1/2h.
+__ASTON__
+- Pour rejoindre des Cabannes, afin d'effectuer la quatrième journée, 35 minutes.
+- Pour rentrer aux Cabannes, après la 3° journée, 1/2h.

@@ -1,5 +1,5 @@
 # Guide Soubiron
-Les Pyrénées - du Pic d'Anie au Canigou en 40 excursions, par Pierre Soubiron, cartes de Raymond d'Espouy.
+Les Pyrénées - du Pic d'Anie au Canigou en 40 excursions, par Pierre Soubiron, cartes de Raymond d'Espouy. 1931.
 
 Un guide des années 30 glané chez un bouquiniste...
 
@@ -50,7 +50,7 @@ Les fichiers :
 [Pages 403 à 410 : 32eme Excursion](md/guide-soubiron-403-410.md) : Trois jours aux Environs d'Auzat\
 [Pages 411 à 422 : 33eme Excursion](md/guide-soubiron-411-422.md) : Quatre jours au départ d'Auzat\
 [Pages 423 à 432 : 34eme Excursion](md/guide-soubiron-423-432.md) : Quatre jours au départ d'Auzat \
-[Pages 433 à 448 : 35eme Excursion](md/guide-soubiron-433-448.md) :  \
+[Pages 433 à 448 : 35eme Excursion](md/guide-soubiron-433-448.md) : Quatre jours au départ de l'Hospitalet \
 [Pages 449 à 460 : 36eme Excursion](md/guide-soubiron-449-460.md) :  \
 [Pages 461 à 468 : 37eme Excursion](md/guide-soubiron-461-468.md) :  \
 [Pages 469 à 486 : 38eme Excursion](md/guide-soubiron-469-486.md) :  \
