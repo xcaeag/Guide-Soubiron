@@ -4,21 +4,19 @@ abstract: |
     Du PIC d'ANIE au CANIGOU
     En 40 Excursions
 title: |
-    | xxxxxxxxxx EXCURSION
-    | xxxxxxxxxxxxxxxxxxx
+    | TRENTIÈME EXCURSION
+    | Trois jours aux Environs de Foix
 output: pdf_document 
 ---
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
 -----------------------
-[//]: # (— p. XX —)
-
-— p. 385 —
+[//]: # (— p. 385 —)
 
 # TRENTIÈME EXCURSION
 
-Trois jours aux Environs de Foix
+__Trois jours aux Environs de Foix__
 
 _B. E. — Du 15 Juin au 15 Octobre._
 
@@ -42,7 +40,7 @@ Au hameau de Carrigas, le chemin s'élève à dr., en lacets
 rapides, vers la colline qui sépare le vallon de Ganac de celui
 de Brassac, et on arrive bientôt sur un petit promontoire d'où
 l'œil plonge sur la Barguillère. A partir de là, le chemin monte
-en pente douce, d'abord, par le flanc ©. de 1a colline, ensuite,
+en pente douce, d'abord, par le flanc O. de 1a colline, ensuite,
 en longeant un petit plateau; puis, après avoir fait deux lacets,
 aboutit au Cap de Bouchart (865m). On fera là une petite halte,
 car on y jouit déjà d'un coquet point de vue sur la plaine, sur
@@ -63,9 +61,7 @@ du Calmil. Ce dernier continue tout droit devant soi, entre
 
 <div class="page"/>
 
-— p. 387 —
-
-(3Ume EXCURSION) CAP. de LA COUME DE PIGNOU 387
+— p. 387 — (30me EXCURSION) CAP de LA COUME DE PIGNOU
 
 deux rangées de bouleaux; on le laissera à g., et on suivra celui,
 à peine tracé, qui suit la crête.
@@ -135,11 +131,11 @@ aboutit sur la place, près de l'église.
 __Horaire de la Journée :__
 
 ```
-De Foix à Ganac (5 k.)................. 1h.10
-De Ganac au Cap de la Coume de Pignou. 3h.35 / 7h.45
-De la Coume de Pignou au Roc des Louve- .
-Hières esse 1h. » } (Arrêts en sus).
-Du Roc des Louvetières à Saurat......... 2h. »
+De Foix à Ganac (5 k.)................ 1h.10 }
+De Ganac au Cap de la Coume de Pignou. 3h.35 }   7h.45
+De la Coume de Pignou au Roc des Louve-      }
+  tières.............................. 1h. » } (Arrêts en sus).
+Du Roc des Louvetières à Saurat....... 2h. » }
 ```
 
 __Variante possible :__
@@ -153,8 +149,8 @@ pour rejoindre la route à Camp-Arnaud, 3 k. de Foix;
 
 2° A Tarascon, en 3h.15, par le Bout de Touroun (1.498m),
 pour rejoindre un sentier qui descend au S.-E.; à Arignac, 3 k.
-de la gare de Tarascon. Cette dernière voie est la plus inté-
-ressante.
+de la gare de Tarascon. Cette dernière voie est la plus 
+intéressante.
 
 ## DEUXIÈME JOURNÉE
 
@@ -171,9 +167,8 @@ Loumet avant d'arriver à Frat-Communal. Après le pont, on
 
 <div class="page"/>
 
-— p. 389 —
+— p. 389 — (30me EXCURSION) PIC de LA JOURNALADE
 
-(#Ume EXCURSION) PIC de LA JOURNALADE 389
 prendra le chemin de chars qui s'amorce à g., et qui remonte
 le cours du Loumet; c'est la voie la plus directe de Saurat à
 Massat par le col de l'Estagnou (1.500m).
@@ -201,7 +196,7 @@ vallée de Saurat jusqu'à Tarascon. On entre là dans la région
 favorite des perdrix; je n'y suis jamais passé sans en apercevoir
 plusieurs compagnies.
 
-A partir du col, on prendra la direction S. pour monter à.
+A partir du col, on prendra la direction S. pour monter à
 toute crête vers la pointe secondaire de la Journalade, pointe N.
 qu'il faut contourner par l'O. afin d'aboutir au col gazonné
 aperçu d'en bas. Il n'y aura plus qu'une grimpette de 10 min.
@@ -217,15 +212,14 @@ c'est le trajet par les crêtes, depuis la Journalade jusqu'au
 Roc de Calamès.
 
 A 1.500 m. au S.-E., parait la pointe massive du Cap de la
-Dosse (1.953m); un petit sentier v conduit en passant au col qui
+Dosse (1.953m); un petit sentier y conduit en passant au col qui
 la sépare de la Journalade. On ira d'un sommet à l'autre par le
 petit sentier qui longe la crête par la face S.
 
 <div class="page"/>
 
-— p. 390 —
+— p. 390 — LE ROC de TRABINET (30me EXCURSION)
 
-390 LE ROC De. TRABINET (30me EXCURSION)
 Le point de vue est analogue à celui de la Journalade, sauf sur
 la vallée de Massat qui lui est en partie masquée. En revanche,
 le Pic des Trois Seigneurs, qui est là tout près, a plus belle allure
@@ -246,9 +240,9 @@ coupe d'abord de Col de Carloung (1.101m), puis celui de Banalouse
 l'ascension du Roc des Iretgés (1); puis, un peu plus loin, celle
 du Cap de Brougat (915m). Chacun de ces petits sommets est un
 balcon suspendu sur le vill. de Rabat. On arrive, enfin. au Col
-Dijou, au pied du Roc de Calamès; si on dispose d'une demi-h..
-on peut en faire la facile ascension, car un sentier monte jus-
-qu'au pied des ruines.
+Dijou, au pied du Roc de Calamès; si on dispose d'une demi-h.
+on peut en faire la facile ascension, car un sentier monte jusqu'au 
+pied des ruines.
 
 Un grand chemin qui vient de Rabat passe au-dessous du Col,
 pour descendre ensuite à Bédeilhac où on rejoint la grand'route,
@@ -258,12 +252,12 @@ aller coucher aux Cabannes.
 __Horaire de la Journée :__
 
 ```
-De Saurat au pont du Loumet.......... 1h. »
-Du pont au Col de l'Estagnou.......... 2h. » |
-Du Col à la Journalade................ 1h.30 9h. »
-De la Journalade au Cap de la Dosse.... 0h.30 } (Arrêts en sus).
-Du Cap de la Dosse à Bédeilhac......... SE »
-De Bédeilhac à Tarascon............... 1h. » |
+De Saurat au pont du Loumet.......... 1h. » }
+Du pont au Col de l'Estagnou......... 2h. » }
+Du Col à la Journalade............... 1h.30 }    9h. »
+De la Journalade au Cap de la Dosse.. 0h.30 } (Arrêts en sus).
+Du Cap de la Dosse à Bédeilhac........3h. » }
+De Bédeilhac à Tarascon.............. 1h. » }
 ```
 
 ———\
@@ -271,9 +265,7 @@ De Bédeilhac à Tarascon............... 1h. » |
 
 <div class="page"/>
 
-— p. 391 —
-
-(3Ume EXCURSION) VERDUN 391
+— p. 391 — (30me EXCURSION) VERDUN
 
 ## TROISIÈME JOURNÉE
 
@@ -284,7 +276,7 @@ __Croquié et Mercus.__
 —— SANS GUIDE ——
 
 __Conseils.__ — __Itin. recomm.__ — On sortira des Cabannes par
-le N., et après avoir traversé le ichemin de fer, on prendra la
+le N., et après avoir traversé le chemin de fer, on prendra la
 route qui, par Verdun, monte à la chapelle de Sourdeign. Au-
 dessus de Verdun, la route grimpe par une étroite gorge dans
 laquelle elle fait neuf lacets, pour atteindre le plateau où est
@@ -300,7 +292,7 @@ Mercus. En effet, de Caussou, elle part en corniche par Bestiat,
 en dominant la grande vallée de très haut jusqu'au Col de
 Lordat, puis continue par un vallon suspendu à flanc de montagne
 en desservant Axiat, Appy, Caychax, Senconac, Cazenave
-et Arnave. .
+et Arnave.
 
 A 800 m. au N.-O. des granges de Miquel, cette route franchit
 un passage très étranglé, nommé Pas de Vernaux (1). Environ
@@ -310,7 +302,7 @@ traversera en entier, direction N. Après quelques courts et
 rapides lacets, le sentier fait un grand crochet à dr. et aboutit
 à une petite clairière d'où on domine une grande partie de l'intéressante
 route vers Caychax. Au S.-O., de l'autre côté du vallon,
-PAiguille de Souloumbrie (1.277m) fait un effet superbe.
+l'Aiguille de Souloumbrie (1.277m) fait un effet superbe.
 
 De la clairière, le sentier repart en pente douce, direction N.,
 et, à mesure qu'on avance, on découvre l'autre versant vers Mercus
@@ -324,12 +316,10 @@ vers 1.600 m. d'alt. On inclinera alors légèrement à dr.,
 
 <div class="page"/>
 
-— p. 392 —
-
-392 | MONT FOURCAT - LAOUZATTE (30me EXCURSION)
+— p. 392 — MONT FOURCAT - LAOUZATTE (30me EXCURSION)
 
 et on montera à travers les croupes gazonnées, direction N.-E.,
-afin d'aboutir à la crête, près des ruines de la cabane du Coi
+afin d'aboutir à la crête, près des ruines de la cabane du Col
 d'Aigue-Torte. C'est là que passe le chemin direct d'Ussat à
 Montferrier et à Lavelanet.
 
@@ -363,19 +353,21 @@ gravies les jours précédents.
 __Horaire de la Journée :__
 
 ```
-Des Cabannes au Mont Fourcat......... 4h.45 ) + h. 45
-Du Fourcat à la Laouzatte.............. 0h.35 :
-De la Laouzatte à Mercus............... 2h.25 } (Arrêts en sus).
+Des Cabannes au Mont Fourcat....... 4h.45 }  7 h. 45
+Du Fourcat à la Laouzatte.......... 0h.35 }
+De la Laouzatte à Mercus........... 2h.25 } (Arrêts en sus).
 ```
 
 Nota. — Cette excursion peut être effectuée en sens inverse;
-
 mais, dans ce cas, celle présente l'inconvénient de faire toute
 l'ascension à découvert et face au soleil.
 
 <u>__POINTS D’INTERRUPTION__</u>
 
-Pour faire la deuxième el la troisième journée ou
-SAURAT pour abandonner après la premiére.
 
-LES CABANNES ! Pour ne faire que la troisième journée.
+__SAURAT__
+- Pour faire la deuxième et la troisième journée ou
+pour abandonner après la premiére.
+
+__LES CABANNES__
+- Pour ne faire que la troisième journée.
