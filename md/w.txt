@@ -22,7 +22,7 @@ replace =
 - tramway train crémaillère... lister
 -> BH, Mart
 
-## Photos à faire
+## Photos à faire, trucs marrants
 
 p91 : (2) Ce lac reste ordinairement glacé jusqu'aux premiers jours d'août.
 
@@ -38,6 +38,9 @@ de Paül, au-dessous duquel le glacier continue encore 2 ou 300 m.
 p222 : ils le sont encore actuellement
 pendant dix mois et demi.
 
+295. A quatre pattes, en 20 min
+en montant sur les épaules d'un camarade
+
 p235 : On y va en chemin de fer jusqu'à 1.800 m. d'alt.
 (Superbagnères); en voiture, jusqu'au pied des cascades et à
 cheval, jusqu'à la base des glaciers.
@@ -48,8 +51,22 @@ toujours glacés;\
 p289 : trois lacs étagés, lacs
 qui restent glacés pendant 11 mois
 
+p333 : A Salardu, on reconnaîtra sa chambre et on y déposera tous
+ses bagages. On retiendra, pour le lendemain, un mulet qui
+montera les sacs jusqu'au Cirque de Colomès. On louera aussi
+un porteur pour trois jours.
+
 p341 : Ce lac, très encaissé et très sauvage, est glacé
 dix mois de l'année
+
+il suffit de prendre un porteur du pays connaissant
+le chemin jusqu'au Port d'Urets, d'où on le renverra.
+
+p350 : porteur
+
+p358: Bonabé, petite station industrielle, située à 1.450 m. d'alt., sur
+la rive g. de la Noguera Pallaresa, au point marqué dans les cartes
+« Bordes d'Isil ».
 
 p378 : Les lacs de Sounou sont ordinairement glacés jusqu'au 15 juillet
 
@@ -69,5 +86,4 @@ glaciers
 La splendeur de la Haute Ribagorzana n'a d'égale que l'oubli dans lequel on l'a laissée jusqu'à 
 ce jour.
 
-295. A quatre pattes, en 20 min
-en montant sur les épaules d'un camarade
+

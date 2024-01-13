@@ -175,7 +175,7 @@ côté du cirque, se dresse la tourelle du Bernat Barraou qu'on
 ascendra dans l'après-midi.
 
 Pour descendre du Cambalès, on suivra la crête N. pendant
-quelques min.; puis, en obliquant un peu à g., à flanc de crète,
+quelques min.; puis, en obliquant un peu à g., à flanc de crête,
 on ira rejoindre une petite brèche par laquelle on dévalera vers
 le lac supérieur de Cambalès (2). On pourra déjeuner sur ses
 bords. Le site est charmant et les minutes passent vite en contemplant 

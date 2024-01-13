@@ -102,7 +102,7 @@ est à peine inclinée, mais qu'on traversera avec prudence.
 
 Le Pic d'Endron cst un belvédère régional de premier ordre. Il
 est situé à l'extrême pointe de cette jolie crête qui, de l'Aspre, se
-dirige au N. ct, après avoir franchi la double pointe du Pic Peyrot
+dirige au N. et, après avoir franchi la double pointe du Pic Peyrot
 (2.482m), s'infléchit légèrement pour se relever dans un bei
 élan jusqu'à la cote 2476. On domine merveilleusement toutes les
 vallées environnantes, surtout celle de Siguer; la gorge de Brouquenat
@@ -348,9 +348,9 @@ donc de l'Estanyo au Serrère en partant d'abord, à toute crête,
 puis, à flanc, tantôt sur l'un, tantôt sur l'autre versant.
 
 Le panorama du Serrère est analogue à celui de l'Estanyo en
-ce qui concerne la grande chaine; ils se complètent pour les
+ce qui concerne la grande chaîne; ils se complètent pour les
 abords immédiats. De l'Estanyo, on voit mieux l'Andorre, mais
-du Serrère, on découvre tout le versant N. de la chaine ariégeoise.
+du Serrère, on découvre tout le versant N. de la chaîne ariégeoise.
 Il faut donc ascendre les deux sommets dans la même journée
 pour jouir complètement d'un des plus beaux points de vue des
 Pyrénées.

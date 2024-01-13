@@ -463,7 +463,7 @@ on fera l'ascension du sommet par des pentes faciles.
 Le Montaspet (1.849m) est un point de triangulation de premier
 ordre; une belle tourelle est bâtie sur le sommet. Son panorama
 est immense; il s'étend, en arc de cercle, de Pau au Crabère, en
-passant par la grande chaine. Comme au pic de l'Areng, on domine 
+passant par la grande chaîne. Comme au pic de l'Areng, on domine 
 toute la Barousse, ainsi que toute la plaine de l'O. à l'E. Par
 une journée claire, on aperçoit très bien Pau à la lorgnette.
 

@@ -511,7 +511,7 @@ Balacet ................... 352 : Bentaillou (mine du)...... 350
 Balagt (forêt de)..... 515, 518 | Berbérust ............ 71, 72
 Balaïtous (le)..... 53, 59, Beret (port de)............ 333
 60, 102 | Bernat-Barraou (pic de)... 90
-Baliran (crète de)......... 246 |! Bernazaou (vallée de)..... 118
+Baliran (crête de)......... 246 |! Bernazaou (vallée de)..... 118
 Banios (col de)...... 165, 167 | Bernera (crête de)........ 30
 Barbat (Grand) ....... 71, 85 | Bernère (port de)......... 31
 Barèges ........ 147, 149, 157 |; Bésine (ref. de la). — V.
@@ -1356,7 +1356,7 @@ Gourgs-Blancs (pic des). Guillou (port de).......... 378
 212, 213
 Gourzy (chemin et signal
 AU) éscasnssesammenee ne 51
-Haboura (crète de)........ 167 Hospice de Viella.... 283,
+Haboura (crête de)........ 167 Hospice de Viella.... 283,
 Haougade (col de la). 108, 109 289, 290, 315, 316
 Harlé (pic Pierre)........ 321 Hospitalet (1°) ....... - 433, 435
 Hautacamp (le) ...... 71, 72 Hountanet (col de)... 144, 145
@@ -2031,7 +2031,7 @@ Porteille de Morens.. 509,
 Porteille d'Orlu ...... 454,
 
 Portillon de Burbe ........
-Portillon (crète du).......
+Portillon (crête du).......
 Portillon d'En-haut .......
 Portillon d'En-bas ... 298,
 Portillon (lac glacé du)...

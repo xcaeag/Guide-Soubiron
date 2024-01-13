@@ -441,7 +441,7 @@ de tout gite qui en rend l'ascension assez dure.
 
 __Situation du pic Pierre-Soubiron et notes explicatives__
 
-De la chaine qui va du pic Russell aux pics de Malibierne, se
+De la chaîne qui va du pic Russell aux pics de Malibierne, se
 détache, vers l'E., un chaînon secondaire qui sépare la vallée
 des Salenques des vallons de Los Anglos et de Rio Bueno. C'est
 le point culminant de ce chaînon qui est le pic Pierre-Soubiron

@@ -398,7 +398,7 @@ Le massif du Pédroux comprend, d'abord, les deux cimes NN.
 et S. (2.831-2.828m), distantes de 300 ou 400 m., puis, un troisième
 sommet, le Pic de la Coume d'Or (2.826m), situé 700 m. plus au $.
 Une simple dépression sépare les deux Pédroux, et on peut afler
-d'un pic à l'autre, à toute crète, dans 20 min. environ. Grâce à
+d'un pic à l'autre, à toute crête, dans 20 min. environ. Grâce à
 leur haute alt. et à leur situation isolée, on jouit aux deux
 Pédroux d'un magnifique point de vue, surtout sur les abords
 immédiats. C'est sur leurs cimes qu'il faut monter pour apercevoir
@@ -417,7 +417,7 @@ Pédroux, se dresse, majestueux, l'imposant Carlitte. On en peut
 repérer en entier la meilleure voie d'ascension. Dans laxe et
 verticalement au-dessus du petit lac rond des Fourats, lac inférieur
 situé au N. de l'autre, grimpe un couloir d'éboulis qui
-rejoint la crète du Carlitte entre les deux sommets. Des Pédroux.
+rejoint la crête du Carlitte entre les deux sommets. Des Pédroux.
 on peut, à la lorgnette, en examiner tous les détails, ce qui
 
 ———\
@@ -490,7 +490,7 @@ du Carlitte sans sac. On emportera simplement un casse-
 croûte dans sa poche. l'indique l'itinéraire au départ de la cabanc
 du pêcheur, c'est-à-dire au S. mème du lac, au commencement
 du déversoir. Si on à couché au refuge, on montera droit au N.,
-en franchissant deux petites crètes rocheuses, afin de rejoindre
+en franchissant deux petites crêtes rocheuses, afin de rejoindre
 Vitinéraire à 1/4 d'h. à l'E. de la cabane.
 
 A quelques m. au S. du lac, en face de la cabane du pêcheur.
@@ -814,7 +814,7 @@ la vallée et ses pâturages.
 
 Quoique de forme trapue, le Campcardos est visible de très loin,
 à cause de sa situation avancée vers la Cerdagne et l'Andorre, et
-surtout, parce qu'une grande cassure de la chaine se creuse au S.
+surtout, parce qu'une grande cassure de la chaîne se creuse au S.
 du massif. C'est du Campcardos qu'on aperçoit bien l'immense et
 luxuriant bassin de la Cerdagne qui coupe les Pyrénées en deux,
 en isolant le tronçon des Pyrénées-Orientales de la grande chaîne.
@@ -826,7 +826,7 @@ la Sierra de Cadi qu'on aperçoit en face, de l'autre côté de la Cerdagne.
 
 Comme le Carlitte, le Campcardos est un belvédère de premier
 ordre, car son panorama s'étend du Canigou au Posets. Tout près,
-au S.-E., on distingue les grands pics de la chaine orientale, principalement
+au S.-E., on distingue les grands pics de la chaîne orientale, principalement
 Ta masse arrondie du Puigmal par lequel débutera la
 prochaine excursion.
 

@@ -104,7 +104,7 @@ sentier régulier et ira attendre la caravane au Col de Nuria
 
 Pour l'ascension directe du Pic de Finestrelles, on peut, soit
 zigzaguer les pentes du ravin droit au sommet, soit grimper un
-peu à dr. afin de rejoindre la crète de Paronas. à 500 m. au
+peu à dr. afin de rejoindre la crête de Paronas. à 500 m. au
 N. du pie. Cette dernière voie, qui n'est pas plus longue, est plus
 
 <div class="page"/>
@@ -269,7 +269,7 @@ dant ce trajet. Le sentier se dirige droit à l'E., sauf à la serre de
 Caillau où il fait un crochet au N.-E. pour franchir cette dernière
 et passer du vallon des Fourques à celui de Caillau. L'important,
 c'est de se maintenir en direction E. sans perdre de vue les
-pentes de la chaine frontière qu'on longe constamment par la
+pentes de la chaîne frontière qu'on longe constamment par la
 face N.
 
 A la serre de Caillau, le sentier remonte sensiblement en faisant
@@ -279,7 +279,7 @@ Pic de la Llosa (2.484m). On croisera là le chemin qui va de
 Mantet à Setcasas par la Porteilie de Caillau.
 
 Quittant le grand sentier de Campmagré, qui file à l'E. vers le
-Mort de Lescoula (2.460m), on se dirigera au S.-E. ct, après avoir
+Mort de Lescoula (2.460m), on se dirigera au S.-E. et, après avoir
 dépassé la Porteille de Caillau qu'on laissera à dr., on montera
 à toute crête à Roque Couloum (2.464m).
 
@@ -319,7 +319,7 @@ qu'au Col du Pal (2.335m) et, de là, on montera de même jusqu'au
 Costabona (2.464m). Pendant ce trajet, on jouira constamment de
 jolis points de vue sur la région. Si, au départ de Roque Couloum,
 on préfère l'itinéraire moins accidenté, on n'aura qu'à descendre
-au $S.-E. jusqu'aux sources supérieures du Tech; on trouvera là
+au S.-E. jusqu'aux sources supérieures du Tech; on trouvera là
 un sentier qui conduit presque horizontalement au Col du Pal
 où on rejoindra la voie par les crêtes.
 
@@ -327,7 +327,7 @@ Le Pic de Costabona est formé de deux petits mamelons entre
 lesquels passe la frontière. Quoique de même alt. que le Roque
 Couloum, son belvédère lui est inférieur sur les lointains. I] lui
 est analogue sur les abords immédiats, sauf vers le N. En revanche
-la vue vers l'E., sur la vallée du Tech et la chaine frontière,
+la vue vers l'E., sur la vallée du Tech et la chaîne frontière,
 est plus complète qu'à Roque Couloum.
 
 Du sommet du Costabona, on descendra d'abord au S. sur le
@@ -397,7 +397,7 @@ et c'est par là que passera la future grande route des Pyrénées
 à son point culminant.
 
 Comme la Coma Armada et le Campmagré, le Pla Guillem est
-un haut plateau disposé en terrasse, au pied de la grande chaine.
+un haut plateau disposé en terrasse, au pied de la grande chaîne.
 ce qui en fait un magnifique belvédère. A lui seul, il constitue
 l'une des plus belles attractions des environs de La Preste. Pour
 nous, c'est un beau spectacle de passage, car nous sommes attirés
@@ -408,7 +408,7 @@ cinq ou six, abri qu'on nomme « Cabane de la Rouquette »; cette
 cabane est située au S. du rocher coté 2,253, vers 2.240 m. d'alt.
 
 Du Pla Guillem, on se dirigera au N.-E., en longeant les pentes
-le la chaine, afin de couper le haut du vallon de Lapoudère.
+le la chaîne, afin de couper le haut du vallon de Lapoudère.
 
 <div class="page"/>
 

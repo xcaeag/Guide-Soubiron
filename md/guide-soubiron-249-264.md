@@ -734,7 +734,7 @@ c'est par ce vallon que remonte le sentier muletier, en
 faisant quelques lacets avant d'arriver à la fontaine d'Antenac
 située vers 1.850 m. d'alt.
 
-Le point culminant de la crète est à l'E. de la fontaine, et le
+Le point culminant de la crête est à l'E. de la fontaine, et le
 sentier tourne là, à dr., dans cette direction. Au lieu de le suivre
 on continuera l'ascension devant soi, en zigzaguant les pentes
 direction N. jusqu'au Col de Serre. De ce point, on dominera toute
@@ -754,7 +754,7 @@ buvette.
 Parmi les sommets de moyenne alt. qui entourent Luchon, le
 point de vue de l'Antenac est l'un des plus beaux. Il s'étend en
 arc de cercle du Pic de Midi de Bigorre au Crabère, en passant
-par le Pic Long, le massif calcaire, la grande chaine et les Monts-
+par le Pic Long, le massif calcaire, la grande chaîne et les Monts-
 Maudits, le Comolo Forno, le Montarto d'Aran et les grands
 sommets ariégeois. Les environs immédiats de Luchon sont aussi
 de toute beauté.

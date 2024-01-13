@@ -303,7 +303,7 @@ Au haut du Ger, au belvédère du Touring-Club, on trouve une
 table d'orientation (1) qui permet d'identifier rapidement l'admirable 
 tour d'horizon.
 
-Du Pic de Midi de Bigorre au Gabizos, toute la grande chaine
+Du Pic de Midi de Bigorre au Gabizos, toute la grande chaîne
 est sous les yeux. A ses pieds, au S., s'allonge la vallée d'Argelès
 et, au N., dans un immense éventail, paraissent un grand nombre
 

@@ -358,7 +358,7 @@ boîte à sardines.
 couloirs, exactement au S. du pic, existe un puissant contrefort
 dont la partie supérieure forme une crête qui va mourir en
 pente douce au pied de la brèche O. C'est par la rive dr. du
-couloir E. et la crète supérieure du contrefort qu'il faut faire
+couloir E. et la crête supérieure du contrefort qu'il faut faire
 l'ascension.
 
 Ce qui fait l'intérêt et la beauté de l'excursion, en montant

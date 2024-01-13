@@ -154,7 +154,7 @@ aspect polaire.
 Le point de vue est déjà splendide. Vers le S., on aperçoit tous
 les grands sommets et presque tous les ports de la haute vallée
 de Soulcen et l'œil peut suivre les sinuosités capricieuses de la
-chaine frontière, de la Pique d'Estats au pic de Rialp
+chaîne frontière, de la Pique d'Estats au pic de Rialp
 
 De ce point, on découvre toute la voie d'ascension jusqu'au
 Montcalm et on peut, selon la quantité et l'état de la neige, en
@@ -173,7 +173,7 @@ montera directement à la pointe centrale de la Pique d'Estats
 (3.141m).
 
 C'est l'un des plus beaux belvédères des Pyrénées; il s'étend
-du Posets au Canigou. Tous les grands pics de la chaine, entre
+du Posets au Canigou. Tous les grands pics de la chaîne, entre
 ces deux sommets, sont sous les yeux. Bien qu'à plus de 60 K.,
 les Monts-Maudits font un effet grandiose.
 
@@ -378,7 +378,7 @@ route du départ à 2 k. 500 d'Auzat.
 
 En fermant là cette boucle, on aura visité trois grandes vallées
 et trois vallons, ascensionné cinq sommets magnifiques et contemplé 
-une des plus curieuses régions de la chaine pyrénéenne.
+une des plus curieuses régions de la chaîne pyrénéenne.
 
 __Horaire de la Journée :__
 

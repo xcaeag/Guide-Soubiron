@@ -88,7 +88,7 @@ sentier de crête qui monte au point culminant (1.422m).
 
 Le Tuc de la Courate, point de triangulation de premier ordre.
 est un merveilleux belvédère. La vue s'étend du Pic de Midi de
-Bigorre au Soularac, en passant par le Nèouvielle, la chaine
+Bigorre au Soularac, en passant par le Nèouvielle, la chaîne
 frontière et le Carlitte. Au N., toute la plaine de Toulouse; à
 l'E. celle de l'Aude et, à l'O., celle de Saint-Gaudens. Sous soi,
 tout le Saint-Gironnais et tout le bassin du Salat. Au S., l'Arac
@@ -97,7 +97,7 @@ longtemps l'attention.
 
 Comme les chaînons secondaires qui séparent les vallées sont
 moins élevés, rien ne gêne la vue qui grimpe jusqu'aux majestueux
-sommets de la chaine frontière.
+sommets de la chaîne frontière.
 
 Après avoir repris le sac, on descendra droit sur Saint-Pierre
 dont on aperçoit surtout l'église. Si on n'a pas déjeuné, il suffira

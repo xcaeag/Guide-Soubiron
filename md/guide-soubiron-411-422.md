@@ -135,7 +135,7 @@ chemin. Parvenu au petit col, on découvre le sommet tout en
 haut, au N.; on n'aura qu'à y monter tout droit.
 
 La Pique Rouge de la Soucaranne (2.904m) est l'un des plus
-beaux belvédères de la chaine frontière. Son panorama s'étend
+beaux belvédères de la chaîne frontière. Son panorama s'étend
 du Posets au Canigou. Comme à la Pique d'Estats, les Monts-
 Maudits paraissent dans toute leur splendeur. Les environs immédiats 
 sont de toute beauté. Au S.-O., se profile, tout près, la Sierra
@@ -502,7 +502,7 @@ point de vue.
 
 Le panorama de l'Aspre, quoique limité aux cimes ariégeoises
 et andorranes de la région, est de toute beauté. Sa situation un
-peu en avant de la grande chaine en fait un splendide belvédère,
+peu en avant de la grande chaîne en fait un splendide belvédère,
 vers le N., sur tous les sommets secondaires et jusqu'à la plaine.
 De la route de Foix à Tarascon, aux environs de Saint-Paul, on
 aperçoit l'Aspre qui pointe sa double cime vers le ciel et qui

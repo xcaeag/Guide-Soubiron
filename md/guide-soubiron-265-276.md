@@ -303,7 +303,7 @@ de la Coume de Bourg. C'est donc le Pic de Sacroux (2.678m) qui
 ferme le cirque à l'E. (V. 21° E. ).
 
 A environ 1 k. à l'E. de la Tusse de Maupas, se dresse, sur la
-chaine frontière, une pyramide noire, d'aspect tout à fait rébarbatif: 
+chaîne frontière, une pyramide noire, d'aspect tout à fait rébarbatif: 
 c'est le Pic de Boum qu'on ascendra tout à l'heure par
 la voie suivante. Après être descendu au N.-E., jusqu'au glacier,
 on se dirigera à l'E. et, par une marche presque horizontale en
@@ -495,7 +495,7 @@ sommet; 2° de faire à l'ombre la partie la plus dure de l'ascension.
 La situation du Montlude est tout à fait privilégiée, et c'est
 sur son sommet qu'il faut monter avant de faire l'ascension des
 cimes du haut Aran. C'est le balcon rêvé pour découvrir toute
-cette région. Placé presque au centre de la vallée, entre la chaine
+cette région. Placé presque au centre de la vallée, entre la chaîne
 luchonnaise au S.-O. et la chaîne ariégeoise à l'E., on peut, de
 son sommet, identifier presque tous les pics qui dominent l'Aran.
 Le Comolo Forno, le Bécibéri, le Comolos Pales, le Montarto,

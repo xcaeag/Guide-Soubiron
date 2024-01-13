@@ -123,7 +123,7 @@ et à franchir une bosse gazonnée pour aller rejoindre le chemin
 qui mène directement à la tourelle du Crabère (2.630m).
 
 Le belvédère du Crabère est de tout premier ordre et la vue
-s'étend sur toute la grande chaine, depuis le Pic de Midi de Bigorre
+s'étend sur toute la grande chaîne, depuis le Pic de Midi de Bigorre
 à l'O., jusqu'au Grand Péguéra, au S.-S.-E. Presque tout
 le Val d'Aran est sous les yeux et, au N., on domine tout le massif
 d'Arbas et la plaine vers Toulouse.

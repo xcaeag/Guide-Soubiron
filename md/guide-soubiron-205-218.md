@@ -492,7 +492,7 @@ Là, on découvre subitement le Lac d'Oô sous soi, à 1.000 m. de
 profondeur, puis, plus bas et plus loin, les vallées d'Astau et de
 Larboust.
 
-A partir de ce point et jusqu'au Cap de Hounts-Secs, la crète
+A partir de ce point et jusqu'au Cap de Hounts-Secs, la crête
 est des plus faciles; on peut la suivre tantôt par le flanc S., tantôt
 par le flanc N. et finalement à toute crête. Ce trajet d'environ 1 h.
 est des plus captivants. A mesure qu'on avance, l'horizon change

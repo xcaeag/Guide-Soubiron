@@ -156,9 +156,9 @@ d'ascension. Suivant pendant quelques min. la rive dr. du Cardouet,
 on quittera bientôt le cours du ruisseau pour zigzaguer
 les pentes, direction S., d'abord, puis direction S.-O.; dans cette
 ascension, on décrira une courbe de g. à dr.; afin d'aboutir au
-sommet par la crète E.
+sommet par la crête E.
 
-Situé très en recul de la grande chaine, le Montné de Luchon
+Situé très en recul de la grande chaîne, le Montné de Luchon
 (2.147m) est l'un des plus jolis belvédères de la région. Vus de ce
 sommet, les Monts-Maudits surtout font un effet magnifique. Tout
 
@@ -648,7 +648,7 @@ crête frontière jusqu'au point culminant (2.156m).
 
 Ce qui fait le charme du Cap de la Palo, c'est d'abord, en y
 arrivant, de découvrir et de dominer presque tout le Val d'Aran;
-puis, de jouir, de son sommet, d'une vue magnifique sur la chaine
+puis, de jouir, de son sommet, d'une vue magnifique sur la chaîne
 ariégeoise, du Crabère au Mont Valier. Les massifs de la Sèoube
 (2.328m) et du Montlude (2.516m) sont à deux pas, de l'autre côté
 

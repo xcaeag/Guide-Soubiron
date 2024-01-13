@@ -86,7 +86,7 @@ d'égale alt. et distantes d'environ 800 m.; c'est à la pointe O.
 qu'est le plus beau point de vue. Son panorama est immense;
 il n'y en a pas de supérieur aux Pyrénées parmi les sommets de
 premier plan. On peut identifier tous les pics importants de la
-grande chaine, depuis le Pic de Midi de Bigorre au Canigou,
+grande chaîne, depuis le Pic de Midi de Bigorre au Canigou,
 Néthou compris.
 
 Une infinité de vallées, avec leurs nombreux vill., se creusent
@@ -210,7 +210,7 @@ sur un bon terrain, et on atteindra la cime de la Journalade
 
 Sur ses trois faces, prennent naissance trois vallées : celle
 de Massat, au N.-O.; celle de Saurat, au N.-E., et celle de Rabat,
-au $S. Cette situation fait de ce petit sommet un très joli belvédère
+au S. Cette situation fait de ce petit sommet un très joli belvédère
 régional, moins étendu cependant que celui de la Coume
 de Pignou; mais, ce qui donne un grand charme à cette excursion
 c'est le trajet par les crêtes, depuis la Journalade jusqu'au
@@ -340,7 +340,7 @@ incliné, et il suffit d'en suivre le faîte direction N., pour arriver,
 Le panorama du Fourcat est splendide; il rayonne dans toutes
 les directions comme celui de la Coume de Pignou, avec une
 vue plus complète vers les plaines de l'Aude. Mais ce qui retient
-le plus longtemps l'attention, c'est la grande chaine frontière et
+le plus longtemps l'attention, c'est la grande chaîne frontière et
 ses profondes vallées qui dégringolent vers le cours de l'Ariège
 où elles vont mourir. La vue est si étendue vers la plaine que,
 par un temps clair, on aperçoit très bien Toulouse à la lorgnette.

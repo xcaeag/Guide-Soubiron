@@ -254,7 +254,7 @@ Le Pic Long est le plus élevé des pics français, puisque le
 Vignemale, le Marboré et le Perdighero sont sur la frontière et,
 par conséquent, moitié espagnols. Son belvédère est l'un des
 premiers, sinon le premier des Pyrénées. Son grand recul de la
-chaine principale fait que rien ne gêne sa vue et, par sa haute
+chaîne principale fait que rien ne gêne sa vue et, par sa haute
 alt., il domine tout ce qui l'entoure.
 
 Dans nul autre sommet, on ne trouvera une vue mieux groupée, 
@@ -415,7 +415,7 @@ par les terrasses O.
 
 On jouit sur le Montarrouy d'un joli point de vue sur les
 massifs du Nèouvielle, du Pic Long et du Maucapéra qu'on
-touche presque. Au N., la chaine du Léviste au Pic de Midi fait
+touche presque. Au N., la chaîne du Léviste au Pic de Midi fait
 un effet splendide.
 
 Revenu au col, on prendra, à l'O., le couloir rapide qui descend 

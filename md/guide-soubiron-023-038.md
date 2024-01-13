@@ -732,7 +732,7 @@ région. De son sommet, on aperçoit toutes les cimes qu’on vient
 de visiter et toutes celles qu’on ascendra aux deux prochaines
 excursions. Mais ce qui attire irrésistiblement le regard vers
 l'E. c’est le prestigieux Balaïtous (3.146m). C’est bien, de toute
-la chaine frontière, la montagne la plus prenante et celle qui
+la chaîne frontière, la montagne la plus prenante et celle qui
 procure aux pyrénéistes les émotions les plus variées. Du Pic
 de Midi d’Ossau, on en aperçoit les principales crêtes et, dans
 ses grandes lignes, toute la face O. des arêtes de la Frondella

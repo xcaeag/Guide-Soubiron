@@ -141,7 +141,7 @@ de la Serre de l'Artigue, au N.-O. du pic de la Tosa (2.700m). Les
 Espagnols le situent, au contraire, au S. de la Tosa et immédiatement
 au N. du pic de Dorria (2.539m). J'adopte l'opinion
 espagnole en indiquant que la Tosa, qui est au N., a le carac- .
-tère d'an pic, tandis que le Pic de Dorria, situé au $S. du Pas dels
+tère d'an pic, tandis que le Pic de Dorria, situé au S. du Pas dels
 Lladres, n'est qu'un simple renflement de la large croupe gazonnée
 de la crête frontière (1).
 
@@ -187,7 +187,7 @@ depuis le Campeardos jusqu'aux Monts-Maudits.
 
 Au S., s'étalent toutes les sierras catalanes jusqu'au Tibidubo.
 près de Barcelone. Enfin, à l'E., on a sous les yeux tous les sommets
-de la chaine frontière, ce qui permet de suivre les sinuosités
+de la chaîne frontière, ce qui permet de suivre les sinuosités
 de la crête qui serpente vers la Méditerranée. Mais ce qui frappe
 le plus l'esprit, c'est le caractère particulier des montagnes catalanes
 Les tons sont plus chauds, la lumière plus éclatante. Malgré
@@ -292,7 +292,7 @@ le Col de la Marrana (2.500m) et le Pic del Gra de Fajol (2.728m).
 Nota. - Cette journée est celle qui fait ascendre le plus
 grand nombre de sommets et franchir le plus de cols, avec le
 minimum de fatigue. En effet, dès qu'on a rejoint la chaîne
-frontière au Col des Neuf-Croix, ce n'est plus, par les crètes,
+frontière au Col des Neuf-Croix, ce n'est plus, par les crêtes,
 qu'une délicieuse marche pendant laquelle on monte sur sept
 pics et on traverse six cols dans moins de 5h.
 
@@ -480,7 +480,7 @@ toute la Catalogne et on a sous les yeux tous les grands sommets
 — p. 497 — (39me EXCURSION) COL DE LA MARRANA - GRA DE FAJOL
 
 de la région, depuis le Carlitte à la Méditerranée. Vers l'O., la vue
-s'étend sur la chaine ariégeoise et jusqu'aux Monts-Maudits.
+s'étend sur la chaîne ariégeoise et jusqu'aux Monts-Maudits.
 
 Sur ses flancs naissent, au S., le Rio Ter et le Rio Fréser et,
 sur le versant français, les ruisseaux des froides coumes de Mitxane
@@ -778,7 +778,7 @@ Cortals après lequel il s'infléchit à l'E.-S.-E., pour rejoindre,
 
 plus loin, la route stratégique qui monte aux forts de la Tausse.
 On jouira pendant ce trajet de belles échappées sur la Cerdagne
-et la chaine frontière, et on dominera constamment Montlouis.
+et la chaîne frontière, et on dominera constamment Montlouis.
 Cette voie est plus longue d'environ 1/2 h., mais elle est de beaucoup
 la plus intéressante.
 
@@ -818,7 +818,7 @@ Font-Romeu, renommé depuis longtemps par son pèlerinage.
 est aussi devenu un lieu de villégiature depuis la construction
 dun hôtel de montagne dans ce site merveilleux. Placé à
 1.776 d'alt. cette terrasse est un véritable balcon suspendu sur
-la Cerdagne el un magnifique belvédère sur la chaine frontière
+la Cerdagne el un magnifique belvédère sur la chaîne frontière
 
 <div class="page"/>
 

@@ -295,7 +295,7 @@ où il n'v a de place que pour deux ou trois personnes, est le point
 culminant du massif de Tabe (1).
 
 Par son isolement et son grand éloignement de la grande
-chaine (20 k. environ), le Soularac est un belvédère de tout premier
+chaîne (20 k. environ), le Soularac est un belvédère de tout premier
 ordre. La vue s'étend du Pic de Midi de Bigorre au Canigou
 et embrasse toutes les cimes ariégeoises. On « sous les yeux les
 plaines de Toulouse et de l'Aude, et on domine merveilleusement

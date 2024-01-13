@@ -506,7 +506,7 @@ calcaire, le Vignemale et le Nèouvielle que leurs glaciers rendent
 facilement reconnaissables. Tout près et en pleine lumière :
 au S.-O. et au S., les cimes étincelantes du Lys, des Monts-
 Maudits, de la Sierra de Montarto, des cirques de Colomès et
-de Sabourède; enfin, à l'E. et au S.-E., toute la grande chaine
+de Sabourède; enfin, à l'E. et au S.-E., toute la grande chaîne
 ariégeoise jusqu'à la Pique d'Estats et les montagnes d'Andorre.
 Mais ce qui frappe le plus, c'est le grand contraste entre la
 région parcourue et celle qu'on va aborder. Au S. et au S.-O.,

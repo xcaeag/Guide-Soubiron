@@ -211,7 +211,7 @@ de Malibierne (2.700m). On aura en face, droit à l'E., le Pic Pierre-
 Soubiron. Dans des profondeurs du S.-E., dorment les lacs de
 Llauzet, à l'entrée du vallon de ce nom.
 
-Du Col de Malibierne, on grimpera d'abord à flanc E. de crète,
+Du Col de Malibierne, on grimpera d'abord à flanc E. de crête,
 jusque vers 2.800 m. d'alt., puis, à toute crête jusqu'au grand Pic
 de Malibierne (3.067m).
 
@@ -303,7 +303,7 @@ Au Col de Grégonio, on découvrira subitement devant soi, à
 300 m. de profondeur, le Lac de (Grégonio sous son plus bel aspect
 Il s'étale en forme de cornue'et, comme sa dimension est
 d'environ 100 hectares, on a sous les yeux l'un des plus grands
-lacs pyrénéens qu'encadre le cirque le plus sauvage de la chaine.
+lacs pyrénéens qu'encadre le cirque le plus sauvage de la chaîne.
 La moitié de sa surface est presque toujours recouverte, jusqu'à
 fin août, d'un immense iceberg qui dérive lentement vers le dé-
 versoir.

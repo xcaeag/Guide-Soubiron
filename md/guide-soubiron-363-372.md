@@ -362,7 +362,7 @@ le sentier près du Port de Marterat.
 Si, venant d'Espagne, on monte en pente relativement douce
 jusqu'au port, le versant français est, au contraire, presque à pic,
 et on peut affirmer que, malgré sa petite alt. de 2.138 m., le Port
-de Marterat est un des plus mauvais de la chaine. Par moments,
+de Marterat est un des plus mauvais de la chaîne. Par moments,
 il souffle là de telles tourmentes qu'on serait emporté comme un
 fétu de paille si on commettait l'imprudence de s'y engager.
 
