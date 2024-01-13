@@ -33,10 +33,8 @@ __par la Vallée de Soulcen, la Pique Rouge de la Soucaranne__\
 __la Coma Pedrosa, le Port de Médacourbe,__\
 __le Pic des Lavans, les Pics de l'Etang Fourcat,__\
 __le Tristagnes et le Pic de l'Aspre.__
-
  
 <u>__AVIS AUX TOURISTES__</u>
-
 
 On demandera à M. le Directeur des usines d'Auzat l'autorisation 
 de coucher au refuge de l'Etang Fourcat, et on arrivera
@@ -51,10 +49,7 @@ les vivres de trois jours et demi qu'il faut emporter.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
-
-
 <div class="page"/>
-
 
 — p. 412 — VALLEE de SOULCEN (33me EXCURSION)
 
@@ -62,11 +57,7 @@ les vivres de trois jours et demi qu'il faut emporter.
 
 <div class="page"/>
 
-
-— p. 413 —
-
-
-(33me EXCURSION) | PORT ve BOUET 413
+— p. 413 — (33me EXCURSION) PORT de BOUET
 
 ## PREMIÈRE JOURNÉE
 
@@ -110,7 +101,6 @@ par la Pique rouge de la Soucaranne.
 
 
 <div class="page"/>
-
 
 — p. 414 — PIQUE ROUGE de La SOUCARANNE (33me EXCURSION)
 
@@ -158,11 +148,9 @@ las Bareytes; là, on prendra le sentier de la rive g. qui passe
 devant plusieurs orrys et qui continue à travers les pelouses.
 Parvenu à environ 10 min. de l'orry du Labinas, on franchira
 
-
 <div class="page"/>
 
-
-— p. 415 — (33me EXCURSION) PORT DE LS BAREYTES
+— p. 415 — (33me EXCURSION) PORT DE LAS BAREYTES
 
 le torrent sur deux rochers qui se font face et sont assez rapprochés 
 pour constituer un passage idéal qu'on appelle le Pountet.
@@ -207,9 +195,7 @@ Sa face N. est une muraille presque verticale sur un large col
 situé à la limite de la Catalogne et de l'Andorre, col qui fait
 communiquer le Val Ferrera avec la vallée d'Arinsal. La Coma
 
-
 <div class="page"/>
-
 
 — p. 416 — COMA PEDROSA (33me EXCURSION)
 
@@ -259,7 +245,6 @@ Entravesado, et, après une marche presque horizontale de 1h.30,
 on aboutira au pied du vallon pierreux qui monte au Port de
 
 <div class="page"/>
-
 
 — p. 417 — (33me EXCURSION) PIC des LAVANS
 
@@ -315,7 +300,6 @@ peu intéressante du Médacourbe, parce qu'elle m'a obligé à
 
 <div class="page"/>
 
-
 — p. 418 — VALLON de CARAOUSSANS (33me EXCURSION)
 
 ## TROISIÈME JOURNÉE
@@ -365,7 +349,6 @@ secondaire, 2.750 m. environ, et sur la g., au N.-O., la masse
 
 
 <div class="page"/>
-
 
 — p. 419 — (33me EXCURSION) GRAND FOURCAT et TRISTAGNES
 
@@ -418,7 +401,6 @@ depuis le vallon de l'Arbeille jusqu'aux étangs de Petsiguer.
 
 
 <div class="page"/>
-
 
 — p. 420 — ETANG FOURCAT  (33me EXCURSION)
 
@@ -518,9 +500,7 @@ on trouve le sentier de Petsiguer à la Bède d'Olbier. A peine
 tracé dans la partie supérieure, il devient un bon chemin dès
 qu'on arrive en vue de l'Etang d'Izourt.
 
-
 <div class="page"/>
-
 
 — p. 422 — BEDE d'OLBIER- GOULIER. (33me EXCURSION)
 

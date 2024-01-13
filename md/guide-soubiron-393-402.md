@@ -29,9 +29,7 @@ __Vicdessos, l'Etang d'Izourt, Goulier, le Pic de Risoul, le Col__\
 __de Grail, le Pic de Lercoul, le Roc de Berquié,__\
 __le Pic des Trois Seigneurs et la Vallée de Rabat.__
  
-
 <u>__AVIS AUX TOURISTES__</u>
-
 
 Comme pour Luchon, c'est par la montagne que nous arriverons 
 à Auzat, en montant, d'abord, au Roc de Querquèou
@@ -42,16 +40,13 @@ vue d'ensemble sur la magnifique région qu'on va explorer.
 
 <div class="page"/>
 
-
 — p. 394 — ENVIRONS D'AUZAT (31me EXCURSION)
  
 ![carte p394](../maps/guide-soubiron-0394-carte.jpg)
 
 <div class="page"/>
 
-
 — p. 395 — (31me EXCURSION) ROC de QUERQUEOU
-
 
 ## PREMIÈRE JOURNÉE
 
@@ -92,9 +87,7 @@ de Lastris (1.431m), à l'orée du Bois de Las Taillades. A partir
 de là, on n'aura qu'à suivre la crête gazonnée jusqu'au Roc de
 Querquéou (1.887m).
 
-
 <div class="page"/>
-
 
 — p. 396 — ORUS — VICDESSOS (31me EXCURSION)
 
@@ -138,9 +131,7 @@ localité à l'autre.
 
 <div class="page"/>
 
-
 — p. 397 — (3lme EXCURSION) ETANG D'IZOURT
-
  
 ## DEUXIÈME JOURNÉE
 
@@ -184,9 +175,7 @@ de l'Arbeille et les lacets du sentier qui conduirait en 2h.30 au
 grand Etang Fourcat. Dans 40 min., on peut faire le tour du
 lac dont les nuances varient sous le jeu de la lumière.
 
-
 <div class="page"/>
-
 
 — p. 398 —  BEDE d'OLBIER (31me EXCURSION)
 
@@ -218,7 +207,7 @@ route de Marc, 2 min. en amont de Capounta.
 Horaire de la Journée:
 
 ```
-D'Auzat à l'étang d'Izourt............. 3h.15 }  7h. »
+D'Auzat à l'étang d'Izourt............. 3h.15 }   7h. »
 De l'étang d'Izourt à Olbier........... 3h. » } (Arrêts en sus)
 D'Olbier à Auzat ...................... 0h.45 }
 ```
@@ -226,12 +215,9 @@ D'Olbier à Auzat ...................... 0h.45 }
 ———\
 (1) Bède est synonyme de forêt.
 
-
 <div class="page"/>
 
-
 — p. 399 — (31me EXCURSION) PIC de RISOUL
-
 
 ## TROISIÈME JOURNÉE
 
@@ -277,9 +263,7 @@ sentiers se confondent. On contournera ensuite presque horizontalement
 le haut du vallon, en prenant la direction N.-E., et on
 aboutira au Col de Grail (1.500m), près du refuge forestier. On
 
-
 <div class="page"/>
-
 
 — p. 400 — PIC de LERCOUL (31me EXCURSION)
 
@@ -322,7 +306,6 @@ Du Pic de Lercoul à Vicdessos.......... 2h.45 }
 Nota. — Si on revient coucher à Auzat, 1/4 d'h. en sus.
 
 <div class="page"/>
-
 
 — p. 401 — (31me EXCURSION) PIC des TROIS SEIGNEURS
 
@@ -373,9 +356,7 @@ le sommet (2.199m).
 
 Le Pic des Trois Seigneurs comprend deux sommets, c'est à
 
-
 <div class="page"/>
-
 
 — p. 402 — VALLEÉ DE RABAT
 
@@ -416,7 +397,6 @@ Du Pic des Trois Seigneurs à Tarascon. 4h.25 }
 
 __AUZAT__
 - Pour rejoindre où abandonner après la première ou deuxième journée.
-
 
 __VICDESSOS__
 - Pour abandonner après la troisième journée ou pour rejoindre, afin d'effectuer la quatrième.

@@ -16,7 +16,6 @@ output: pdf_document
 
 — p. 403 —
 
-
 # TRENTE-DEUXIÈME EXCURSION
 
 (N° 23 de la 1re édition)
@@ -54,7 +53,6 @@ dispositions, et être prèt à partir vers treize heures.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion)</p>
 
-
 ## PREMIÈRE JOURNÉE
 
 __D'AUZAT (710m) aux ORRYS de PUJOL (1.704m).__\
@@ -68,9 +66,7 @@ de la totalité pour lascension du Montcalm. on louera
 un porteur pour le lendemain. avec mission de monter la moitié
 des provisions aux orrys du Carla.
 
-
 <div class="page"/>
-
 
 — p. 404 — aux ENVIRONS d'AUZAT (32me EXCURSION)
 
@@ -79,9 +75,7 @@ des provisions aux orrys du Carla.
 
 <div class="page"/>
 
-
 — p. 405 — (32me EXCURSION) MARC D'AUZAT
-
 
 On partira vers 13 h. et on prendra, au S.-S.-O., le chemin
 d'Espagne en suivant la route qui conduit au hameau de Ranet
@@ -110,7 +104,6 @@ __Horaire de la Journée :__
 D'Auzat aux Orrys de Pujol, 4 h. environ.
 ```
  
-
 ## DEUXIÈME JOURNÉE
 
 __Des ORRYS de PUJOL (1.704m) aux ORRYS du CARLA (1.735m),__\
@@ -182,9 +175,7 @@ il faut faire les trois pointes. La pointe S.-E. (3.011m), surmontée
 d'une jolie tourelle, est un peu délicate; seuls, les pyrénéistes
 exercés en feront l'ascension à toute crête et reviendront à la
 
-
 <div class="page"/>
-
 
 — p. 407 — (32me EXCURSION) Le PLA SOULCEN
 
@@ -247,7 +238,6 @@ __Des ORRYS du CARLA (1.735m) à AUZAT (740m),__\
 __par le Pic de Malcaras (2.850m), l'Etang Fourcat (2.420m).__\
 __l'Etang d'Izourt (1.642m) et la Vallée d'Arties.__
 
-
 —— GUIDE UTILE ——
 
 __Conseils.__ — __Itin. recomm.__ — En amont, quelques min. au S.
@@ -287,11 +277,7 @@ correspond mieux à sa forme accidentée.
 Le Malcaras comprend deux pointes très rapprochées; c'est
 sur celle du S., sommet principal, qu'est bâtie la tourelle.
 
-  
-
-
 <div class="page"/>
-
 
 — p. 409 — (32me EXCURSION) CIRQUE du FOURCAT
 
@@ -341,9 +327,7 @@ les sites splendides qu'on y rencontre. Prise par en haut, elle
 devient un enchantement, car on jouit bien mieux de ses beautés
 quand on les voit défiler sans fatigue.
 
-
 <div class="page"/>
-
 
 — p. 410 — VALLEE D'ARTIES (32me EXCURSION)
 
@@ -384,7 +368,7 @@ __Horaire de la Journée :__
 
 ``` 
 Des Orrys du Carla au Malcaras........... 3h.30 }   8h. »
-Du Malcaras au refuge de l'Etang Fourcat. 1h.20 } Arrêts en sus)
+Du Malcaras au refuge de l'Etang Fourcat. 1h.20 } (Arrêts en sus)
 Du refuge du Fourcat à Auzat............. 3h.10 }
 ```
 
