@@ -12,9 +12,7 @@ output: pdf_document
 <style>.droite {text-align: right}</style>
 
 -----------------------
-[//]: # (— p. XX —)
-
-— p. 449 —
+[//]: # (— p. 449 —)
 
 # TRENTE-SIXIÈME EXCURSION
 
