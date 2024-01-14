@@ -20,7 +20,7 @@ output: pdf_document
 
 __Quatre jours au départ de l'Hospitalet__
 
-_B. E. — Du 1* au 20 Juillet ou du 20 Août au 15 Septembre._
+_B. E. — Du 1er au 20 Juillet ou du 20 Août au 15 Septembre._
 
 Cartes à emporter : Foix et Perles réunies.
 
@@ -313,7 +313,7 @@ altitude ne gène sa vue (2), le Rule est un belvédère de tout pre-
 E. et rejoindre le premier itinéraire à la crête, en haut du vert
 couloir,
 
-(2) Le Pic de Serrère (2.911m) est à 11 Kk. à l'O. et le Carlitte (2.921m),
+(2) Le Pic de Serrère (2.911m) est à 11 k. à l'O. et le Carlitte (2.921m),
 à 17 h., à l'E.
 
 <div class="page"/>

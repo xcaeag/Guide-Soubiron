@@ -51,7 +51,7 @@ Les fichiers :
 [Pages 411 à 422 : 33eme Excursion](md/guide-soubiron-411-422.md) : Quatre jours au départ d'Auzat\
 [Pages 423 à 432 : 34eme Excursion](md/guide-soubiron-423-432.md) : Quatre jours au départ d'Auzat \
 [Pages 433 à 448 : 35eme Excursion](md/guide-soubiron-433-448.md) : Quatre jours au départ de l'Hospitalet \
-[Pages 449 à 460 : 36eme Excursion](md/guide-soubiron-449-460.md) :  \
+[Pages 449 à 460 : 36eme Excursion](md/guide-soubiron-449-460.md) : Quatre jours aux Environs d'Ax-les-Thermes \
 [Pages 461 à 468 : 37eme Excursion](md/guide-soubiron-461-468.md) :  \
 [Pages 469 à 486 : 38eme Excursion](md/guide-soubiron-469-486.md) :  \
 [Pages 487 à 504 : 39eme Excursion](md/guide-soubiron-487-504.md) :  \
