@@ -17,8 +17,8 @@ output: pdf_document
 # TRENTE-SIXIÈME EXCURSION
 
 __Quatre jours aux Environs d'Ax-les-Thermes__\
-__(1° Série)__
 
+(1° Série)\
 _B. E. — Du 15 Juin au 15 Octobre._
 
 Cartes à emporter : Perles et Ax-les-Thermes.

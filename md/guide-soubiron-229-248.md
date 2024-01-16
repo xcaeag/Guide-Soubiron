@@ -105,8 +105,7 @@ carte. En vente à la librairie E. Privat, 14, rue des Arts, Toulouse.
 
 __Cinq jours aux environs de Luchon__
 
-(1re Série)
-
+(1re Série)\
 _B. E. — Du 1er Juillet au 1er Octobre._
 
 Cartes à emporter : Bagnères-de-Luchon et Val d'Arouge réunies.

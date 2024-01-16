@@ -39,8 +39,7 @@ __2° De LUCHON à FOS,__
 
 __par l'Entécade, Bosost, le Montlude et le Pont du Roi.__
 
-<p class="droite">(Voir ci-contre la carte schématique de l'Excursion).</p>
-<p class="droite">(Voir aussi : 1° la carte de la partie E. d'Espingo, p. 214);
+<p class="droite">(Voir ci-contre la carte schématique de l'Excursion).<br/>(Voir aussi : 1° la carte de la partie E. d'Espingo, p. 214);
 2° les cartes des Environs de Luchon, pp. 232 et 240).</p>
 
 <div class="page"/>

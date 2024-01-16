@@ -18,8 +18,7 @@ output: pdf_document
 
 __Cinq jours aux environs de Luchon__
 
-(2° Série)
-
+(2° Série)\
 _B. E. — Du 1° Juidet au 1°" Octobre._
 
 Cartes à emporter : Luchon et Val d'Arouge.

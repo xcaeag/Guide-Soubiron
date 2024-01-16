@@ -41,10 +41,8 @@ ont rectifié la plupart des cotes d'alt. des régions de Caillaouas
 et du Cirque d'Oô. J'ai adopté ces cotes définitives dans mon
 guide.
 
-
-<p class="droite">(Voir ci-contre la Carte de l'Excursion.)</p>
-<p class="droite">(Voir aussi les cartes des Environs d'Espingo, pp. 202 et 214.)</p>
- 
+<p class="droite">(Voir ci-contre la Carte de l'Excursion.)<br/>
+(Voir aussi les cartes des Environs d'Espingo, pp. 202 et 214.)</p>
 
 <u>__GOURGS-BLANCS et CIRQUE d'OO__</u>
 
