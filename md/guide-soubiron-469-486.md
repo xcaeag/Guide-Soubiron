@@ -4,42 +4,40 @@ abstract: |
     Du PIC d'ANIE au CANIGOU
     En 40 Excursions
 title: |
-    | xxxxxxxxxx EXCURSION
-    | xxxxxxxxxxxxxxxxxxx
+    | TRENTE-HUITIÈME EXCURSION
+    | Cinq jours au départ d'Ax-les-Thermes
 output: pdf_document 
 ---
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
 -----------------------
-[//]: # (— p. XX —)
-
-— p. 469 —
+[//]: # (— p. 469 —)
 
 # TRENTE-HUITIÈME EXCURSION
 
 Cinq jours au départ d'Ax-les-Thermes
 
-(Ne 28 de la 1" édition)
+(N°28 de la 1re édition)\
+_BE, — Du 1 Juillet au 15 Septembre._
 
-BE, — Du 1 Juillet au 15 Septembre.
-_
 Cartes à emporter : Perles, Ax et Saillagouse.
 
-D'AX-les-THERMES à BOURG-MADAME, par Mérens,
-la Vallée du Nabré, le Pic de l'Etang-Faury,
-le Refuge d'En-Beys, le Pic de Prigue, la Bouillouse,
-le Lac de Lanroux, le Pic Pédroux, le Carlitte,
-le Col de Puymorens, le Lac de Font-Nègre,
-les Sources de l'Ariège, le Pic Nègre d'Embalire
-et le Campcardos.
+__D'AX-les-THERMES à BOURG-MADAME, par Mérens,__\
+__la Vallée du Nabré, le Pic de l'Etang-Faury,__\
+__le Refuge d'En-Beys, le Pic de Prigue, la Bouillouse,__\
+__le Lac de Lanroux, le Pic Pédroux, le Carlitte,__\
+__le Col de Puymorens, le Lac de Font-Nègre,__\
+__les Sources de l'Ariège, le Pic Nègre d'Embalire__\
+__et le Campcardos.__
 
 
 <u>__AVIS AUX TOURISTES__</u>
+
 Il n'existe pas à Ax des guides connaissant l'excursion en
 entier, mais on peut trouver en cours de route, en cas de brouillard
 des auxiliaires précieux parmi les nombreux bergers de
-la Hautc-Ariège. Pour une modique rémunération, ils accompagneront
+la Haute-Ariège. Pour une modique rémunération, ils accompagneront
 la caravane sur une fraction du parcours, au cas où
 on aurait des doutes sur la meilleure voie à suivre. Comme il
 faut prendre des provisions pour trois jours, le mieux est de
@@ -48,29 +46,24 @@ louer un porteur qu'on gardera jusqu'au Lac de Lanoux.
 C'est M. le docteur Gomma, à Ax, qui est le détenteur de la
 clé du refuge d'En-Beys; on s'entendra avec lui à ce sujet.
 
-<p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
-
-(Voir aussi la Carte des Environs d'Ax, p. 450).
+<p class="droite">(Voir ci-contre la Carte de l'Excursion).<br>
+(Voir aussi la Carte des Environs d'Ax, p. 450).</p>
 
 <div class="page"/>
 
-— p. 470 —
-
-D'AX-LES-THERMES A BOURG-MADAME (38me EXCURSION)
+— p. 470 — D'AX-LES-THERMES A BOURG-MADAME (38me EXCURSION)
 
 ![carte p470](../maps/guide-soubiron-0470-carte-portrait.jpg)
 
 <div class="page"/>
 
-— p. 471 —
-
-(38me EXCURSION) MERENS — VALLEE du NABRE 471
+— p. 471 — (38me EXCURSION) MERENS — VALLEE du NABRE
 
 
 ## PREMIÈRE JOURNÉE
 
-D'AX (716m) au REFUGE d'EN-BEYS (1.950m), par Mérens (1.056m),
-la Vallée du Nabré ét le Pic de l'Etang-Faury (2.709m).
+__D'AX (716m) au REFUGE d'EN-BEYS (1.950m), par Mérens (1.056m),__\
+__la Vallée du Nabré ét le Pic de l'Etang-Faury (2.709m).__
 
 —— GUIDE UTILE ——
 
@@ -103,25 +96,25 @@ On montera en écharpe en laissant la Porteille un peu à dr.,
 afin de rejoindre l'arête le plus près possible du sommet et on
 continuera à toute crête.
 
-Le Pic de lPEÉtang Faurv (2.709m) s'élève au point de jonction
-de trois crêtes, au centre de lun des plus jolis coins de la haute
+Le Pic de l'Étang Faury (2.709m) s'élève au point de jonction
+de trois crêtes, au centre de l'un des plus jolis coins de la haute
 
-A) Le qualificatif de « Porteille » est impropre pour un si large
-col: c'est plutôt Couillade de Madidès qu'il faudrait dire, puisque le
-mot Porteille » signifie une brèche, un étroit passage.
+———\
+(1) Le qualificatif de « Porteille » est impropre pour un si large
+col, c'est plutôt Couillade de Madidès qu'il faudrait dire, puisque le
+mot « Porteille » signifie une brèche, un étroit passage.
 
 <div class="page"/>
 
-— p. 472 —
+— p. 472 — PIC de L'ETANG-FAURY (38me EXCURSION)
 
-'arà PIC de L'ETANG-FAURY © (i8ue rsénson D
 Ariège. Ses abords immédiats sont splendides. Des vallées se
-creusent däns toutes les directions et, entre elles, les crêtes
+creusent dans toutes les directions et, entre elles, les crêtes
 sinueuses portent sur leur échine un grand nombre de petits
 sommets des plus intéressants. Partout, de grands et de petits
 lacs avec des ruisseaux qui courent d'une nappe à l'autre.
 
-On a sous les pieds les étangs dés Peyrisses au N.-E., et, par
+On a sous les pieds les étangs des Peyrisses au N.-E., et, par
 la Couillade de Lanouzet, au S., on aperçoit presque en entier
 le grand étang de Lanoux. Tous les hauts sommets de la région,
 Rulle, Pédroux, Carlitte, Prigue, etc., etc., ont l'aspect de grands
@@ -142,7 +135,7 @@ l'Oriège, l'Etang-Faury et le grand Etang d'En-Beys dont une
 partie des eaux s'écoule sur le lac de Naguilles par le tunnel
 qu'on vient de percer.
 
-Du pic de lEtang-Faury, on pourrait aussi descendre au
+Du pic de l'Etang-Faury, on pourrait aussi descendre au
 N.-E. jusqu'au fond de la vallée et suivre cette dernière jusqu'au
 lac d'En-Beys; le chemin ne serait pas meilleur, et on serait
 privé des jolis points de vue qui défilent pendant le trajet à
@@ -151,7 +144,7 @@ flanc de montagne.
 Parvenu en aval du col de Beys, on descendra, d'abord, au S.,
 à travers des pentes gazonnées, puis, en faisant un petit crochet
 à dr., afin de rejoindre un petit vallon qui tourne définitivement
-à l'E. On aboutira par là au S.-O0. et en amont du lac d'En-Beys,
+à l'E. On aboutira par là au S.-O. et en amont du lac d'En-Beys,
 qu'on n'aura plus qu'à longer par la rive g. jusqu'au refuge.
 
 Du col de Beys au refuge, on aura fait en sens inverse le trajet
@@ -160,21 +153,19 @@ de la quatrième journée de la 36° E. (V. p. 459).
 __Horaire de la Journée :__
 
 ```
-De Mérens au Pic de l'Etang-Faury...... 5h.30 8h.30
-eye RE 3h. » } (Arrêts en sus).
+De Mérens au Pic de l'Etang-Faury..... 5h.30 }   8h.30
+Du Pic de l'Etang-Faury au refuge d'En-      }
+  Beys.................................3h. » } (Arrêts en sus).
 ```
-|
 
 <div class="page"/>
 
-— p. 473 —
-
-(38me EXCURSION) PORTEILLE D'ESPAGNXE 473
+— p. 473 — (38me EXCURSION) PORTEILLE D'ESPAGNXE 
 
 ## DEUXIÈME JOURNÉE
 
-Du LAC d'EN-BEYS (1.950m) à LA BOUILLOUSE (2.014m),
-par la Porteille d'Espagne (2.460m) et le Pic de Prigue (2.810m).
+__Du LAC d'EN-BEYS (1.950m) à LA BOUILLOUSE (2.014m),__\
+__par la Porteille d'Espagne (2.460m) et le Pic de Prigue (2.810m).__
 
 ——— GUIDE UTILE
 
@@ -199,40 +190,39 @@ Le contrefort passé, on continuera presque horizontalement
 à flanc de montagne, en inclinant légèrement au S., afin d'aboutir
 au-dessus du petit lac situé au ravin supérieur de Mourtés qu'on
 nomme « Coumette d'Espagne ». Pendant ce trajet, on aura, tout
-en haut et devant soi, la large échancrure de la Porteïlle d'Espagne
+en haut et devant soi, la large échancrure de la Porteille d'Espagne
 et on pourra en repérer toute la voie d'ascension par
-un couloir étroit et rapide. |
+un couloir étroit et rapide.
 
-Après le petit lac, la pente s'accentue par un terrain rocailleux.,
+Après le petit lac, la pente s'accentue par un terrain rocailleux,
 et l'ascension du couloir qui mène à la Porteille est une véritable
 escalade de cheminée qu'il faudra effectuer en rang serré.
 
 La Forteille d'Espagne est située sur la ligne de partage des
 eaux d'Europe, entre le Pic de Camporeils, au N.-E., et la Pique
-Rouge (2.730m), à l'O.; cc large col servait de passage frontière
+Rouge (2.730m), à l'O.; ce large col servait de passage frontière
 avant le traité des Pyrénées qui nous à donné la moitié de la
-Cerdagne. On a sous les veux : au N., la profonde vallée de
+Cerdagne. On a sous les yeux : au N., la profonde vallée de
 l'Oriège dont les eaux s'écoulent vers l'Océan et, au S. les
 sources de la Tet qui descend à la Méditerranée. Presque sous
-ses pieds. au S. de la Porteille, brille lPétang supérieur de la
+ses pieds. au S. de la Porteille, brille l'étang supérieur de la
 
 <div class="page"/>
 
-— p. 474 —
+— p. 474 — PIC de PRIGUE (38me EXCURSION)
 
-474 PIC de PRIGUE (38me Eco Fo
 Coume de la Tet, source principale de ce fleuve. Pour aller d'Ax
 à la Cerdagne par la montagne, on ne peut choisir une plus
-belle voie. . à
-Le Pic de Prigue (nommé aussi Puig Péric). objet principal
+belle voie.
+Le Pic de Prigue (nommé aussi Puig Péric), objet principal
 de l'excursion, n'est pas situé sur la grande crête. C'est le point
 culminant d'un chaînon qui se détache de la chaîne principale,
 au S.-E. du Pic de Camporeils. Comme son rival, le Carlitte, ce
-pic est catalan. De la Porteilie d'Espagne; on peut en repérer la
-voie facile d'ascension. On n'a qu'à préndre le chemin de descente
+pic est catalan. De la Porteille d'Espagne; on peut en repérer la
+voie facile d'ascension. On n'a qu'à prendre le chemin de descente
 vers le S., en laissant le lac supérieur à dr., et à suivre
 le sentier environ 10 min. seulement. On apercevra alors, sur
-la g., un large couleir d'éboulis qui monte directement vers la
+la g., un large couloir d'éboulis qui monte directement vers la
 crête du Prigue et la rejoint à 5 min. au N. du sommet. Cette
 ascension n'offre pas la moindre difficulté et, dans 1h.10, on
 ira de la Porteille d'Espagne au sommet du Prigue (2.810m).
@@ -242,7 +232,7 @@ accessible par toutes ses faces. Son belvédère est de tout premier
 ordre. De tous les sommets environnants, seul, celui du Carlitte
 peut lui être comparé.
 
-On domine une merveilleuse région fâite toute de contrastes.
+On domine une merveilleuse région faite toute de contrastes.
 Au N.-E., le regard plane sur le haut plateau boisé de Camporeils
 constellé de nombreux lacs; à l'O., il plonge sur les vertes
 pelouses de la Coume de la Tet et du vallon de Lagrave, où s'étagent
@@ -262,13 +252,12 @@ Autrefois, on pouvait descendre directement au déversoir de la
 Bouillouse en longeant le ruisseau de Prigue et la rive g. du
 grand étang; mais, depuis la construction du barrage qui a
 transformë ce marais en un immense réservoir, rétablissant ainsi
-lun des plus grands lacs des Pyrénées, le sentier de la rive g.
+l'un des plus grands lacs des Pyrénées, le sentier de la rive g.
 a été en partie submergé. On fera donc bien d'aller rejoindre, en
 
 <div class="page"/>
 
-— p. 475 —
-(38me EXCURSION) La BOUILLOUSE . 475
+— p. 475 — (38me EXCURSION) LA BOUILLOUSE
 
 amont de la Bouillouse, le sentier qui descend de la Porteille
 d'Espagne el d'arriver au déversoir par la rive dr.
@@ -297,16 +286,16 @@ des provisions tarifées au Chalet-Hôtel du Touring-Club.
 __Horaire de la Journée :__
 
 ```
-Du lac d'En-Beys à la Porteille d'Espagne. 2h.15 /
-De la Porteille au Pic de Prigue.......... 1h.100 6h.
-Du Pic de Prigue à La Bouillouse........ 2h.35 } (Arrêts en sus).
+Du lac d'En-Beys à la Porteille d'Espagne. 2h.15 }
+De la Porteille au Pic de Prigue.......... 1h.10 }    6h.
+Du Pic de Prigue à La Bouillouse.......... 2h.35 } (Arrêts en sus).
 ```
 
 ## TROISIÈME JOURNÉE
 
-De LA BOUILLOUSE (2.014m) au LAC de LANOUX (2.176m), :
-par le Vallon et la Porteille de Lagrave (2.397m),
-le Col des Bésineilles (2.450m) et les Pics Pédroux (2.831-2.828m).
+__De LA BOUILLOUSE (2.014m) au LAC de LANOUX (2.176m),__\
+__par le Vallon et la Porteille de Lagrave (2.397m),__\
+__le Col des Bésineilles (2.450m) et les Pics Pédroux (2.831-2.828m).__
 
 —— SANS GUIDE ——
 
@@ -319,24 +308,19 @@ franchira pas le torrent et on restera constamment sur la rive dr.
 
 <div class="page"/>
 
-— p. 476 —
-
-RER à
-FAT az
-
-176 | COL des BESINEILLES (38me EXCURSION)
+— p. 476 — COL des BESINEILLES (38me EXCURSION)
 
 Parvenu en haut du vallon, au point où celui-ci se transforme
 en cirque, on laissera à dr. le sentier qui grimpe dans son axe
 au Col de Lagrave (2.500m), et on prendra, à g., celui qui monte
-vers l'O0. jusqu'à l'Estagnol. Ce petit étang est situé au pied de
+vers l'O. jusqu'à l'Estagnol. Ce petit étang est situé au pied de
 la Porteille de Lagrave (2.397m). Echancrée au S. du Pic de
 Lagrave (2.688m), sur la crête qui relie ce sommet au Carlitte, la
 Porteille de Lagrave fait communiquer le vallon de ce nom avec
 le Lac de Lanoux.
 
-On pewyt passer sur les deux rives de lEstagnol et un petit
-sentier monte à la porteille d'où on jouit d'un fnagnifique point
+On peut passer sur les deux rives de l'Estagnol et un petit
+sentier monte à la porteille d'où on jouit d'un magnifique point
 de vue vers l'O. et sur le Lanoux.
 
 De la Porteille de Lagrave, on repèrera en entier l'itinéraire
@@ -352,7 +336,7 @@ en passant au pied de la Couillade de Lanouzet (1).
 
 Après avoir franchi le déversoir du Lanouzet occidental, on
 montera en écharpe, à travers des pâturages, direction S.-O.
-pour aboutir au Col des Bésineilles (2.450m, situé à environ 1 k.
+pour aboutir au Col des Bésineilles (2.450m), situé à environ 1 k.
 au S. du Pic de Bésineilles (2.503m). On retrouvera là la ligne
 de partage des eaux d'Europe qu'on a franchie, la veille, à la
 Porteille d'Espagne, et on la suivra jusqu'au sommet des Pics
@@ -371,13 +355,11 @@ des plus intéressants. On domine constamment les deux cirques
 
 ———\
 (1) La carte d'Etat-Major appelle ce large col : Porteille de la
-Serre Blanche. |
+Serre Blanche.
 
 <div class="page"/>
 
-— p. 477 —
-
-(me EXCURSION) PIC PEDROUX 477
+— p. 477 — (38me EXCURSION) PIC PEDROUX
 
 du Lanoux et des Bésines, et, lorsqu'on arrive au sommet du
 Pédroux N., on jouit de lun des plus jolis belvédères de la
@@ -391,12 +373,12 @@ Mérens. En effet, un simple tunnel de 1.500 ou 1.600 m. permettrait
 de conserver à la France cette immense réserve de houille
 blanche. La force produite pourrait ainsi être utilisée un grand
 nombre de fois jusqu'aux plaines de Toulouse, tandis qu'en
-s'écoulant par la vallée de Carol, elle est perdue pour la Francc,
+s'écoulant par la vallée de Carol, elle est perdue pour la France,
 puisqu'elle passe en Espagne après un parcours de quelques k.
 
-Le massif du Pédroux comprend, d'abord, les deux cimes NN.
+Le massif du Pédroux comprend, d'abord, les deux cimes N.
 et S. (2.831-2.828m), distantes de 300 ou 400 m., puis, un troisième
-sommet, le Pic de la Coume d'Or (2.826m), situé 700 m. plus au $.
+sommet, le Pic de la Coume d'Or (2.826m), situé 700 m. plus au S.
 Une simple dépression sépare les deux Pédroux, et on peut afler
 d'un pic à l'autre, à toute crête, dans 20 min. environ. Grâce à
 leur haute alt. et à leur situation isolée, on jouit aux deux
@@ -414,7 +396,7 @@ baigneurs d'Ax.
 
 Droit au S.-E., de l'autre côté du lac et faisant pendant aux
 Pédroux, se dresse, majestueux, l'imposant Carlitte. On en peut
-repérer en entier la meilleure voie d'ascension. Dans laxe et
+repérer en entier la meilleure voie d'ascension. Dans l'axe et
 verticalement au-dessus du petit lac rond des Fourats, lac inférieur
 situé au N. de l'autre, grimpe un couloir d'éboulis qui
 rejoint la crête du Carlitte entre les deux sommets. Des Pédroux.
@@ -426,8 +408,7 @@ récents ont élevé l'alt. de ses eaux à 2.176 m.
 
 <div class="page"/>
 
-— p. 478 —
-178 LAC de LANOUX (38me, EXCURSION) |
+— p. 478 — LAC de LANOUX (38me EXCURSION)
 
 permettra d'en faire l'ascension le lendemain, même avec du
 brouillard.
@@ -440,12 +421,11 @@ n'aura qu'à le suivre en longeant le ruisseau dans la partie inférieure
 On trouve, d'ailleurs, des lambeaux de sentiers.
 
 On peut coucher dans deux endroits au Lanoux : 1° à la cabane
-du pêcheur Barnole qui est sitüée au S. du lac, tout près du
+du pêcheur Barnole qui est située au S. du lac, tout près du
 déversoir, sur la rive dr.; 2° au Refuge du Lanoux (2.130m),
 maison bâtie par les Ponts et Chaussées à 7 ou 800 m. au S. du
 lac, sur une pente rocheuse de la rive g. du ruisseau de Font-
 vive. Ce refuge ne figure sur aucune carte et, pour y coucher,
-
 il faut l'autorisation de l'administration qui en détient la clé.
 Pour s'y rendre, on suivra le sentier qui longe la rive dr. du
 déversoir jusqu'en amont de la cascade, où on franchira le
@@ -460,41 +440,39 @@ moment-là ou si on n'en à pas la clé. On fera bien de se renseigner
 
 Au S.-O. du lac, près du ruisselet qui descend des Pédroux.
 existe une petite cabane où, à la rigueur, on peut coucher deux.
-ou trois. Mais elle est si petite et si souveñt en mauvais état que
+ou trois. Mais elle est si petite et si souvent en mauvais état que
 je la signale simplement à titre de renseignement.
 
 __Horaire de la Journée :__
 
 ```
-De la Bouillouse à la Porteille de Lagrave. 3h.15 ;
-De la Porteille de Lagrave aux Pics Pé- 8h. »
-OTOUX saneramaus mass onu nante sen 3h. » } (Arrêts en sus).
-Des Pics Pédroux au Lanoux........... 1h.45
+De la Bouillouse à la Porteille de Lagrave. 3h.15 }
+De la Porteille de Lagrave aux Pics Pé-           }    8h. » 
+  droux.................................... 3h. » } (Arrêts en sus).
+Des Pics Pédroux au Lanoux................. 1h.45 }
 ```
 
 <div class="page"/>
 
-— p. 479 —
-
-(38me EXCURSION) Le CARLITTE 479
+— p. 479 — (38me EXCURSION) LE CARLITTE
 
 ## QUATRIÈME JOURNÉE
 
-* Du LAC de LANOUX (2.176m) à PORTÉ (1.623m),
-par le Carlitte (2.915-2.921m) et l'Etang de Font-Vive.
+__Du LAC de LANOUX (2.176m) à PORTÉ (1.623m),__\
+__par le Carlitte (2.915-2.921m) et l'Etang de Font-Vive.__
 
 —— SANS GUIDE ——
 
 __Conseils.__ — __Itin. recomm.__ — Dans la matinée, on fera l'ascension
 du Carlitte sans sac. On emportera simplement un casse-
-croûte dans sa poche. l'indique l'itinéraire au départ de la cabanc
+croûte dans sa poche. l'indique l'itinéraire au départ de la cabane
 du pêcheur, c'est-à-dire au S. mème du lac, au commencement
 du déversoir. Si on à couché au refuge, on montera droit au N.,
 en franchissant deux petites crêtes rocheuses, afin de rejoindre
-Vitinéraire à 1/4 d'h. à l'E. de la cabane.
+l'itinéraire à 1/4 d'h. à l'E. de la cabane.
 
 A quelques m. au S. du lac, en face de la cabane du pêcheur.
-un alignement de grosses picrres et un long madrier permettent
+un alignement de grosses pierres et un long madrier permettent
 de franchir le déversoir pour aller rejoindre, un peu sur la dr.
 un vallon qui monte à l'E. et conduit diréctement sur la rive S.
 du petit lac rond des Fourats (2.500m). Le sentier longe le ruisseau
@@ -504,7 +482,7 @@ ce dernier à dr. et, en continuant vers l'E., on arrive. dans
 supérieur.
 
 De ce point, on aperçoit devant soi le large couloir. incliné
-à 45 ou 50", qui grimpe droit au sommet du Carlitte. On se dirigera
+à 45 ou 50°, qui grimpe droit au sommet du Carlitte. On se dirigera
 vers sa base par une croupe facile et on l'attaquera en
 écharpe vers la g., afin d'atteindre un terrain solide qui en longe
 la rive N. L'ascension par les éboulis du centre du couloir serait
@@ -523,32 +501,30 @@ Carlitte, entre le sommet 2,915, au N., et le sommet principal
 
 <div class="page"/>
 
-— p. 480 —
-
-480 COL du CARLITTE (38m EXCURSION) .
+— p. 480 — COL du CARLITTE (38me EXCURSION)
 
 en corniche, on contournera le haut du ravin pour aboutir directement
 à la brèche du Carlitte. Dans 2 min., on fera, à g., le
 sommet secondaire pour mieux jouir du magnifique spectacle
-qu'on découvre vers l'E. en arrivant à la brèche. .
+qu'on découvre vers l'E. en arrivant à la brèche.
 
 Le Carlitte (Carlit en catalan) comprend deux pointes jumelles
 distantes d'une quarantaine de m.; c'est au sommet S. (2.921m)
 qu'est le point culminant des monts Catalans. On ira à toute
 crête d'un pic à l'autre.
 
-Le panorama du Carliîte est salogre à celui du Prigue sur
+Le panorama du Carlitte est anaolgue à celui du Prigue sur
 les montagnes ariégeoises et catalanes; mais il lui est supérieur
 vers l'O., sur la grande chaîne, car, par un, temps clair, la vue
 s'étend jusqu'aux Monts-Maudits. Les environs immédiats du
 Prigue sont plus coquets, plus reposants, mais le belvédère du
 Carlitte est plus grandiose.
 
-Comme au Prigue, on aperçoit une quantité delacs. Le déseri
+Comme au Prigue, on aperçoit une quantité de lacs. Le désert
 du Carlitte en recèle une douzaine et, en y comprenant les deux
 grandes nappes de la Bouillouse et du Lanoux, c'est environ une
 trentaine d'étangs qui font cercle autour du grand pic et en
-illuminent tous les alentours. I! est indispensable de faire les
+illuminent tous les alentours. Il est indispensable de faire les
 deux sommets pour les apercevoir tous.
 
 Seul, le Lanoux est en partie masqué dans son centre par un
@@ -566,19 +542,18 @@ Pendant ce trajet, on découvrira la partie de l'Etang Llat, invisible
 du sommet du Carlitte, parce qu'elle est masquée par la
 pointe secondaire (2.666m), située à l'E.-S.-E. du grand pic.
 
-. Du Col du Carlitte, on pourra dévaler, à l'O., par un ravin
-d'éboulis qui plonge vers ie lac supérieur des Fourats. Laissant
+Du Col du Carlitte, on pourra dévaler, à l'O., par un ravin
+d'éboulis qui plonge vers le lac supérieur des Fourats. Laissant
 celui-ci à g., on se dirigera au N.-O. en longeant le ruisseau du
 lac, afin de rejoindre, 1/4 d'h. plus bas, le chemin d'ascension.
 
 Dans l'après-midi, on descendra à Porté par l'admirable sentier
 en corniche que les Ponts et Chaussées ont construit sur les
 pentes S. du Pic de Font-Vive. De la cabane du pêcheur, on longe
+
 <div class="page"/>
 
-— p. 481 —
-
-(38me EXCURSION) ETANGS be FONT-VIVE — PORTE 481
+— p. 481 — (38me EXCURSION) ETANGS de FONT-VIVE — PORTE
 
 le torrent par la rive dr. jusqu'à la passerelle qui domine la
 cascade. Là, alors que le torrent plonge dans les abîmes du fond
@@ -586,25 +561,25 @@ de la vallée, le chemin continue en pente douce et régulière à
 une grande hauteur. On contourne plusieurs petits ravins et
 contreforts; on passe verticalement au-dessus de l'Etang de Font-
 Vive, et c'est en conservant constamment le magnifique point de
-vue sur la profonde vallée qu'on rejoint en douceur la grand'-
-route, en amont de Porté, au tournant des ccrisiers.
+vue sur la profonde vallée qu'on rejoint en douceur la grand'
+route, en amont de Porté, au tournant des cerisiers.
 
 On descendra au fond du vill. et on ira coucher à l'hôtel Michette.
 
 __Horaire de la Journée :__
 
 ```
-Du Lanoux au Carlitte................. 2h.10 / Gh.
-Du Carlitte au Lanoux par le Col....... 1h.50 ÿ
-Du Lanoux à Porté.................... 2h. } (Arrêts en sus).
+Du Lanoux au Carlitte................ 2h.10 }  6h. »
+Du Carlitte au Lanoux par le Col..... 1h.50 }
+Du Lanoux à Porté.................... 2h. » } (Arrêts en sus).
 ```
 
 ## CINQUIÈME JOURNÉE
 
-De PORTÉ (1.623m) à BOURG-MADAME (1.140m),
-par le Col de Puymorens (1.918m), le Lac de Font-Nègre (2.290m),
-les Sources de l'Ariège, le Pic Nègre d'Embalire (2.812m)
-et le Pic de Campcardos (2.914m).
+__De PORTÉ (1.623m) à BOURG-MADAME (1.140m),__\
+__par le Col de Puymorens (1.918m), le Lac de Font-Nègre (2.290m),__\
+__les Sources de l'Ariège, le Pic Nègre d'Embalire (2.812m)__\
+__et le Pic de Campcardos (2.914m).__
 
 —— GUIDE UTILE ——
 
@@ -631,13 +606,11 @@ on prendra le chemin de traverse qui monte, en 30 min., au Col
 
 <div class="page"/>
 
-— p. 482 —
-
-482 COL pg PUYMORENS (38me EXCURSION;
+— p. 482 — COL de PUYMORENS (38me EXCURSION)
 
 de Puymorens (1.918m). On y jouit d'un magnifique point de vue
 et on aperçoit, notamment au N.-O., une grande partie des crêtes
-qui entourent le Cirque du Sisca (V. 35° E., p. 435). .
+qui entourent le Cirque du Sisca (V. 35° E., p. 435).
 
 Le chemin des mineurs s'amorce à g., en face de la maison
 cantonnière. Il se dirige vers l'O., à travers des pelouses, pour
@@ -647,10 +620,10 @@ vallée de Mérens qu'on aperçoit en entier.
 
 Continuant le ravissant trajet, on chemine presque horizontalement
 à flanc de montagne, en coupant en écharpe plusieurs ravins
-aufond desquels coulent des ruisseaux descendant vers
+au fond desquels coulent des ruisseaux descendant vers
 l'Ariège. Après avoir dépassé l'ancienne mine et franchi les
 ravins du Baladra et du Bac del Moré, le chemin aboutit à la
-nouvelle route d'Andorre qu'il rejoint au pont “ORHÈRe du Pas de
+nouvelle route d'Andorre qu'il rejoint au pont frontière du Pas de
 la Casa (2.075m).
 
 On trouve là, sur la rive g., deux cabanes dont une très confortable
@@ -671,7 +644,7 @@ eaux d'Europe.
 Tout près et baignant presque dans le lac, s'élève le Roc des
 Porteilles qui n'est que l'extrémité relevée d'un chaînon secondaire
 se détachant de la crête principale au S.-S.-O. du lac. Si je
-signale ce chaïnon, c'est parce qu'il faudra le franchir, tout à
+signale ce chaînon, c'est parce qu'il faudra le franchir, tout à
 l'heure, de l'O. à l'E., et aussi parce qu'il est probable que la ligne
 frontière passe sur sa crête. Du haut du cirque, viennent de toutes
 les directions des ruisselets qui convergent vers le lac : ce sont
@@ -679,18 +652,17 @@ les sept sources de l'Ariège. Le plus important descend du S.-O..
 du petit cirque formé par le chaînon des Porteilles. Si on examine
 attentivement l'état des lieux, on est tenté de croire que la
 principale source de l'Ariège est en Andorre. En effet, toute la
+
 <div class="page"/>
 
-— p. 483 —
-
-(38me EXCURSION) LAC Er PORT DE FONT-NEGRE 483
+— p. 483 — (38me EXCURSION) LAC ET PORT DE FONT-NEGRE
 
 rive g. de l'Ariège, qu'on appelle « la Soulane », appartenant à
 l'Andorre jusqu'au lac de Font-Nègre, il est probable que la ligne
-frontière passe sur la crête du chaiînon des Porteilles.
+frontière passe sur la crête du chaînon des Porteilles.
 
 Tout en haut, au S.-O. du lac, paraît, très escarpé, le Pic Nègre
-d'Embalire %2.812m) dont l'ascension ést des plus faciles par la
+d'Embalire (2.812m) dont l'ascension est des plus faciles par la
 face E. C'est sur ce sommet qu'est le plus joli point de vue de la
 contrée. Il est bien supérieur à celui du Signal de Lasquelle, plus
 haut de 40 m. et bien plus pénible à gravir. On montera dans sa
@@ -724,6 +696,7 @@ pour jouir d'un panorama complet sur les environs immédiats.
 Le premier sommet (pointe N.) est situé sur la grande chaîne;
 le second (pointe S.) fait partie des chaînes secondaires qui se
 détachent, à l'O. vers le Cirque dels Pessons et, au S., vers la
+
 ———\
 (1) C'est par erreur que la carte d'Etat-Major place ce lac à 2.107
 d'alt., dans la vallée de Campeardos. Il y a confusion; celui qui est
@@ -732,22 +705,19 @@ de disparaître.
 
 <div class="page"/>
 
-— p. 484 —
-
-
-_ PIC NEGRE D'EMBALIRE (38me EXCURSION) . F
+— p. 484 — PIC NEGRE D'EMBALIRE (38me EXCURSION)
 
 Porteille Blanche d'Andorre. Si les faces E. et S. sont faciles, la
 face N. des deux sommets est inaccessible, car elle plonge verticalement
 de plusieurs centaines de m. sur la vallée d'Embalire
 et son petit lac.
 
-La situation privilégiée du Pic Nègre, au sommet defla vallée de
+La situation privilégiée du Pic Nègre, au sommet de la vallée de
 Campcardos et dans l'axe des vallées de l'Ariège et d'Embalire, en
 fait un belvédère de premier ordre. Il est cependant à peu près
 inconnu, et si on l'a cité dans quelques articles de montagne,
 aucun guide n'en a indiqué l'itinéraire d'ascension, si facile
-pourtant. |
+pourtant.
 
 On a sous les yeux, tout près, le Cirque dels Pessons et on aperçoit
 très distinctement 11 de ses 18 lacs: Le vill. de Saldeu semble
@@ -758,7 +728,7 @@ les cimes de Fontargente et du Sisca s'entremêlent dans un décor
 splendide.
 
 Cependant, ce qui retient longuement l'attention, c'est la vallée
-de l'Ariège qu'on aperçoit jusqu'en aval de Mérens, égavée tout le
+de l'Ariège qu'on aperçoit jusqu'en aval de Mérens, égayée tout le
 long par la jolie rivière aux reflets argentés.
 
 Le Campcardos qu'on aperçoit très bien du Pic Nègre n'a aucun
@@ -774,7 +744,7 @@ Mieux vaut, même en partant de Porta, remonter la vallée de
 Campcardos jusqu'à 2.200 d'alt. et là, tourner au S., pour gagner
 la crête à la Porteille de Maranges, à 1.500 m. au N.-O. du sommet
 Sauf 1/4 d'h. d'escalade un peu rude, sur un flanc d'éboulis,
-pour atteindre la portcille, cet itinéraire d'ascension fait monter
+pour atteindre la porteille, cet itinéraire d'ascension fait monter
 en pente douce et régulière jusqu'au pic. Il y a, d'ailleurs, un sentier
 qui arrive au pied de la porteille.
 
@@ -785,9 +755,7 @@ bas du port, on laissera à dr. le sentier qui, par l'étang de las
 
 <div class="page"/>
 
-— p. 485 —
-
-Cidmr EXCURSION) PIG bg CAMPCARDOS 485
+— p. 485 — (38me EXCURSION) PIC DE CAMPCARDOS
 
 Passadéras, descend à la Porteille Blanche. On dégringolera à
 travers les pelouses, direction S.-E., afin de rejoindre le ruisseau
@@ -796,7 +764,7 @@ alors le torrent, on se dirigera droit au S. pour aboutir
 au petit cirque situé au pied de la porteille.
 
 On aura, sur la dr. les escarpements du Signal 2.819 et, sur la
-g.. ceux du Pic Marfaing (2.661m). En face, au S., on sera dominé
+g. ceux du Pic Marfaing (2.661m). En face, au S., on sera dominé
 pur la crêle frontière de la Porteille de Maranges.
 
 On contournera le cirque par la g. et on gagnera la crête à la
@@ -827,7 +795,7 @@ la Sierra de Cadi qu'on aperçoit en face, de l'autre côté de la Cerdagne.
 Comme le Carlitte, le Campcardos est un belvédère de premier
 ordre, car son panorama s'étend du Canigou au Posets. Tout près,
 au S.-E., on distingue les grands pics de la chaîne orientale, principalement
-Ta masse arrondie du Puigmal par lequel débutera la
+la masse arrondie du Puigmal par lequel débutera la
 prochaine excursion.
 
 Pour la descente, on traversera le plateau du Campcardos, du
@@ -837,8 +805,7 @@ plonger jusqu'au fond de la vallée,
 
 <div class="page"/>
 
-— p. 486 —
-: 486 PORTA — BOURG-MADAME (BBrie ÆxcunsrO) .
+— p. 486 — PORTA — BOURG-MADAME (38me EXCURSION)
 
 Quoi qu'en disent certains guides, il n'y a dans cette descente
 ni danger, ni difficulté. Ce sont, il est vrai, des pentes inclinées
@@ -853,24 +820,29 @@ Madame. On pourra aussi repartir dans l'autre sens pour revenir
 à Ax. Dans tous les cas, si on a pris un guide à Porté, c'est de
 Porta qu'il faut le renvoyer.
 
-NaTa. — A la gare internationale de Latour-de-Carol, on
+Nota. — A la gare internationale de Latour-de-Carol, on
 changera de train pour prendre la ligne de Perpignan par
 Bourg-Madame.
 
 __Horaire de la Journée :__
 
 ```
-De Porté au Pas de la Casa............. 2h. »
-Du Pas de la Casa au Port de Font-Nègre. 1h.45 10h. »
-Du Port au Pic Nègre et retour.......... 0h.50 °
-Du Port de Font-Nègre au Campcardos.. 2h.40 } (Arrêts en sus).
-Du Pic de Campcardos à Porta......... 2h.45
+De Porté au Pas de la Casa.............. 2h. » }
+Du Pas de la Casa au Port de Font-Nègre. 1h.45 }   10h. »
+Du Port au Pic Nègre et retour.......... 0h.50 }
+Du Port de Font-Nègre au Campcardos..... 2h.40 } (Arrêts en sus).
+Du Pic de Campcardos à Porta............ 2h.45 }
 ```
 
 <u>__POINTS D’INTERRUPTION__</u>
-Pour rejoindre de Montlouis (14 k.)....... 4 h.
-LA BOUILLOUSE Pour descendre à Montlouis............. 3 is »
-| , Pour rejoindre de Porté.................. 2h.30
-LAC DE LANOUX Pour descendre à Porté................... 2h. »
-PORTÉ Soit pour rejoindre pour faire la 5° journée, soit pour aban-
-donner après la #°.
+
+__LA BOUILLOUSE__
+- Pour rejoindre de Montlouis (14 k.) : 4 h.
+- Pour descendre à Montlouis : 3 h. »
+
+__LAC DE LANOUX__
+- Pour rejoindre de Porté : 2h.30
+- Pour descendre à Porté :  2h. »
+
+__PORTÉ__
+- Soit pour rejoindre pour faire la 5° journée, soit pour abandonner après la 4e.
