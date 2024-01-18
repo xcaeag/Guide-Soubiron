@@ -65,11 +65,11 @@ un guide peut être utile.
 
 __De MONTLOUIS (1.603m) à ULL DE TER (2.325m),__
 
-__par la Vallée d'Eynre,__\
-__le Pic de Finestrelles (2.826m), le Col de Nuria (2.650m),__\
-__le Pic d'Eyne (2.786m), le Col de Noufonts (2.640m),__\
-__le Col des Neuf-Croix (2.800m),__\
-__le Col de Carança (2.725m), les Sources du Fréser (2.450m)__\
+__par la Vallée d'Eynre,__<br>
+__le Pic de Finestrelles (2.826m), le Col de Nuria (2.650m),__<br>
+__le Pic d'Eyne (2.786m), le Col de Noufonts (2.640m),__<br>
+__le Col des Neuf-Croix (2.800m),__<br>
+__le Col de Carança (2.725m), les Sources du Fréser (2.450m)__<br>
 __et le Col de la Marrana (2.500m).__
 
 —— SANS GUIDE ——
@@ -158,7 +158,6 @@ bornée vers le S. |
 On descendra ensuite; à l'E., au Col de Noufonts (2.640m) et,
 en suivant toujours la crête frontière, on escaladera au passage
 
-
 <div class="page"/>
 
 — p. 509 — (40me EXCURSION) COUME DE FRESER
@@ -190,7 +189,7 @@ __Horaire de la Journée :__
 ```
 De Montlouis au Pla de la Bégude....... 3h. »
 Du Pla de la Bégude au Pic de Finestrelles. 1h.45
-Du Pic de Finestrelles au Col de Nuria... O0h.45
+Du Pic de Finestrelles au Col de Nuria... 0h.45
 Du Col de Nuria au Col des Neuf-Croix.. 11h.45
 Du Col des Neuf-Croix au Refuge de Ull
 de Ter ............................. 2h.15
@@ -198,12 +197,12 @@ de Ter ............................. 2h.15
  } (Arrêts en sus).
 ```
 
-Nota. — V. notice sur Ull de Ter, p. 498.
+> Nota. - V. notice sur Ull de Ter, p. 498.
 
 ## DEUXIÈME JOURNÉE
 
-__De ULL DE TER (2.325m)à LA PRESTE (1.130m),__\
-__par la Porteille de Morens (2.420m),__\
+__De ULL DE TER (2.325m)à LA PRESTE (1.130m),__<br>
+__par la Porteille de Morens (2.420m),__<br>
 __Roque Couloum (2.464m) et le Pic de Costabona (2.464m),__
 
 —— GUIDE UTILE ——
@@ -352,7 +351,7 @@ De Roque Couloum au Costabona....... 1h. » } (Arrêts en sus).
 Du. Costabona à La Preste...,....ssvusss 2h.45
 ```
 
-Nota. — La Preste, 55 hab., commune de' Prats-de-Mollo, est
+> Nota. - La Preste, 55 hab., commune de' Prats-de-Mollo, est
 
 une station thermale <ont les établissements sont ouverts du
 ler juin au 31 octobre. Ils sont situés à 1.130 m. d'alt., dans un
@@ -367,9 +366,9 @@ autobus pour les derniers 7 Kk. de route.
 
 ## TROISIÈME JOURNÉE
 
-__De LA PRESTE (1.130m) au CHALET des CORTALETS (2.060m),__\
-__par le Pla Guillem (2.253m),__\
-__le Col de Boucacers (2.285m), la haute Vallée de Cady__\
+__De LA PRESTE (1.130m) au CHALET des CORTALETS (2.060m),__<br>
+__par le Pla Guillem (2.253m),__<br>
+__le Col de Boucacers (2.285m), la haute Vallée de Cady__<br>
 __et le Canigou (2.785m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -455,7 +454,7 @@ Du Pla Guillem au Canigou.............. 3h. 15 Mur
 Du Canigou au Refuge des Cortalets..... 11h.15
 ```
 
-Nota. — Le chalet-hôtel des Cortalets a été bâti par le
+> Nota. - Le chalet-hôtel des Cortalets a été bâti par le
 « Club Alpin Français » et inauguré en 1899. Il y a une vingtaine
 de lits et on y trouve des provisions. Il est ouvert du
 
@@ -479,7 +478,7 @@ rejoindre la route au Col de Millères.
 
 ## QUATRIÈME JOURNÉE
 
-__Du CANIGOU (2.785m) à VERNET-LES-BAINS (620m),__\
+__Du CANIGOU (2.785m) à VERNET-LES-BAINS (620m),__<br>
 __par la Forêt de Balatg et le Col de Jouell.__
 
 —— SANS GUIDE ——
@@ -558,7 +557,7 @@ Roc Mousquit qui sépare la vallée de Llech de celle de Taurinya.
 C'est un très joli belvédère sur la vallée de la Tet et aussi sur
 la plaine du Roussillon.
 
-———\
+———<br>
 (1) En réalité, cette cime s'appelle le Pic des Trés Vents, en raison
 
 des. trois vents qui balaient alternativement son sommet, le vent
@@ -602,23 +601,23 @@ Du Chalet au Canigou et retour......... 3h. » } 7h. »
 Du Chalet des Cortalets à Vernet-les-Bains.- 4h. » } (Arrêts en sus).
 ```
 
-———\
+———<br>
 (1) Vernet-les-Bains, 1.300 hab. arr. et c. de Prades (Pyrén.-Orient.),
 Station thermale desservie par un autobus depuis la gare de Ville-
 
 franche-de-Conflent (6 K.), en attendant l'ouverture d'un chemin de
 ter électrique.
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 LA PRESTE  Pour rejoindre de Prals de Mollo, 7 k. de roule en autobus.
 ! Pour descendre vers Perpignan après la % journée.
 
-( \ Pour rejoindre de Vernet....... o h. 30
-CHALES' de SGpRTA TS \
+( <br> Pour rejoindre de Vernet....... o h. 30
+CHALES' de SGpRTA TS <br>
 
 » » de Prades....... 6h.30
 
-Nota. - Voir ci-contre la notg sur
+> Nota. - Voir ci-contre la notg sur
   
 Canigou.

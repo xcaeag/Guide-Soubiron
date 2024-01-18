@@ -52,7 +52,6 @@ le Pic Long, le Néouvielle et le Pic de Midi de Bigorre.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
-
 <div class="page"/>
 
 — p. 68 —
@@ -66,11 +65,10 @@ le Pic Long, le Néouvielle et le Pic de Midi de Bigorre.
 
 ## PREMIÈRE JOURNÉE
 
-__De LOURDES (386m) à LOURDES,__\
-__par la Gorge de l'Arboucau, Omex, le Pic de Montégut (1.133m),__\
-__le Pibeste (1.383m), Salles (638m), Sère, Gez (660m)__\
+__De LOURDES (386m) à LOURDES,__<br>
+__par la Gorge de l'Arboucau, Omex, le Pic de Montégut (1.133m),__<br>
+__le Pibeste (1.383m), Salles (638m), Sère, Gez (660m)__<br>
 __et Argelès (455m).__
-
 
 —— SANS GUIDE ——
 
@@ -103,7 +101,6 @@ de Tarbes; mais son ascension est surtout utile pour repérer
 la voie qui monte au Pibeste.
 
 Droit au S., on apercevra une sente rapide qui monte en ligne
-
 
 <div class="page"/>
 
@@ -152,10 +149,9 @@ qu'on rejoindra la route qui conduit à Argelès (6 k.).
 
 Après une petite descente jusqu'à Sère où on franchit le Ber-
 
-———\
+———<br>
 (1) Concernant l'étymologie des Pics du Midi, voir note p. 3.
 (2) V. Bulletin de la Section des Pyrénées Centrales, n° 49. 
-
 
 <div class="page"/>
 
@@ -168,7 +164,7 @@ de la région : on dominera Argelès et on en embrassera
 toute la vallée, depuis le Viscos jusqu'au Ger de Lourdes.
 Parvenu à Argelès, on prendra le train pour Lourdes.
 
-Nota. — On peut aussi coucher à Argelès pour faire, le
+> Nota. - On peut aussi coucher à Argelès pour faire, le
 lendemain, l'ascension du Hautacamp. Dans ce cas, on ira
 rejoindre l'itinéraire à Saint-Pastous, à 5 k. d'Argelès.
 
@@ -182,8 +178,8 @@ De Salles à Argelès (6 k.)............ 1h.15  } (Arrêts en sus)
 
 ## DEUXIÈME JOURNÉE
 
-__Ascension du HAUTACAMP (1.802m),__\
-__par Saint-Pastous (583m), avec retour à Lourdes,__\
+__Ascension du HAUTACAMP (1.802m),__<br>
+__par Saint-Pastous (583m), avec retour à Lourdes,__<br>
 __par Lias, Berbérust et Lugagnan.__
  
 
@@ -207,7 +203,6 @@ n'y a pas d'eau au sommet; il sera prudent d'en faire provision
 à Saint-Pastous.
 
 On remarquera au passage, sur la g., la jonction du beau sen-
-
 
 <div class="page"/>
 
@@ -260,10 +255,9 @@ De Boo-Silhen au Hautacamp.......... 4h.30 } 7h.45
 Du Hautacamp à Lugagnan............. 3h.15 } (Arrêts en sus).
 ```
 
-———\
+———<br>
 (1) Certains le nomment « Davantaïgues », d'autres, montagne de
 Gazost.
-
 
 <div class="page"/>
 
@@ -271,9 +265,9 @@ Gazost.
 
 ## TROISIÈME JOURNÉE
 
-__De LOURDES (386m) à BAGNÈRES-DE-BIGORRE (556m),__\
-__par le Pic du Ger (950m), Lheret, le Col de Lingoust (600m),__\
-__Germs et la Clique (1.049m), les Ardoisières__\
+__De LOURDES (386m) à BAGNÈRES-DE-BIGORRE (556m),__<br>
+__par le Pic du Ger (950m), Lheret, le Col de Lingoust (600m),__<br>
+__Germs et la Clique (1.049m), les Ardoisières__<br>
 __et le village de Labassère (787m).__
 
 —— SANS GUIDE ——
@@ -307,11 +301,10 @@ Du Pic de Midi de Bigorre au Gabizos, toute la grande chaîne
 est sous les yeux. A ses pieds, au S., s'allonge la vallée d'Argelès
 et, au N., dans un immense éventail, paraissent un grand nombre
 
-———\
+———<br>
 (1) En été, à l'époque des pèlerinages, il est perçu un droit de
 0 fr. 50 pour monter au belvédère. Avec la carte du Touring-Club, on
 y monte gratis.
-
 
 <div class="page"/>
 
@@ -363,11 +356,9 @@ l'allure d'une haute montagne.
 
 Aux granges de Bourdalats, coule, près de la route, une très
 
-
 <div class="page"/>
 
 — p. 75 — (4me EXCURSION) CLIQUE DE GERMS
-
 
 bonne source; on y fera sa provision d'eau, car celle du vill. de
 Germs n'est pas des meilleures.
@@ -417,7 +408,6 @@ Si, après avoir effectué les excursions des environs de Lourdes,
 on veut continuer immédiatement par les environs de
 Cauterets, c'est de la Clique de Germs qu'on rentrera à Lour-
 
-
 <div class="page"/>
 
 — p. 76 — LUGAGNAN (4e EXCURSION)
@@ -429,8 +419,7 @@ longe la rive g. et, 20 min. plus bas, on retrouve la grand'route
 à la cote 587, à 10 k. de Lourdes et à 6 de Lugagnan, où on
 pourra prendre le train pour Cauterets.
 
-
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __ARGELÈS__ :  Pour abandonner après le premier jour.
 

@@ -16,17 +16,17 @@ output: pdf_document
 
 # TRENTE ET UNIÈME EXCURSION
 
-__Quatre jours aux Environs d'Auzat__\
-__AU DÉPART DE TARASCON__\
+__Quatre jours aux Environs d'Auzat__<br>
+__AU DÉPART DE TARASCON__<br>
 
-(1° Série)\
+(1° Série)<br>
 _B. E. — Du 15 Juin au 15 Octobre._
 
 Cartes à emporter : Foix et Perles.
 
-__De Tarascon à Tarascon, par le roc de Querquéou__\
-__Vicdessos, l'Etang d'Izourt, Goulier, le Pic de Risoul, le Col__\
-__de Grail, le Pic de Lercoul, le Roc de Berquié,__\
+__De Tarascon à Tarascon, par le roc de Querquéou__<br>
+__Vicdessos, l'Etang d'Izourt, Goulier, le Pic de Risoul, le Col__<br>
+__de Grail, le Pic de Lercoul, le Roc de Berquié,__<br>
 __le Pic des Trois Seigneurs et la Vallée de Rabat.__
  
 <u>__AVIS AUX TOURISTES__</u>
@@ -50,8 +50,8 @@ vue d'ensemble sur la magnifique région qu'on va explorer.
 
 ## PREMIÈRE JOURNÉE
 
-__De TARASCON (480m) à AUZAT (740m), par Quié, le Plateau__\
-__de Génat (980m), le Roc de Querquèou (1.887m),__\
+__De TARASCON (480m) à AUZAT (740m), par Quié, le Plateau__<br>
+__de Génat (980m), le Roc de Querquèou (1.887m),__<br>
 __Orus (984m) et Vicdessos (695m).__
 
 __Conseils.__ — __Itin. recomm.__ — Si on n'a pas couché la veille à
@@ -124,10 +124,9 @@ De Génat au Querquèou................ 2h.45 } (Arrêts en sus)
 Du Querquèou à Auzat................. 2h.45 }
 ```
 
-Nota. — Pour les excursions des environs d'Auzat, on peut
+> Nota. - Pour les excursions des environs d'Auzat, on peut
 aussi coucher à Vicdessos, puisqu'il n'y a que 1/4 d'h. d'une
 localité à l'autre.
-
 
 <div class="page"/>
 
@@ -135,7 +134,7 @@ localité à l'autre.
  
 ## DEUXIÈME JOURNÉE
 
-__Ascension de l'Etang d'Izourt (1.642m), avec retour à Auzat__\
+__Ascension de l'Etang d'Izourt (1.642m), avec retour à Auzat__<br>
 __par la Bède d'Olbier.__
 
 —— SANS GUIDE ——
@@ -212,7 +211,7 @@ De l'étang d'Izourt à Olbier........... 3h. » } (Arrêts en sus)
 D'Olbier à Auzat ...................... 0h.45 }
 ```
 
-———\
+———<br>
 (1) Bède est synonyme de forêt.
 
 <div class="page"/>
@@ -221,8 +220,8 @@ D'Olbier à Auzat ...................... 0h.45 }
 
 ## TROISIÈME JOURNÉE
 
-__D'AUZAT (740m) à VICDESSOS (695m), par Olbier, Goulier (1.084m),__\
-__le Pic de Risoul (1.387m), le Col de Grail (1.500m),__\
+__D'AUZAT (740m) à VICDESSOS (695m), par Olbier, Goulier (1.084m),__<br>
+__le Pic de Risoul (1.387m), le Col de Grail (1.500m),__<br>
 __le Pic de Lercoul (1.687m), Sem (960m) et le Roc de Berquié.__
 
 —— SANS GUIDE ——
@@ -303,7 +302,7 @@ Du Pic de Risoul au Pic de Lercoul..... 2h.15 } (Arrêts en sus)
 Du Pic de Lercoul à Vicdessos.......... 2h.45 } 
 ```
 
-Nota. — Si on revient coucher à Auzat, 1/4 d'h. en sus.
+> Nota. - Si on revient coucher à Auzat, 1/4 d'h. en sus.
 
 <div class="page"/>
 
@@ -311,8 +310,8 @@ Nota. — Si on revient coucher à Auzat, 1/4 d'h. en sus.
 
 ## QUATRIÈME JOURNÉE
 
-__De VICDESSOS (695m) à TARASCON (480m), par le Pic__\
-__des Trois Seigneurs (2.199m), le Pas de la Pourtanelle (1.807m)__\
+__De VICDESSOS (695m) à TARASCON (480m), par le Pic__<br>
+__des Trois Seigneurs (2.199m), le Pas de la Pourtanelle (1.807m)__<br>
 __et la Vallée de Rabat.__
 
 —— GUIDE UTILE ——
@@ -393,7 +392,7 @@ De Suc au Pic des Trois Seigneurs..... 3h.45 } (Arrêts en sus)
 Du Pic des Trois Seigneurs à Tarascon. 4h.25 }
 ```
  
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __AUZAT__
 - Pour rejoindre où abandonner après la première ou deuxième journée.
@@ -401,7 +400,7 @@ __AUZAT__
 __VICDESSOS__
 - Pour abandonner après la troisième journée ou pour rejoindre, afin d'effectuer la quatrième.
 
-———\
+———<br>
 (1) Pour les gens du pays, c'est ce dernier sommet qui serait le
 vrai Pic des Trois Seigneurs.
 

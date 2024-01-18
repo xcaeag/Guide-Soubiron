@@ -26,19 +26,19 @@ Cartes à emporter : Ax et Saillagouse réunies.
 
 __De BOURG-MADAME à MONTLOUIS,__
 
-__par le Puigmal, le Sanctuaire de Nuria,__\
-__le Pic de la Fosse du Géant, les deux Pics de la Vaca,__\
-__le Pic de l'Enfer,__\
-__le Pic de Fréser, le Pic du Géant, le Pic del Gra de Fajol,__\
-__le Refuge de Ull de Ter,__\
-__le Pic de la Donia, la Vallée et les Gorges de Carança,__\
+__par le Puigmal, le Sanctuaire de Nuria,__<br>
+__le Pic de la Fosse du Géant, les deux Pics de la Vaca,__<br>
+__le Pic de l'Enfer,__<br>
+__le Pic de Fréser, le Pic du Géant, le Pic del Gra de Fajol,__<br>
+__le Refuge de Ull de Ter,__<br>
+__le Pic de la Donia, la Vallée et les Gorges de Carança,__<br>
 __les Pics de la Tausse et Font-Romeu.__
 
 <u>__AVIS AUX TOURISTES__</u>
 
 Avec la 39me Excursion, nous quittons la grande chaîne pyrénéenne
 et le bond qui nous fait franchir la Cerdagne dans sa
-plus étroite mais plus coquette partie, nous mène à Ha chaîne
+plus étroite mais plus coquette partie, nous mène à la chaîne
 catalane, plus facile d'accès, mais surtout bien différente de
 caractère.
 
@@ -52,14 +52,15 @@ en lumière, dans leur pays, par de luxueuses publications.
 Le « Centre Excursionista de Catalunya » a fait aussi construire
 à grands frais, l'admirable refuge de Ull de Ter qui,
 avec le sanctuaire de Nuria et le refuge français des Cortalets,
-permet de visiter confortablement toute la chaîne catalanc, du
-Puigmal au Caniygou.
+permet de visiter confortablement toute la chaîne catalane, du
+Puigmal au Canigou.
 
 Comme il n'existe pas de guides la connaissant en entier, les
 itinéraires des 39me et 40me Excursions seront très détaillés; on
 pourra ainsi partir seul ou avec un simple porteur du pays.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion.)</p>
+
 <div class="page"/>
 
 — p. 488 —
@@ -72,21 +73,21 @@ pourra ainsi partir seul ou avec un simple porteur du pays.
 
 ## PREMIÈRE JOURNÉE
 
-__De BOURG-MADAME (1.140m) au SANCTUAIRE de NURIA (1.985m),__\
-__par la Vallée d'Osséja,__\
-__Valcebollère (1.493m), le Pas dels Lladres (2.500m ?),__\
-__la Tosa (2.700m ?) et le Puigmal (2.909m).__\
+__De BOURG-MADAME (1.140m) au SANCTUAIRE de NURIA (1.985m),__<br>
+__par la Vallée d'Osséja,__<br>
+__Valcebollère (1.493m), le Pas dels Lladres (2.500m ?),__<br>
+__la Tosa (2.700m ?) et le Puigmal (2.909m).__<br>
 
 —— SANS GUIDE ——
 
-__Conseils.__ — __Itin. recomm.__ — Comine on trouve des provisions à
-Nuria, on n'emporlera comme gros repas que ce qui est nécessaire
+__Conseils.__ — __Itin. recomm.__ — Commme on trouve des provisions à
+Nuria, on n'emportera comme gros repas que ce qui est nécessaire
 pour la journée. On partira à 4 h., en se faisant conduire
 en voiture au vill. de Valcebollère (10 k.). terminus de la route.
 
 Ce parcours est de toute beauté, surtout au lever du soleil.
 De Bourg-Madame à Osséja (4 k. 500), la route monte en pente
-douce à travers un pays imagnifique. On a sous les veux, à g.
+douce à travers un pays magnifique. On a sous les veux, à g.
 la Cerdagne française et, à dr. la Cerdagne espagnole. Si on se
 retourne, on aperçoit Puigcerda dans un décor splendide qu'illumine
 le soleil levant.
@@ -98,30 +99,30 @@ importante et la plus riche commune de la Cerdagne. Ses alentours
 fruitiers d'une luxuriance qu'on est surpris de trouver à 1.254 m.
 d'alt.
 
-Dès qu'on a dépassé Osséja,.on rejoint le cours de la Vanera
-qu'on longe par la rive dr. à une certaine hauteur. Bientôt, la
+Dès qu'on a dépassé Osséja, on rejoint le cours de la Vanera
+qu'on longe par la rive dr. à une certaine hauteur. Bientôt, l'
 allée se rétrécit pour devenir plus pittoresque, et on arrive enfin
 au misérable vill. de Valcebollère (1.493m) où la route finit en
 cul-de-sac, en haut de la vallée.
 
 Là, s'ouvrent deux vallons secondaires qui conduisent à Ia
 crête frontière; le premier grimpe, droit au S., au Pla de las
-Seinas (2.234m1; le second qui tourne à g., au S.-E. conduit au
-Pas dels Lladres (2.5007m). C'est ce dernier qu'il faut suivre mais
+Seinas (2.234m); le second qui tourne à g., au S.-E. conduit au
+Pas dels Lladres (2.5007m ****). C'est ce dernier qu'il faut suivre mais
 sans l'aborder immédiatement.
 
-Au S.-E., sur un piateau dominant Valcebollère, on aperçoit
+Au S.-E., sur un plateau dominant Valcebollère, on aperçoit
 une croix, c'est près d'elle qu'il faut passer pour monter au Pas
 dels Lladres. En amont du vill., après la dernière maison, on
-prendra l2 chemin de chars qui se dirige au $. et qui, 5 min.
+prendra le chemin de chars qui se dirige au S. et qui, 5 min.
 
 <div class="page"/>
 
-— p. 490 — AY%0 . , PAS pezs LLADRES - La TOSA (39me EXCURSION)
+— p. 490 — PAS **** pezs LLADRES - La TOSA (39me EXCURSION)
 
 après, fait un lacet à g., pour conduire près de la croix. Sur le
 plateau, le chemin bifurque; celui de dr. mène à la chapelle de
--Saint-Barnabé qui, vue de loin, a l'aspect d'une cabane. On prendra
+Saint-Barnabé qui, vue de loin, a l'aspect d'une cabane. On prendra
 celui de g. qui file presque horizontalement par le flanc E.
 du plateau, pour aller rejoindre le creux du vallon à la jasse de
 Monteils (2.088m).
@@ -131,7 +132,7 @@ rives du ruisseau de Faylou jusqu'à sa source, en amont de la
 jasse de las Clédés. On fera là sa provision d'eau, car on n'en
 trouvera plus qu'après le Puigmal. Continuant par le creux du
 vallon, on arrivera, 1/2 h. après, au point où il se divise en deux
-branches plus rapides, au pied du port. On prendra celle de £qui
+branches plus rapides, au pied du port. On prendra celle de qui
 monte direction S.-E. et, dans sa partie supérieure, on suivra
 un petit sentier qui grimpe à dr., pour aboutir à une immense
 dépression de la crête frontière, vers 2.500 d'alt.
@@ -140,8 +141,8 @@ Les cartes françaises situent le Pas dels Lladres sur la crête
 de la Serre de l'Artigue, au N.-O. du pic de la Tosa (2.700m). Les
 Espagnols le situent, au contraire, au S. de la Tosa et immédiatement
 au N. du pic de Dorria (2.539m). J'adopte l'opinion
-espagnole en indiquant que la Tosa, qui est au N., a le carac- .
-tère d'an pic, tandis que le Pic de Dorria, situé au S. du Pas dels
+espagnole en indiquant que la Tosa, qui est au N., a le caractère 
+d'un pic, tandis que le Pic de Dorria, situé au S. du Pas dels
 Lladres, n'est qu'un simple renflement de la large croupe gazonnée
 de la crête frontière (1).
 
@@ -160,18 +161,17 @@ vallée d'Err. La croupe arrondie du Puigmal paraît à deux pas,
 et on peut repérer en entier la voie qui y conduit. Un petit sentier
 va à toute crête d'un pic à l'autre.
 
-———\
+———<br>
 (1) La dépression située au N.-O. de la Tosa est nommée Col de las
-Clèdes par les Espagnols.
-
-(2) Caralps, 600 hab.; v&ll. catalan du versant éiparnoi, à 2 h. du
+Clèdes par les Espagnols.<br>
+(2) Caralps, 600 hab.; vill. catalan du versant espagnol, à 2 h. du
 Pas dels Lladres.
 
 <div class="page"/>
 
 — p. 491 — (39me EXCURSION) Le PUIGMAL
 
-Après une descente de 3 min. et une marche presque horizountale
+Après une descente de 3 min. et une marche presque horizontale
 de 1/4 d'h., on grimpe la rampe finale qui mène, en 45 min.
 à la tourelle du Puigmal (2.909m).
 
@@ -181,7 +181,7 @@ Au N.-O., presque à ses pieds, on découvre la luxuriante Cerdagne
 avec ses nombreux vill. à demi cachés dans la verdure.
 Puigcerda sur son promontoire et Font-Romeu sur sa terrasse
 font un effet merveilleux. Plus loin, on aperçoit toutes les hautes
-cimes ariégeoises caractérisées par de petits névés. Vers lO..
+cimes ariégeoises caractérisées par de petits névés. Vers l'O.
 l'œil peut identifier presque tous les sommets de premier ordre.
 depuis le Campeardos jusqu'aux Monts-Maudits.
 
@@ -211,7 +211,7 @@ Neuf-Croix.
 La descente sur le sanctuaire est des plus faciles, car, sauf le
 dernier quart d'h., tout le trajet est à découvert. On domine, en
 effet, au N.-E., le Pla d'Eugacers qui occupe le haut du vallon, à
-&., et la Coma de Lambut située plus bas, à dr.
+**** &., et la Coma de Lambut située plus bas, à dr.
 
 On dégringolera à travers la rocaille, droit au N.-E., pour rejoindre
 un sentier qui aboutit au Pla d'Eugacers, après avoir
@@ -221,11 +221,10 @@ franchi le torrent. On pourra alors, à son choix, soit descendre
 
 — p. 492 — SANCTUAIRE DE NURIA (39me EXCURSION)
 
-
 tout droit à travers les croupes gazonnées, soit suivre un des
-nombreux sentiers qui sillonnent le vallon. Vers le fond du Pia
+nombreux sentiers qui sillonnent le vallon. Vers le fond du Pla
 d'Eugacers, on passera sur la rive dr. pour quelques min., mais
-on reviendra à la rive g., dès qu'on parviendra en arñront de la
+on reviendra à la rive g., dès qu'on parviendra en amont de la
 gorge rocheuse qui se creuse au bas de la coma de Lambut. On
 trouve là un bon sentier muletier qui rejoint bientôt celui qui
 descend du Col de Finestrelles (2.558m) par la rive dr. du ruisseau
@@ -236,15 +235,15 @@ d'un joli cirque de verdure.
 __Horaire de la Journée :__
 
 ```
-De Bourg-Madame à Valcebollère, 10 k. de route.
-De Valcebollère au Pas dels Lladres.... 3h. » } 7h.
-Du Pas dels Lladres au Puigmal......... 1h.45
-Du Puigmal au Sanctuaire de Nuria..... 2h.15 } (Arrêts en sus).
+De Bourg-Madame à Valcebollère, 10 k. de route. }
+De Valcebollère au Pas dels Lladres...... 3h. » }   7h.
+Du Pas dels Lladres au Puigmal........... 1h.45 }
+Du Puigmal au Sanctuaire de Nuria........ 2h.15 } (Arrêts en sus).
 ```
 
 __Note concernant NURIA__
-
-On peut affirmer que le sanctuaire de Nuria est le paràdis des
+****
+On peut affirmer que le sanctuaire de Nuria est le paradis des
 pyrénéistes qui veulent explorer la région s'étendant du Puigmai
 au Pic de l'Enfer, y compris les hautes vallées d'Eyne et de Carança
 Il est situé au centre d'un cirque verdoyant et entouré par
@@ -289,7 +288,7 @@ le Col de la Marrana (2.500m) et le Pic del Gra de Fajol (2.728m).
 
 —— SANS GUIDE ——
 
-Nota. - Cette journée est celle qui fait ascendre le plus
+> Nota. - Cette journée est celle qui fait ascendre le plus
 grand nombre de sommets et franchir le plus de cols, avec le
 minimum de fatigue. En effet, dès qu'on a rejoint la chaîne
 frontière au Col des Neuf-Croix, ce n'est plus, par les crêtes,
@@ -323,7 +322,7 @@ min. après, on arrive à l'embranchement des deux sentiers
 qui conduisent à la erète frontière. Celui de g. se dirige droit
 au N., vers le col de Noufonts; celui de dr. monte au N.-E., par
 
-———\
+———<br>
 (1) Perdrix blanches.
 
 <div class="page"/>
@@ -554,7 +553,7 @@ De Nuria au Col des Neuf-Croix........ 2h.15 :
 Du Col des Neuf-Croix au grand Pic de la
 NA sans mass caucs hasne rte reves 0h.30 6h.45
 Du grand Pic de la Vaca au Pic de l'Enfer. 1h. »
-Du Pic de l'Enfer au Pic du Géant...... 1h.10 \ } (Arrêts en sus).
+Du Pic de l'Enfer au Pic du Géant...... 1h.10 <br> } (Arrêts en sus).
 Du Pic du Géant au Pic del Gra de Fajol. 1h.10
 Du Pic del Gra de Fajol au Refuge...... 0h.40 }
 ```
@@ -581,10 +580,10 @@ dormir et une provision de bois pour se chauffer.
 
 ## TROISIÈME JOURNÉE
 
-__De ULL DE TER (2.3251m) à MONTLOUIS (1.603m),__\
-__par le Col du Géant (2.600m),__\
-__l'Esquino d'Azé (2.633m), le Pic de la Donya (2.714m),__\
-__la Coume de Bassibès.__\
+__De ULL DE TER (2.3251m) à MONTLOUIS (1.603m),__<br>
+__par le Col du Géant (2.600m),__<br>
+__l'Esquino d'Azé (2.633m), le Pic de la Donya (2.714m),__<br>
+__la Coume de Bassibès.__<br>
 __la Vallée et les Gorges de Carança et Thuès-entre-Valls (816m).__
 
 —— SANS GUIDE ——
@@ -737,12 +736,12 @@ Valls ....... dosettes sesesereseeeeee 2h.40
 
 ## QUATRIÈME JOURNÉE
 
-__Ascension des Pics de la Tausse (2.037-2.038m), dans la matinée,__\
+__Ascension des Pics de la Tausse (2.037-2.038m), dans la matinée,__<br>
 __et promenade à Font-Romeu (1.776m), dans l'après-midi.__
 
 —— SANS GUIDE ——
 
-Nota. — Deux ascensions sans sac, c'est-à-dire deux balades
+> Nota. - Deux ascensions sans sac, c'est-à-dire deux balades
 de santé, constituent le programme de la quatrième journée,
 afin de terminer très agréablement la 39me Excursion de mon
 guide.
@@ -839,9 +838,9 @@ fer en prenant le train à Odeillo, à 1/2 h. de Font-Romeu.
 Horaire de Font-Romeu (aller et retour) : 3h.30, arrêts en sus.
 (Si on rentre par Bolquère, # h.)
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
-\ Pour rejoindre d'Eyne par le Col de Nuria.......... Gh. »
+<br> Pour rejoindre d'Eyne par le Col de Nuria.......... Gh. »
 NURIA A Pour rentrer à Eyne........................ éereecee oh. »
 
 COL des NEUF-CROIX | Pour descendre à Thuës par la Val-

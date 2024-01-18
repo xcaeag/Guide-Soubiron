@@ -14,7 +14,6 @@ output: pdf_document
 -----------------------
 [//]: # (— p. 219 —)
 
-
 # DIX-SEPTIÈME EXCURSION
 
 (N° 14 de la 1re édition)
@@ -25,11 +24,11 @@ _B. E. — Du 15 Juillet au 15 Septembre._
 
 Cartes à emporter : Bagnères-de-Luchon et Val d'Arouge réunies.
 
-__D'ARREAU à LUCHON et à MARIGNAC__\
-__par la Gorge de Clarabide,__\
-__le Lac de Caillaouas, les Gourgs-Blancs, le Spijeoles,__\
-__le Pic Gourdon, le Col des Gourgs-Blancs,__\
-__la Tusse de Montarqué,__\
+__D'ARREAU à LUCHON et à MARIGNAC__<br>
+__par la Gorge de Clarabide,__<br>
+__le Lac de Caillaouas, les Gourgs-Blancs, le Spijeoles,__<br>
+__le Pic Gourdon, le Col des Gourgs-Blancs,__<br>
+__la Tusse de Montarqué,__<br>
 __le Quaïrat, le Montarrouye, Bacanère et le Burat.__
 
 (Emporter des provisions pour quatre repas et les divers casse-croûte.)
@@ -54,9 +53,7 @@ qu'on trouve la plus grande étendue de glace, car, si on allait
 du Gourg-Blanc inférieur, à l'O., au lac de Litayrolle, à l'E., on
 effectuerait un trajet de 10 k. environ sans la quitter. A cette
 
-
 <div class="page"/>
-
 
 — p. 220 — D'ARREAU A LUCHON ET A MARIGNAC (17me EXCURSION)
  
@@ -68,15 +65,14 @@ du Cirque d'Oô couronné de 14 sommets, dont 11 dépassent
 qu'on apercevra dans leur ensemble toutes les splendeurs 
 du plus grand cirque glaciaire de la chaîne.
 
-
 <div class="page"/>
 
 — p. 221 — (17me EXCURSION) GORGE de CLARABIDE — LAC de CAILLAOUAS
 
 ## PREMIÈRE JOURNÉE
 
-__D'ARREAU (698m) au LAC de CAILLAOUAS (2.165m),__\
-__par la Vallée de Louron,__\
+__D'ARREAU (698m) au LAC de CAILLAOUAS (2.165m),__<br>
+__par la Vallée de Louron,__<br>
 __Loudenvielle (9782m) et la Gorge de Clarabide.__
 
 —— GUIDE UTILE ——
@@ -128,9 +124,9 @@ Du Pont de la Soula au Lac de Caillaouas. 2h. » }
 
 ## DEUXIÈME JOURNÉE
 
-__Du LAC de CAILLAOUAS (2.165m) à ESPINGO (1.925m),__\
-__par le Spijeoles (3.065m),__\
-__le Pic Gourdon (3.038m), le Col des Gourgs-Blancs (2.896m)__\
+__Du LAC de CAILLAOUAS (2.165m) à ESPINGO (1.925m),__<br>
+__par le Spijeoles (3.065m),__<br>
+__le Pic Gourdon (3.038m), le Col des Gourgs-Blancs (2.896m)__<br>
 __et la Tusse de Montarqué (2.896m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -158,18 +154,17 @@ pente de neige qui, par un couloir, rampe jusqu'à la brèche située
 entre le Spijeoles et le Pic Noir. On y déposera le sac et on fera,
 au N.-O., l'ascension du Spijeoles à toute crête en se tenant de
 
+———<br><br>
 (1) Au cas où l'avalanche aurait emporté ce pont, comme je lai
 constaté en 1910, et qu'on ne puisse franchir le torrent, on contournera 
 le lac facilement par le N. et l'E., à une certaine hauteur, pour
-aboutir au premier gourg. Par là, on n'allonge que de 1/2 h. environ.
-
+aboutir au premier gourg. Par là, on n'allonge que de 1/2 h. environ.<br>
 (2) Le mot « Gourg » signifie lac, étang profond. La région des
 Gourgs-Blancs comprend trois lacs superposés aux altitudes de 2.395,
 2.524 et 2.560. Anciennement, ces gourgs de haute alt. étaient constamment 
 glacés et couverts de neige; ils le sont encore actuellement
 pendant dix mois et demi. De cet état des lieux est né le nom de
 « Gourgs-Blancs » donné à cette admirable région.
-
 
 <div class="page"/>
 
@@ -228,13 +223,13 @@ De la Tusse de Montarqué à Espingo...... 2h. » }
 
 ## TROISIÈME JOURNÉE
 
-__D'ESPINGO (1.925m)à LUCHON (629m),__\
-__par le Quaïrat (3.0582m), le Montarrouye (2.850m)__\
+__D'ESPINGO (1.925m)à LUCHON (629m),__<br>
+__par le Quaïrat (3.0582m), le Montarrouye (2.850m)__<br>
 __et le Vallon de Médassoles.__
 
 —— GUIDE INDISPENSABLE ——
 
-Nota. — Le Quaïrat est l'un des sommets les plus captivants
+> Nota. - Le Quaïrat est l'un des sommets les plus captivants
 des Pyrénées, et le meilleur point de départ pour en faire
 l'ascension, c'est le refuge d'Espingo. Cette ascension, qui comprend 
 un trajet d'environ 2 h en terrain délicat, exige une
@@ -274,12 +269,10 @@ premier sommet; il n'y a qu'un entassement de rocs granitiques,
 mais pas la moindre difficulté. Après le sommet N., on suivra le
 flanc E. de la crête par d'étroites corniches, puis on grimpera à
 
-———\
+———<br>
 (1) Mme et M. Descazaux, Marcel Gandillon et Blaise Baylac.
 
-
 <div class="page"/>
-
 
 — p. 225 — (17me EXCURSION) MONTARROUYE
 
@@ -331,11 +324,10 @@ Du Cap de Hounts-Secs (2.707m), qu'on dominera vers le N.
  
 
  
-———\
+———<br>
 (1) V. Souvenirs d'un Montagnard, seconde édition, p. 278.
 
 <div class="page"/>
-
 
 — p. 226 — VALLON de MEDASSOLES  (17me EXCURSION)
 
@@ -380,7 +372,7 @@ Du Quaïrat au Montarrouye............ 1h.30 }  10h.30
 Du Montarrouye aux granges d'Astau... 2h.45 }  (arrêts en sus)
 Des granges d'Astau à Luchon......... 2h.30 }
 ```
-Nota. — Du col de Montarrouye, on peut aussi rentrer à
+> Nota. - Du col de Montarrouye, on peut aussi rentrer à
 Luchon par l'itinéraire suivant et par Superbagnères :
 
 On dévale droit au N.-E. en laissant à dr., d'abord, le petit
@@ -392,15 +384,13 @@ où l'on prend la crémaillère pour Luchon (V. 18me E.).
 
 Horaire probable du Col de Montarrouye à Superbagnères. 3h.
 
-
 <div class="page"/>
-
 
 — p. 227 — (17me EXCURSION) BACANERE — BURAT
 
 ## QUATRIÈME JOURNÉE
 
-__De LUCHON (629m) à MARIGNAC (500m), par Bacanère (2.194m),__\
+__De LUCHON (629m) à MARIGNAC (500m), par Bacanère (2.194m),__<br>
 __le Pic de Burat (2.150m) et la Gorge de Marignac.__
 
 —— SANS GUIDE ——
@@ -444,9 +434,7 @@ des environs. C'est au Burat qu'il faut monter pour avoir
 une vue d'ensemble sur le Cirque du Lys et pour en admirer les
 splendeurs.
 
-
 <div class="page"/>
-
 
 — p. 228 — GORGE de MARIGNAC (17me EXCURSION)
 
@@ -490,7 +478,7 @@ pour aller rejoindre 1a grand'route de la vallée, 800 m. en aval
 de la halte d'Antignac, à 6 k. de Luchon.
  
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __ESPINGO__
 - Pour rejoindre de Luchon, 13 k. de roule et 2h.30 de sentier.

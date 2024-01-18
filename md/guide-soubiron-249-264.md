@@ -18,7 +18,7 @@ output: pdf_document
 
 __Cinq jours aux environs de Luchon__
 
-(2° Série)\
+(2° Série)<br>
 _B. E. — Du 1° Juidet au 1°" Octobre._
 
 Cartes à emporter : Luchon et Val d'Arouge.
@@ -119,12 +119,12 @@ De Luchon aux granges d'Astau, 2 h. en voiture, 45 min. en auto;
 Des granges d'Astau à Espingo, 2h.15, arrêts en sus.
 ```
 
-Nota. — V. Notice sur le Refuge d'Espingo, p. 237 de la 18me E,
+> Nota. - V. Notice sur le Refuge d'Espingo, p. 237 de la 18me E,
 
 ## DEUXIÈME JOURNÉE
 
-__D'ESPINGO (1.925m) au VILLAGE d'OO (134m),__\
-__par le Val d'Arouge, le Hourgade (2.966m), le Vallon de Nère__\
+__D'ESPINGO (1.925m) au VILLAGE d'OO (134m),__<br>
+__par le Val d'Arouge, le Hourgade (2.966m), le Vallon de Nère__<br>
 __le Pas de Couret (2.131m) et le Vallon d'Esquierry.__
 
 —— GUIDE INDISPENSABLE ——
@@ -136,9 +136,9 @@ L'excursion de ce jour a pour but :
 1° De faire visiter trois vallons des plus intéressants :
 
 a) Celui d'Arouge, si pittoresque, et si affectionné des
-isards;\
+isards;<br>
 b) Celui de Nère, si sauvage, avec ses trois lacs presque
-toujours glacés;\
+toujours glacés;<br>
 c) Enfin, le célèbre vallon fleuri d'Esquierry;
 
 2° De faire répéter l'ascension si captivante du Hourgade,
@@ -210,7 +210,7 @@ hauts sommets de la chaîne (V. 15° E., p. 203).
 
 Le Pic de Hourgade (2.966m) forme le nœud de trois crêtes qui
 
-———\
+———<br>
 (1) Le passage de la muraille rocheuse est situé à une vingtaine
 de m. à l'E. d'une petite cascade qu'on laisse à g.
 
@@ -248,13 +248,13 @@ Du Hourgade aux granges d'Astau....... 3h.40 } (Arrêts en sus).
 Des granges d'Astau à Oô (4 k.)....... 0h.40 }
 ```
 
-Nota. — A Oô, on pourra diner et coucher, soit chez J. Menvielle, 
+> Nota. - A Oô, on pourra diner et coucher, soit chez J. Menvielle, 
 soit chez Sansuc, tous deux guides du C. A. F.
 
 ## TROISIÈME JOURNÉE
 
-__d'Oô (934m) à LUCHON (629m), par le Moraine de Garin (1.156m),__\
-__Jurvielle (1.351m), le Pouylouby (2.098m),__\
+__d'Oô (934m) à LUCHON (629m), par le Moraine de Garin (1.156m),__<br>
+__Jurvielle (1.351m), le Pouylouby (2.098m),__<br>
 __le Pic du Lion (2.106m) et la Montagne d'Espiaup.__
 
 —— SANS GUIDE ——
@@ -310,12 +310,10 @@ Pic de Midi de Bigorre (2.877m), Arbizon (2.831m), Nèouvielle
 plan, entre Gerbats et Troumouse, Marboré (3.253m), Troumouse
 (3.086m), Serre-Mourène (3.058m), Munia (3.159m).
 
-———\
+———<br>
 (1) Voir à ce sujet l'intéressante brochure de M. Pierre de Gorsse,
-petit in-8°, 1923, imprimerie Sarthe, à Luchon.
-
-(2) Bach est synonyme de vallée.
-
+petit in-8°, 1923, imprimerie Sarthe, à Luchon.<br>
+(2) Bach est synonyme de vallée.<br>
 (3) On peut y monter à cheval par les trois vallées de Louron, de
 Larboust et d'Oueil.
 
@@ -374,7 +372,7 @@ d'Espiaub d'abord par le flanc N., puis à toute crête, et
 enfin à flanc S. à partir du Cap de la Lit (1.972m) jusqu'au Clot
 de Légnès (1.920m) (1). Laissant à dr. une petite colline gazon-
 
-———\
+———<br>
 (1) Du mot « Légno » (bois de chauffage). Pile de bois de chauffage.
 
 <div class="page"/>
@@ -423,12 +421,12 @@ qui conduit presque horizontalement au Port de Pierrefitte
 40 min. en suivant le sentier de crête. (V. pour la suite la 18° E
 p. 233.)
 
-Nota. — L'excursion dy Pouylouby et du Montné peut aussi
+> Nota. - L'excursion dy Pouylouby et du Montné peut aussi
 s'effectuer de Luchon, dans la même journée, en se faisant
 conduire en auto à Jurvielle, le matin, et en se faisant prendre
 le soir à Bourg-d'Oueil.
 
-———\
+———<br>
 (1) Un autobus fait ordinairement le service de Bourg-d'Oueil à
 Luchon à la fin de l'après-midi; s'informer de l'horaire au cas où on
 voudrait le prendre.
@@ -441,10 +439,10 @@ voudrait le prendre.
 
 __LE CIRCUIT DU LYS PAR LA MOYENNE MONTAGNE__
 
-__De LUCHON à LUCHON, par Superbagnères (1.800m),__\
-__la Coume de Bourg (2.300m), la crête de Subescale (2.325m),__\
-__la crête de Sarnès (2.350m),__\
-__les Mines et le Refuge de Crabioules (2.000m),__\
+__De LUCHON à LUCHON, par Superbagnères (1.800m),__<br>
+__la Coume de Bourg (2.300m), la crête de Subescale (2.325m),__<br>
+__la crête de Sarnès (2.350m),__<br>
+__les Mines et le Refuge de Crabioules (2.000m),__<br>
 __la Rue d'Enfer (1.576m) et la Vallée du Lys.__
 
 —— SANS GUIDE ——
@@ -527,12 +525,11 @@ Club Alpin (2). C'est l'endroit choisi pour le grand déjeuner.
 On fera là une longue halte pour admirer encore, avant de les
 perdre de vue, le glacier du Crabioules, le Clot des Piches et les
 
-———\
+———<br>
 (1) Le contrefort E. du Pic de Sarnès (2.581m) se divise en deux
 crêtes dans sa partie médiane, formant ainsi un vallon suspendu
 entre les deux branches de la fourche: c'est le haut de ce vallon que
-traverse le sentier.
-
+traverse le sentier.<br>
 (2) Voir notice sur le refuge à la 16me E., p. 217.
 
 <div class="page"/>
@@ -559,7 +556,7 @@ De la crête de Sarnès à la Rue d'Enfer... 1h.20 } (Arrêts en sus).
 De la Rue d'Enfer à Luchon............... 3h.15 }
 ```
 
-Nota. — Si une voiture attendait les touristes à l'Hôtellerie
+> Nota. - Si une voiture attendait les touristes à l'Hôtellerie
 du Lys, on ferait alors une délicieuse promenade d'environ
 6 h. — Les séjournants de l'Hôtel de Superbagnères peuvent
 y remonter dans 2 h. par le sentier qui s'amorce 1 k. en aval
@@ -567,8 +564,8 @@ de l'Hôtellerie, près de la Vierge des Granges du Lys.
 
 ## CINQUIÈME JOURNÉE
 
-__Ascension du Lac Vert (1.960m) et du Lac Bleu (2.250m),__\
-__avec retour à Luchon, par le Refuge du Pratlong (1.860m)__\
+__Ascension du Lac Vert (1.960m) et du Lac Bleu (2.250m),__<br>
+__avec retour à Luchon, par le Refuge du Pratlong (1.860m)__<br>
 __et la Rue d'Enfer (1.576m).__
 
 —— GUIDE UTILE ——
@@ -588,7 +585,7 @@ la partie O. du Cirque. avec celle du Lac Vert nous en
 parcourrons la partie E., ce qui en complétera le tour par la
 moyenne montagne.
 
-———\
+———<br>
 (1) Iris, Lys Martagon, Campanula glomerata, Gentianes de Burser,
  etc. etc.
 
@@ -690,7 +687,7 @@ Du Lac Bleu à la Rue d'Enfer............ 2h.10 } (Arrêts en sus).
 De la Rue d'Enfer à l'Hôtellerie du Lys. 1h. » }
 ```
 
-———\
+———<br>
 (1) Compagnie d'Electricité Industrielle de Marignac.
 
 <div class="page"/>
@@ -699,8 +696,8 @@ De la Rue d'Enfer à l'Hôtellerie du Lys. 1h. » }
 
 ## SIXIÈME JOURNÉE
 
-__Ascension du Soum de l'Antenac (1.990m),__\
-__par Saint-Paul d'Oueil (1.120m), avec retour à Luchon__\
+__Ascension du Soum de l'Antenac (1.990m),__<br>
+__par Saint-Paul d'Oueil (1.120m), avec retour à Luchon__<br>
 __par Cier-de-Luchon (592m).__
 
 —— SANS GUIDE ——

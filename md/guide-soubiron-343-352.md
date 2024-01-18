@@ -33,9 +33,9 @@ de la deuxième et de la quatrième journée.
 
 ## PREMIÈRE JOURNÉE
 
-__De SAINT-GIRONS (413m) à SEIX (503m), par Lacourt (451m),__\
-__Erp (697m), le Col d'Ayens (1.000m),__\
-__le Tuc de la Courate (1.422m), Saint-Pierre de Soulan (607m),__\
+__De SAINT-GIRONS (413m) à SEIX (503m), par Lacourt (451m),__<br>
+__Erp (697m), le Col d'Ayens (1.000m),__<br>
+__le Tuc de la Courate (1.422m), Saint-Pierre de Soulan (607m),__<br>
 __Pontaut (480m), Vic et Oust (499m).__
 
 —— SANS GUIDE ——
@@ -173,8 +173,8 @@ Du pont de Pontaut à Seix............. 1h.50 }
 
 ## DEUXIÈME JOURNÉE
 
-__De SEIX (503m) à SENTEIN (760m), par le Cap de Bouirech (1.872m),__\
-__le Tuc de Pélatos (1.617m), le Col de Larrech (1.450m)__\
+__De SEIX (503m) à SENTEIN (760m), par le Cap de Bouirech (1.872m),__<br>
+__le Tuc de Pélatos (1.617m), le Col de Larrech (1.450m)__<br>
 __et Les Bordes-sur-Lez (578m).__
 
 —— SANS GUIDE ——
@@ -296,8 +296,8 @@ Du Cap de Bouirech à Bordes............. 3h.30 }
 
 ## TROISIÈME JOURNÉE
 
-__De SENTEIN (760m) à SENTEIN, par le Lac d'Araing (1.880m),__\
-__la Serre d'Araing (2.200m), la Mine du Bentaillou (1.895m)__\
+__De SENTEIN (760m) à SENTEIN, par le Lac d'Araing (1.880m),__<br>
+__la Serre d'Araing (2.200m), la Mine du Bentaillou (1.895m)__<br>
 __et la Gorge d'Eylie.__
 
 —— GUIDE UTILE ——
@@ -335,7 +335,7 @@ déjeuner à la Mine du Bentaillou.
 
 Un sentier s'amorce sur la rive dr. du déversoir et monte di-
 
-———\
+———<br>
 (1) Cette voie d'ascension est déjà décrite dans la première édition
 de mon guide, à la vingtième excursion, p. 245.
 
@@ -386,13 +386,13 @@ Des Mines du Bentailldu à Sentein....... 3h.30 } (Arrêts en sus).
 
 ## QUATRIÈME JOURNÉE
 
-__De SENTEIN (760m) à TOULOUSE, par Bonac (750m),__\
-__le Pic de l'Arraing (1.667m), Salsein, Castillon (528m)__\
+__De SENTEIN (760m) à TOULOUSE, par Bonac (750m),__<br>
+__le Pic de l'Arraing (1.667m), Salsein, Castillon (528m)__<br>
 __et Saint-Girons.__
 
 —— SANS GUIDE ——
 
-Nota. — Le programme de la quatrième journée, qui n'exige
+> Nota. - Le programme de la quatrième journée, qui n'exige
 que six h. de marche et qui permet de rentrer le soir même
 à Toulouse, peut tout aussi bien être réalisé à la suite de la
 deuxième journée, si on n'effectue pas la troisième.
@@ -411,7 +411,7 @@ l'Arraing (1.667m).
 Ce sommet, d'accès très facile et qui n'a nullement la forme
 d'un pic, est cependant un très joli belvédère. Ce qui en fait
 surtout le charme, c'est sa vue très étendue vers l'O., car on aperçoit
-notamment le Pic de Midi de Bigorre, l'Arbizon et le Nèouvielle.
+> Nota. - mment le Pic de Midi de Bigorre, l'Arbizon et le Nèouvielle.
 
 Revenu au col, on descendra au N.-E. à travers une petite
 forêt à l'orée de laquelle on trouve le chemin muletier qui mène
@@ -430,6 +430,6 @@ Du Col au Pic, aller et retour........ 1h.30 } (Arrêts en sus).
 Du Col de l'Arraing à Castillon....... 2h.30 }
 ```
 
-Nota. — Cette excursion peut être faite aussi de Saint-Girons 
+> Nota. - Cette excursion peut être faite aussi de Saint-Girons 
 à Saint-Girons dans la journée, en partant par le premier
 train du matin.

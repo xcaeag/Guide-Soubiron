@@ -14,7 +14,6 @@ output: pdf_document
 -----------------------
 [//]: # (— p. 411 —)
 
-
 — p. 411 —
 
 # TRENTE-TROISIÈME EXCURSION
@@ -27,11 +26,11 @@ _B. E. — Du 15 Juillet au 15 Septembre._
 
 Cartes à emporter : Foix et Perles réunies
 
-__En HAUTE ARIÈGE, en CATALOGNE__\
-__et en ANDORRE,__\
-__par la Vallée de Soulcen, la Pique Rouge de la Soucaranne__\
-__la Coma Pedrosa, le Port de Médacourbe,__\
-__le Pic des Lavans, les Pics de l'Etang Fourcat,__\
+__En HAUTE ARIÈGE, en CATALOGNE__<br>
+__et en ANDORRE,__<br>
+__par la Vallée de Soulcen, la Pique Rouge de la Soucaranne__<br>
+__la Coma Pedrosa, le Port de Médacourbe,__<br>
+__le Pic des Lavans, les Pics de l'Etang Fourcat,__<br>
 __le Tristagnes et le Pic de l'Aspre.__
  
 <u>__AVIS AUX TOURISTES__</u>
@@ -61,9 +60,9 @@ les vivres de trois jours et demi qu'il faut emporter.
 
 ## PREMIÈRE JOURNÉE
 
-__D'AUZAT (740m) à l'ORRY du LABINAS (1.807m),__\
-__par la Vallée de Soulcen,__\
-__et ascension de la Pique Rouge de la Soucaranne (2.904m),__\
+__D'AUZAT (740m) à l'ORRY du LABINAS (1.807m),__<br>
+__par la Vallée de Soulcen,__<br>
+__et ascension de la Pique Rouge de la Soucaranne (2.904m),__<br>
 __par le Port de Bouet (2.450m).__
 
 __Conseils.__ — __Itin. recomm.__ — On prendra au S. d'Auzat la
@@ -98,7 +97,6 @@ France, large de 5 k., s'avance comme un éperon vers le S. sur
 l'O. de l'Andorre, qui est à l'E. Ce sont quelques sommets de ce
 fer à cheval frontière que nous allons ascendre en commençant
 par la Pique rouge de la Soucaranne.
-
 
 <div class="page"/>
 
@@ -166,8 +164,8 @@ De la Soucaranne à l'Orry du Labinas.... 2h.15 }
 
 ## DEUXIÈME JOURNÉE
 
-__Ascension de la Coma Pedrosa (2.945m),__\
-__par le Port de las Bareytes (2.761m) et du Pic des Lavans (2.897m),__\
+__Ascension de la Coma Pedrosa (2.945m),__<br>
+__par le Port de las Bareytes (2.761m) et du Pic des Lavans (2.897m),__<br>
 __par le Port de Médacourbe (2.750m ?).__
 
 —— GUIDE INDISPENSABLE ——
@@ -284,7 +282,7 @@ Du Port de Médacourbe à l'Orry du Labi-            }
   nas ...................................... 2h. » }
 ``` 
 
-Nota. — On sera peut-être surpris que je ne fasse pas ascensionner 
+> Nota. - On sera peut-être surpris que je ne fasse pas ascensionner 
 le Médacourbe au lieu du Lavans. Ce dernier est bien
 supérieur comme belvédère, et la grande muraille du Médacourbe 
 n'est réellement intéressante que vue du N. surtout
@@ -304,10 +302,10 @@ peu intéressante du Médacourbe, parce qu'elle m'a obligé à
 
 ## TROISIÈME JOURNÉE
 
-__De l'ORRY du LABINAS (1.807m)__\
-__au REFUGE de l'ETANG FOURCAT (2. 450m),__\
-__par le Vallon de Caraoussans,__\
-__les Pics de l'Etang Fourcat (2.862-2.750m) ;__\
+__De l'ORRY du LABINAS (1.807m)__<br>
+__au REFUGE de l'ETANG FOURCAT (2. 450m),__<br>
+__par le Vallon de Caraoussans,__<br>
+__les Pics de l'Etang Fourcat (2.862-2.750m) ;__<br>
 __et le Pic de Tristagnes (2.879m).__
 
 —— GUIDE UTILE ——
@@ -346,7 +344,6 @@ l'ascension du Malcaras (V. 32° E., p. 408), car on découvrira
 subitement tout le cirque du Fourcat; on déposera là le sac.
 Du col, on apercevra, à quelques 200 m. à l'E., la tourelle du pic
 secondaire, 2.750 m. environ, et sur la g., au N.-O., la masse
-
 
 <div class="page"/>
 
@@ -399,7 +396,6 @@ frontière.
 On pourra, de ce point, repérer l'itinéraire du lendemain.
 depuis le vallon de l'Arbeille jusqu'aux étangs de Petsiguer.
 
-
 <div class="page"/>
 
 — p. 420 — ETANG FOURCAT  (33me EXCURSION)
@@ -431,7 +427,7 @@ Du Port au Pic de Tristagnes (aller et re-    } (Arrêts en sus)
 Du Port du Fourcat au Refuge........... 1h. » }
 ``` 
 
-Nota. — Si on n'a pu obtenir l'autorisation de coucher au
+> Nota. - Si on n'a pu obtenir l'autorisation de coucher au
 refuge du Fourcat, on descendra, dans 40 min. jusqu'à l'orry
 de la Chaudière. Dans ce dernier cas, on montera directement
 par le vallon de l'Arbeille le lendemain matin, afin de rejoindre 
@@ -440,7 +436,7 @@ Cela constituerait un supplément de marche d'environ 3/4 d'h.
 
 ## QUATRIÈME JOURNÉE
 
-__De l'ETANG FOURCAT à VICDESSOS (695m),__\
+__De l'ETANG FOURCAT à VICDESSOS (695m),__<br>
 __par le Pic de l'Aspre (2.745m), la Bède d'Olbier et Goulier.__
 
 —— GUIDE UTILE ——
@@ -449,7 +445,6 @@ __Conseils.__ — __Itin. recomm.__ — On descendra, au S.-E. du refuge,
 au barrage du lac pour franchir ensuite, vers l'E., la serre séparative 
 des deux fourches qui ont donné à l'étang le nom de
 Fourcat, c'est-à-dire « Fourchu ». Quelques min. après avoir
-
 
 <div class="page"/>
 
@@ -520,7 +515,7 @@ Parvenu à la forêt, le chemin tourne presque horizontalement
 devant soi. Un grand chemin de chars descend de Goulier à
 Vicdessos.
 
-Nota. — Si on veut aller à Auzat et y revenir directement,
+> Nota. - Si on veut aller à Auzat et y revenir directement,
 c'est à la Bède d'Olbier qu'il faut abandonner l'itinéraire ci-
 dessus. On trouve là un sentier qui, en de nombreux lacets,
 descend à Olbier, où on prendra le chemin qui va rejoindre la
@@ -536,7 +531,7 @@ Des Etangs de Petsiguer à Goulier........ 3h.30 } (Arrêts en sus)
 De Goulier à Vicdessos................... 0h.45 }
 ``` 
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __ORRY DU LABINAS__
 
@@ -547,6 +542,5 @@ __REFUGE DU FOURCAT__
 - Pour rejoindre d'Auzat : 5h. »
 - Pour rentrer à Auzat : 3h.30
 
-———
-
+———<br>
 (1)  Le mot « Bède » est synonyme de forêt.

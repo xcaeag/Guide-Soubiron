@@ -19,9 +19,9 @@ _B. E. — Du 15 Juillet à fin Août._
 
 Cartes à emporter : Oloron et Laruns réunies, Tarbes.
 
-__De LARUNS (1) à ARGELÈS,__\
-__par les Eaux-Chaudes, Gabas, le Pallas, le Pic d'Arriel,__\
-__le Balaïtous, le Gabizos,__\
+__De LARUNS (1) à ARGELÈS,__<br>
+__par les Eaux-Chaudes, Gabas, le Pallas, le Pic d'Arriel,__<br>
+__le Balaïtous, le Gabizos,__<br>
 __le Pic de Bazès et le Soum de Granquet.__
 
 (Emporter des vivres pour sept repas).
@@ -45,7 +45,7 @@ tous les sens à travers le massif du Balaïtous, sans s'exposer
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).<br>
 (Voir aussi page 58 le Plan du Balaïtous).</p>
 
-———\
+———<br>
 (1) Laruns, chef-lieu de canton, 2.200 h., point terminus du chemin
 de fer dont l'embranchement est à Pau. Gare desservant les Eaux-
 Bonnes et les Eaux-Chaudes.
@@ -93,7 +93,7 @@ la rocaille en suivant le sentier; ce dernier franchit bientôt le
 déversoir du grand lac, en vue et à 2 min. du refuge qui est
 situé rive dr., à 2.304 m. d'alt.
 
-Nota. — Du col d'Arrius, il existe un raccourci qui permet
+> Nota. - Du col d'Arrius, il existe un raccourci qui permet
 d'arriver presque horizontalement au refuge d'Arrémoulit;
 c'est la voie Orteig. On en trouve l'amorce à quelques min.
 au S. du col, en laissant à g. un piton rocheux et, à dr. le
@@ -108,7 +108,7 @@ De Laruns au Val d'Arrius (22 k. de route)...
 De ce point au Refuge d'Arrémoulit...........   3h.30
 ```
 
-———\
+———<br>
 (1) Le col d'Arrius est situé à 2.25m d'alt., entre le Lurien (2.825m),
 au N.-N.-E. et le petit pic d'Arriel (2.606m), au S.-S.-E.
 
@@ -116,10 +116,9 @@ au N.-N.-E. et le petit pic d'Arriel (2.606m), au S.-S.-E.
 
 — p. 56 — PALLAS (3me EXCURSION)
 
-
 ## DEUXIÈME JOURNÉE
 
-__Journée d'approches du Balaïtous__\
+__Journée d'approches du Balaïtous__<br>
 __en faisant les Ascensions du Pallas (2.976m) et de l'Arriel (2.823m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -159,11 +158,10 @@ de la mort, etc., etc. (2). »
 Pour varier l'excursion, on pourra descendre au N., à toute
 crête, jusqu'à une petite échancrure qu'on nomme « Brèche des
 
-———\
+———<br>
 (1) V. le volume sur le Balaïtous, p. 85, et aussi Au Pays des
 Isards, tome 2, p. 122.
 (2) V. Bulletin Pyrénéen, année 1907, p. 278.
-
 
 <div class="page"/>
 
@@ -216,7 +214,6 @@ Si on ne veut pas rentrer au refuge par la même voie, on
 pourra descendre à l'O. au Col de Sobe où on prendra le sentier
 qui se dirige au N. vers le lac d'Arrius. Là, on franchira une
 
-
 <div class="page"/>
 
 — p. 58 — PLAN du BALAÏTOUS (3me EXCURSION)
@@ -240,7 +237,7 @@ par le Balaïtous (3.146m).
 
 —— GUIDE INDISPENSABLE ——
 
-NoTa, — Depuis quelque temps, on dirait que certaines
+> Nota. - Depuis quelque temps, on dirait que certaines
 montagnes s'humanisent, et le Balaïtous est de ce nombre. A
 l'occasion du centenaire des officiers géodésiens, en 1925, j'ai
 refait l'ascension de ce fier sommet et, malgré mon âge
@@ -341,7 +338,7 @@ intérieures sont de 5m sur 3m80, et la forme de la voûte est
 ogivale comme celle du refuge de Tuquerouye. Le lit de camp est
 en sapin.
 
-Nota. — Au cas où on arriverait de très bonne heure à
+> Nota. - Au cas où on arriverait de très bonne heure à
 Labassa, ce qui est très possible, on pourrait continuer la
 descente jusqu'aux cabanes de Grougne-Pouret (1.232m), au confluent 
 du vallon de Labas. Cela diminuerait la journée du lendemain 
@@ -358,7 +355,7 @@ Du Balaïtous à Labassa............. 2h.45 } (Arrêts EN US).
 
 ## QUATRIÈME JOURNÉE
 
-__De LABASSA (1.970m) à ARRENS (900m),__\
+__De LABASSA (1.970m) à ARRENS (900m),__<br>
 __par les Pics de Gabizos (2.684-2.639m) et la Vallée d'Azun.__
 
 —— GUIDE INDISPENSABLE ——
@@ -370,14 +367,13 @@ au grand Gabizos (2.684m) nommé aussi « Les Taillades. »
 On descendra par la vallée d'Azun en suivant le chemin muletier 
 jusqu'à Grougne-Pouret (1.232m), au confluent du vallon de
 
-———\
+———<br>
 (1) Il paraît que le nom officiel de ce refuge est « Refuge du
 Balaïtous ».
 
 <div class="page"/>
 
 — p. 62 — GRAND GABIZOS (3me EXCURSION)
-
 
 Labas. On remontera ce dernier, direction O., après avoir gagné
 le sentier de la rive g. qui passe à une certaine hauteur. Après
@@ -426,7 +422,6 @@ après au sommet du petit Gabizos (2.639m).
 La cime du Gabizos est très pointue, et il n'y a place, tout au
 plus que pour quatre ou cinq personnes. C'est un des rares som-
 
-
 <div class="page"/>
 
 — p. 63 —  (3me EXCURSION) PETIT GABIZOS
@@ -454,7 +449,7 @@ de chars près d'une grange. Quelques centaines de m. plus
 bas, près d'une carrière de baryte, ce chemin se transforme en
 une route carrossable qui mène à Arrens dans moins de 1 h.
 
-Nota. — S'il est de bonne heure, on peut s'offrir une variante
+> Nota. - S'il est de bonne heure, on peut s'offrir une variante
 intéressante. A mi-descente, on pourrait faire un crochet à
 g, au N. afin de gagner la crête E. du Gabizos au petit pic de
 Pène d'Aube (1.780m). On a de ce petit. sommet un magnifique
@@ -477,18 +472,16 @@ Du Petit Gabizos à Arrens............. 2h.15 }
 
 — p. 64 — PIC de BAZES (3me EXCURSION)
 
-
 ## CINQUIÈME JOURNÉE
 
-__D'ARRENS (900m) à ARGELÈS (455m),__\
-__par le Pic de Bazès (1.806m), le Pic de Navaillo (1.667m),__\
-__le Roc de Monbula (1.452m),__\
+__D'ARRENS (900m) à ARGELÈS (455m),__<br>
+__par le Pic de Bazès (1.806m), le Pic de Navaillo (1.667m),__<br>
+__le Roc de Monbula (1.452m),__<br>
 __le Soum de Granquet (1.874m) et la Vallée d'Estrem de Salles.__
-
 
 —— SANS GUIDE ——
 
-Nota. — Cette cinquième journée, toute pleine d'un charme
+> Nota. - Cette cinquième journée, toute pleine d'un charme
 reposant, fera monter sans fatigue aux deux jolis belvédères de
 premier plan que sont le Pic de Bazès et le Soum de Granquet.
 De leurs sommets, on jouit d'une vue splendide sur les régions
@@ -571,7 +564,6 @@ Après avoir décrit un crochet direction N.-E., le sentier descend
 au S.-E. vers le hameau de Bergons, puis va rejoindre le
 chemin muletier du fond de la vallée. On longera ensuite le ruis-
 
-
 <div class="page"/>
 
 — p. 66 — ESTREM de SALLES (3me EXCURSION)
@@ -592,7 +584,7 @@ Du Pic de Bazès au Soum de Granquet.... 2h.50 } (Arrêts en sus)
 Du Soum de Granquet à Argelès.......... 3h.10 } 
 ```
  
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __ARRÉMOULIT__
 - 1

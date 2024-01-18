@@ -25,10 +25,10 @@ _B. E. — Du 15 Juillet au 15 Septembre._
 Cartes à emporter : Saint-Girons et Mont Rouch réunies, 
 Foix et Perles réunies.
 
-__De SAINT-GIRONS à AUZAT,__\
-__par Ustou, le Pic de Certescons (1), la Vallée de Castillo.__\
-__le Pic de Turgulla, la Vallée et la Cascade d'Arse, Aulus,__\
-__le Lac du Garbet, le Port de Saleix, le Pic de Mont Ceint,__\
+__De SAINT-GIRONS à AUZAT,__<br>
+__par Ustou, le Pic de Certescons (1), la Vallée de Castillo.__<br>
+__le Pic de Turgulla, la Vallée et la Cascade d'Arse, Aulus,__<br>
+__le Lac du Garbet, le Port de Saleix, le Pic de Mont Ceint,__<br>
 __le Pic de Cabanatous et les Etangs de Bassiès.__
 
 <u>__AVIS AUX TOURISTES__</u>
@@ -47,7 +47,7 @@ casse-croûte, car on passera sûrement deux jours sans rencontrer
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
-———\
+———<br>
 (1) La carte d'état-major écrit « Certescans » et celle du Ministère
 de l'Intérieur « Certescons ». Les avis étant partagés, j'écris à nouveau
 « Certescons », comme à la première édition.
@@ -64,8 +64,8 @@ de l'Intérieur « Certescons ». Les avis étant partagés, j'écris à nouveau
 
 ## PREMIÈRE JOURNÉE
 
-__De SAINT-GIRONS (413m) au CIRQUE de CAGATEILLES (1.400m)__\
-__par Seix (503m), Saint-Lizier d'Ustou (752m)__\
+__De SAINT-GIRONS (413m) au CIRQUE de CAGATEILLES (1.400m)__<br>
+__par Seix (503m), Saint-Lizier d'Ustou (752m)__<br>
 __et le Vallon d'Escorce.__
 
 —— GUIDE UTILE ——
@@ -111,8 +111,8 @@ De Saint-Lizier au Cirque de Cagateilles, 2h.30, (Arrêts en sus).
 
 ## DEUXIÈME JOURNÉE
 
-__Du CIRQUE de CAGATEILLES (1.400m) à la CABANE__\
-__de BOAHIL (1.453m), par le Pic de Certescons (2.840m)__\
+__Du CIRQUE de CAGATEILLES (1.400m) à la CABANE__<br>
+__de BOAHIL (1.453m), par le Pic de Certescons (2.840m)__<br>
 __et le Grand Lac de Certescons (2.306m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -196,8 +196,8 @@ Du Certescons à la cabane de Boahil..... 4h.15 } (Arrêts en sus).
 
 ## TROISIÈME JOURNÉE
 
-__De BOAHIL (1.453m) à AULUS (776m),__\
-__par la Vallée de Castillo, le Port de Sounou (2.403m),__\
+__De BOAHIL (1.453m) à AULUS (776m),__<br>
+__par la Vallée de Castillo, le Port de Sounou (2.403m),__<br>
 __le Pic de Turgulla (2.495m), la Vallée et la Cascade d'Arse.__
 
 —— GUIDE UTILE ——
@@ -205,7 +205,7 @@ __le Pic de Turgulla (2.495m), la Vallée et la Cascade d'Arse.__
 __Conseils.__ — __Itin. recomm.__ - De Boahil nous allons monter au
 N., à la frontière, en longeant les rives de la Vogueira. Ce torrent
 
-———\
+———<br>
 (1) Aulus, station thermale, à 32 k. de Saint-Girons. Desservi par
 un tram électrique depuis Oust (15 K.) et un courrier, de Saint-Girons
 à Oust, puis aussi par un service direct en autobus.
@@ -343,7 +343,7 @@ Du Pic de Turgulla à Aulus............ 4h.15 } (Arrêts en sus).
 
 ## QUATRIEME JOURNEE
 
-__Cueillette facultative d'Etoiles des Neiges et ascension__\
+__Cueillette facultative d'Etoiles des Neiges et ascension__<br>
 __du Lac du Garbet (1.670m).__
 
 —— SANS GUIDE ——
@@ -452,9 +452,9 @@ __Horaire du Garbet__ (aller et retour), 5 h. environ.
 
 ## CINQUIÈME JOURNÉE
 
-__D'AULUS (776m) à AUZAT (740m) [1]__\
-__par le Port de Saleix (1.801m), le Pic de Mont Ceint (2.088m),__\
-__l'Etang d'Alate (1.900m), le Pic de Cabanatous (2.058m),__\
+__D'AULUS (776m) à AUZAT (740m) [1]__<br>
+__par le Port de Saleix (1.801m), le Pic de Mont Ceint (2.088m),__<br>
+__l'Etang d'Alate (1.900m), le Pic de Cabanatous (2.058m),__<br>
 __et les Etargs de Bassiès (1.700m).__
 
 —— SANS GUIDE ——
@@ -463,7 +463,7 @@ __Conseils.__ — __Itin. recomm.__ — On repartira par la route qui-remonte
 au S.-E. d'Aulus, la vallée du Garbet jusqu'à Castel Minier.
 Là, on laissera à dr. le chemin du lac pour prendre à g. celui du
 
-———\
+———<br>
 (1) Auzat (Ariège), 1.200 hab., c. de Vicdessos, desservi par un petit
 chemin de fer en correspondance avec la Compagnie du Midi par la
 gare de Tarascon (18 k.).
@@ -552,7 +552,7 @@ Là, on suivra cette dernière 10 min. environ, afin de prendre,
 près du poste des bennes, le sentier qui descend à Massada où
 on rejoint la route à 3 k. 500 d'Auzat.
 
-Nota. — On trouvera à Auzat un excellent accueil à l'hôtel
+> Nota. - On trouvera à Auzat un excellent accueil à l'hôtel
 Denjean, dont le propriétaire est membre du Club Alpin
 Français.
 
@@ -566,7 +566,7 @@ Du Port de Saleix au Cabanatous......... 0h.50 } (Arrêts en sus).
 Du Cabanatous à Auzat................... 3h.10 }  
 ```
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __AULUS__
 

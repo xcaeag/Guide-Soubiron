@@ -12,7 +12,6 @@ title: TREIZIÈME EXCURSION
 -----------------------
 [//]: # (— p. 171 —)
 
-
 # TREIZIÈME EXCURSION
 
 (No 11 de la 1re édition)
@@ -25,9 +24,8 @@ Cartes à emporter : Luz, Bagnères-de-Luchon.
 
  
 
-__De BAGNÈRES-de-BIGORRE à ARREAU,__\
+__De BAGNÈRES-de-BIGORRE à ARREAU,__<br>
 __par le Pic de Midi, le Pic des Quatre Termes et l'Arbizon.__
-
 
 <u>__AVIS AUX TOURISTES__</u>
 
@@ -51,9 +49,8 @@ le versant de Barèges, pour monter en droite ligne, grâce à
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
-———\
+———<br>
 (1) Concernant l'étymologie des pics de Midi, voir note spéciale, p. 38.
-
 
 <div class="page"/>
 
@@ -61,33 +58,28 @@ le versant de Barèges, pour monter en droite ligne, grâce à
 
 ![carte p172](../maps/guide-soubiron-0172-carte.jpg)
 
-deux petits tunnels, jusqu’au Col de Sencours. Dans ce trajet,
-elle s’élève en corniche par les flancs O. du Pic du Tourmalet
-(2.467) et du Cap de Sencours (2.469), en dominant d’abord
-les cabanes de Toue, puis le lac d’Oncet. Actuellement, on
+deux petits tunnels, jusqu'au Col de Sencours. Dans ce trajet,
+elle s'élève en corniche par les flancs O. du Pic du Tourmalet
+(2.467) et du Cap de Sencours (2.469), en dominant d'abord
+les cabanes de Toue, puis le lac d'Oncet. Actuellement, on
 peut donc arriver en auto à 1 h. 15 du sommet et, prochainement, 
 tout à fait en haut.
 
-Il existe un service d’auto-cars du Tourmalet qui correspond 
+Il existe un service d'auto-cars du Tourmalet qui correspond 
 avec les tramways de Bagnères à Gripp.
-
 
 <div class="page"/>
 
-
 — p. 173 — (13me EXCURSION) PIC de MIDI de BIGORRE
-
 
 ## PREMIÈRE JOURNÉE
 
-__De BAGNÈRES-de-BIGORRE (556m) à l'HOTELLERIE__\
-__de SENCOURS (2.373m),__\
-__par Gripp (1.066m), le Plateau d'Artigues (1.300m), la Cascade__\
+__De BAGNÈRES-de-BIGORRE (556m) à l'HOTELLERIE__<br>
+__de SENCOURS (2.373m),__<br>
+__par Gripp (1.066m), le Plateau d'Artigues (1.300m), la Cascade__<br>
 __de Garet et la Gorge de Sencours.__
 
-
 —— SANS GUIDE ——
-
 
 __Conseils.__ — __Itin. recomm.__ — On partira par le premier tram
 électrique du matin et, si ce dernier s'arrête à Gripp (16 k.), il
@@ -124,9 +116,7 @@ est unique. Sentinelle détachée de la grande chaîne, on
 jouit sur son sommet d'une vue incomparable dans toutes les
 directions.
 
-
 <div class="page"/>
-
 
 — p. 174 — COL du TOURMALET (13me EXCURSION)
 
@@ -140,7 +130,7 @@ De l'Hôtellerie à l'observatoire, aller et      }
   retour..................................2h.15 }
 ```
 
-Nota. — Si on veut faire l'ascension du Pic de Midi et du
+> Nota. - Si on veut faire l'ascension du Pic de Midi et du
 Lac Bleu, en revenant à Bagnères, voici comment je la conseille : 
 On partira le matin en tramway jusqu'à Artigues, afin
 d'y arriver à 9 ou 10 h.; dans 20 min., aller et retour, on ira
@@ -162,10 +152,9 @@ spéciale, p. 147.
 
 ## DEUXIÈME JOURNÉE
 
-__Du PIC de MIDI à AULON (1.205m),__\
-__par le Col du Tourmalet(2.122m), le Pic des Quatre Termes(2.720m),__\
+__Du PIC de MIDI à AULON (1.205m),__<br>
+__par le Col du Tourmalet(2.122m), le Pic des Quatre Termes(2.720m),__<br>
 __le Col de Bastanet (2.350m) et le Col du Bâästan (2.300m).__
-
 
 —— GUIDE UTILE ——
 
@@ -189,9 +178,7 @@ artificiel qui alimente en force la grande usine électrique
 d'Eget; à l'O., celui d'Aygue-Cluse, qui descend vers Barèges;
 à l'E., celui de Caderolles et, enfin, au N., celui du Tourmalet.
 
-
 <div class="page"/>
-
 
 — p. 175 — (13me EXCURSION) COUME DE POURTEILLE
  
@@ -246,15 +233,13 @@ légèrement, on aboutira à l'entrée de la Coume de Pourteille
 qui monte à dr., direction S. (1).
 
  
-———\
+———<br>
 (1) Le nom de la Coume de Pourteille est presque inconnu sur le
 versant de Barèges; donc, on ne sera pas surpris si le guide l'ignore
 et s'il veut passer par une autre voie, ce qu'il ne faut pas accepter,
 sous peine de compromettre la journée.
 
-
 <div class="page"/>
-
 
 — p. 176 — PIC des QUATRE TERMES (13me EXCURSION)
 
@@ -301,9 +286,7 @@ et du bassin de la Garonne. Du haut du Quatre Termes, on
 aperçoit la naissance de ces vallons opposés, et on peut dire
 qu'à ce point de vue, sa situation est peut-être unique.
 
-
 <div class="page"/>
-
 
 — p. 177 — (13me EXCURSION) COLS du BASTANET et du BASTAN
 
@@ -345,17 +328,14 @@ Aulon.
 On trouvera à Aulon une aimable hospitalité chez M. Alexandre 
 Capdetrey. Ce dernier, qui n'est pas aubergiste, mais sim-
 
-———\
+———<br>
 (1) Je crois que c'est à tort que certains auteurs appellent ce lac
 « Lac Rond de Port Bieil », puisqu'il s'écoule sur Caderolles. Les lacs
 de Port Bieil sont tous à l'O. de la crête de ce nom, dans le cirque de
-Port Bieil, et s'écoulent dans l'Oule de Couplan.
-
+Port Bieil, et s'écoulent dans l'Oule de Couplan.<br>
 (2) Pic de Port Bieil des cartes.
 
-
 <div class="page"/>
-
 
 — p. 178 — AULON (13me EXGURSION)
 
@@ -375,8 +355,8 @@ Du Col du Bastan à Aulon................ 2h.15 }
 
 ## TROISIÈME JOURNÉE
 
-__D'AULON (1.205m) à ARREAU (698m),__\
-__par le Pic d'Arbizon (2.831m), le Lac d'Arou (2.121m)__\
+__D'AULON (1.205m) à ARREAU (698m),__<br>
+__par le Pic d'Arbizon (2.831m), le Lac d'Arou (2.121m)__<br>
 __et la Hourquette d'Arreau (1.517m).__
 
  
@@ -406,13 +386,11 @@ moins fatigant.
 Au-dessus de la fontaine, monte une pente gazonnée, direction
 N.-N.-E., vers les bases rocheuses du contrefort S.-S.-O. du pic,
 
-———\
+———<br>
 (1) La petite fontaine de Coulariot signalée par la carte d'Etat-Major
 sourd d'une faille de rocher un peu plus haut.
 
-
 <div class="page"/>
-
 
 — p. 179 — (13me EXCURSION) PIC D'ARBIZON
 
@@ -461,9 +439,7 @@ franchir.
 On peut aussi descendre au Lac d'Arou en contournant le
 Monfaucon par l'O. et en prenant, au N. du pic, un couloir
 
-
 <div class="page"/>
-
 
 — p. 180 — HOURQUETTE D'ARREAU (13me EXCURSION)
 
@@ -502,7 +478,7 @@ Du Lac d'Arou à Arreau.................. 3h.15 }
 ```
  
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __HOTELLERIE DU PIC DE MIDI__
 - Pour rejoindre de Barèges : 3h.15
@@ -512,6 +488,6 @@ __AULON__
 - Pour rejoindre d'Arreau (11 k. 500 de route) : 3h. »
 - Pour rentrer à Arreau : 2h.30
 
-———\
+———<br>
 (1) C'est de ce point qu'on pourra renvoyer le guide, ce qui lui
 permettra de rentrer le soir même à Barèges, par le Tourmalet.

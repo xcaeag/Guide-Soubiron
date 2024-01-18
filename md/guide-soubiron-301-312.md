@@ -30,7 +30,7 @@ de partir de Luchon après déjeuner.
 
 ## DEUXIÈME JOURNÉE D'APPROCHES
 
-__De LUCHON (629m) à LA RENCLUSE (2.133m),__\
+__De LUCHON (629m) à LA RENCLUSE (2.133m),__<br>
 __par l'Hospice de France (1.360m) et le Port de Venasque (2.448m).__
 
 —— SANS GUIDE ——
@@ -67,12 +67,12 @@ Maudit, au cas où, pour une cause quelconque, on aurait échoué
 
 ## PREMIÈRE JOURNÉE
 
-__De LA RENCLUSE (2.133m) à la Cabane de Ribéréta (2.020m),__\
+__De LA RENCLUSE (2.133m) à la Cabane de Ribéréta (2.020m),__<br>
 __par le Col des Salenques (2:801m) et le Pic Russell (3.201m).__
 
 —— GUIDE INDISPENSABLE ——
 
-Nota. — Dans la course C, l'ascension du Pic Russell s'effectuera
+> Nota. - Dans la course C, l'ascension du Pic Russell s'effectuera
 par la même voie que celle de la première édition de mon
 Guide, mais en sens inverse.
 
@@ -164,7 +164,7 @@ Du Col des Salenques au Pic Russell.... 2h.30 }   8h.45
 Du Pic Russell à la Cabane de Ribéréta..3h.   } (Arrêts en sus).
 ```
 
-Nota. — En amont, au S.-E. de la cabane, on apercevra les
+> Nota. - En amont, au S.-E. de la cabane, on apercevra les
 traces du sentier par lequel on descendra du Malibierne le lendemain.
 
 <div class="page"/>
@@ -254,9 +254,9 @@ __<p class="centre">Course C</p>__
 
 ## TROISIÈME. JOURNÉE
 
-__De la CABANE de RIBÉRÉTA (2.020m) à LA RENCLUSE (2.133m),__\
-__par le Col de Grégonio (2.885m),__\
-__le Lac de Grégonio(2.657m), la Brèche inférieure d'Albe(2.645m)__\
+__De la CABANE de RIBÉRÉTA (2.020m) à LA RENCLUSE (2.133m),__<br>
+__par le Col de Grégonio (2.885m),__<br>
+__le Lac de Grégonio(2.657m), la Brèche inférieure d'Albe(2.645m)__<br>
 __et le Pic d'Albe (3.096m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -383,7 +383,7 @@ __<p class="centre">Course D</p>__
 
 ## JOURNÉE DE RETOUR
 
-__Dans la matinée, Ascension du Néthou (3.404m)__\
+__Dans la matinée, Ascension du Néthou (3.404m)__<br>
 __avec retour à La Rencluse pour déjeuner.__
 
 —— GUIDE UTILE ——
@@ -424,7 +424,7 @@ l'ascension
 De la face N.-E. de la Maladetta, se détache un chaînon secondaire
 qui descend jusqu'au Pic de La Rencluse, et qu'on nomme
 
-———\
+———<br>
 (1) Aneto des Espagnols.
 
 <div class="page"/>
@@ -475,7 +475,7 @@ Coroné, ce qui fera traverser le glacier en diagonale. Après une
 petite descente vers l'E. et une marche de quelques min. par un
 flanc d'éboulis, on abordera le glacier du Néthou, dont la traversée
 
-———\
+———<br>
 (1) Le mot « Portillon » signifie ici « Petite porte », passage étroit
 qui permet de franchir une crête secondaire.
 
@@ -527,11 +527,11 @@ tout en variant le trajet.
 
 __Horaire du Néthou__, aller et retour, 6 h., arrêts en sus.
 
-Nota. — Pout les Espagnols, le programme est le même que
+> Nota. - Pout les Espagnols, le programme est le même que
 pour les Français, sauf qu'ils descendront à Venasque dans
 l'après-midi au lieu de rentrer à Luchon.
 
-———\
+———<br>
 (1) V. La Montagne, 1916, p. 177.
 
 <div class="page"/>
@@ -540,14 +540,14 @@ l'après-midi au lieu de rentrer à Luchon.
 
 ## APRÈS-MIDI DE RETOUR
 
-__De LA RENCLUSE (2.133m) à LUCHON (629m),__\
-__par le Port de la Picade (2.475m), le Pas et le Soum__\
-__de l'Escalette (2.454m),__\
+__De LA RENCLUSE (2.133m) à LUCHON (629m),__<br>
+__par le Port de la Picade (2.475m), le Pas et le Soum__<br>
+__de l'Escalette (2.454m),__<br>
 __le Pas de la Mounjoye (2.115m) et l'Hospice de France (1.360m).__
 
 —— SANS GUIDE ——
 
-Nota. — De toutes les journées de retour d'une randonnée
+> Nota. - De toutes les journées de retour d'une randonnée
 aux hautes cimes, aucune ne peut être comparée, pour son
 grand attrait, à celle qui fait quitter les Monts-Maudits pour
 rentrer à Luchon. En effet, la remontée vers les ports de Venasque
@@ -623,12 +623,12 @@ D l'Hospice de France à Luchon               }    6h
   (10 k. 500 ..........................2h.10 } (Arrêts en sus)
 ```
 
-<u>__POINT UNIQUE D’INTERRUPTION__</u>
+<u>__POINT UNIQUE D'INTERRUPTION__</u>
 
 __LA RENCLUSE__
 
 - Soit pour rejoindre de Luchon.
 - Soit pour abandonner après une excursion.
 
-———\
+———<br>
 (1) Le mot Escalette signifie « Petite Echelle ».

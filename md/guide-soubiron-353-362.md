@@ -24,10 +24,10 @@ _B. E. — Du 1° Juillet au 15 Septembre._
 
 Cartes à emporter : Saint-Girons et Mont Rouch réunies.
 
-__De SENTEIN (1) à SEIX,__\
-__par le Lac d'Araing, le Crabère, les Etangs Liat,__\
-__le Pic de l'Homme, le Pic de Montolieu,__\
-__N.-D. de Mongarri, les Pics de Marimana, la Pica de Bonabé.__\
+__De SENTEIN (1) à SEIX,__<br>
+__par le Lac d'Araing, le Crabère, les Etangs Liat,__<br>
+__le Pic de l'Homme, le Pic de Montolieu,__<br>
+__N.-D. de Mongarri, les Pics de Marimana, la Pica de Bonabé.__<br>
 __la Roca Blanca et le Port de Salau.__
 
 <u>__AVIS AUX TOURISTES__</u>
@@ -54,7 +54,7 @@ Mongarri pour les troisième et quatrième jour.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
-———\
+———<br>
 (1) Sentein (Ariège), 1.200 hab., arr. de Saint-Girons, c. de Castillon
 desservi par un tramway électrique en correspondance avec la
 Compagnie du Midi par la gare de Saint-Girons (25 k.).
@@ -71,8 +71,8 @@ Compagnie du Midi par la gare de Saint-Girons (25 k.).
 
 ## PREMIÈRE JOURNÉE
 
-__De SENTEIN (760m) au PLATEAU du LIAT (2.225m),__\
-__par le Lac d'Araing (1.880m),__\
+__De SENTEIN (760m) au PLATEAU du LIAT (2.225m),__<br>
+__par le Lac d'Araing (1.880m),__<br>
 __le Col d'Aouéran (2.160m) et le Crabère (2.630m).__
 
 —— GUIDE UTILE ——
@@ -162,12 +162,12 @@ Du Crabère à l'Etang Liat............. 2h.30 }
 
 ## DEUXIÈME JOURNÉE
 
-__Du PLATEAU du LIAT (2.225m) à N.-D. de MONGARRI (1.652m),__\
+__Du PLATEAU du LIAT (2.225m) à N.-D. de MONGARRI (1.652m),__<br>
 __par le Pic de l'Homme (2.722m) et le Pic de Montolieu (2.678m).__
 
 —— SANS GUIDE ——
 
-Nota. — Cette journée d'excursion permet de refaire facilement
+> Nota. - Cette journée d'excursion permet de refaire facilement
 l'ascension du Maubermé. Dans l'affirmative, on montera
 droit à l'E. vers le Col de Tartereau (2.508m) pour grimper
 ensuite par la cheminée S.-O. On redescendra par la cheminée
@@ -222,7 +222,7 @@ du Port d'Orle qui mène directement à N.-D. de Mongarri
 (1.652m). On pourra coucher à la posada d'el Señor Espagne, où
 on trouvera quelques provisions.
 
-Nota. — On peut coucher aussi à l'auberge del Señor François
+> Nota. - On peut coucher aussi à l'auberge del Señor François
 Molas, qui est située au confluent du ruisseau d'Orle,
 1 k. en amont de N.-D. de Mongarri.
 
@@ -238,13 +238,13 @@ Du Col de Montolieu à Mongarri............ 2h.15 } (Arrêts en sus).
 
 ## TROISIÈME JOURNÉE
 
-__De N.-D. de MONGARRI (1.652m) à BONABÉ (1.450m) [1]__\
-__par les Pics de Marimanñna (2.674m-2.665m),__\
+__De N.-D. de MONGARRI (1.652m) à BONABÉ (1.450m) [1]__<br>
+__par les Pics de Marimanñna (2.674m-2.665m),__<br>
 __la Pica de Bonabé (2.717m) et la Roca Blanca (2.758m).__
 
 —— GUIDE UTILE ——
 
-Nota. — Comme l'exploitation de la forêt est terminée, il est
+> Nota. - Comme l'exploitation de la forêt est terminée, il est
 probable qu'il n'existe plus de cantine à Bonabé. On se renseignera
 donc à Mongarri, afin d'emporter des provisions pour
 le soir si cela est nécessaire. On pourra toujours coucher à
@@ -254,7 +254,7 @@ __Conseils.__ — __Itin. recomm.__ — Il n'y a pas de guide attitré à
 Notre-Dame de Mongarri, mais, si le temps est brumeux, on
 pourra se faire accompagner par un berger ou un chasseur jus-
 
-———\
+———<br>
 (1) Bonabé, petite station industrielle, située à 1.450 m. d'alt., sur
 la rive g. de la Noguera Pallaresa, au point marqué dans les cartes
 « Bordes d'Isil ».
@@ -303,7 +303,7 @@ d'Europe jusqu'à la chaîne frontière qui paraît à deux pas, au N.
 Dans 1/2 h. environ, on ira à toute crête du pic occidental au
 pic oriental (2.665m) d'où l'on descendra vers une large dépres-
 
-———\
+———<br>
 (1) Dans les cartes, ce portillon porte à tort le nom de Col de Marimaña
 avec la cote 2.325. Le vrai Col de Marimaña (2.410m) est échancré
 sur la grande crête. immédiatement-au N.-O. du grand pic de ce
@@ -365,7 +365,7 @@ De la Roca Blanca à Bonabé.............. 2h.45 }
 
 ## QUATRIÈME JOURNÉE
 
-__De BONABÉ (1.450m) à SEIX (503m), par le Port de Salau (2.052m),__\
+__De BONABÉ (1.450m) à SEIX (503m), par le Port de Salau (2.052m),__<br>
 __le Village de Salau (840m) et la Vallée du Salat,__
 
 —— SANS GUIDE ——
@@ -416,7 +416,7 @@ attendant l'ouverture de la ligne en construction, on pourra descendre
 de Seix à Saint-Girons (18 Kk.), par l'autobus qui fait ce
 service.
 
-Nota. — Si on est pressé et qu'on veuille prendre le dernier
+> Nota. - Si on est pressé et qu'on veuille prendre le dernier
 train du soir à Saint-Girons, cela est possible en partant de
 Bonabé à 5 h., afin d'arriver à Seix vers 13 h. L'horaire serait
 le suivant : de Bonabé au port, 1 h. 45; du port à Salau, 2 h.;
@@ -434,7 +434,7 @@ Du Port au Village de Salau........ 2h.30 }    7h.30
 De Salau à Seix.................... 3h. » } (Arrêts en sus).
 ```
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __MONGARRI__
 

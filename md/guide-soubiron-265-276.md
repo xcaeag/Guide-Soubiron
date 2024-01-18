@@ -20,16 +20,16 @@ output: pdf_document
 
 __Cinq jours aux Environs de Luchon__
 
-(3° Série)\
+(3° Série)<br>
 _B. E. — Du 15 Juillet au 15 Septembre._
 
 Cartes à emporter : Bagnères-de-Luchon et Val d'Arouge réunies.
 
 __1° Le TOUR du CIRQUE du LYS,__
 
-__par Superbagnères, le Céciré, le Col de Montarrouye,__\
-__le Cap de Hounts-Secs. Espingo, le Perdighero, le Royo.__\
-__le Crabioules, la Tusse de Maupas, le Boum,__\
+__par Superbagnères, le Céciré, le Col de Montarrouye,__<br>
+__le Cap de Hounts-Secs. Espingo, le Perdighero, le Royo.__<br>
+__le Crabioules, la Tusse de Maupas, le Boum,__<br>
 __le Lac Bleu et le Lac Vert.__
 
 (Un Guide est indispensable pour cette première partie,
@@ -54,8 +54,8 @@ __par l'Entécade, Bosost, le Montlude et le Pont du Roi.__
 
 ## PREMIÈRE JOURNÉE
 
-__De LUCHON (629m) au REFUGE d'ESPINGO (1.925m),__\
-__par Superbagnères (1.797m),__\
+__De LUCHON (629m) au REFUGE d'ESPINGO (1.925m),__<br>
+__par Superbagnères (1.797m),__<br>
 __le Céciré (2.400m) et le Col de Montarrouye (2.600m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -139,9 +139,9 @@ Du Cap de Hounts-Secs à Espingo....... 1h.10 }
 
 ## DEUXIÈME JOURNÉE
 
-__D'ESPINGO (1.925m) au REFUGE de PRATLONG (1.860m),__\
-__par le Lac Glacé du Portillon (2.581m),__\
-__le Perdighero (3.220m), le Royo (3.136m), le Crabioules (3.119m)__\
+__D'ESPINGO (1.925m) au REFUGE de PRATLONG (1.860m),__<br>
+__par le Lac Glacé du Portillon (2.581m),__<br>
+__le Perdighero (3.220m), le Royo (3.136m), le Crabioules (3.119m)__<br>
 __et le Col de Crabioules (3.010m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -264,9 +264,9 @@ Du Col de Crabioules au Refuge de Pratlong 2h.45 }
 
 ## TROISIÈME JOURNÉE
 
-__Du PRATLONG (1.860m) à LUCHON (629m),__\
-__par la Tusse de Maupas (3.110m), le Pic de Boum (3.010m),__\
-__le Lac Bleu, le Lac Vert (1.960m), la Rue d'Enfer,__\
+__Du PRATLONG (1.860m) à LUCHON (629m),__<br>
+__par la Tusse de Maupas (3.110m), le Pic de Boum (3.010m),__<br>
+__le Lac Bleu, le Lac Vert (1.960m), la Rue d'Enfer,__<br>
 __le Gouffre d'Enfer, la Cascade et la Vallée du Lys.__
 
 —— GUIDE INDISPENSABLE ——
@@ -367,7 +367,7 @@ Du Pratlong à Luchon.................. 3h.30 }
 
 ## QUATRIÈME JOURNÉE
 
-__De LUCHON (629m) à BOSOST (716m), par l'Entécade (2.271m),__\
+__De LUCHON (629m) à BOSOST (716m), par l'Entécade (2.271m),__<br>
 __le Pas de Villamos et la Bordette (760m).__
 
 —— SANS GUIDE ——
@@ -442,7 +442,7 @@ dans une prairie. On trouvera là un grand sentier qui descend
 direction N. et qui va rejoindre la grand'route à la Bordette, à
 4 k. de Bosost.
 
-Nota. — Pour le trajet de l'Entécade à Bosost, consulter la
+> Nota. - Pour le trajet de l'Entécade à Bosost, consulter la
 carte des « Environs de Luchon », p. 240.
 
 __Horaire de la Journée :__
@@ -454,7 +454,7 @@ De l'Entécade à Bosost............. 3h.45 } (Arrêts en sus).
 
 ## CINQUIÈME JOURNÉE
 
-__De BOSOST (716m) à FOS (560m),__\
+__De BOSOST (716m) à FOS (560m),__<br>
 __par le Montlude (2.516m), le Val de Toran et le Pont du Roi.__
 
 —— SANS GUIDE ——
@@ -510,7 +510,7 @@ lequel on descendra au Val de Toran (1). On suivra d'abord la
 crête E. pendant 10 min. environ, jusqu'à une petite brèche qui
 permet de prendre la direction iN. et de débarquer dans le val-
 
-———\
+———<br>
 (1) Une grosse erreur s'est glissée dans les cartes françaises concernant
 cette région. Au N. du Montlude, vers 2.000 d'alt., existe un
 très joli lac, invisible du sommet : c'est « l'Estañ de Lauxio », que
@@ -554,7 +554,7 @@ Du sommet du Montlude à Pontau......... 3h.45 } (Arrêts en sus).
 De Pontau à Fos (8 k. de route)........ 1h.45 }
 ```
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __REFUGE de PRATLONG__
 - Pour rejoindre de Luchon : 5h.15

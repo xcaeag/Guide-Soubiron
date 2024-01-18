@@ -16,7 +16,7 @@ output: pdf_document
 
 # 18°, 19° et 20° EXCURSIONS
 
-__Quinze jours aux Environs de Luchon__\
+__Quinze jours aux Environs de Luchon__<br>
 __En trois Excursions__
 
 <u>__NOTICE sur LUCHON__</u>
@@ -52,12 +52,10 @@ nouveaux points de vue. Aussi, dès notre arrivée à Luchon,
 irons-nous, dans une même journée, visiter ces deux lieux charmants, 
 autour desquels nous rayonnerons ensuite.
 
-(Voir les cartes des Environs de Luchon, pp. 202 et 214.\
+(Voir les cartes des Environs de Luchon, pp. 202 et 214.<br>
 (Voir aussi les cartes des Environs d'Espingo, pp. 232 et 240.
 
-
 <div class="page"/>
-
 
 — p. 230 — ENVIRONS de LUCHON (18me EXCURSION)
 
@@ -92,10 +90,9 @@ a intérêt à faire les excursions dans l'ordre indiqué; on peut
 cependant, sans inconvénient sérieux, effectuer chacune d'elles
 selon sa fantaisie.
 
-———\
+———<br>
 (1) Deux volumes in-4° couronne, illustrés de 169 héliogravures et d'une
 carte. En vente à la librairie E. Privat, 14, rue des Arts, Toulouse.
-
 
 <div class="page"/>
 
@@ -105,15 +102,15 @@ carte. En vente à la librairie E. Privat, 14, rue des Arts, Toulouse.
 
 __Cinq jours aux environs de Luchon__
 
-(1re Série)\
+(1re Série)<br>
 _B. E. — Du 1er Juillet au 1er Octobre._
 
 Cartes à emporter : Bagnères-de-Luchon et Val d'Arouge réunies.
 
 ## PREMIÈRE JOURNÉE
 
-__De MAULÉON-BAROUSSE (600m) à LUCHON (629m),__\
-__par la Vallée de Ferrère. le Mortré-de-Luchon (2.147m)__\
+__De MAULÉON-BAROUSSE (600m) à LUCHON (629m),__<br>
+__par la Vallée de Ferrère. le Mortré-de-Luchon (2.147m)__<br>
 __et la Vallée d'Oueil.__
 
 —— SANS GUIDE ——
@@ -135,12 +132,12 @@ débouche au petit cirque des Pontous; là, se réunissent les trois
 ruisseaux de Pouvaous, de Sèouès et de la Saoubette de Cardouet,
 qui forment l'Ourse de Ferrère.
 
-———\
+———<br>
 (1) Petites mares, terrains saturés d'eau.
 
 <div class="page"/>
 
-— p. 232 — MONTNE de LUCHON  (l8m18me EXCURSION)
+— p. 232 — MONTNE de LUCHON  (18me EXCURSION)
 
 ![carte p232](../maps/guide-soubiron-0232-carte.jpg) 
 
@@ -162,7 +159,6 @@ Situé très en recul de la grande chaîne, le Montné de Luchon
 sommet, les Monts-Maudits surtout font un effet magnifique. Tout
 
 <div class="page"/>
-
 
 — p. 233 — (18me EXCURSION) VALLEE D'OUEIL
 
@@ -189,7 +185,7 @@ Du Montné à Bourg-d'Oueil.......... 1h.15 } (Arrêts en sus).
 De Bourg-d'Oueil à Luchon (15 k.).. 3h. » }
 ```
 
-Nota. — Cette course pourrait être faite en sens inverse, de
+> Nota. - Cette course pourrait être faite en sens inverse, de
 Luchon à Luchon, en se faisant conduire en voiture à Bourg-
 d'Oueil pour aller coucher à Mauléon. De rapides marcheurs
 pourraient même effectuer le trajet entier dans la même journée 
@@ -215,16 +211,15 @@ et l'illumination des crêtes du Lys qui sont alors de toute beauté.
 En saison estivale, le Kiosque de Mayrègne est l'une des grandes 
 attractions des Environs de Luchon.
 
-
 <div class="page"/>
 
 — p. 234 — SUPERBAGNERES (18me EXCURSION)
 
 ## DEUXIÈME JOURNÉE
 
-__EXCURSION au CIRQUE d'ESPINGO (2.000m),__\
-__par Supérbagnères (1.800m), le Col de la Coume de Bourg (2.325m)__\
-__et le Col de Bassieret (2.275m), avec retour à Luchon__\
+__EXCURSION au CIRQUE d'ESPINGO (2.000m),__<br>
+__par Supérbagnères (1.800m), le Col de la Coume de Bourg (2.325m)__<br>
+__et le Col de Bassieret (2.275m), avec retour à Luchon__<br>
 __par le Lac d'Oô (1.500m) et les Granges d'Astau (1.112m).__
 
 —— SANS GUIDE ——
@@ -325,16 +320,13 @@ et, plus loin, une partie du Lac Saousat. En face, au premier
 plan, la masse imposante de la Tusse de Montarqué (2.896m)
 semble s'avancer au milieu du cirque pour offrir au touriste son
 
-
 <div class="page"/>
-
 
 — p. 236 — REFUGE d'ESPINGO (18me EXCURSION)
 
 ![gravure p236](../maps/guide-soubiron-0236-clip.jpg)
 
 <div class="page"/>
-
 
 — p. 237 — (18me EXCURSION) ENVIRONS D'ESPINGO
 
@@ -381,15 +373,13 @@ d'Espingo est le point de départ rêvé qui permet d'en faire
 
  
 
-———\
+———<br>
 (1) Indépendamment du refuge gardé, ouvert seulement en été, il
 existe : 1° une pièce libre, contenant un bat-flanc et fermée seulement 
 au loquet; 2° une nouvelle cabane, très spacieuse, construite
 aux lieu et place de l'ancienne.
 
-
 <div class="page"/>
-
 
 — p. 238 — LAC d'Oô — GRANGES D'ASTAU (18me EXCURSION)
 
@@ -431,7 +421,7 @@ Des granges d'Astau à Luchon....... 2h.30 } (Arrêts en sus)
 
 ## TROISIÈME JOURNÉE
 
-__Ascensions du Poujastou (1.930m) du Mail de Criq (1.824m)__\
+__Ascensions du Poujastou (1.930m) du Mail de Criq (1.824m)__<br>
 __et des Tourettes de Pène-Mélère.__
 
 —— SANS GUIDE ——
@@ -441,9 +431,7 @@ haut du vill., on prendra à dr. le grand chemin muletier qui fait
 un long crochet vers le S. et qui, en de nombreux lacets, conduit
 aux prairies de Herran. Il existe, dans ce flanc de montagne, de
 
-
 <div class="page"/>
-
 
 — p. 239 — (18me EXCURSION) Le POUJASTOU
 
@@ -491,7 +479,6 @@ Montarto. Son panorama s'étend du Pic de Midi de Bigorre au
 Comolo Forno. Tout à fait à l'O., la pointe noire du Pic Long
 émerge derrière la crête du Campbieil.
 
-
 <div class="page"/>
 
 — p. 240 — (18me EXCURSION) ENVIRONS DE LUCHON + PARTIE SUD
@@ -499,7 +486,6 @@ Comolo Forno. Tout à fait à l'O., la pointe noire du Pic Long
 ![carte p240](../maps/guide-soubiron-0240-carte.jpg)
 
 <div class="page"/>
-
 
 — p. 241 — (18me EXCURSION) Le MAIL De CRIQ
 
@@ -547,9 +533,8 @@ et de là, rentrer à Luchon par le vallon de Burbe et la Cascade
 Sidonie; cela allongerait d'environ 1 h. On peut aussi. du Portillon, 
 descendre à Bosost dans 1h.30.
 
-———\
+———<br>
 (1) Henry Spont, Luchon et ses environs, p. 86.
-
 
 <div class="page"/>
 
@@ -557,9 +542,9 @@ descendre à Bosost dans 1h.30.
 
 ## QUATRIÈME JOURNÉE
 
-__Ascensions du Soum de Couradilles (1.985m)__\
-__et du Cap de la Palo (2.156m), avec retour à Luchon__\
-__par les Cols de Barèges (1.800m) et de l'Artiguette (1.300m),__\
+__Ascensions du Soum de Couradilles (1.985m)__<br>
+__et du Cap de la Palo (2.156m), avec retour à Luchon__<br>
+__par les Cols de Barèges (1.800m) et de l'Artiguette (1.300m),__<br>
 __le Vallon de Burbe et la Cascade Sidonie.__
 
 —— GUIDE UTILE ——
@@ -598,9 +583,7 @@ ordinairement le premier casse-croûte.
 Un crochet direction N. fait passer près des ruines d'une
 grande cabane, et l'ascension continue en lacets réguliers qui font
 
-
 <div class="page"/>
-
 
 — p. 243 — (18me EXCURSION)  COURADILLES — CAP De La PALO
 
@@ -651,9 +634,7 @@ puis, de jouir, de son sommet, d'une vue magnifique sur la chaîne
 ariégeoise, du Crabère au Mont Valier. Les massifs de la Sèoube
 (2.328m) et du Montlude (2.516m) sont à deux pas, de l'autre côté
 
-
 <div class="page"/>
-
 
 — p. 244 — COL De BAREGES — VALLON DE BURBE (18me EXCURSION)
 
@@ -693,21 +674,18 @@ Du Cap de la Palo au Col de Barèges...  0h.30 } (Arrêts en sus).
 Du Col de Barèges à Luchon............  3h. » }
 ```
 
-Nota. — On peut aussi, du Col de Barèges, rentrer à Luchon
+> Nota. - On peut aussi, du Col de Barèges, rentrer à Luchon
 dans 3 h. environ, en passant à la Fontaine de Berns pour
 rejoindre la route entre l'Hospice de France et le Pont Lapadé.
 
-
-
 <div class="page"/>
-
 
 — p. 245 — (18me EXCURSION) HOSPICE DE FRANCE
 
 ## CINQUIÈME JOURNÉE
 
-__Excursion au Port de Venasque (2.448m),__\
-__avec ascension facultative du Pic de Sauvegarde (2.736m)__\
+__Excursion au Port de Venasque (2.448m),__<br>
+__avec ascension facultative du Pic de Sauvegarde (2.736m)__<br>
 __et retour à Luchon par le Port de la Picade (2.475m).__
 
 —— GUIDE UTILE ——
@@ -743,9 +721,7 @@ le minimum de fatigue, on partira au plus tard à 6 h., heure
 nouvelle. Un vallon rapide monte au port de Venasque entre le
 chaînon qui va du pic de la Pique au pic de la Mine. à g., et la
 
-
 <div class="page"/>
-
 
 — p. 246 — PORT De VENASQUE (18me EXCURSION)
 
@@ -787,7 +763,7 @@ des passagers du port.
 Bien que le Sauvegarde soit un pic de second ordre et d'un
 accès très facile, on jouit sur son sommet d'un point de vue
 
-———\
+———<br>
 (1) C'est par erreur que M. H. Spont donne à cette crête le nom
 de Montagnette; le pic de ce nom (2.558m) est situé plus au S.-O. à
 environ 3 k., entre le pic de la Glère et le Sauvegarde. Cette erreur
@@ -797,7 +773,6 @@ haut, sur le petit plateau herbeux situé en amont du deuxième pont
 (V. Luchon et ses environs, pp. 105 et 106).
 
 <div class="page"/>
-
 
 — p. 247 — (18me Exc.) PORT be LA PICADE — PAS DE L'ESCALETTE 
 
@@ -844,15 +819,12 @@ promenades. On descend en pente douce par le versant français,
 en longeant la frontière qu'on laisse à dr. et en dominant constamment 
 le vallon fleuri de la Frèche qui se creuse à g. Parvenu
 
-———\
-(1) 11 s'agit bien ici du fameux « Goueil de Jouèou », que certains
-auteurs considèrent comme l'une des sources de la Garonne.
-
+———<br>
+(1) il s'agit bien ici du fameux « Goueil de Jouèou », que certains
+auteurs considèrent comme l'une des sources de la Garonne.<br>
 (2) Petite échelle.
 
-
 <div class="page"/>
-
 
 — p. 248 — PAS DE la  MOUNJOYE (18me EXCURSION) 
 

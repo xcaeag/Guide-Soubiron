@@ -46,11 +46,12 @@ __Horaires probables :__
 
 De Vernet-les-Bains au chalet des Cortalets 5h. » 2h. »
 Du chalet au Canigou, aller et retour.... SD n A res x
+
 <div class="page"/>
 
 — p. 519 —
 
-Table Méthodique des 40 Exeursion
+Table Méthodique des 40 Excursions
 
 <u>__AVIS AUX TOURISTES__</u>
 
@@ -59,40 +60,40 @@ nous conservons la pagination du Guide aux programmes tirés
 à part, et nous donnons les mêmes références dans la table
 spéciale des 49 Excursions.
 
-PREMIÈRE EXCURSION
+__PREMIÈRE EXCURSION__
 
 De LESCUN aux EAUX-CHAUDES, par le Pic des Trois-
 Rois, le Pic d'Anie, le Visaurin, le Lac d'Estaës, le Pic de
 Larry, le Col, le Pic et les Lacs d'Avous, le Pic de Midi
-d'Ossau et Gabas.......2uuee murs due 6 à 0 6 see 0 die ee 23
+d'Ossau et Gabas....................................... 23
 
-DEUXIÈME EXCURSION
+__DEUXIÈME EXCURSION__
 
 Des EAUX-CHAUDES aux EAUX-BONNES, par le Pic de
 Sesques, la Vallée d'Aspe, le Pic d'Aspe, l'Anayette, le Pic de
 Cézy et le Pic de Ger.................................. 39
 
-TROISIÈME EXCURSION
+__TROISIÈME EXCURSION__
 
 De LARUNS à ARGELES, par les Eaux-Chaudes, Gabas,
 le Pallas, le Pic d'Arriel. le Balaïtous, le Gabizos, le Pic de
 Bazès et le Soum de Granquet............................ 53
 
-QUATRIÈME EXCURSION
+__QUATRIÈME EXCURSION__
 
 TROIS JOURS AUX ENVIRONS DE LOURDES, par le
 Pic de Montégut, le Fibeste, le Hautacamp, le Pic du Ger et
 la Clique de Germs...................................... 67
 
-CINQUIÈME EXCURSION
+__CINQUIÈME EXCURSION__
 
 QUATRE JOURS AUX ENVIRONS DE CAUTERETS
-(1! Série), par le Viscos, le Soum de Conques, le Pène-
+(1re Série), par le Viscos, le Soum de Conques, le Pène-
 Nère,le Col de Riou. te Soum de Las Noueillèros, le Péguère,
 le Montné, le Pic Wilson, le Cabaliros, le Grand Barbat et le
 Lac d'Ihèou........................... 44e...
 
-SIXIEME EXCURSION
+__SIXIÈME EXCURSION__
 
 QUATRE JOURS AUX ENVIRONS DE CAUTERETS
 (2° Série), par la Grande Fache, le Pic de Cambalès, le Bernat
@@ -102,15 +103,16 @@ Barraou, le Chabarrou et le Pic d'Estibaoude.......... 57
 
 — p. 520 — TABLE METHODIQUE
 
-SEPTIÈME EXCURSION
+__SEPTIÈME EXCURSION__
 
-CINQ. JOURS AUX ENVIRONS DE CAUTERETS
+CINQ JOURS AUX ENVIRONS DE CAUTERETS
+
 (3° Série). De CAUTERETS à CAUTERETS, par le Balaïitous
 Sallent, l'Algas, l'Arollas, les Bains de Panticosa, le Pic
-d'Enfer, le Port du Marcadau, les Încs Nère, du Pourtet, de
+d'Enfer, le Port du Marcadau, les lacs Nère, du Pourtet, de
 Castellabarca et d'Ilhèou.....................................
 
-HUITIÈME EXCURSION
+__HUITIÈME EXCURSION__
 
 De CAUTERETS à LUZ, par la Vallée de Lutour, le Lac
 d'Estom, le Col et le Pic d'Araillé, le Refuge d'Ossoue, le
@@ -118,7 +120,7 @@ Vignemale, les Lacs d'Estom Soubiran, le Refuge de Culaous
 le Pic de Culaous, le Pic de Cestrède, l'Ardiden et la
 vallée de Bernazaou ....................................
 
-NEUVIÈME EXCURSION
+__NEUVIÈME EXCURSION__
 
 UNE SEMAINE A GAVARNIE ET SES ENVIRONS par
 le Piméné, la Hourquette d'Allans, Tuquerouye, les Pics
@@ -126,7 +128,7 @@ d'Astazou, le Marboré, le Cylindre, le Mont Perdu, la Vallée
 d'Arazas, le Gabiétou, le Taillon, la Brèche de Roland, le
 Casque, la Tour, l'Epaule et le Cirque....................
 
-DIXIÈME EXCURSION
+__DIXIÈME EXCURSION__
 
 De LUZ à SAINT-LARY, par Gèdre, le Cirque de Troumouze
 le Pic de Troumouze, la Munia, le Pic des Aiguillous,
@@ -135,7 +137,7 @@ le Pic de Campbieil, le Pic Méchant, le Lac d'Orédon et le-
 
 Pic d'Aretssussouesesasmausonnonnasissaeectee 55 5.48 SiSis tee
 
-ONZIÈME EXCURSION
+__ONZIÈME EXCURSION__
 
 1° De BAREGES à BAREGES, par les Lacs d'Escoubous,
 le Néouvielle, les Lacs d'Aubert, d'Aumar, d'Orédon et de
@@ -145,14 +147,14 @@ et le Maucapéra.
 2° De BAREGES à PIERREFITTE, par le Soum Aou, le
 Pic Léviste et le Lac d'Izaby..............................
 
-DOUZIÈME EXCURSION
+__DOUZIÈME EXCURSION__
 
 TROIS JOURS AUX ENVIRONS DE BAGNERES-DE-
 BIGORRE, par le Montné, le Castel-Mouly, le Casque de
 Lhéris, le Col de Banios, les cabanes d'Ordincède, le Lac
 Bleu et le Lac Vert.
 
-TREIZIÈME EXCURSION
+__TREIZIÈME EXCURSION__
 
 De BAGNERES-DE-BIGORRE à ARREAU, par la Cascade
 de Garet, le Pic de Midi, le Pic des Quatre Termes et l'Arbi-
@@ -162,14 +164,13 @@ DO ana semaeeesontNe dame ns nine 55e 0e
 
 — p. 521 — TABLE METHODIQUE
 
-QUATORZIÈME EXCURSION
+__QUATORZIÈME EXCURSION__
 
 QUATRE JOURS AUX ENVIRONS D'ARREAU ET EN
 BAROUSSE, par le Soum de Menvielle, le Col d'Aspin, le
 Montné d'Aspin, le Mont Bassia, le Pic d'Areng et le Montaspel
-... sd sssecsmeremheossssssainsuesemensescesesssssns
 
-QUINZIÈME EXCURSION
+__QUINZIÈME EXCURSION__
 
 De SAINT-LARY à LOUDENVIELLE, par le Port Vieux,
 le Pic de Barroude, le Pic et le Cirque de Barrosa, Parzan,
@@ -177,16 +178,14 @@ La Punta Fulsa, La Suelsa, le Pic Schrader ou Grand Batchimale
 le Lac de Caillaouas, le Pic de Hourgade et la
 Belle-Sayette
 
-CRC
-
-SEIZIÈME EXCURSION
+__SEIZIÈME EXCURSION__
 
 De SAINT-LARY à LUCHON, par le Lustou, le Batoua, le
 Posets, le Pic du Port d'Oô, le Pic des Gourgs-Blancs, les
 lacs du Port d'Oô, de Saousat et d'Espingo, le Cap de
 Hounts-Secs et le Pic Lézat..............................
 
-DIX-SEPTIÈME EXCURSION
+__DIX-SEPTIÈME EXCURSION__
 
 D'ARREAU à LUCHON et à MARIGNAC, par la Gorge de
 Clarabide, le Lac de Caillaouas, les Gourgs-Blancs, le Spijeoles
@@ -194,17 +193,14 @@ le Pic Gourdon, le Col des Gourgs-Blancs, la Tusse
 de Montarqué, le Quairat, le Montarrouye, Bacanère et le
 Burat
 
-nsc
-
-DIX-HUITIÈME EXCURSION
+__DIX-HUITIÈME EXCURSION__
 
 CINQ JOURS AUX ENVIRONS DE LUCHON (Ir: Série),
 par le Montné de Luchon, Superbagnères,. Espingo, le Lac
 d'Oô, le Poujastou, le Mail de Criq, le Soum de Couradilles,
+le Cap de la Palo, le Port de Venasque et le Sauvegarde
 
-le Cap de la Palo, le Port de Venasque et le Sauvegarde.... :
-
-DIX-NEUVIÈME EXCURSION
+__DIX-NEUVIÈME EXCURSION__
 
 SIX JOURS AUX ENVIRONS DE LUCHON (2: Série),
 par le Lac d'Oô, Espingo, le Hourgade, le village d'Oô, le
@@ -212,9 +208,7 @@ Pouylouby, le Pic.du Lion, Superbagnères, les Mines de Crabioules
 la Rue d'Enfer, le Lac Vert, le Lac Bleu et le Soum
 de l'Antenac
 
-CO
-
-VINGTIÈME EXCURSION
+__VINGTIÈME EXCURSION__
 
 CINQ JOURS AUX ENVIRONS DE LUCHON (3 Série) :
 
@@ -230,48 +224,48 @@ Pont du Roi
 
 — p. 522 — TABLE METHODIQUE
 
-VINGT ET UNIÈME EXCURSION
+__VINGT ET UNIÈME EXCURSION__
 
 CINQ JOURS AUX MONTS-MAUDITS (ire partie), par.
 
 le Port de Venasque, le Sauvegarde, La Rencluse, le Col des
 Salenques, le Pic Pierre-Soubiron, l'Hospice de Viella, La
 Fourcanade, le Moulières, la Dent d'Albe, le Col Maudit,
-la Maladetta et le Sacroux....:isssccssosescessso tee sos ce
+la Maladetta et le Sacroux....: tee sos ce
 
-VINGT.-DEUXIÈME EXCURSION
+__VINGT-DEUXIÈME EXCURSION__
 
 CINQ JOURS AUX MONTS-MAUDITS (2° partie), par La
 Rencluse, le Pic Russell, les Pics de Malibierne, le Col et le
 Lac de Grégonio, le Pic d'Albe, le Néthou et le Port de la
-Picadé ssssuscsssssmsnenvestceneererececetsésansassaues ..
+Picadé
 
-VINGT-TROISIÈME EXCURSION
+__VINGT-TROISIÈME EXCURSION__
 
 De MARIGNAC à LUCHON, par Viella, le Port de Viella,
-lHospice de Viella, le Bécibéri, le Comolo Forno, Caldas de
+l'Hospice de Viella, le Bécibéri, le Comolo Forno, Caldas de
 Bohi, le Comolos Bienes, le Comolos Pales, le Tuc de la Tuménéja
-le:Montarto d'Aran, le Pic d'Aubas et Couradilles..
+le Montarto d'Aran, le Pic d'Aubas et Couradilles.
 
-VINGT-QUATRIÈME EXCURSION
+__VINGT-QUATRIÈME EXCURSION__
 
 LE MASSIF DU GARS ET DU CAGIRE................
 
-VINGT-CINQUIÈME EXCURSION
+__VINGT-CINQUIÈME EXCURSION__
 
 De MARIGNAC à SENTEIN, par le Val d'Aran, les Sources
 de Garonne, le Grand Pic de Colomès, le Grand Péguéra,
 la Pointe de Sabourède, Salardu, la Vallée de Bagerque, le
 Maubermé et le Port d'Urets............................
 
-VINGT-SIXIÈME EXCURSION
+__VINGT-SIXIÈME EXCURSION__
 
 QUATRE JOURS AUX ENVIRONS DE SAINT-GIRONS,
 par le Tuc de la Courate, Seix, le Cap de Bouirech, le Tuc
 de Pélatos, Sentein, le Lac d'Araing, la Mine de Bentaillou,
 le Pic de l'Arraing et Castillon................:.........
 
-VINGT-SEPTIÈME EXCURSION
+__VINGT-SEPTIÈME EXCURSION__
 
 De SENTEIN à SEIX, par le Lac d'Araing, le Crabère,
 les Etangs Liat, le Pic de l'Homme, le Pic de Montolieu,
@@ -282,13 +276,13 @@ la Roca Blanca et le Port de Salau........................
 
 — p. 523 — TABLE METHODIQUE
 
-VINGT-HUITIÈME EXCURSION
+__VINGT-HUITIÈME EXCURSION__
 
 De SAINT-GIRONS à USTOU, par le Montvalier, la Palo
 de la Claouëro, Alos d'Isil, les Pics de Mont Rouch, la Roya
 de Mollas, le Cap de Ruhos et le Port de Marterat..........
 
-VINGT-NEUVIÈME EXCURSION
+__VINGT-NEUVIÈME EXCURSION__
 
 De SAINT-GIRONS à AUZAT, par Ustou, le cirque de
 Cagateilles, le Pic de Certescons, la Valllée de Castillo, le
@@ -296,14 +290,14 @@ Pic de Turgulla, la Vallée et la Cascade d'Arse, Aulus, le
 Lac du Garbet, le Port de Saleix, le Pic de Mont Ceint, le
 Pic de Cabanatous et les Etangs de Bassiès..............
 
-TRENTIÈME EXCURSION
+__TRENTIÈME EXCURSION__
 
 TROIS JOURS AUX ENVIRONS DE FOIX, par le Calmil,
 le Cap de la Coume de Pignou, le Roc des Louvetières, Saurat
 La Journalade, le Cap de la Dosse, le Roc de Trabinet,
 Tarascon, Les Cabannes, le Mont Fourcat et La Laouzatte..
 
-TRENTE ET UNIÈME EXCURSION
+__TRENTE ET UNIÈME EXCURSION__
 
 QUATRE JOURS AUX ENVIRONS D'AUZAT (1re Série),
 par le Roc de Querquèou, Vicdessos, l'Etang d'Izourt, Goulier
@@ -311,21 +305,21 @@ le Pic de Risoul, le Col de Grail, le Pic de Lercoul, le
 Roc de Berquié, le Pic des Trois Seigneurs, le Pas de la
 Pourtanelle et la Vallée de Rabat........................
 
-TRENTE-DEUXIÈME EXCURSION
+__TRENTE-DEUXIÈME EXCURSION__
 
 TROIS JOURS AUX ENVIRONS D'AUZAT (2 Série),
 par le Montcalm, la Pique d'Estats, le Pla Soulcen, le Malcaras
 et l'Etang Fourcat..::::.rsumeusessssessenessoncec
 
-TRENTE-TROISIÈME EXCURSION
+__TRENTE-TROISIÈME EXCURSION__
 
 En HAUTE ARIEGE, en CATALOGNE et en ANDORRE,
 par la Vallée de Soulcen, la Pique Rouge de la Soucaranne.
 la Coma Pedrosa, le Port de Médacourbe, le Pic des Lavans,
 les Pics de l'Etang Fourcat, le Tristagnes et le Pic de
-PASDre sssmaussenmmamanenesanscencanmeas ne, + +5 3334 -6EttE
+PASDre  ne, + +5 3334 -6EttE
 
-TRENTE-QUATRIÈME EXCURSION
+__TRENTE-QUATRIÈME EXCURSION__
 
 D'AUZAT à SIGUER, par le Pic d'Endron, l'Etang Fourcat
 le Pic de Rialp, l'Estanyo, le Pic de Serrère, le Port
@@ -335,32 +329,30 @@ de Siguer, le Lac de Peyregrand et la Gorge de Brouquenat.
 
 — p. 524 — TABLE METHODIQUE
 
-TRENTE-CINQUIÈME EXCURSION
+__TRENTE-CINQUIÈME EXCURSION__
 
 De l'HOSPITALET à SIGUER, par le Cirque du Sisca, le
-
 Roc Mélé, le Pic de la Cabanette, le Signal de Siscarou, le
 Pic d'Ascobes, le Pic de l'Albe, le Pic de Rulle, le Pic Noir
 de Joucla, les Etangs de Fontargente, le Pic de Mil-Ménut,
 la Gorge de Quioules, la° Vallée d'Aston, le Pic du Pas de las
 Aygues et le Pic de Midi de Siguer
 
-TRENTE-SIXIÈME EXCURSION
+__TRENTE-SIXIÈME EXCURSION__
 
 QUATRE JOURS AUX ENVIRONS D'AX (ire Série), par
-le Saquet, le Pic de l'Etang-Rebenty, le Lac de Comte, Mé-
-
-rens, le Cap de Larguis, le Lac d'En-Beys et le Lac de
+le Saquet, le Pic de l'Etang-Rebenty, le Lac de Comte, Mérens, 
+le Cap de Larguis, le Lac d'En-Beys et le Lac de
 Naguilles ..........
 
-TRENTE-SEPTIÈME EXCURSION
+__TRENTE-SEPTIÈME EXCURSION__
 
 TROIS JOURS AUX ENVIRONS D'AX (2° Série), par
 la Dent d'Orlu, le Tarbézou, le Soularac et le Saint-Barthélémy
 
 ces esse cesse ee
 
-TRENTE-HUITIÈME EXCURSION
+__TRENTE-HUITIÈME EXCURSION__
 
 D'AX-LES-THERMES à- BOURG-MADAME, par Mérens, la
 Vallée du Nabre, le Pic de l'Etang-Faury, le Refuge d'EnBeys
@@ -369,7 +361,7 @@ le Pic Pédroux, le Carlitte, le Col de Puymorens, le Lac de
 Font-Nègre, les Sources de l'Ariège, le Pic Nègre d'Embalire
 et le Campcardos
 
-TRENTE-NEUVIÈME EXCURSION
+__TRENTE-NEUVIÈME EXCURSION__
 
 De BOURG-MADAME à MONTLOUIS, par le Puigmal, le
 Sanctuaire de Nuria, le Pic de la Fosse du Géant, les deux
@@ -378,7 +370,7 @@ du Géant, le Pic del Gra de Fajol, le Refuge de Ull de Ter,
 le Pic de la Donya, la Vallée et les Gorges de Carança, les
 Pics de la Tausse et Font-Romeu.................... dise
 
-QUARANTIÈME EXCURSION
+__QUARANTIÈME EXCURSION__
 
 De MONTLOUIS à VERNET-LES-BAINS, par la vallée
 d'Eyne, le Pic de Finestrelles, le Col de Nuria, le Pic
@@ -394,10 +386,10 @@ le Pla Guillem et le Canigou
 
 __des 1.500 Noms de Lieux__
 
-Nota. — Je donne dans cet index : 1° les noms des vallées, des
+> Nota. - Je donne dans cet index : 1° les noms des vallées, des
 montagnes, des pics, des lacs, des cirques et de toutes les curiosités
-visitées en cours de route: 2" ceux des lieux signalés au passag»,
-soit parce qu'ils présentent un intérêt louristique, soit parce qu'ils
+visitées en cours de route: 2° ceux des lieux signalés au passage,
+soit parce qu'ils présentent un intérêt touristique, soit parce qu'ils
 servent de point de repère pour l'orientation et la bonne direction
 de la caravane.
 
@@ -436,57 +428,52 @@ Albe (étangs ariégeois de)  439 | Aragnouet (pont d')......... 143
 
 ```
 Aragnouet (vill. d')........ 193 | Arties (vill espagnol d').
-Aragon (col et pène d')...... 90 |                         321, 323
-Araillé (col et pic d') 111, 113 | Artiga de Lin (vallée d')..  312
-Araillous (pic) ............. 91 | Artigue (plateau d')........ 173
-Araing (lac d')........ 350, 355 | Artigue (port de l)......... 378
-Aran (val d.).......... 227, 239 | Artigue (prairie de l')..... 260
-                     274 323 333 | Artigue (vallée de l)....... 405
-Aranais (col des)........... 292 | Artigue (vill. d').......... 227
-Aranones (vill. des)......... 47 | Artouste (lac d')............ 55
-Arazas (vallée d')..... 126, 128 | Ascobes (pic d')....... 435, 437
+Aragon (col et pène d')...... 90 |                          321, 323
+Araillé (col et pic d') 111, 113 | Artiga de Lin (vallée d')...  312
+Araillous (pic) ............. 91 | Artigue (plateau d')......... 173
+Araing (lac d')........ 350, 355 | Artigue (port de l).......... 378
+Aran (val d.).......... 227, 239 | Artigue (prairie de l')...... 260
+                     274 323 333 | Artigue (vallée de l)........ 405
+Aranais (col des)........... 292 | Artigue (vill. d')........... 227
+Aranones (vill. des)......... 47 | Artouste (lac d')............. 55
+Arazas (vallée d')..... 126, 128 | Ascobes (pic d')........ 435, 437
 Arbeille (port de l')....... 427 | Ascou (forges et vill. d').
-Arbizon (pic d')....... 178, 179 |                         462, 464
-Arboucau (gorges de l)....... 69 | Aspe (pic et pas d').. 39,45, 46
-Arbu (étang d')..............383 | Aspe (vallée d')...... 21, 27 39
-Ardengost .................. 188 | Aspet ...................... 328
-Ardengost (ruisseau d')..... 188 | Aspin (col et vill. d')..... 185
-
-Ardiden (pourtère et pic) Aspre (pic d')....... 420, 421
+Arbizon (pic d')....... 178, 179 |                          462, 464
+Arboucau (gorges de l)....... 69 | Aspe (pic et pas d')... 39,45, 46
+Arbu (étang d')..............383 | Aspe (vallée d')....... 21, 27 39
+Ardengost .................. 188 | Aspet ....................... 328
+Ardengost (ruisseau d')..... 188 | Aspin (col et vill. d')...... 185
+Ardiden (pourtère et pic)   **** | Aspre (pic d').......... 420, 421
                              118 | Astau (granges d'). 234, 238, 249
-Areng (pic d')....... 187, 188 | Astazou (pics et col d'). 123, 124
-
-Aret (pic d')......... 143, 144 | Aston (vallée et vill. d').
-Argelès......... 53, 64 69, 71 442, 446
-Arguénos ............ 325, 328 | Astorg (pointe d')......... 126
-Arinsal (port et vallée d').. 416 | Astos (vallée d')........... 212
-Arollas (col et pic d'). 104, 105 | Aubas (pic d')....... 323, 324
-Arou (lac d').............. 178 | Aube (vallée d')...... 201, 204
-Arouge (cap, col et val d'). Aubert (col d')............ 149
-| 201, 251, 252 | Aubert (lac d')............ 149
-Arques (Val d)........... 435 |. Aucun .................... 64
-Arraing (col de l)........ 352 ! Aula (cirque d')........... 366
-Arraing (pic de l')........ 352 | Aulon (vill. d')...... 174, 178
-Arratille (vallée et lac d').. 92 | Auloueil (cabanes d')...... 177
-Arreau.. 178, 181, 184, 187, 221 | Aulus ........... 377, 381, 382
-Arreau (Hourquette d'). 178, 180 | Aumar (lac d')............ 149
-
-Arrémoulit (col d')........ 59 | Auzat.. 382, 395, 399, 403,
-Arrémoulit (ref. d)... 55, 59 408, 413
-Arrens ............... 61, 64 | Aventignan .......... 189, 190
-Arret (hameau d')......... 349 | Axiat (vill. d')....... 465, 468
-
-Arriel (cirque et lacs d').. 59 | Ax-les-Thermes... 449, 453,
-Arriel (pic d')........ 53, 55 | 455, 469, 471
-Arrius (val et col d')...... 55 | Ayens (col d')............. 343
-Arros (1l)................. 166 | Aygue-Cluse (vallée d').... 175
-Arrouy (Soum)...... 157, 158 | Aygues-Cruses (cinqueta d') 199
-Arse (vallée et cascade d'). Aygues-Tortes (port d').... 199
-377, 380 | Aygues-Tortes (vallon d').. 197
-
+Areng (pic d')......... 187, 188 | Astazou (pics et col d') 123, 124
+Aret (pic d').......... 143, 144 | Aston (vallée et vill. d').
+Argelès........... 53, 64 69, 71 |                          442, 446
+Arguénos .............. 325, 328 | Astorg (pointe d')........... 126
+Arinsal (port et vallée d'). 416 | Astos (vallée d')............ 212
+Arollas (col et pic d') 104, 105 | Aubas (pic d').......... 323, 324
+Arou (lac d')............... 178 | Aube (vallée d')........ 201, 204
+Arouge (cap, col et val d').     | Aubert (col d').............. 149
+                   201, 251, 252 | Aubert (lac d').............. 149
+Arques (Val d).............. 435 | Aucun ........................ 64
+Arraing (col de l).......... 352 | Aula (cirque d')............. 366
+Arraing (pic de l')......... 352 | Aulon (vill. d')........ 174, 178
+Arratille (vallée et lac d'). 92 | Auloueil (cabanes d')........ 177
+Arreau.. 178, 181, 184, 187, 221 | Aulus ............. 377, 381, 382
+Arreau (Hourquette d'). 178, 180 | Aumar (lac d')............... 149
+Arrémoulit (col d').......... 59 | Auzat......... 382, 395, 399, 403
+Arrémoulit (ref. d)...... 55, 59 |                          408, 413
+Arrens... ............... 61, 64 | Aventignan ............. 189, 190
+Arret (hameau d')........... 349 | Axiat (vill. d')........ 465, 468
+Arriel (cirque et lacs d')... 59 | Ax-les-Thermes.......... 449, 453
+Arriel (pic d').......... 53, 55 |                     455, 469, 471
+Arrius (val et col d')....... 55 | Ayens (col d')............... 343
+Arros (1l).................. 166 | Aygue-Cluse (vallée d')...... 175
+Arrouy (Soum).......... 157, 158 | Aygues-Cruses (cinqueta d').. 199
+Arse (vallée et cascade d').     | Aygues-Tortes (port d')...... 199
+                        377, 380 | Aygues-Tortes (vallon d').... 197
 Artalas (fontaine d').... .. 327 | Ayous (col, pic et lacs d').
-Arties (vallée d'). 382, 408, 426 32, 33, 34
-Azun (vallée d})..,........ 61
+Arties (vallée d') 382, 408, 426 |                        32, 33, 34
+Azun (vallée d')..,........ 61   |
 ```
 
 <div class="page"/>
@@ -545,6 +532,8 @@ Baulou (roc de)........... 450 | Bonascre (plateau de)..... 451
 <div class="page"/>
 
 — p. 528 —
+
+**** tester tesseract images/toc.png - --psm 6
 
 ```
 Boo-Silhen
@@ -855,14 +844,12 @@ Comte (lac de)...... 449, 452
 — p. 530 —
 INDEX ALPHABETIQRE
 
-
 ```
 . Corre (port de la)
 
 : Corel (col des).
 
 540: Fa
-
 
 An rs ref AS PTS 0 UE
 
@@ -2473,52 +2460,6 @@ Tusse de Maupas..........
 Tusse de Montarqué.. 222,
 Tuto de l'Ours (V. Saquet).
 
-sc... se
-
-eesecee.e
-
-466
-418
-427
-419
-401
-
-26
-246
-283
-137
-136
-307
-348
-345
-
-321
-
-311
-
-163
-
-. 122 FE
-
-rT
-115 : :
-
-122 6
-
-126:
-
-130
-379
-212
-
-130.
-ML | ©
-204
-
-45E.
-
-nu
-
 <div class="page"/>
 
 — p. 543 —
@@ -2541,7 +2482,7 @@ eaux de la Garonne de Beret.
 
 Le 19 juillet 1931, M. Norbert CASTERET a versé 60 kilos
 de fluoresceine au Trou du Toro que les Goueils de Jouèou
-ont resfituée en moins de dix heures. La coloration des
+ont restituée en moins de dix heures. La coloration des
 eaux a été remarquée jusqu'à Saint-Béat, soit à 40 kilomètres
 environ.
 

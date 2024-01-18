@@ -27,11 +27,11 @@ _B. E. — Du 15 Juillet à fin Août._
 
 Cartes à emporter : Luz et Gavarnie réunies, Bagnères-de-Luchon et Val d'Arouge réunies.
 
-__De SAINT-LARY à LOUDENVIELLE,__\
-__par le Port Vieux,__\
-__le Pic de Barroude, le Pic et le Cirque de Barrosa, Parzan.__\
-__La Punta Fulsa, La Suelsa,__\
-__le Pic Schrader ou Grand Batchimale, le Lac de Caillaouas,__\
+__De SAINT-LARY à LOUDENVIELLE,__<br>
+__par le Port Vieux,__<br>
+__le Pic de Barroude, le Pic et le Cirque de Barrosa, Parzan.__<br>
+__La Punta Fulsa, La Suelsa,__<br>
+__le Pic Schrader ou Grand Batchimale, le Lac de Caillaouas,__<br>
 __le Pic de Hourgade et la Belle-Sayette.__
 
 <u>__AVIS AUX TOURISTES__</u>
@@ -53,14 +53,12 @@ Voir, page 198, le plan du Massif du Batchimale et
 voir aussi, page 202, la carte des régions de Caillaouas,
 du Hourgade, des Gourgs-Blancs, d'Espingo et d'Oô.
 
-———\
+———<br>
 (1) Saint-Lary (H.-Pyr.), à 12 k. de la gare d'Arreau, est desservi
 deux fois par jour par un autobus, en attendant la construction
 d'un tramway électrique.
 
-
 <div class="page"/>
-
 
 — p. 192 — DE SAINT-LARY A LOUDENVIELLE (15me EXCURSION)
 
@@ -68,14 +66,13 @@ d'un tramway électrique.
 
 <div class="page"/>
 
-
 — p. 193 —  (15me EXCURSION) VALLEE DE LA GELA
  
 ## PREMIÈRE JOURNÉE
 
-__De SAINT-LARY (825m) à PARZAN (1.153m).__\
-__par la Vallée de la Géla,__\
-__le Port Vieux (2.1400m), le Pic de Barroude (2.791m),__\
+__De SAINT-LARY (825m) à PARZAN (1.153m).__<br>
+__par la Vallée de la Géla,__<br>
+__le Port Vieux (2.1400m), le Pic de Barroude (2.791m),__<br>
 __le Pic et le Cirque de Barrosa.__
 
 —— GUIDE INDISPENSABLE ——
@@ -111,14 +108,12 @@ des Montagnes.
 
 A l'entrée du cirque de la Géla, le chemin du Port de Barroude
 
-———\
+———<br>
 (1) La commune d'Aragnouet, qui s'étend sur 9 k., comprend les
 hameaux d'Eget, de Fabian, de Castets, de Chaubère et du Plan. Le
 bureau de poste est à Fabian.
 
-
 <div class="page"/>
-
 
 — p. 194 — PICS de BARROUDE et de BARROSA (15me EXCURSION)
 
@@ -164,9 +159,7 @@ le ruisseau pour passer rive dr. On jouira pendant cette descente
 d'un nouveau spectacle non moins impressionnant. Au N.-O., en
 deux gradins superposés, une muraille d'environ 1.500 m. de hau-
 
-
 <div class="page"/>
-
 
 — p. 195 — (15me EXCURSION) - PUNTA FULSA 
 
@@ -195,7 +188,7 @@ Du Pic de Barrosa à Parzan............ 3h.45 }
 
 ## DEUXIÈME JOURNÉE
 
-__De PARZAN (1.153m) aux GRANGES de VIADOS (1.650m),__\
+__De PARZAN (1.153m) aux GRANGES de VIADOS (1.650m),__<br>
 __par la Punta Fulsa (2.860m) et la Punta Suelsa (2.967m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -216,9 +209,7 @@ crête jusqu'au sommet.
 
 Le panorama de la Fulsa (2.860m) est déjà très beau, puisque
 
-
 <div class="page"/>
-
 
 — p. 196 — PUNTA SUELSA (15me EXCURSION)
 
@@ -267,7 +258,6 @@ ruines de l'Hospital-de-Gistaïn (1.495m), où on aboutit à la vallée
 de la Cinqueta. On remontera celle-ci jusqu'au confluent des
 Cinquetas de la Pez et d'Aygues-Cruses (1.582m). Là, on tournera
 
-
 <div class="page"/>
 
 — p. 197 — (15me EXCURSION) GRANGES de VIADOS
@@ -285,9 +275,9 @@ De la Suelsa aux Granges de Viados.... 3h.30 }
 
 ## TROISIÈME JOURNÉE
 
-__Des GRANGES de VIADOS (1.650m) au LAC de CAILLAOUAS (2.165m),__\
-__par le Pic Schrader ou Grand Batchimale (3.177m),__\
-__le Vallon d'Aygues-Tortes,__\
+__Des GRANGES de VIADOS (1.650m) au LAC de CAILLAOUAS (2.165m),__<br>
+__par le Pic Schrader ou Grand Batchimale (3.177m),__<br>
+__le Vallon d'Aygues-Tortes,__<br>
 __le Lac de Pouchergues (2.165m) et le Col de Couartaou (2.466m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -325,11 +315,10 @@ L'erreur de Russell, des Cadier et de quelques autres grands
 pyrénéistes provient de ce que, parvenus au Port d'Aygues-
 Tortes, ils ont situé la frontière plus à l'O. Elle passe au port
 
-———\
+———<br>
 (1) Les Granges de Viados, non signalées dans les cartes, sont
 situées 1/4 d'h. à l'E. . du confluent de la Pez, vers 1.650m d'alt., sur
 la rive dr. de la Cinqueta d'Aygues-Cruses.
-
 
 <div class="page"/>
 
@@ -387,22 +376,19 @@ différentes : 1° en suivant la crête N. jusqu'à la Pointe Ledormeur
 d'où on tournerait d'abord à l'E., puis au S., pour repasser
 en Espagne jusqu'au port; 2° par la crête S. et la Punta del Sa-
 
-———\
+———<br>
 (1) La Punta del Sabré (3.143m) est à environ 400 m. au S. du grand
 pic. Le 16 août 1912, avec mon jeune camarade Jean Duffour et le
 guide luchonnais Jean Courrège, dit Zogue, nous avons élevé un
 cairn de 1 m. sur ce sommet. Le lendemain, du haut du Posets, nous
-avions da satisfaction d'apercevoir notre petite tourelle à l'œil nu.
-
+avions da satisfaction d'apercevoir notre petite tourelle à l'œil nu.<br>
 (2) Le nom d'Aygues-Cluses, que M. de Saint-Saud donne au pic 2.877
 et à la Cinqueta qui naît presque à sa base, me paraît le plus logique.
 Mais, comme ce nom de lieu existe déjà plus à l'O., près de Barèges,
 je conserve celui d'Aygues-Cruses, tel qu'il est porté dans les cartes,
 pour éviter une confusion possible dans l'esprit du lecteur.
 
-
 <div class="page"/>
-
 
 — p. 200 — LAC de CAILLAOUAS (15me EXCURSION)
 
@@ -446,14 +432,12 @@ de ses profondes eaux, le spectacle est sublime vu du Col de
 Couartaou. Les pentes qui l'encerclent plongent directement dans
 le lac qui est inaccessible sur les 3/4 de son pourtour. Un petit
 
-———\
+———<br>
 (1) Le col de Couartaou est ouvert sur la partie inférieure de la
 crête des Hermittans, qui sépare le vallon de Pouchergues de la
 région des Gourgs-Blancs.
 
-
 <div class="page"/>
-
 
 — p. 201 — (15me EXCURSION) . COL D'AROUGE
 
@@ -473,9 +457,9 @@ Du Port d'Aygues-Tortes au Lac de Cail-        } (Arrêts en sus)
 
 ## QUATRIÈME JOURNÉE
 
-__Du LAC de CAILLAOUAS (2.165m) à LOUDENVIELLE (978m),__\
-__par le Col d'Arouge (2.800m),__\
-__le Pic de Hourgade (2.966m), la Belle-Sayette (2.815m)__\
+__Du LAC de CAILLAOUAS (2.165m) à LOUDENVIELLE (978m),__<br>
+__par le Col d'Arouge (2.800m),__<br>
+__le Pic de Hourgade (2.966m), la Belle-Sayette (2.815m)__<br>
 __et la Vallée d'Aube.__
 
 —— GUIDE INDISPENSABLE ——
@@ -500,28 +484,22 @@ en contournant le haut du Val d'Arouge, on aboutira au Col
 de Nère. à peu près de même alt., au delà duquel dort un petit
 lac glacé. Ce col sépare le département de la Haute-Garonne de
 
-———\
+———<br>
 (1) De ce point, on peut descendre à Espingo dans 2h.30 le
 Val d'Arouge. (V. 19me E.)
 
-
 <div class="page"/>
 
-
 — p. 202 — ENVIRONS D'ESPINGO — PARTIE OUEST (15me EXCURSION)
-
 
 ![carte p202](../maps/guide-soubiron-0202-carte.jpg)
 
 CARTE des RÉGIONS de CAILLAOUAS, du HOURGADE,
 des GOURGS-BLANCS, d'ESPINGO et d'OO.
 
-
 <div class="page"/>
 
-
 — p. 203 — (15me EXCURSION) HOURGADE — BELLE-SAYETTE
-
 
 celui des Hautes-Pyrénées. On n'aura alors qu'à monter au N.-O.
 et, dans 40 min. d'escalade facile, on atteindra le sommet du
@@ -569,9 +547,7 @@ le contraste est frappant : l'œil descend vers les vertes pelouses
 de l'Hourtiga, en s'arrêtant longuement sur les pentes fleuries
 d'Espichadère et d'Aube.
 
-
 <div class="page"/>
-
 
 — p. 204 — VALLEE D'AUBE  (15me EXCURSION) 
 
@@ -606,7 +582,7 @@ De la Belle-Sayette à Loudenvielle...... 4 h.  } (Arrêts en sus)
 ```
  
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __GRANGES DE VIADOS__
 - Pour rejoindre de Saint-Lary par l'Hospice de Rioumajou et le port de Cauouarère : 9h »

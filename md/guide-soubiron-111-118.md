@@ -12,7 +12,6 @@ title: HUITIÈME EXCURSION
 -----------------------
 [//]: # (— p. 111 —)
 
-
 # HUITIÈME EXCURSION
 
 (N° 7 de la 1re-édition)
@@ -25,10 +24,10 @@ Cartes à emporter : Luz et Gavarnie réunies.
 
 __De CAUTERETS à LUZ,__
 
-__par la Vallée de Lutour, le Lac d'Estom,__\
-__le Col et le Pic d'Araillé, le Refuge d'Ossoue, le Vignemale,__\
-__les Lacs d'Estom Soubiran,__\
-__le Refuge de Culaous, le Pic de Culaous, le Pic de Cestrède,__\
+__par la Vallée de Lutour, le Lac d'Estom,__<br>
+__le Col et le Pic d'Araillé, le Refuge d'Ossoue, le Vignemale,__<br>
+__les Lacs d'Estom Soubiran,__<br>
+__le Refuge de Culaous, le Pic de Culaous, le Pic de Cestrède,__<br>
 __l'Ardiden et la Vallée de Bernazaou.__
 
  
@@ -46,8 +45,8 @@ on ne paiera que 2 fr. 50 pour coucher au lit de camp.
  
 # PREMIÈRE JOURNÉE
 
-__De CAUTERETS (9321m) au REFUGE d'OSSOUE (2.690m),__\
-__par la Vallée de Lutour, le Lac d'Estom (1.782m), le Col et le Pic__\
+__De CAUTERETS (9321m) au REFUGE d'OSSOUE (2.690m),__<br>
+__par la Vallée de Lutour, le Lac d'Estom (1.782m), le Col et le Pic__<br>
 __d'Araillé (2.763m) et la Hourquette d'Ossoue (2.738m).__
 
 —— GUIDE UTILE ——
@@ -55,8 +54,7 @@ __d'Araillé (2.763m) et la Hourquette d'Ossoue (2.738m).__
 __Conseils.__ — __Itin. recomm.__ —- On partira vers 5 h. et on remontera 
 la vallée de Lutour pour arriver, vers 9 h., à l'hôtellerie
 du Lac d'Estom. On y déjeunera vers 10 h., afin de pouvoir en
-repartir à 11h.30 ou midi. On ne prendra dans son sac que ce
-
+repartir à 11h.30 ou midi. On ne prendra dans son sac que ce<br>
 (1) On trouve cette clé au Syndicat d'Initiative à Cauterets.
 
 <div class="page"/>
@@ -75,7 +73,6 @@ retour, on fera au N. du col l'ascension facile du Pic d'Araillé
 
 Sauf qu'il trône au centre d'un monde rocailleux dont il tire
 son nom, l'Araillé est par lui-même sans caractère. Mais c'est
-
 
 <div class="page"/>
 
@@ -104,8 +101,8 @@ Du Col d'Araillé au refuge d'Ossoue......... 1h.15 }
 
 ## DEUXIÈME JOURNÉE
 
-__Du REFUGE D'OSSOUE (2.690m) au LAC D'ESTOM (1.782m),__\
-__par le Vignemale (3.298m),__\
+__Du REFUGE D'OSSOUE (2.690m) au LAC D'ESTOM (1.782m),__<br>
+__par le Vignemale (3.298m),__<br>
 __le Col de Pouymourou (2.700m) et les Lacs d'Estom Soubiran.__
 
 —— GUIDE INDISPENSABLE ——
@@ -124,12 +121,11 @@ On suivra, au S.-E., le chemin de Gavarnie environ 20 min.
 afin de contourner l'éperon E. du petit Vignemale (3.205m). Selon
 l'époque de l'excursion et l'état du glacier, on pourra faire
 
-———\
+———<br>
 (1) Le refuge gardé d'Ossoue a été construit en 1899 et inauguré le
 26 août 1900. Un tenancier y est installé du 10 juillet au 10 septembre.
 On y trouve des provisions, et le couchage au lit de camp coûte
 2 fr. 50 aux membres du C. A. F.
-
 
 <div class="page"/>
 
@@ -178,10 +174,9 @@ l'E., un deuxième légèrement plus élevé : c'est celui de Pouymourou,
 situé entre le pic de ce nom (2.852m), au S., et le Pic
 d'Estom Soubiran (2.866m), au N. Ce dernier sommet n'est pas
 
-———\
+———<br>
 (1) Le refuge du Paradis, qui mesure 2 m. cubes, : a été construit
 par M. Russell en 1893.
-
 
 <div class="page"/>
 
@@ -230,21 +225,17 @@ Du Vignemale au Col de Pouymourou.... 3h.45 }    9h.45
 Du Col de Pouymourou au Lac d'Estom.. 2h.45 } (Arrêts en sus)
 ```
 
-———
-
+———<br>
 (1)  Ce petit lac, d'une coquetterie sauvage, tire son nom de la 
 gracieuse fleurette bleue qu'on trouve en quantité dans ses alentours.
 
-
 <div class="page"/>
-
 
 — p. 116 — LAC D'ESTOM — PIC de CULAOUS  (8me EXCURSION)
 
-
 ## TROISIÈME JOURNÉE
 
-__Du LAC d'ESTOM (1.782m) au REFUGE de CULAOUS (2.010m)__\
+__Du LAC d'ESTOM (1.782m) au REFUGE de CULAOUS (2.010m)__<br>
 __et aux Pics de Culaous (2.812m) et de Cestrède (2.947m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -290,7 +281,6 @@ suivra presque horizontalement le flanc N. de la crête qui sépare
 
 <div class="page"/>
 
-
 — p. 117 — (8me EXCURSION) PIC de CESTREDE
 
 les deux sommets jusqu'au point situé verticalement au-dessous
@@ -320,7 +310,7 @@ suivra jusqu'au premier névé; là, on obliquera à dr., en dessous,
 afin d'aller rejoindre en biais la crête qui monte du Col de
 Culaous où on retrouvera la voie d'ascension.
 
-Nota. — En redescendant, on pourra repérer la voie d'ascen-
+> Nota. - En redescendant, on pourra repérer la voie d'ascen-
 sion du lendemain, vers la Pourtère de l'Ardiden.
 
 __Horaire de la Journée :__
@@ -346,11 +336,10 @@ lacets, le sentier conduit, à dr., près d'une source abondante.
 
 — p. 118 — PIC D'ARDIDEN — LUZ (8me EXCURSION)
 
-
 ## QUATRIÈME JOURNÉE
 
-__Du REFUGE de CULAOUS (2.010m) à LUZ (685m),__\
-__par le Pic d'Ardiden (2.988m), les Lacs d'Ardiden et la Vallée__\
+__Du REFUGE de CULAOUS (2.010m) à LUZ (685m),__<br>
+__par le Pic d'Ardiden (2.988m), les Lacs d'Ardiden et la Vallée__<br>
 __de Bernazaou.__
 
 —— GUIDE INDISPENSABLE ——

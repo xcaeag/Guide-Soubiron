@@ -24,10 +24,10 @@ _B. E. — Du 1% Juillet au 15 Septembre._
 
 Cartes à emporter : Saint-Girons et Mont Rouch réunies.
 
-__De SAINT-GIRONS à USTOU__\
-__par le Montvalier,__\
-__la Palo de la Claouëro, Alos d'Isil, les Pics de Mont Rouch,__\
-__la Roya de Mollas, le Cap de Ruhos__\
+__De SAINT-GIRONS à USTOU__<br>
+__par le Montvalier,__<br>
+__la Palo de la Claouëro, Alos d'Isil, les Pics de Mont Rouch,__<br>
+__la Roya de Mollas, le Cap de Ruhos__<br>
 __et le Port de Marterat.__
 
 <u>__AVIS AUX TOURISTES__</u>
@@ -43,7 +43,7 @@ la chaîne frontière.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion.)</p>
 
-———\
+———<br>
 (1) Saint-Lizier-d'Ustou (Ariège), arr. de Saint-Girons (30 k.),
 c. d'Oust, postes, télégraphe et téléphone.
 
@@ -83,8 +83,8 @@ Horaire : De Castillon au Refuge, 7 h., arrêts en sus.
 ## DEUXIÈME JOURNÉE
 
 __Du REFUGE du MONTVALIER (2.200m) à ALOS d'ISIL (1.256m),__
-__par le Montvalier (2.839m),__\
-__la Palo de la Claouèro (2.670m), Bonabé (1.450m)__\
+__par le Montvalier (2.839m),__<br>
+__la Palo de la Claouèro (2.670m), Bonabé (1.450m)__<br>
 __et la Gorge de la Noguera Pallaresa.__
 
 —— SANS GUIDE ——
@@ -188,7 +188,7 @@ De Bonabé à Alos d'Isil................. 2h.15 }
 
 ## TROISIÈME JOURNÉE
 
-__D'ALOS d'ISIL (1.256m) à CUANCA (1.325m),__\
+__D'ALOS d'ISIL (1.256m) à CUANCA (1.325m),__<br>
 __par les Pics de Mont Rouch (2.865m) et la Roya de Mollas.__
 
 —— GUIDE UTILE ——
@@ -226,7 +226,6 @@ tout à fait inconnue, est une petite merveille. Orientée du N.-O.
 au S.-E., elle est située entre le massif de Campirme, au S., et
 la chaîne frontière, au N. Ses points extrêmes sont les deux
 Monts Rouch, au N.-O., et le hameau de Cuanca, au S.-E._
-
 
 <div class="page"/>
 
@@ -327,7 +326,7 @@ Du Mont Rouch de France à Cuanca.... 4h. » }
 
 ## QUATRIÈME JOURNÉE
 
-__De CUANCA (1.325m) à SAINT-LIZIER d'USTOU (752m),__\
+__De CUANCA (1.325m) à SAINT-LIZIER d'USTOU (752m),__<br>
 __par le Cap de Ruhos (2.604m) et le Port de Marterat (2.138m).__
 
 —— SANS GUIDE ——
@@ -388,7 +387,7 @@ où l'on rejoint la route. Encore 1/2 h. de marche, et on
 arrivera à Saint-Lizier d'Ustou (752m), chef-lieu de la commune
 de ce nom, où on pourra coucher à l'Hôtel Gleyzes.
 
-Nota. — Un courrier ordinaire fait tous les matins le service
+> Nota. - Un courrier ordinaire fait tous les matins le service
 de Saint-Girons (30 k.) et un autobus monte également tous les
 jours au village du Trein, situé à 1 k. 500 en aval de Saint-
 Lizier d'Ustou. On fera bien de se renseigner au passage sur
@@ -411,7 +410,7 @@ Du Port à Saint-Lizier d'Ustou.......... 3h. » }
   (Si on poursuit jusqu'à Seix, 2h.20 en sus)
 ```
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __BONABÉ__
 

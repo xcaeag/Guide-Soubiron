@@ -18,7 +18,7 @@ output: pdf_document
 
 (N° 18 de la-1re édition)
 
-__Cinq jours en Haut Aran et à la Sierra de Montarto__\
+__Cinq jours en Haut Aran et à la Sierra de Montarto__<br>
 __AU DÉPART DE MARIGNAC__
 
 _B. E. — Du 15 Juillet à fin Aout._
@@ -26,11 +26,11 @@ _B. E. — Du 15 Juillet à fin Aout._
 Cartes à emporter : Bagnères-de-Luchon et Val d'Arouge réunies.
  Saint-Girons et Mont Rouch réunies.
 
-__De MARIGNAC (1) à LUCHON,__\
-__par Viella, le Port de Viella, l'Hospice de Viella,__\
-__le Bécibéri, le Comolo Forno,__\
-__Caldas de Bohi, le Comolos Bienes, le Comolos Pales,__\
-__le Tuc de la Tuménéja,__\
+__De MARIGNAC (1) à LUCHON,__<br>
+__par Viella, le Port de Viella, l'Hospice de Viella,__<br>
+__le Bécibéri, le Comolo Forno,__<br>
+__Caldas de Bohi, le Comolos Bienes, le Comolos Pales,__<br>
+__le Tuc de la Tuménéja,__<br>
 __le Montarto d'Aran, le Pic d'Aubas et Couradilles.__
 
 <u>__AVIS AUX TOURISTES__</u>
@@ -58,7 +58,7 @@ région; on la prouvera p. 318.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
-———\
+———<br>
 (1) Marignac (Haute-Gar.), ec. de Saint-Béat; 600 hab., sur la ligne
 de Montréjeau à Luchon, postes et télégraphes. Il y a deux bons hôtels
 près de la gare.
@@ -75,8 +75,8 @@ près de la gare.
 
 ## PREMIÈRE JOURNÉE
 
-__De MARIGNAC (500m) à l'HOSPIÇE de VIELLA (1.626m),__\
-__par le Pont du Roi (583m),__\
+__De MARIGNAC (500m) à l'HOSPIÇE de VIELLA (1.626m),__<br>
+__par le Pont du Roi (583m),__<br>
 __Viella (960m) et le Port de Viella (2.424m).__
 
 —— GUIDE UTILE
@@ -150,7 +150,7 @@ la fureur des vents. Malgré sa haute alt., ce coin conviendrait
 admirablement à l'édification d'un sanatorium. Nulle part, le
 touriste ne trouvera un pareil régal des yeux, avec si peu de fatigue.
 
-Nota. — Comme il faut partir de très bonne heure le lendemain, 
+> Nota. - Comme il faut partir de très bonne heure le lendemain, 
 on fera ses provisions et on règlera les dépenses le
 soir même. Si on ne prend pas cette précaution, on perdra plus
 d'une h. au moment du départ, ce qui peut compromettre le
@@ -165,7 +165,7 @@ Du Port à l'Hospice.................. 1h.45 } (Arrêts en sus).
 
 ## DEUXIÈME JOURNÉE
 
-__De l'HOSPICE de VIELLA (1.626m) à CALDAS de BOHI (1.510m),__\
+__De l'HOSPICE de VIELLA (1.626m) à CALDAS de BOHI (1.510m),__<br>
 __par le Bécibéri S. (3.020m) et le Comolo Forno (3.032m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -220,7 +220,7 @@ en 1/2 h., en suivant le flanc O. de la crête. On n'a qu'à redescendre
 d'une trentaine de m., puis tourner à g., au S.; on
 marchera à flanc jusqu'à une petite brèche qui coupe la crête
 
-———\
+———<br>
 (1) Mot catalan qui, comme le mot espagnol « Avellanos », signifie
 noisetiers.
 
@@ -310,7 +310,7 @@ Du Lac de Los Caballeros à Caldas de           }
 
 ## TROISIÈME JOURNÉE
 
-__De CALDAS de BOHI(1.510m)au LAC de LOS CABALLEROS(1.745m),__\
+__De CALDAS de BOHI(1.510m)au LAC de LOS CABALLEROS(1.745m),__<br>
 __par le Comolos Bieres (2.995m) et le Comolos Pales (3.007m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -368,8 +368,8 @@ Du Comolos Pales au Lac de Los Caballe-       }
 
 ## QUATRIÈME JOURNÉE
 
-__Du LAC de LOS CABALLEROS (1.745m) à ARTIES (1.143m),__\
-__par le Tuc de la Tuménéja ou Pic Pierre Harlé (2.892)__\
+__Du LAC de LOS CABALLEROS (1.745m) à ARTIES (1.143m),__<br>
+__par le Tuc de la Tuménéja ou Pic Pierre Harlé (2.892)__<br>
 __et le Montarto d'Aran (2.827m).__
 
 —— GUIDE UTILE ——
@@ -391,7 +391,7 @@ crête de la Tuménéja (2.892m) dont on ne sera séparé que par un
 petit névé. On montera vers ce dernier pic qu'on ascendra par la
 cheminée qui grimpe jusqu'à la crête (1).
 
-———\
+———<br>
 (1) A propos de cette crête, que les guides et les cartes appellent
 « Tuc Ménège », je suis de l'avis de mon collègue, M. Bepmale, qui
 la nomme « Tuc de la Tuménéja », du mot catalan : cheminée. Tous
@@ -442,7 +442,7 @@ par la g., afin d'aboutir à une cheminée rapide qui plonge dans
 la coume supérieure de Valarties. Ce passage, un peu impressionnant
 au-dessous d'un rocher coincé, est sans difficulté.
 
-———\
+———<br>
 (1) V. Bulletin Pyrénéen, année 1909, p. 248.
 
 <div class="page"/>
@@ -470,12 +470,12 @@ Du Montarto à Arties.................... 3h.30 }
 
 ## CINQUIÈME JOURNÉE
 
-__D'ARTIES (1.143m) à LUCHON (629m), par le Val d'Aran,__\
+__D'ARTIES (1.143m) à LUCHON (629m), par le Val d'Aran,__<br>
 __le Pic d'Aubas (2.072m) et Couradilles (1.985m).__
 
 —— SANS GUIDE ——
 
-Nota. — Pour la cinquième journée, on peut, le cas échéant,
+> Nota. - Pour la cinquième journée, on peut, le cas échéant,
 en modifier le programme par l'une des deux variantes ci-après : 
 1° en rentrant directement à Marignac, si on voulait
 continuer vers la plaine; 2° en reprenant l'ascension de l'Entécade
@@ -497,7 +497,7 @@ par le premier courrier jusqu'à la Bordette (827m), à 19 k. d'Arties
 et à 4 k. en amont de Bosost où on quittera la grand'route. On
 prendra, rive g., le chemin de la Bareste qui se dirige au N.-O.
 
-———\
+———<br>
 (1) C'est à tort que les cartes françaises portent « Pont de la Resseque
 »; ce dernier mot ne signifie rien. Il s'agit du pont de la scierie 
 (ressec); il faut donc dire « Pont del Ressec ». En patois du pays,

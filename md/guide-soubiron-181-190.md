@@ -20,7 +20,6 @@ __Quatre jours aux Environs d'Arreau et En Barousse__
 
 _B. E. — Du 15 Juin au 15 Octobre._
 
-
 Cartes à emporter : Luz, Bagnères-de-Luchon, Saint-Gaudens.
 
 <u>__NOTICE sur ARREAU__</u>
@@ -34,11 +33,10 @@ sommets, un des plus beaux centres d'excursions des Pyrénées.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
-
 ## PREMIÈRE JOURNÉE
 
-__Ascension du Soum de Menvielle (1.170m), par Lançon (1.089m)__\
-__et retour à Arreau par la Forêt de Lançon, Ilhan__\
+__Ascension du Soum de Menvielle (1.170m), par Lançon (1.089m)__<br>
+__et retour à Arreau par la Forêt de Lançon, Ilhan__<br>
 __et la Vallée du Louron.__
 
 —— SANS GUIDE ——
@@ -57,9 +55,7 @@ corniche, droit au S., pour pénétrer bientôt dans la gorge de
 Lançon. Comme on s'est élevé de 300 m., on jouit déjà d'un très
 joli point de vue sur les environs immédiats.
 
-
 <div class="page"/>
-
 
 — p. 182 — ENVIRONS D'ARREAU (14me EXCURSION)
  
@@ -72,9 +68,7 @@ ET D'UNE PARTIE DE LA BAROUSSE
 
 <div class="page"/>
 
-
 — p. 183 —
-
 
 (14me EXCURSION) SOUM de MENVIEILLE
  
@@ -123,13 +117,11 @@ et quelle que soit la puissance du soleil, cet agréable trajet de
 Dès l'entrée de la forêt, le chemin tourne un peu à g, puis
 monte en pente douce, direction S.-E., jusqu'au haut de la colline
 
-———\
+———<br>
 (1) Cette route, qui va de Gouaux à Bordères par Lançon et Ilhan,
 met en communication la vallée d'Aure avec celle du Louron.
 
-
 <div class="page"/>
-
 
 — p. 184 — ILHAN (14me EXCURSION)
 
@@ -154,7 +146,7 @@ Du Soum de Menvieille à Ihan........... 1h.40 } (Arrêts en sus)
 D'Ilhan à Arreau....................... 1h.30 }
 ```
 
-Nota. — Si, parvenu au pont de Cazaux, on dispose de
+> Nota. - Si, parvenu au pont de Cazaux, on dispose de
 1 h. 1/2, je conseille de faire au N.-E. l'ascension facile de
 N.-D. des Neiges (1.091m); on y jouit d'un charmant point de
 vue. On domine à dr. la vallée du Louron et, à g., une partie
@@ -164,13 +156,13 @@ du Lys.
 
 ## DEUXIÈME JOURNÉE
 
-__D'ARREAU (698m) à SARRANCOLIN (623m),__\
-__par le Col d'Aspin (1.497m), le Montné d'Aspin (1.755m)__\
+__D'ARREAU (698m) à SARRANCOLIN (623m),__<br>
+__par le Col d'Aspin (1.497m), le Montné d'Aspin (1.755m)__<br>
 __le Mont Bassia (1.900m) et le Col de Beyrède (1).__
 
 —— SANS GUIDE ——
 
-Nota. — Il est des sommets, même de petite alt. qui, par
+> Nota. - Il est des sommets, même de petite alt. qui, par
 leur situation isolée et leur éloignement de la grande chaîne,
 constituent des belvédères de premier ordre pour embrasser
 d'un coup d'œil circulaire toute une région. Tels le Pic de
@@ -179,13 +171,11 @@ Sesques (2.605m), pour les vallées d'Aspe et d'Ossau; le Pibeste
 Gavarnie; le Pouylouby (2.098m), le Montné (2.147m) et le
 Burat (2.150m), pour les environs de Luchon et le Haut Aran;
 
-———\
+———<br>
 (1) Cette ascension est déjà décrite, en dernière journée de la
 11me excursion, dans la première édition de mon guide, à la page 151.
 
-
 <div class="page"/>
-
 
 — p. 185 — (14me EXCURSION) COL d'ASPIN
 
@@ -241,9 +231,7 @@ hautes montagnes de la grande chaîne et sur les vallées d'Aure
 et de Louron. Tout en haut de celle-ci et tout à fait dans son
 axe, resplendit le magnifique glacier des Gourgs-Blancs. Au N.
 
-
 <div class="page"/>
-
 
 — p. 186 — MONTNE d'ASPIN — MONT BASSIA (14me EXCURSION)
 
@@ -295,7 +283,6 @@ On peut redescendre au Col de Beyrède, soit par la voie d'as-
 
 <div class="page"/>
 
-
 — p. 187 — (14me EXCURSION) COL de BEYREDE — SARRANCOLIN
 
 cension, soit en dévalant par les pentes S. vers une source dont
@@ -325,7 +312,7 @@ Du Mont Bassia à Sarrancolin......... 3h.30 }
 
 ## TROISIÈME JOURNÉE
 
-__D'ARREAU (698m) à MAULÉON-BAROUSSE (600m),__\
+__D'ARREAU (698m) à MAULÉON-BAROUSSE (600m),__<br>
 __par le Pic d'Areng (2.081m), Crouhens (820m) et Ferrère (691m).__
 
 —— SANS GUIDE ——
@@ -348,12 +335,9 @@ circuler que munies d'une corne d'avertissement.
 
 Pendant 3 k., on est comme suspendu et, par endroits, on a dû
 
-
 <div class="page"/>
 
-
 — p. 188 — PIC D'ARENG (14me EXCURSION)
-
 
 placer des rampes en fer, car il n'y a pas une place suffisante
 pour y construire des parapets en pierre. Et ce trajet est d'autant
@@ -398,15 +382,13 @@ la vallée de la Salabe. Encore 20 min. de marche sur ce grand
 chemin, et on arrive à Crouhens, où on rejoint la grand'route,
 à 7 %k. de Mauléon (1).
 
-———\
+———<br>
 (1) Mauléon-Barousse, chef-lieu de canton des Hautes-Pyrénées,
 desservi par un autobus qui part de la gare de Loures-Barbazan
 (10 k.), à l'arrivée des principaux trains. A Mauléon, l'Hôtel de la
 Poste, chez Noguès, est recommandé.
 
-
 <div class="page"/>
-
 
 — p. 189 — (14me EXCURSION) FERRERE — MAULEON
 
@@ -430,7 +412,7 @@ De Crouhens à Mauléon (7 k. de route)... 11h.30 }
 
 ## QUATRIÈME JOURNÉE
 
-__De MAULÉON-BAROUSSE (600m) à la gare de MONTRÉJEAU (420m),__\
+__De MAULÉON-BAROUSSE (600m) à la gare de MONTRÉJEAU (420m),__<br>
 __par le Montaspet (1.849m), le Nistos, Aventignan et Mazères.__
 
 —— SANS GUIDE ——
@@ -454,9 +436,7 @@ située à la base des pentes N. du Montaspet. On y laissera
 le sac en le suspendant à un sapin voisin et, en 1 h., aller et retour,
 on fera l'ascension du sommet par des pentes faciles.
 
-
 <div class="page"/>
-
 
 — p. 190 — MONTASPET — NISTOS (14me EXCURSION)
 
@@ -500,11 +480,11 @@ Du Montaspet au Nistos................ 2h.30 } (Arrêts en sus)
 De Nistos à Montréjeau.................2h.35 
 ```
 
-Nota. — Si on part de très bonne heure, on aura le temps
+> Nota. - Si on part de très bonne heure, on aura le temps
 de dîner au buffet de Montréjeau et de rentrer à Toulouse
 par le dernier train.
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 ARREAU-SARRANCOLIN et MAULÉON-BAROUSSE
 

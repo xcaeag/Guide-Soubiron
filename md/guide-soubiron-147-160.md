@@ -22,14 +22,13 @@ _B. E. — Du 15 Juillet à fin Août._
 
 Cartes à emporter : Luz et Gavarnie réunies.
 
-__1re De BARÈGES à BARÈGES,__\
-__par les Lacs d'Escoubous, le Nèouvielle, les Lacs d'Aubert,__\
-__d'Aumar, d'Orédon et de Cap-de-Long,__\
+__1re De BARÈGES à BARÈGES,__<br>
+__par les Lacs d'Escoubous, le Nèouvielle, les Lacs d'Aubert,__<br>
+__d'Aumar, d'Orédon et de Cap-de-Long,__<br>
 __le Pic Long, le Pic de Bugaret, le Montarrouy et le Maucapera.__
 
-__2me De BARÈGES à PIERREFITTE,__\
+__2me De BARÈGES à PIERREFITTE,__<br>
 __par le Soum Arrouy, le Pic Léviste et le Lac d'Izaby.__
-
 
 <u>__AVIS AUX TOURISTES__</u>
 
@@ -52,7 +51,6 @@ Bastan. A partir de là, un bon chemin muletier monte directement
 à l'hôtellerie du Col de Sencours (2.378m) où on couchera.
 Le lendemain matin, on partira à la lanterne, à 3 h., afin d'ar-
 
-
 <div class="page"/>
 
 — p. 148 — ENVIRONS de BAREGES (11me EXCURSION)
@@ -72,21 +70,19 @@ De l'Hôtellerie au Pic........... 1h.45 } (Arrêts en sus)
 Du Pic à Barèges................. 0h.30 }
 ```
 
-Nota. — On peut aussi faire l'excursion dans la même journée 
+> Nota. - On peut aussi faire l'excursion dans la même journée 
 en partant de très bonne heure; mais, dans ce dernier cas,
 on ne jouit pas d'un aussi joli point de vue.
 
-
 <div class="page"/>
-
 
 — p. 149 — (11me EXCURSION) COL D'AUBERT — NEOUVIELLE
 
 ## PREMIÈRE JOURNÉE
 
-__De BARÈGES (1.232m), au LAC d'ORÉDON (1.879m),__\
-__par les Lacs d'Escoubous, le Col d'Aubert (2.500m),__\
-__le Nèouvielle (3.092m),__\
+__De BARÈGES (1.232m), au LAC d'ORÉDON (1.879m),__<br>
+__par les Lacs d'Escoubous, le Col d'Aubert (2.500m),__<br>
+__le Nèouvielle (3.092m),__<br>
 __le Lac d'Aubert (2.160m), et le Lac d'Aumar (2.202m).__
  
 
@@ -125,9 +121,7 @@ Maudits. On le distingue de plusieurs sommets secondaires du
 Saint-Gironnais, à cause de l'arête rocheuse qui partage son
 glacier en deux, comme l'arête du Portillon, celui des Monts-
 
-
 <div class="page"/>
-
 
 — p. 150 —  LAC D'OREDON (11me EXCURSION)
  
@@ -163,8 +157,8 @@ Du Néouvielle au Lac d'Orédon.......... 2h.45 }
 
 ## DEUXIÈME JOURNÉE
 
-__Du LAC d'ORÉDON (1.879m) au REFUGE du RABIET (2.524m),__\
-__par le Lac de Cap-de-Long (2.120m),__\
+__Du LAC d'ORÉDON (1.879m) au REFUGE du RABIET (2.524m),__<br>
+__par le Lac de Cap-de-Long (2.120m),__<br>
 __le Pic Long (3.194m) et la Hourquette de Bugaret (2.645m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -176,9 +170,7 @@ au plus tard, pour jouir plus sûrement du joli point de vue.
 On prendra le chemin de chars qui, par la rive dr. du Lac
 d'Orédon, monte au Lac de Cap-de-Long (2.120m). Après la maison
 
-
 <div class="page"/>
-
 
 — p. 151 — (11me EXCURSION) LAC de CAP-De-LONG
 
@@ -212,18 +204,16 @@ au-dessous de la brèche située à la plus basse dépression
 de l'arête qui va du Badet au Pic Long. En tardive saison,
 la rimaye est très ouverte et difficile à franchir. On peut éviter
 
-———\
+———<br>
 (1) Le nom donné à ce pic étonne les gens du pays, car ce sommet
 est en entier sur le Campbieil, tandis que la montagne et la vallée du
 Badet sont plus à l'E., de l'autre côté du pic de Campbieil et de la
 crête de Lentilla. Les bergers et les chasseurs l'appellent Pic d'Estibère 
 Male. Satellite très rapproché du Pic Long qui le domine et lui
-masque une partie de la vue, le Badet est presque sans intérêt.
-
+masque une partie de la vue, le Badet est presque sans intérêt.<br>
 Il est facilement faisable par la crête E., en partant de la Hourquette 
 du Badet, ou encore par la coume rapide de la face N. qui
-aboutit à la crête, entre le petit pic et le sommet 3161.
-
+aboutit à la crête, entre le petit pic et le sommet 3161.<br>
 (2) Certains auteurs appellent ce petit gourg « Lac du Badet »;
 d'autres, « Lac d'Estaragne ». Comme il ne se déverse ni dans la
 vallée du Badet, ni dans le vallon d'Estaragne dont il est séparé par
@@ -233,9 +223,7 @@ Certains chasseurs que j'ai interrogés, le nomment « Gourg glacé de
 Cap-de-Long ». Cette appellation me paraît être la bonne, puisqu'il
 s'écoule par la vallée de Cap-de-Long au grand lac de ce nom.
 
-
 <div class="page"/>
-
 
 — p. 152 — PIC LONG (11me EXCURSION)
 
@@ -285,9 +273,7 @@ parvenu en vue du lac de Rabiet (2.220m), on descendra rapidement
 vers lui. Bientôt, le sentier bifurque; celui de g. conduit
 au Col de Pierrefitte qu'on aperçoit au N.-O.; celui de dr. monte
 
-
 <div class="page"/>
-
 
 — p. 153 — (11me EXCURSION): REFUGE du RABIET — LAC TOURRAT
 
@@ -305,7 +291,7 @@ Du Cap-de-Long au Pic Long............. 3h.30 }    9h. »
 Du Pic Long au refuge du Rabiet........ 3h.30 } (Arrêts en sus)
 ```
 
-Nota. — Du Refuge du Rabiet, l'ascension du Pic Long est
+> Nota. - Du Refuge du Rabiet, l'ascension du Pic Long est
 faisable dans 8 h., aller et retour. Elle peut donc être reprise
 de ce point au cas où, pour une cause quelconque, on l'aurait
 manquée le premier jour.
@@ -334,9 +320,7 @@ une si vivante description :
 exemple, probablement unique aux Pyrénées, d'un lac important
 où se déverse tout entier un glacier d'une seule venue. Très
 
-
 <div class="page"/>
-
 
 — p. 154 — PIC de BUGARET (11me EXCURSION)
 
@@ -376,29 +360,27 @@ Du Lac Tourrat au Pic de Bugaret...... 1h.45 } (Arrêts en sus)
 Du Pic de Bugaret au Refuge........... 2h.45 }
 ```
 
-Nota. — Si on ne garde pas le guide pour la 4me journée, on
+> Nota. - Si on ne garde pas le guide pour la 4me journée, on
 le renverra du Rabiet, ce qui lui permettra de rentrer à Barèges 
 le soir même.
 
-———\
+———<br>
 (1) Au Pays des Isards, tome II, p. 16.
 
-
 <div class="page"/>
-
 
 — p. 155 — (11me EXCURSION) PIC de MONTARROUY
  
 
 ## QUATRIÈME JOURNÉE
 
-__Du REFUGE DU RABIET (2.524m) à BARÈGES (1.232m),__\
-__par le Montarrouy (2.797m), __\
+__Du REFUGE DU RABIET (2.524m) à BARÈGES (1.232m),__<br>
+__par le Montarrouy (2.797m), __<br>
 __le Maucapéra (2.720m) et la Vallée de l'Ise (1).__
 
 —— GUIDE UTILE ——
 
-Nota. — L'ascension du Montarrouy est des plus faciles et,
+> Nota. - L'ascension du Montarrouy est des plus faciles et,
 quoi qu'on ait écrit sur le Maucapéra, ce dernier ne présente pas
 de difficultés sérieuses, si on se contente d'y monter par la
 voie la plus commode. Donc, un bon pyrénéiste peut y conduire,
@@ -428,7 +410,7 @@ franchira ce morne, partie à flanc E., partie à flanc O., jusqu'au
 col (2.472m). On jouira là d'une belle vue sur les trois lacs de
 Rabiet, de Coueyla-det-Mey, de Bugaret et sur la Hourquette
 
-———\
+———<br>
 (1) Je ne m'explique pas les variations de divers auteurs en ce qui
 concerne le nom de cette vallée. Les uns la nomment « La Liza »,
 d autres, « La Lise ». En parlant du ruisseau qui donne son nom à la
@@ -481,7 +463,7 @@ la brèche 2.647 d'où on montera à toute crête au Maucapéra
 Si on veut varier le chemin du retour et gagner 1/4 d'h. à la
 descente, on prendra le couloir rapide à la brèche 2.647, et on
 fera au bas un crochet à g., afin de rejoindre son sac.
-
+****
 (4) Je ne partage pas l'opinion de plusieurs auteurs quand ils
 disent que ce mot signifie « mauvais prêtre ». Maucapera viendrait
 plutôt des mots : maou capérat, ce qui signifierait : « Mal Coiffé -
@@ -520,8 +502,8 @@ Du Lac de Maucapera à Barèges.............  3h.50 }
 
 ## CINQUIÈME JOURNÉE
 
-__De BARÈGES (1.232m) à PIERREFITTE (4681m),__\
-__par le Soum Arrouy (2.491m), le Pic Léviste (2.464m)__\
+__De BARÈGES (1.232m) à PIERREFITTE (4681m),__<br>
+__par le Soum Arrouy (2.491m), le Pic Léviste (2.464m)__<br>
 __et le Lac d'Izaby (1.572m).__
 
 —— SANS GUIDE ——
@@ -536,9 +518,7 @@ revient ensuite sur la rive dr. pour aboutir au haut d'une
 prairie. Là, on continuera droit à l'O., et presque horizontalement, 
 jusqu'à la Montagne fleurie.
 
-
 <div class="page"/>
-
 
 — p. 158 — SOUM ARROUY (11me EXCURSION)
 
@@ -586,7 +566,6 @@ massif calcaire et ceux du Pic Long et du Nèouvielle sont de
 toute beauté.
 
 Au N.-O., à moins de 500 m. parait le signal du Pic Léviste
-
 
 <div class="page"/>
 
@@ -639,7 +618,6 @@ du Pradet que domine, au S., sa superbe cascade. Là, le
 
 <div class="page"/>
 
-
 — p. 160 — PIERREFITTE (11me EXCURSION)
 
 chemin remonte un peu à dr. entre des prairies, et reprend
@@ -665,7 +643,7 @@ Du Pic Léviste au Lac d'Izaby........... 2h. » } (Arrêts en sus).
 Du Lac d'Izaby à Pierrefitte............ 3h.15 }
 ```
 
-Nota. — Cette course peut être faite en sens inverse; elle
+> Nota. - Cette course peut être faite en sens inverse; elle
 serait ainsi la première journée de la 10me excursion, au lieu
 de la dernière. Mais, comme il y a dans ce sens une différence de
 niveau de plus de 2.000 m. à monter et un long parcours à
@@ -677,8 +655,7 @@ ses forces pour l'ascension des 900 m. qui restent à gravir;
 2° On partira au plus tard à 4 h., pour arriver au Pic Léviste
 avant midi.
 
-
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __LAC D'OREDON__
 - Pour rejoindre de Saint-Lary : 4h.15

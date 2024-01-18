@@ -24,9 +24,9 @@ _B. E. — Du 15 Juillet au 15 Septembre._
 
 Cartes à emporter : Foix et Perles réunies.
 
-__D'AUZAT à SIGUER (1),__\
-__par le Pic d'Endron, l'Etang Fourcat, le Pic de Rialp,__\
-__l'Estanyo, le Pic de Serrère, le Port de Siguer,__\
+__D'AUZAT à SIGUER (1),__<br>
+__par le Pic d'Endron, l'Etang Fourcat, le Pic de Rialp,__<br>
+__l'Estanyo, le Pic de Serrère, le Port de Siguer,__<br>
 __le Lac de Peyregrand et la Gorge de Brouquenat.__
 
 <u>__AVIS AUX TOURISTES__</u>
@@ -51,7 +51,7 @@ Ne pas oublier les bougies.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion.)</p>
 
-———\
+———<br>
 (1) Siguer (Ariège), 650 hab. c. de Vicdessos, à 2 k. 500 de la station
 de Larramade, ligne de Tarascon à Auzat. Postes et télégraphes.
 
@@ -67,8 +67,8 @@ de Larramade, ligne de Tarascon à Auzat. Postes et télégraphes.
 
 ## PREMIÈRE JOURNÉE
 
-__D'AUZAT (740m) à l'ETANG FOURCAT (2.450m),__\
-__par Goulier, le Pic Pédris (2.210m), le Pic d'Endron (2. 476m)__\
+__D'AUZAT (740m) à l'ETANG FOURCAT (2.450m),__<br>
+__par Goulier, le Pic Pédris (2.210m), le Pic d'Endron (2. 476m)__<br>
 __et la Haute Vallée d'Arties.__
 
 —— GUIDE UTILE ——
@@ -144,7 +144,7 @@ D'Auzat au Pic d'Endron.............. 5h. » }   9h.45
 Du Pic d'Endron à l'Etang Fourcat.... 4h.45 } (Arrêts en sus).
 ```
 
-Nota. — Si on n'a pas obtenu la clé du refuge du Fourcat,
+> Nota. - Si on n'a pas obtenu la clé du refuge du Fourcat,
 on pourra coucher à l'orry de la Chaudière, et rejoindre l'itinéraire
 du lendemain au port de l'Arbeille par le vallon de
 ce nom. 
@@ -155,8 +155,8 @@ ce nom.
 
 ## DEUXIÈME JOURNÉE
 
-__De l'ETANG FOURCAT (2.450m) au SERRAT (1.565m),__\
-__par le Col de Fangassès (2.599m), le Pic de Rialp (2.903m)__\
+__De l'ETANG FOURCAT (2.450m) au SERRAT (1.565m),__<br>
+__par le Col de Fangassès (2.599m), le Pic de Rialp (2.903m)__<br>
 __et la Coma de Tristanya.__
 
 —— GUIDE UTILE ——
@@ -238,15 +238,13 @@ On n'aura ensuite qu'à suivre le sentier qui, par la rive g. du
 vallon, descend directement aa Serrat (1.565m) situé dans la vallée
 du Rialp ou Valira del Nort (2).
 
-———\
+———<br>
 (1) Dans un article très documenté, mon excellent compagnon
 d'ascension, J. Lataste, a signalé l'existence de ce lac et mis en lumière
 toutes les beautés de la région du Rialp. (V. Bulletin de le Section
-des Pyrénées Centrales, n° 52.)
-
+des Pyrénées Centrales, n° 52.)<br>
 (2) Le Serrat, vill. d'été, comprend une vingtaine de maisons couvertes
 en ardoise. La plus recommandée est celle de Vincente Zacurraga.
-
 
 <div class="page"/>
 
@@ -266,13 +264,13 @@ Du Pic de Rialp au Serrat............... 3h.30 } (Arrêts en sus).
 
 ## TROISIÈME JOURNÉE
 
-__Ascensions du Pic de l'estanyo (2.911m)__\
-__et du Pic de Serrère (2.911m), avec retour au Serrat,__\
+__Ascensions du Pic de l'estanyo (2.911m)__<br>
+__et du Pic de Serrère (2.911m), avec retour au Serrat,__<br>
 __par le Vallon de Serrère.__
 
 —— GUIDE UTILE ——
 
-Nota. — Voici une région qui n'a pas reçu la visite de vingt
+> Nota. - Voici une région qui n'a pas reçu la visite de vingt
 touristes et qui possède cependant deux des plus beaux sommets
 de l'Andorre et de l'Ariège : l'Estanyo qui plane sur toute
 l'Andorre et le Serrère qui trône, à la crête frontière, sur les
@@ -355,8 +353,8 @@ Du Pic de Serrère au Serrat....... 3h.15 } (Arrêts en sus).
 
 ## QUATRIÈME JOURNÉE
 
-__Du SERRAT (1.565m) à SIGUER (745m),__\
-__par le Port de Siguer (2.365m), le Lac de Peyregrand (1.840m)__\
+__Du SERRAT (1.565m) à SIGUER (745m),__<br>
+__par le Port de Siguer (2.365m), le Lac de Peyregrand (1.840m)__<br>
 __et la Gorge de Brouquenat.__
 
 —— SANS GUIDE ——
@@ -431,11 +429,11 @@ Du Serrat au Port de Siguer........... 2h.30 }   7h.30
 Du Port au village de Siguer.......... 5h. » } (Arrêts en sus).
 ```
 
-Nota. — En 1/2 h., on peut descendre de Siguer à Larramade
+> Nota. - En 1/2 h., on peut descendre de Siguer à Larramade
 (2 k. 500), pour prendre le train, soit pour Tarascon, soit pour
 Auzat.
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __LE SERRAT__
 - Pour rejoindre de Siguer : 9h. »

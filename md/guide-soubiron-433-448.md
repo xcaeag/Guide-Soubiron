@@ -24,12 +24,12 @@ _B. E. — Du 1er au 20 Juillet ou du 20 Août au 15 Septembre._
 
 Cartes à emporter : Foix et Perles réunies.
 
-__De l'HOSPITALET à SIGUER,__\
-__par le Cirque du Sisca, le Roc Mélé, le Pic de la Cabanette,__\
-__le Signal de Siscarou, le Pic d'Ascobes, le Pic de l'Albe,__\
-__le Pic de Rulle, le Pic Noir de Joucla,__\
-__les Etangs de Fontargente,__\
-__le Pic de Mil-Ménut, la Gorge de Quioules, la Vallée d'Astorn,__\
+__De l'HOSPITALET à SIGUER,__<br>
+__par le Cirque du Sisca, le Roc Mélé, le Pic de la Cabanette,__<br>
+__le Signal de Siscarou, le Pic d'Ascobes, le Pic de l'Albe,__<br>
+__le Pic de Rulle, le Pic Noir de Joucla,__<br>
+__les Etangs de Fontargente,__<br>
+__le Pic de Mil-Ménut, la Gorge de Quioules, la Vallée d'Astorn,__<br>
 __le Pic du Pas de las Aygues et le Pic de Midi de Siguer.__
 
 <u>__AVIS AUX TOURISTES__</u>
@@ -48,7 +48,7 @@ pourrait en louer un pour les deux premiers jours.
 <p class="droite">(Voir ci-contre la Carte du Sisca, du Rulle et de Fontargente).<br/>
 (Voir, page 440, la Carte générale de l'Excursion).</p>
 
-———\
+———<br>
 (1) L'Hospitalet (Arièze), 148 hab., c. d'Ax-les-Thermes (17 k.), ligne
 d'Ax à Bourg-Madame.
 
@@ -64,9 +64,9 @@ d'Ax à Bourg-Madame.
 
 ## PREMIÈRE JOURNÉE
 
-__De l'HOSPITALET (1.436m) au REFUGE du SISCA (2.080m),__\
-__par le Roc Mélé (2.813m),__\
-__le Pic de la Cabanette (2.841m), le Signal de Siscarou (2.830m)__\
+__De l'HOSPITALET (1.436m) au REFUGE du SISCA (2.080m),__<br>
+__par le Roc Mélé (2.813m),__<br>
+__le Pic de la Cabanette (2.841m), le Signal de Siscarou (2.830m)__<br>
 __et le Pic d'Ascobes (2.778m).__
 
 —— SANS GUIDE ——
@@ -100,7 +100,7 @@ Le Cylindre d'Ascobes, d'une alt. de 2.600 m. environ, a été
 gravi pour la première fois, ie 7 juillet 1920, par mon disciple,
 le Dr Jean Arlaud (V. La Montagne, 1920. p. 149).
 
-———\
+———<br>
 (1) Pour que la voie ferrée puisse, en quittant la gare de l'Hospitalet
 décrire la courbe nécessaire à son entrée dans le grand tunnel
 de 3 kil. de cette localité à Porté, on a déplacé l'Ariège, vers l'O. au
@@ -155,7 +155,7 @@ versants, deux petits couloirs rapides et faciles qui grimpent
 vers une étroite et très profonde entaille de la crête où il n'y a
 de passage que pour une personne. De cette brèche, on domine
 
-———\
+———<br>
 (1) Il ne faut pas confondre ce refuge avec celui de la vallée des
 Bésines, au N.-E. de l'Hospitalet.
 
@@ -206,7 +206,7 @@ Du Cylindre au Pic d'Ascobes............. 1h.20 } (Arrêts en sus).
 Du Pic d'Ascobes au Refuge............... 2h. » }
 ```
 
-———\
+———<br>
 (1) Au S. de ces deux étangs, existe le très joli Pic Noir andorran
 de Joucla, 2.640 m. environ. Nous avons donc deux pics Noir de
 Joucla un en France et un en Andorre, comme nous avons quatre
@@ -218,9 +218,9 @@ Joucla un en France et un en Andorre, comme nous avons quatre
 
 ## DEUXIÈME JOURNÉE
 
-__Du SISCA aux CABANNES de GARSEING (1.960m) [1],__\
-__par la Porteille du Sisca (2.450m), le Pic de l'Albe (2.764m),__\
-__le Pic de Rulle (2.788m), le Pic Noir de Joucla (2.612m)__\
+__Du SISCA aux CABANNES de GARSEING (1.960m) [1],__<br>
+__par la Porteille du Sisca (2.450m), le Pic de l'Albe (2.764m),__<br>
+__le Pic de Rulle (2.788m), le Pic Noir de Joucla (2.612m)__<br>
 __et les Etangs de Fontargente.__
 
 —— SANS GUIDE ——
@@ -256,9 +256,8 @@ de pierraille et de jispet, pour parvenir, 20 min. après, au
 Pic de l'Albe (2.764m), à 40 m. de la tourelle. On déposera là son
 sac, et on arrivera au Signal à toute crête (2).
 
-———\
-(1) Les gens du pays prononcent Garsangn.
-
+———<br>
+(1) Les gens du pays prononcent Garsangn.<br>
 (2) Sur les régions de l'Albe, du Rulle, de Fontargente et sur le
 Cirque du Sisca, voir les articles très intéressants et très documentés
 de M. L. Rouch : 1° au Bulletin Pyrénéen, année 1914, pages 321 et
@@ -308,11 +307,10 @@ du Rulle (2.788m).
 Par sa situation privilégiée, puisque aucun pic de plus haute
 altitude ne gène sa vue (2), le Rule est un belvédère de tout pre-
 
-———\
+———<br>
 (4) Si on partait de l'étang Couart, on pourrait monter par le cirque
 E. et rejoindre le premier itinéraire à la crête, en haut du vert
-couloir,
-
+couloir,<br>
 (2) Le Pic de Serrère (2.911m) est à 11 k. à l'O. et le Carlitte (2.921m),
 à 17 h., à l'E.
 
@@ -380,10 +378,9 @@ entre les deux étangs, on quittera le plateau en obliquant un peu
 déversoir du grand étang jusqu'au ruisseau d'Aston qu'il franchit.
 On trouvera sur la rive dr. un chemin muletier qui, à travers
 
-———\
+———<br>
 (1) V. à ce sujet l'article de M. L. Rouch dans le Bulletin Pyrénéen.
-année 1917, p. 68.
-
+année 1917, p. 68.<br>
 (2) Les deux étangs andorrans de Joucla dont il est question à la
 page 437, sont plus au S., de l'autre côté de la frontière. Un col facile
 les fait communiquer avec les étangs français de Joucla.
@@ -400,7 +397,7 @@ un beau plateau de verdure, rive dr. de la haute vallée d'Aston.
 La plus confortable est la première, celle qui appartenait à
 l'ancien berger principal, Papy (1).
 
-Nota. — Si on n'a pris le porteur que pour deux jours, c'est
+> Nota. - Si on n'a pris le porteur que pour deux jours, c'est
 du Rulle qu'il faut le renvoyer; il pourra ainsi rentrer facilement 
 à l'Hospitalet le soir même, par la Couillade et la Jasse
 de Pédourès.
@@ -417,9 +414,9 @@ Du Pic Noir aux Cabanes de Garseing...... 1h.45 }
 
 ## TROISIÈME JOURNÉE
 
-__Du PLATEAU de GARSEING (1.960m) à ASTON (580m),__\
-__par la Coume de Varilhes, le Col de la Coume d'Ose (2.352m),__\
-__le Pic de Mil-Ménut (2.735m), la Coume de Seignac,__\
+__Du PLATEAU de GARSEING (1.960m) à ASTON (580m),__<br>
+__par la Coume de Varilhes, le Col de la Coume d'Ose (2.352m),__<br>
+__le Pic de Mil-Ménut (2.735m), la Coume de Seignac,__<br>
 __la Jasse et la Gorgé de Quioules et la Vailée d'Aston.__
 
 —— SANS GUIDE ——
@@ -434,7 +431,7 @@ trajet de ce genre, au début de l'excursion, se fait sans fatigue.
 Franchissant l'Aston au S. de la cabane, on obliquera immédiatement
 à dr. pour contourner le flanc N. de la montagne. Après
 
-———\
+———<br>
 (1) Papy était un bon chasseur qui connaissait admirablement les
 montagnes de Fontargente et qui pouvait donner des renseignements
 précieux. Comme il était très serviable, c'était, pour le touriste qui
@@ -571,7 +568,7 @@ Le chemin, garni de pavés glissants, monte ensuite pendant
 1/4 d'h. environ et bientôt on rejoint la grande route qui conduit
 directement à Aston (2).
 
-Nota. — Si on avait les provisions nécessaires, on pourrait
+> Nota. - Si on avait les provisions nécessaires, on pourrait
 éviter 1 h. de marche, le soir, et autant, le lendemain matin,
 en couchant au hameau de la Réglat, 10 min. en aval du ruisseau
 de Sirbal.
@@ -586,10 +583,9 @@ Du Mil-Ménut à la Jasse de Quioules.... 2h. » } (Arrêts en sus).
 De la Jasse de Quioules à Aston........ 3h.45 }
 ```
 
-———\
+———<br>
 (1) Pont de la Crabe 1.300m, appelé ainsi parce qu'une chèvre le
-franchirait d'un bond.
-
+franchirait d'un bond.<br>
 (2) Aston, 334 hab., c. des Cabannes (3 k.).
 
 <div class="page"/>
@@ -598,10 +594,10 @@ franchirait d'un bond.
 
 ## QUATRIEME JOURNEE
 
-__D'ASTON (580m) à SIGUER (745m),__\
-__par le Vallon de Sirbal, le Pas de l'Escalier (1.800m),__\
-__la Serre des Affumats (2.095-2.187m),__\
-__le Pic du Pas de las Aygues (2.288m) et le Pic de Midi__\
+__D'ASTON (580m) à SIGUER (745m),__<br>
+__par le Vallon de Sirbal, le Pas de l'Escalier (1.800m),__<br>
+__la Serre des Affumats (2.095-2.187m),__<br>
+__le Pic du Pas de las Aygues (2.288m) et le Pic de Midi__<br>
 __de Siguer (2.002m).__
 
 —— SANS GUIDE ——
@@ -638,7 +634,7 @@ apercevra droit au N.-O. la large échancrure du Pas des Escaliers,
 presque dans l'axe d'un petit vallon qui monte vers la crête. Il
 n'y a pas de sentier régulier, mais de nombreuses traces sur un
 
-———\
+———<br>
 (1) La cote 1268 est celle de la carte d'Etat-Major; à mon avis, cette
 cabane est au moins à 1.400 m.
 
@@ -716,7 +712,7 @@ le second continue droit au N. et, après avoir franchi le torrent
 de Durbat, y aboutit 1 k. en amont de Siguer. Les deux sont
 bons et demandent le même temps.
 
-Nota. - on peut, en 1/2 h., descendre de Siguer à Larramade
+> Nota. - on peut, en 1/2 h., descendre de Siguer à Larramade
 (2 k. 500) et là, prendre le petit train, soit pour Vicdessos ou
 Auzat, soit pour Tarascon.
 
@@ -732,7 +728,7 @@ Du Pic du Pas de las Aygues au Pic de          } (Arrêts en sus).
 Du Pic de Midi à Siguer................. 2h.15 }
 ```
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __REFUGE DU SISCA__
 - Pour rejoindre de l'Hospitalet : 2h »

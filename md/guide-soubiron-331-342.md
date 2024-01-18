@@ -18,7 +18,7 @@ output: pdf_document
 
 (No 19 de la 1re édition)
 
-__Cinq jours en Haut Aran et en Catalogne__\
+__Cinq jours en Haut Aran et en Catalogne__<br>
 __AU DÉPART DE MARIGNAC OU DE LUCHON__
 
 _B. E. — Du 15 Juillet au 15 Septembre._
@@ -26,10 +26,10 @@ _B. E. — Du 15 Juillet au 15 Septembre._
 Cartes à emporter : Saint-Girons et Mont Rouch réunies.
 De MARIGNAC à SENTEIN,
 
-__par le Val d'Aran,__\
-__Les Sources de la Garonne, le Grand Pic de Colomès,__\
-__le Grand Péguéra, la Pointe de Sabourède,__\
-__Salardu, la Vallée de Bagerque, le Maubermé et le Port d'Urets.__\
+__par le Val d'Aran,__<br>
+__Les Sources de la Garonne, le Grand Pic de Colomès,__<br>
+__le Grand Péguéra, la Pointe de Sabourède,__<br>
+__Salardu, la Vallée de Bagerque, le Maubermé et le Port d'Urets.__<br>
 
 <u>__AVIS AUX TOURISTES__</u>
 
@@ -72,7 +72,7 @@ N. jusqu'à Sentein.
 
 ## PREMIÈRE JOURNÉE
 
-__De MARIGNAC (500m) à SALARDU (1.268m)__\
+__De MARIGNAC (500m) à SALARDU (1.268m)__<br>
 __et aux SOURCES de la GARONNE (1.872m), par le Val d'Aran.__
 
 —— SANS GUIDE ——
@@ -115,7 +115,7 @@ De Salardu au port de Béret........ 2h. » }   3h.30
 Du Col de Béret à Salardu.......... 1h.30 } (Arrêts en sus).
 ```
 
-———\
+———<br>
 (1) Salardu, 482 hab., dernier vill. important du Val d'Aran, à 48 k.
 de Marignac.
 
@@ -125,8 +125,8 @@ de Marignac.
 
 ## DEUXIÈME JOURNÉE
 
-__De SALARDU (1.268m) à la PLETA DE LOS GAVACHOS (2.125m),__\
-__par la Vallée d'Aiguamoch,__\
+__De SALARDU (1.268m) à la PLETA DE LOS GAVACHOS (2.125m),__<br>
+__par la Vallée d'Aiguamoch,__<br>
 __le Cirque de Colomès et le Grand Pic de Colomès (2.930m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -164,9 +164,8 @@ franchissant le ruisseau qui vient du Lac Major, et on longera
 ensuite le lac de la Llosa par la rive méridionale. Tournant alors
 direction S., on laissera à g. le lac de Lac Clotos, facilement
 
-———\
-(1) Voir 23° E., p. 313.
-
+———<br>
+(1) Voir 23° E., p. 313.<br>
 (2) C'est sur cette crête que s'élève le sommet nommé par M. Gourdon
 « Pouce de Colomès » et que les gens du pays appellent « Tuc
 del Cap de Colomès ». V. Annuaire du C. A. F., année 1877, p. 559.
@@ -245,7 +244,7 @@ Du Colomès à la Pleta de Los Gavachos. 2h. » }
 
 ## TROISIÈME JOURNÉE
 
-__De la PLETA DE LOS GAVACHOS (2.125m)__\
+__De la PLETA DE LOS GAVACHOS (2.125m)__<br>
 __au LAC de SAN MAURICIO (1.895m), par le Grand Péguéra (2.982m).__
 
  —— GUIDE INDISPENSABLE ——
@@ -339,9 +338,9 @@ Du Grand Péguéra au Lac de San Mauricio 3h.30 }
 
 ## QUATRIÈME JOURNÉE
 
-__Du LAC de SAN MAURICIO (1.895m) à SALARDU (1.268m),__\
-__par le Port de la Ratère (2.544m)__\
-__la Pointe de Sabourède (2.861m), le Cirque de Sabourède__\
+__Du LAC de SAN MAURICIO (1.895m) à SALARDU (1.268m),__<br>
+__par le Port de la Ratère (2.544m)__<br>
+__la Pointe de Sabourède (2.861m), le Cirque de Sabourède__<br>
 __et la Vallée de Ruda.__
 
 —— GUIDE INDISPENSABLE ——
@@ -404,13 +403,13 @@ nombreuses premières en pratiquant l'alpinisme acrobatique.
 
 ## CINQUIÈME JOURNÉE
 
-__De SALARDU (1.268m) à SENTEIN (760m) [2],__\
-__par la Vallée de Bagerque,__\
+__De SALARDU (1.268m) à SENTEIN (760m) [2],__<br>
+__par la Vallée de Bagerque,__<br>
 __le Maubermé (2.880m) et le Port d'Urets (2.547m).__
 
 —— GUIDE UTILE ——
 
-Nota. — Cette journée d'excursion nous fait passer des
+> Nota. - Cette journée d'excursion nous fait passer des
 Pyrénées centrales aux Pyrénées ariégeoises et catalanes. C'est
 du magnifique belvédère du Maubermé que nous verrons encore
 un grand nombre de ses cimes et que nous dirons adieu à
@@ -424,10 +423,9 @@ et au S. par la Noguera Pallaresa. Du sommet du Maubermé,
 on domine les profondeurs de cette cassure entre les deux
 régions.
 
-———\
+———<br>
 (1) V. Aiguilles Pyrénéennes : Une Semaine dans la Sierra des
-Encantats; tiré à part de la Rerue Alpine, 3° trimestre 1926.
-
+Encantats; tiré à part de la Rerue Alpine, 3° trimestre 1926.<br>
 (2) Sentein (Ariège), 1.200 hab., c. de Castillon, arr. et à 25 k. de
 Saint-Girons, est desservi par un tram électrique en correspondance
 avec la gare de Saint-Girons.
