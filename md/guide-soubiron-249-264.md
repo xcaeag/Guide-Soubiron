@@ -312,10 +312,8 @@ plan, entre Gerbats et Troumouse, Marboré (3.253m), Troumouse
 
 ———<br>
 (1) Voir à ce sujet l'intéressante brochure de M. Pierre de Gorsse,
-petit in-8°, 1923, imprimerie Sarthe, à Luchon.
-
-(2) Bach est synonyme de vallée.
-
+petit in-8°, 1923, imprimerie Sarthe, à Luchon.<br>
+(2) Bach est synonyme de vallée.<br>
 (3) On peut y monter à cheval par les trois vallées de Louron, de
 Larboust et d'Oueil.
 
@@ -531,8 +529,7 @@ perdre de vue, le glacier du Crabioules, le Clot des Piches et les
 (1) Le contrefort E. du Pic de Sarnès (2.581m) se divise en deux
 crêtes dans sa partie médiane, formant ainsi un vallon suspendu
 entre les deux branches de la fourche: c'est le haut de ce vallon que
-traverse le sentier.
-
+traverse le sentier.<br>
 (2) Voir notice sur le refuge à la 16me E., p. 217.
 
 <div class="page"/>

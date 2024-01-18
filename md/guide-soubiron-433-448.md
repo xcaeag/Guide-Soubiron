@@ -257,8 +257,7 @@ Pic de l'Albe (2.764m), à 40 m. de la tourelle. On déposera là son
 sac, et on arrivera au Signal à toute crête (2).
 
 ———<br>
-(1) Les gens du pays prononcent Garsangn.
-
+(1) Les gens du pays prononcent Garsangn.<br>
 (2) Sur les régions de l'Albe, du Rulle, de Fontargente et sur le
 Cirque du Sisca, voir les articles très intéressants et très documentés
 de M. L. Rouch : 1° au Bulletin Pyrénéen, année 1914, pages 321 et
@@ -311,8 +310,7 @@ altitude ne gène sa vue (2), le Rule est un belvédère de tout pre-
 ———<br>
 (4) Si on partait de l'étang Couart, on pourrait monter par le cirque
 E. et rejoindre le premier itinéraire à la crête, en haut du vert
-couloir,
-
+couloir,<br>
 (2) Le Pic de Serrère (2.911m) est à 11 k. à l'O. et le Carlitte (2.921m),
 à 17 h., à l'E.
 
@@ -382,8 +380,7 @@ On trouvera sur la rive dr. un chemin muletier qui, à travers
 
 ———<br>
 (1) V. à ce sujet l'article de M. L. Rouch dans le Bulletin Pyrénéen.
-année 1917, p. 68.
-
+année 1917, p. 68.<br>
 (2) Les deux étangs andorrans de Joucla dont il est question à la
 page 437, sont plus au S., de l'autre côté de la frontière. Un col facile
 les fait communiquer avec les étangs français de Joucla.
@@ -588,8 +585,7 @@ De la Jasse de Quioules à Aston........ 3h.45 }
 
 ———<br>
 (1) Pont de la Crabe 1.300m, appelé ainsi parce qu'une chèvre le
-franchirait d'un bond.
-
+franchirait d'un bond.<br>
 (2) Aston, 334 hab., c. des Cabannes (3 k.).
 
 <div class="page"/>

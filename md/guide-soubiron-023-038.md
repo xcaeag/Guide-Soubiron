@@ -223,8 +223,7 @@ première cabane d'Azuns. On obliquera à g., à travers les pelouses,
 pour gagner une croupe gazonnée qui se dirige à l'O. entre
 le torrent du Lauga au N., et un ruisselet, au S. Des sentes
 
-———
-
+———<br>
 (1) Le refuge gardé de Labérouat est situé vers 1.400m d'alt., à
 1 h. 1/2 au N.-O. de Lescun; on a avantage à y coucher la veille de
 l'ascension au Pic d'Anie. S'adresser à M. Campagne, à Lescun.
@@ -384,8 +383,7 @@ La cime du Visaurin (ou Visaurri) est formée d'une crête de
 Le panorama est très vaste; il embrasse surtout la région comprise 
 entre le pic d'Anie et le Balaïtous. Le massif de Sesques
 
-———
-
+———<br>
 (1) Dans certaines cartes, ce lieu porte le nom de « Fonderie ».
 
 <div class="page"/>
@@ -490,8 +488,7 @@ Après avoir franchi un petit ruisseau qui descend de la crête
 de g., on prendra, en face, le sentier muletier qui longe le torrent 
 de Larry par la rive dr. jusqu'au moment où il tourne au S. 
 
-———
-
+———<br>
 (1) Gabas (Basses-Pyrénées), sur la grand'route de Laruns à Panticosa, 
 arr. d'Oloron, à 8 k. des Eaux-Chaudes et à 14 de la gare de
 Laruns. Hôtel des Pyrénées, chez Baylou.

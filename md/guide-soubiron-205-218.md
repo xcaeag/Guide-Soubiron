@@ -272,8 +272,7 @@ est à 1 k. au N.-E. du Port de Péguère. C'est donc la crête qui va
 de ce dernier port au Lustou qui est la vraie Crête de Guerreys. Celle
 du Batoua domine les régions de Péguère et de Laniscoude; elle
 devrait donc porter l'un de ces deux noms, si on ne veut lui donner
-celui de Batoua.
-
+celui de Batoua.<br>
 (2) La pointe N.-E. cotée 2.970, est désignée par les gens du pays
 sous le noin de « Pic Balinet ».
 

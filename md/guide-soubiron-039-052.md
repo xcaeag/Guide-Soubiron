@@ -44,8 +44,7 @@ deuxième et la troisième journée.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
-———
-
+———<br>
 (1) Les Eaux-Chaudes (B.-Pyr.), commune et c. de Laruns (5 k. 500),
 postes et télégraphes, desservi par des automobiles depuis la gare
 de Laruns (6 k.).

@@ -547,6 +547,5 @@ __REFUGE DU FOURCAT__
 - Pour rejoindre d'Auzat : 5h. »
 - Pour rentrer à Auzat : 3h.30
 
-———
-
+———<br>
 (1)  Le mot « Bède » est synonyme de forêt.

@@ -445,8 +445,7 @@ travail gigantesque accompli par l'eau pour se frayer un passage
 ———<br>
 (1). Dans le petit cairn du sommet, j'ai déposé une boîte en fer contenant 
 un carnet dans lequel j'ai soigneusement recueilli les cartes de
-visite de mes courageux devanciers.
-
+visite de mes courageux devanciers.<br>
 (2) Si on ne garde pas le guide pour le 5me jour, c'est de ce point
 qu'il faut le renvoyer pour qu'il puisse rentrer à Gèdre le soir même.
 
@@ -503,10 +502,8 @@ monte dans la forêt de Bert. En de multiples lacets, par la rive
 ———<br>
 (1) Hameau d'Aragnouet, desservi par un autobus partant d'Arreau
 (23 k.) à l'arrivée du premier train du matin, et repartant de Fabian
-vers 16 h.
-
-(2) Souvenirs d'un Montagnard, 2 édition, p. 236.
-
+vers 16 h.<br>
+(2) Souvenirs d'un Montagnard, 2 édition, p. 236.<br>
 (3) Pont de la Hosse de la carte d'Etat-Major. Situé à 976 m. d'alt., ce
 pont sépare la commune de Tramezaygues de celle d'Aragnouet.
 

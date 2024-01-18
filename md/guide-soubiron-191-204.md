@@ -392,8 +392,7 @@ en Espagne jusqu'au port; 2° par la crête S. et la Punta del Sa-
 pic. Le 16 août 1912, avec mon jeune camarade Jean Duffour et le
 guide luchonnais Jean Courrège, dit Zogue, nous avons élevé un
 cairn de 1 m. sur ce sommet. Le lendemain, du haut du Posets, nous
-avions da satisfaction d'apercevoir notre petite tourelle à l'œil nu.
-
+avions da satisfaction d'apercevoir notre petite tourelle à l'œil nu.<br>
 (2) Le nom d'Aygues-Cluses, que M. de Saint-Saud donne au pic 2.877
 et à la Cinqueta qui naît presque à sa base, me paraît le plus logique.
 Mais, comme ce nom de lieu existe déjà plus à l'O., près de Barèges,

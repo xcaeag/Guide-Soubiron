@@ -290,8 +290,7 @@ Les horaires sont larges; les plus rapides sont ceux d'un pyrénéiste moyen.
 ———<br>
 (1) Non seulement il était contre l'encordage dans le rocher, mais
 encore dans les glaciers non crevassés. (V. Souvenirs d'un Montagnard,
-2e édition, p. 17.)
-
+2e édition, p. 17.)<br>
 (2) V. accident Calame et Carive, p. 26.
 
 <div class="page"/>
@@ -432,8 +431,8 @@ sous un rocher après avoir éloigné les piolets dont la pointe
 acérée attire la foudre. __Bien se garder de franchir une crête et
 d'y circuler pendant l'orage.__
 
+———<br>
 (1) V. Annuaire du C. A. F, 1882, p. 317.
-
 
 <div class="page"/>
 
@@ -810,6 +809,7 @@ Turon........... Sommet secondaire dominé par un pic voisin.
 Tramezaygues.... Terme générique qui signifie « Entre deux Eaux ».
 Vire. .......... Petite corniche sur la paroi de la montagne; étroit gradin.
 
+———<br>
 (1) Le mot « Som » n'a aucune signification, ni en français, ni en patois. Si je l'ai
 inscrit dans mon vocabulaire, c'est parce qu'on le trouve souvent dans les cartes
 pour la désignation de divers sommets.

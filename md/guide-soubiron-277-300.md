@@ -50,8 +50,7 @@ sans danger (1);
 
 ———<br>
 (1) V. Bulletin de la Section des Pyrénées Centrales, n° d'octobre-
-décembre 1922.
-
+décembre 1922.<br>
 (2) Pour la partie au N. de la frontière, voir la carte des Environs
 de Luchon.
 

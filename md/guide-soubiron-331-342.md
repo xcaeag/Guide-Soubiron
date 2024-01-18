@@ -165,8 +165,7 @@ ensuite le lac de la Llosa par la rive méridionale. Tournant alors
 direction S., on laissera à g. le lac de Lac Clotos, facilement
 
 ———<br>
-(1) Voir 23° E., p. 313.
-
+(1) Voir 23° E., p. 313.<br>
 (2) C'est sur cette crête que s'élève le sommet nommé par M. Gourdon
 « Pouce de Colomès » et que les gens du pays appellent « Tuc
 del Cap de Colomès ». V. Annuaire du C. A. F., année 1877, p. 559.
@@ -426,8 +425,7 @@ régions.
 
 ———<br>
 (1) V. Aiguilles Pyrénéennes : Une Semaine dans la Sierra des
-Encantats; tiré à part de la Rerue Alpine, 3° trimestre 1926.
-
+Encantats; tiré à part de la Rerue Alpine, 3° trimestre 1926.<br>
 (2) Sentein (Ariège), 1.200 hab., c. de Castillon, arr. et à 25 k. de
 Saint-Girons, est desservi par un tram électrique en correspondance
 avec la gare de Saint-Girons.

@@ -846,8 +846,7 @@ le vallon fleuri de la Frèche qui se creuse à g. Parvenu
 
 ———<br>
 (1) 11 s'agit bien ici du fameux « Goueil de Jouèou », que certains
-auteurs considèrent comme l'une des sources de la Garonne.
-
+auteurs considèrent comme l'une des sources de la Garonne.<br>
 (2) Petite échelle.
 
 

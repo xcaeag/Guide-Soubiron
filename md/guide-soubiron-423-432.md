@@ -242,8 +242,7 @@ du Rialp ou Valira del Nort (2).
 (1) Dans un article très documenté, mon excellent compagnon
 d'ascension, J. Lataste, a signalé l'existence de ce lac et mis en lumière
 toutes les beautés de la région du Rialp. (V. Bulletin de le Section
-des Pyrénées Centrales, n° 52.)
-
+des Pyrénées Centrales, n° 52.)<br>
 (2) Le Serrat, vill. d'été, comprend une vingtaine de maisons couvertes
 en ardoise. La plus recommandée est celle de Vincente Zacurraga.
 

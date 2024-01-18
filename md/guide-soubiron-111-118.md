@@ -55,8 +55,7 @@ __d'Araillé (2.763m) et la Hourquette d'Ossoue (2.738m).__
 __Conseils.__ — __Itin. recomm.__ —- On partira vers 5 h. et on remontera 
 la vallée de Lutour pour arriver, vers 9 h., à l'hôtellerie
 du Lac d'Estom. On y déjeunera vers 10 h., afin de pouvoir en
-repartir à 11h.30 ou midi. On ne prendra dans son sac que ce
-
+repartir à 11h.30 ou midi. On ne prendra dans son sac que ce<br>
 (1) On trouve cette clé au Syndicat d'Initiative à Cauterets.
 
 <div class="page"/>
@@ -230,8 +229,7 @@ Du Vignemale au Col de Pouymourou.... 3h.45 }    9h.45
 Du Col de Pouymourou au Lac d'Estom.. 2h.45 } (Arrêts en sus)
 ```
 
-———
-
+———<br>
 (1)  Ce petit lac, d'une coquetterie sauvage, tire son nom de la 
 gracieuse fleurette bleue qu'on trouve en quantité dans ses alentours.
 

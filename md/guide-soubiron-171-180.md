@@ -349,8 +349,7 @@ Capdetrey. Ce dernier, qui n'est pas aubergiste, mais sim-
 (1) Je crois que c'est à tort que certains auteurs appellent ce lac
 « Lac Rond de Port Bieil », puisqu'il s'écoule sur Caderolles. Les lacs
 de Port Bieil sont tous à l'O. de la crête de ce nom, dans le cirque de
-Port Bieil, et s'écoulent dans l'Oule de Couplan.
-
+Port Bieil, et s'écoulent dans l'Oule de Couplan.<br>
 (2) Pic de Port Bieil des cartes.
 
 

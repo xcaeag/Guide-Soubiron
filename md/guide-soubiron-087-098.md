@@ -197,8 +197,7 @@ seulement déterminé la situation exacte du Bernat Barraou, mais
 (1) C'est à tort que les cartes font passer la frontière à la Petite.
 Fache, qui est en entier en France. Du Col de la Fache (2.738m), elle
 monte directement au Pène d'Aragon, d'où elle descend au col de ce
-nom pour remonter au Pic de Cambalès.
-
+nom pour remonter au Pic de Cambalès.<br>
 (2) Ce lac reste ordinairement glacé jusqu'aux premiers jours d'août.
 
 

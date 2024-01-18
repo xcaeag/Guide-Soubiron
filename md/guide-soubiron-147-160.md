@@ -218,12 +218,10 @@ est en entier sur le Campbieil, tandis que la montagne et la vallée du
 Badet sont plus à l'E., de l'autre côté du pic de Campbieil et de la
 crête de Lentilla. Les bergers et les chasseurs l'appellent Pic d'Estibère 
 Male. Satellite très rapproché du Pic Long qui le domine et lui
-masque une partie de la vue, le Badet est presque sans intérêt.
-
+masque une partie de la vue, le Badet est presque sans intérêt.<br>
 Il est facilement faisable par la crête E., en partant de la Hourquette 
 du Badet, ou encore par la coume rapide de la face N. qui
-aboutit à la crête, entre le petit pic et le sommet 3161.
-
+aboutit à la crête, entre le petit pic et le sommet 3161.<br>
 (2) Certains auteurs appellent ce petit gourg « Lac du Badet »;
 d'autres, « Lac d'Estaragne ». Comme il ne se déverse ni dans la
 vallée du Badet, ni dans le vallon d'Estaragne dont il est séparé par
@@ -481,7 +479,7 @@ la brèche 2.647 d'où on montera à toute crête au Maucapéra
 Si on veut varier le chemin du retour et gagner 1/4 d'h. à la
 descente, on prendra le couloir rapide à la brèche 2.647, et on
 fera au bas un crochet à g., afin de rejoindre son sac.
-
+****
 (4) Je ne partage pas l'opinion de plusieurs auteurs quand ils
 disent que ce mot signifie « mauvais prêtre ». Maucapera viendrait
 plutôt des mots : maou capérat, ce qui signifierait : « Mal Coiffé -

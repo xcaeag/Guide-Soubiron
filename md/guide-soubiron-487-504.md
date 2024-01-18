@@ -163,8 +163,7 @@ va à toute crête d'un pic à l'autre.
 
 ———<br>
 (1) La dépression située au N.-O. de la Tosa est nommée Col de las
-Clèdes par les Espagnols.
-
+Clèdes par les Espagnols.<br>
 (2) Caralps, 600 hab.; vill. catalan du versant espagnol, à 2 h. du
 Pas dels Lladres.
 

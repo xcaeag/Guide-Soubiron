@@ -158,11 +158,11 @@ pente de neige qui, par un couloir, rampe jusqu'à la brèche située
 entre le Spijeoles et le Pic Noir. On y déposera le sac et on fera,
 au N.-O., l'ascension du Spijeoles à toute crête en se tenant de
 
+———<br><br>
 (1) Au cas où l'avalanche aurait emporté ce pont, comme je lai
 constaté en 1910, et qu'on ne puisse franchir le torrent, on contournera 
 le lac facilement par le N. et l'E., à une certaine hauteur, pour
-aboutir au premier gourg. Par là, on n'allonge que de 1/2 h. environ.
-
+aboutir au premier gourg. Par là, on n'allonge que de 1/2 h. environ.<br>
 (2) Le mot « Gourg » signifie lac, étang profond. La région des
 Gourgs-Blancs comprend trois lacs superposés aux altitudes de 2.395,
 2.524 et 2.560. Anciennement, ces gourgs de haute alt. étaient constamment 
