@@ -678,7 +678,6 @@ Du Col de Barèges à Luchon............  3h. » }
 dans 3 h. environ, en passant à la Fontaine de Berns pour
 rejoindre la route entre l'Hospice de France et le Pont Lapadé.
 
-
 <div class="page"/>
 
 — p. 245 — (18me EXCURSION) HOSPICE DE FRANCE

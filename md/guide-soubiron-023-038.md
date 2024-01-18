@@ -181,7 +181,7 @@ Col de Naye, et dans celle d'état-major celui de Col d'Escoueste.
 
 __Ascension du Pic d'Anie (2.504m)__<br>
 __et__<br>
-__De Lescun (902m) à Urdos 760m) par la Vallée d'Aspe.__
+__De Lescun (902m) à Urdos (760m) par la Vallée d'Aspe.__
 
 —— SANS GUIDE ——
 
@@ -305,7 +305,7 @@ __Horaire de la Journée :__
 
 ```
 De Lescun au Col d'Anie.................. 3h.10 }
-Du Col d'Anie au Pic d'Anie.............. 1h.20 }  7h.30
+Du Col d'Anie au Pic d'Anie.............. 1h.20 }    7h.30
 Du Col d'Anie à la Cascade Sanchez....... 2h. » }  (Arrêts en sus)
 De la Cascade Sanchez à Lescun........... 1h. » }
 ```
