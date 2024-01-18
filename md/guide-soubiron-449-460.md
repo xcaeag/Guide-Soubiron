@@ -54,7 +54,6 @@ stratégique qui contourne la montagne de Pointe Couronne et
 qui, par le Colmajou, monte au plateau de Bonascre (1.370m).
 On dirait qu'elle a été construite pour l'agrément du touriste.
 
-
 <div class="page"/>
 
 — p. 450 —
@@ -156,7 +155,7 @@ Du Lac de Comté à Mérens............. 1h.30 } (Arrêts en sus).
 De Mérens à Ax (8 k. de route)....... 1h.30 }
 ```
 
-Nota. — Si on rentre à Ax par le train, l'excursion sera
+> Nota. - Si on rentre à Ax par le train, l'excursion sera
 réduite à 8h.30 de marche effective.
 
 ———<br>

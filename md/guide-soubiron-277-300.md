@@ -237,7 +237,7 @@ Du Port au Sauvegarde, aller et retour........ 1h.15 } (Arrêts en sus).
 Du Port de Venasque à La Rencluse............. 2h. » }
 ```
 
-Nota. — Le programme général des courses aux Monts-Maudits
+> Nota. - Le programme général des courses aux Monts-Maudits
 est le même pour les Espagnols que pour les Français, sauf
 qu'ils devront se rendre à La Rencluse le soir de la « Journée
 d'approches », et qu'ils redescendront à Venasque l'après-midi
@@ -899,7 +899,7 @@ travers le glacier du Néthou, puis, au bout de 20 min. environ,
 on tournera droit au N. pour rentrer à La Rencluse par le
 Portillon d'en bas.
 
-Nota. — Du Col Maudit, on peut, au lieu de l'ascension de la
+> Nota. - Du Col Maudit, on peut, au lieu de l'ascension de la
 Maladetta, faire celle du Néthou; il faut environ 1h.30 pour y
 parvenir. On suit le haut du glacier jusqu'au Col Coroné (3.173m)
 où on laisse le sac. A partir de là, l'itinéraire est classique :
@@ -1017,7 +1017,7 @@ De la Fontaine de La Glère au Pic de Sa-         } 8h.45
 Du Sacroux à Luchon...................... 4 h.15 }
 ```
 
-Nota. — On peut aussi, au départ de Luchon, faire l'ascension 
+> Nota. - On peut aussi, au départ de Luchon, faire l'ascension 
 du Sacroux comme je l'indique ci-dessous.
 
 1° En couchant la veille à l'Hospice de France puis en suivant

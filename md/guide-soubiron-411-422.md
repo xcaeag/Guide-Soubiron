@@ -14,7 +14,6 @@ output: pdf_document
 -----------------------
 [//]: # (— p. 411 —)
 
-
 — p. 411 —
 
 # TRENTE-TROISIÈME EXCURSION
@@ -98,7 +97,6 @@ France, large de 5 k., s'avance comme un éperon vers le S. sur
 l'O. de l'Andorre, qui est à l'E. Ce sont quelques sommets de ce
 fer à cheval frontière que nous allons ascendre en commençant
 par la Pique rouge de la Soucaranne.
-
 
 <div class="page"/>
 
@@ -284,7 +282,7 @@ Du Port de Médacourbe à l'Orry du Labi-            }
   nas ...................................... 2h. » }
 ``` 
 
-Nota. — On sera peut-être surpris que je ne fasse pas ascensionner 
+> Nota. - On sera peut-être surpris que je ne fasse pas ascensionner 
 le Médacourbe au lieu du Lavans. Ce dernier est bien
 supérieur comme belvédère, et la grande muraille du Médacourbe 
 n'est réellement intéressante que vue du N. surtout
@@ -347,7 +345,6 @@ subitement tout le cirque du Fourcat; on déposera là le sac.
 Du col, on apercevra, à quelques 200 m. à l'E., la tourelle du pic
 secondaire, 2.750 m. environ, et sur la g., au N.-O., la masse
 
-
 <div class="page"/>
 
 — p. 419 — (33me EXCURSION) GRAND FOURCAT et TRISTAGNES
@@ -399,7 +396,6 @@ frontière.
 On pourra, de ce point, repérer l'itinéraire du lendemain.
 depuis le vallon de l'Arbeille jusqu'aux étangs de Petsiguer.
 
-
 <div class="page"/>
 
 — p. 420 — ETANG FOURCAT  (33me EXCURSION)
@@ -431,7 +427,7 @@ Du Port au Pic de Tristagnes (aller et re-    } (Arrêts en sus)
 Du Port du Fourcat au Refuge........... 1h. » }
 ``` 
 
-Nota. — Si on n'a pu obtenir l'autorisation de coucher au
+> Nota. - Si on n'a pu obtenir l'autorisation de coucher au
 refuge du Fourcat, on descendra, dans 40 min. jusqu'à l'orry
 de la Chaudière. Dans ce dernier cas, on montera directement
 par le vallon de l'Arbeille le lendemain matin, afin de rejoindre 
@@ -449,7 +445,6 @@ __Conseils.__ — __Itin. recomm.__ — On descendra, au S.-E. du refuge,
 au barrage du lac pour franchir ensuite, vers l'E., la serre séparative 
 des deux fourches qui ont donné à l'étang le nom de
 Fourcat, c'est-à-dire « Fourchu ». Quelques min. après avoir
-
 
 <div class="page"/>
 
@@ -520,7 +515,7 @@ Parvenu à la forêt, le chemin tourne presque horizontalement
 devant soi. Un grand chemin de chars descend de Goulier à
 Vicdessos.
 
-Nota. — Si on veut aller à Auzat et y revenir directement,
+> Nota. - Si on veut aller à Auzat et y revenir directement,
 c'est à la Bède d'Olbier qu'il faut abandonner l'itinéraire ci-
 dessus. On trouve là un sentier qui, en de nombreux lacets,
 descend à Olbier, où on prendra le chemin qui va rejoindre la

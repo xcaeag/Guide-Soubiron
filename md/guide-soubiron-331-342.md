@@ -409,7 +409,7 @@ __le Maubermé (2.880m) et le Port d'Urets (2.547m).__
 
 —— GUIDE UTILE ——
 
-Nota. — Cette journée d'excursion nous fait passer des
+> Nota. - Cette journée d'excursion nous fait passer des
 Pyrénées centrales aux Pyrénées ariégeoises et catalanes. C'est
 du magnifique belvédère du Maubermé que nous verrons encore
 un grand nombre de ses cimes et que nous dirons adieu à

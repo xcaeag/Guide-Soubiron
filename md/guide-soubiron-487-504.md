@@ -288,7 +288,7 @@ le Col de la Marrana (2.500m) et le Pic del Gra de Fajol (2.728m).
 
 —— SANS GUIDE ——
 
-Nota. - Cette journée est celle qui fait ascendre le plus
+> Nota. - Cette journée est celle qui fait ascendre le plus
 grand nombre de sommets et franchir le plus de cols, avec le
 minimum de fatigue. En effet, dès qu'on a rejoint la chaîne
 frontière au Col des Neuf-Croix, ce n'est plus, par les crêtes,
@@ -741,7 +741,7 @@ __et promenade à Font-Romeu (1.776m), dans l'après-midi.__
 
 —— SANS GUIDE ——
 
-Nota. — Deux ascensions sans sac, c'est-à-dire deux balades
+> Nota. - Deux ascensions sans sac, c'est-à-dire deux balades
 de santé, constituent le programme de la quatrième journée,
 afin de terminer très agréablement la 39me Excursion de mon
 guide.

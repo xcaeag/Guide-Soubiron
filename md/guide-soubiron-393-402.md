@@ -124,10 +124,9 @@ De Génat au Querquèou................ 2h.45 } (Arrêts en sus)
 Du Querquèou à Auzat................. 2h.45 }
 ```
 
-Nota. — Pour les excursions des environs d'Auzat, on peut
+> Nota. - Pour les excursions des environs d'Auzat, on peut
 aussi coucher à Vicdessos, puisqu'il n'y a que 1/4 d'h. d'une
 localité à l'autre.
-
 
 <div class="page"/>
 
@@ -303,7 +302,7 @@ Du Pic de Risoul au Pic de Lercoul..... 2h.15 } (Arrêts en sus)
 Du Pic de Lercoul à Vicdessos.......... 2h.45 } 
 ```
 
-Nota. — Si on revient coucher à Auzat, 1/4 d'h. en sus.
+> Nota. - Si on revient coucher à Auzat, 1/4 d'h. en sus.
 
 <div class="page"/>
 

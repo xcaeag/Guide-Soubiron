@@ -12,7 +12,6 @@ title: TREIZIÈME EXCURSION
 -----------------------
 [//]: # (— p. 171 —)
 
-
 # TREIZIÈME EXCURSION
 
 (No 11 de la 1re édition)
@@ -27,7 +26,6 @@ Cartes à emporter : Luz, Bagnères-de-Luchon.
 
 __De BAGNÈRES-de-BIGORRE à ARREAU,__<br>
 __par le Pic de Midi, le Pic des Quatre Termes et l'Arbizon.__
-
 
 <u>__AVIS AUX TOURISTES__</u>
 
@@ -54,7 +52,6 @@ le versant de Barèges, pour monter en droite ligne, grâce à
 ———<br>
 (1) Concernant l'étymologie des pics de Midi, voir note spéciale, p. 38.
 
-
 <div class="page"/>
 
 — p. 172 —
@@ -71,12 +68,9 @@ tout à fait en haut.
 Il existe un service d'auto-cars du Tourmalet qui correspond 
 avec les tramways de Bagnères à Gripp.
 
-
 <div class="page"/>
 
-
 — p. 173 — (13me EXCURSION) PIC de MIDI de BIGORRE
-
 
 ## PREMIÈRE JOURNÉE
 
@@ -85,9 +79,7 @@ __de SENCOURS (2.373m),__<br>
 __par Gripp (1.066m), le Plateau d'Artigues (1.300m), la Cascade__<br>
 __de Garet et la Gorge de Sencours.__
 
-
 —— SANS GUIDE ——
-
 
 __Conseils.__ — __Itin. recomm.__ — On partira par le premier tram
 électrique du matin et, si ce dernier s'arrête à Gripp (16 k.), il
@@ -124,9 +116,7 @@ est unique. Sentinelle détachée de la grande chaîne, on
 jouit sur son sommet d'une vue incomparable dans toutes les
 directions.
 
-
 <div class="page"/>
-
 
 — p. 174 — COL du TOURMALET (13me EXCURSION)
 
@@ -140,7 +130,7 @@ De l'Hôtellerie à l'observatoire, aller et      }
   retour..................................2h.15 }
 ```
 
-Nota. — Si on veut faire l'ascension du Pic de Midi et du
+> Nota. - Si on veut faire l'ascension du Pic de Midi et du
 Lac Bleu, en revenant à Bagnères, voici comment je la conseille : 
 On partira le matin en tramway jusqu'à Artigues, afin
 d'y arriver à 9 ou 10 h.; dans 20 min., aller et retour, on ira
@@ -166,7 +156,6 @@ __Du PIC de MIDI à AULON (1.205m),__<br>
 __par le Col du Tourmalet(2.122m), le Pic des Quatre Termes(2.720m),__<br>
 __le Col de Bastanet (2.350m) et le Col du Bâästan (2.300m).__
 
-
 —— GUIDE UTILE ——
 
 <u>__Concernant le PIC des QUATRE TERMES__</u>
@@ -189,9 +178,7 @@ artificiel qui alimente en force la grande usine électrique
 d'Eget; à l'O., celui d'Aygue-Cluse, qui descend vers Barèges;
 à l'E., celui de Caderolles et, enfin, au N., celui du Tourmalet.
 
-
 <div class="page"/>
-
 
 — p. 175 — (13me EXCURSION) COUME DE POURTEILLE
  
@@ -252,9 +239,7 @@ versant de Barèges; donc, on ne sera pas surpris si le guide l'ignore
 et s'il veut passer par une autre voie, ce qu'il ne faut pas accepter,
 sous peine de compromettre la journée.
 
-
 <div class="page"/>
-
 
 — p. 176 — PIC des QUATRE TERMES (13me EXCURSION)
 
@@ -301,9 +286,7 @@ et du bassin de la Garonne. Du haut du Quatre Termes, on
 aperçoit la naissance de ces vallons opposés, et on peut dire
 qu'à ce point de vue, sa situation est peut-être unique.
 
-
 <div class="page"/>
-
 
 — p. 177 — (13me EXCURSION) COLS du BASTANET et du BASTAN
 
@@ -352,9 +335,7 @@ de Port Bieil sont tous à l'O. de la crête de ce nom, dans le cirque de
 Port Bieil, et s'écoulent dans l'Oule de Couplan.<br>
 (2) Pic de Port Bieil des cartes.
 
-
 <div class="page"/>
-
 
 — p. 178 — AULON (13me EXGURSION)
 
@@ -409,9 +390,7 @@ N.-N.-E., vers les bases rocheuses du contrefort S.-S.-O. du pic,
 (1) La petite fontaine de Coulariot signalée par la carte d'Etat-Major
 sourd d'une faille de rocher un peu plus haut.
 
-
 <div class="page"/>
-
 
 — p. 179 — (13me EXCURSION) PIC D'ARBIZON
 
@@ -460,9 +439,7 @@ franchir.
 On peut aussi descendre au Lac d'Arou en contournant le
 Monfaucon par l'O. et en prenant, au N. du pic, un couloir
 
-
 <div class="page"/>
-
 
 — p. 180 — HOURQUETTE D'ARREAU (13me EXCURSION)
 

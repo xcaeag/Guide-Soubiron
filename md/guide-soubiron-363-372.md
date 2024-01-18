@@ -227,7 +227,6 @@ au S.-E., elle est située entre le massif de Campirme, au S., et
 la chaîne frontière, au N. Ses points extrêmes sont les deux
 Monts Rouch, au N.-O., et le hameau de Cuanca, au S.-E._
 
-
 <div class="page"/>
 
 — p. 369 — (28me EXCURSION) PICS de MONT ROUCH
@@ -388,7 +387,7 @@ où l'on rejoint la route. Encore 1/2 h. de marche, et on
 arrivera à Saint-Lizier d'Ustou (752m), chef-lieu de la commune
 de ce nom, où on pourra coucher à l'Hôtel Gleyzes.
 
-Nota. — Un courrier ordinaire fait tous les matins le service
+> Nota. - Un courrier ordinaire fait tous les matins le service
 de Saint-Girons (30 k.) et un autobus monte également tous les
 jours au village du Trein, situé à 1 k. 500 en aval de Saint-
 Lizier d'Ustou. On fera bien de se renseigner au passage sur

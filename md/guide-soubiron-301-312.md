@@ -72,7 +72,7 @@ __par le Col des Salenques (2:801m) et le Pic Russell (3.201m).__
 
 —— GUIDE INDISPENSABLE ——
 
-Nota. — Dans la course C, l'ascension du Pic Russell s'effectuera
+> Nota. - Dans la course C, l'ascension du Pic Russell s'effectuera
 par la même voie que celle de la première édition de mon
 Guide, mais en sens inverse.
 
@@ -164,7 +164,7 @@ Du Col des Salenques au Pic Russell.... 2h.30 }   8h.45
 Du Pic Russell à la Cabane de Ribéréta..3h.   } (Arrêts en sus).
 ```
 
-Nota. — En amont, au S.-E. de la cabane, on apercevra les
+> Nota. - En amont, au S.-E. de la cabane, on apercevra les
 traces du sentier par lequel on descendra du Malibierne le lendemain.
 
 <div class="page"/>
@@ -527,7 +527,7 @@ tout en variant le trajet.
 
 __Horaire du Néthou__, aller et retour, 6 h., arrêts en sus.
 
-Nota. — Pout les Espagnols, le programme est le même que
+> Nota. - Pout les Espagnols, le programme est le même que
 pour les Français, sauf qu'ils descendront à Venasque dans
 l'après-midi au lieu de rentrer à Luchon.
 
@@ -547,7 +547,7 @@ __le Pas de la Mounjoye (2.115m) et l'Hospice de France (1.360m).__
 
 —— SANS GUIDE ——
 
-Nota. — De toutes les journées de retour d'une randonnée
+> Nota. - De toutes les journées de retour d'une randonnée
 aux hautes cimes, aucune ne peut être comparée, pour son
 grand attrait, à celle qui fait quitter les Monts-Maudits pour
 rentrer à Luchon. En effet, la remontée vers les ports de Venasque

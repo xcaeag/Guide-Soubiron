@@ -12,7 +12,6 @@ title: HUITIÈME EXCURSION
 -----------------------
 [//]: # (— p. 111 —)
 
-
 # HUITIÈME EXCURSION
 
 (N° 7 de la 1re-édition)
@@ -75,7 +74,6 @@ retour, on fera au N. du col l'ascension facile du Pic d'Araillé
 Sauf qu'il trône au centre d'un monde rocailleux dont il tire
 son nom, l'Araillé est par lui-même sans caractère. Mais c'est
 
-
 <div class="page"/>
 
 — p. 113 — (8me EXCURSION) COL D'ARAILLE
@@ -129,7 +127,6 @@ l'époque de l'excursion et l'état du glacier, on pourra faire
 On y trouve des provisions, et le couchage au lit de camp coûte
 2 fr. 50 aux membres du C. A. F.
 
-
 <div class="page"/>
 
 — p. 114 — Le VIGNEMALE (8me EXCURSION)
@@ -180,7 +177,6 @@ d'Estom Soubiran (2.866m), au N. Ce dernier sommet n'est pas
 ———<br>
 (1) Le refuge du Paradis, qui mesure 2 m. cubes, : a été construit
 par M. Russell en 1893.
-
 
 <div class="page"/>
 
@@ -233,12 +229,9 @@ Du Col de Pouymourou au Lac d'Estom.. 2h.45 } (Arrêts en sus)
 (1)  Ce petit lac, d'une coquetterie sauvage, tire son nom de la 
 gracieuse fleurette bleue qu'on trouve en quantité dans ses alentours.
 
-
 <div class="page"/>
 
-
 — p. 116 — LAC D'ESTOM — PIC de CULAOUS  (8me EXCURSION)
-
 
 ## TROISIÈME JOURNÉE
 
@@ -288,7 +281,6 @@ suivra presque horizontalement le flanc N. de la crête qui sépare
 
 <div class="page"/>
 
-
 — p. 117 — (8me EXCURSION) PIC de CESTREDE
 
 les deux sommets jusqu'au point situé verticalement au-dessous
@@ -318,7 +310,7 @@ suivra jusqu'au premier névé; là, on obliquera à dr., en dessous,
 afin d'aller rejoindre en biais la crête qui monte du Col de
 Culaous où on retrouvera la voie d'ascension.
 
-Nota. — En redescendant, on pourra repérer la voie d'ascen-
+> Nota. - En redescendant, on pourra repérer la voie d'ascen-
 sion du lendemain, vers la Pourtère de l'Ardiden.
 
 __Horaire de la Journée :__
@@ -343,7 +335,6 @@ lacets, le sentier conduit, à dr., près d'une source abondante.
 <div class="page"/>
 
 — p. 118 — PIC D'ARDIDEN — LUZ (8me EXCURSION)
-
 
 ## QUATRIÈME JOURNÉE
 

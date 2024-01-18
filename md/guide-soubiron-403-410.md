@@ -72,7 +72,6 @@ des provisions aux orrys du Carla.
 
 ![carte p404](../maps/guide-soubiron-0404-carte.jpg)
 
-
 <div class="page"/>
 
 — p. 405 — (32me EXCURSION) MARC D'AUZAT
@@ -372,7 +371,7 @@ Du Malcaras au refuge de l'Etang Fourcat. 1h.20 } (Arrêts en sus)
 Du refuge du Fourcat à Auzat............. 3h.10 }
 ```
 
-Nota. — En descendant, on aura soin de repérer tous les
+> Nota. - En descendant, on aura soin de repérer tous les
 points de couchage en vue des prochaines excursions. 1° Le
 refuge du Fourcat, au cas où on obtiendrait, du directeur de
 l'usine, l'autorisation d'y coucher; 2° l'orry situé sur la rive g.

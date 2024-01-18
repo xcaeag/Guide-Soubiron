@@ -58,7 +58,6 @@ PAR ORDRE DE MATIÈRES
 9. Index alphabétique des 1.500 noms de lieux............  525
 ```
 
-
 __TABLEAU DES ABRÉVIATIONS__
 
 __Sans Guide__ signifie : Cette excursion peut être faite sans guide.
@@ -67,18 +66,17 @@ __B. E.__ signifie : Bonne époque pour faire l'excursion.
 
 __Conseils.  Itin. recom.__ signifie : Conseils utiles. Itinéraire recommandé.
 
-
 ```    
-alt.   signifie  altitude.       |  m.                            signifie   mètre.   
-arr.      "      arrondissement. |  min.                             "       minute   
-c.        "      canton.         |  N.                               "       Nord.    
-dr.       "      droite.         |  O.                               "       Ouest.   
-E.        "      Est.            |  p.                               "       page.    
-g.        "      gauche.         |  S.                               "       Sud.     
-h.        "      heure.          |  V.                               "       Voir.    
-hab.      "      habitants.      |  vill.                            "       village. 
-k.        "      kilomètre.      |  (2814m) chiffres indiquant la 
-                                       cote d'alt.                   
+alt.   signifie  altitude.       |  m.                   signifie   mètre.   
+arr.      "      arrondissement. |  min.                    "       minute   
+c.        "      canton.         |  N.                      "       Nord.    
+dr.       "      droite.         |  O.                      "       Ouest.   
+E.        "      Est.            |  p.                      "       page.    
+g.        "      gauche.         |  S.                      "       Sud.     
+h.        "      heure.          |  V.                      "       Voir.    
+hab.      "      habitants.      |  vill.                   "       village. 
+k.        "      kilomètre.      |  (2814m) chiffres indiquant
+                                      la cote d'alt.                   
 ```
 
 <div class="page"/>
@@ -132,7 +130,6 @@ un champ d'agrément et d'apprentissage et, pour les pyrénéistes
 exercés, un choix de programmes d'entrainement, 
 si nécessaire au début de la saison.
 
-
 <div class="page"/>
 
 — p. 6 —
@@ -166,7 +163,6 @@ le plus grand nombre possible.
 
 <u>__BONNES ÉPOQUES__</u>
 
-
 Quoique presque toutes les excursions puissent être faites du
 1er juillet au 30 septembre (quelques-unes même du 15 juin au
 15 octobre), j'indique pour chacune d'elles les époques les plus
@@ -180,7 +176,6 @@ et des plans. Grâce à son travail, mes itinéraires sont moins arides
 et surtout plus clairs. Je lui en exprime ici toute ma reconnaissance.
 
 La forme absolument portative de mon guide ne m'a pas per-
-
 
 <div class="page"/>
 
@@ -239,7 +234,6 @@ l'on pratique ce sport, et aussi pour effectuer l'ascension de la
 majeure partie des grands sommets des Alpes, __la corde est indispensable;__ 
 il n'en est pas de mème pour les Pyrénées.
 
-
 <div class="page"/>
 
 — p. 8 — 
@@ -281,7 +275,6 @@ lieux, à la saison et aussi à la qualité de là caravane. Au contraire,
 pour celles qui peuvent être faites sans guide, les itinéraires en
 sont plus détaillés, pour permettre à un bon pyrénéiste de conduire 
 seul une caravane.
-
 
 <u>__HORAIRES__</u>
 
@@ -349,10 +342,9 @@ que cela est utile.
 
 — p. 10 —
 
-
 # CONSEILS PRATIQUES
 
->Nota. — Quelques conseils et même certaines recommandations 
+> Nota. — Quelques conseils et même certaines recommandations 
 paraîtront puérils aux vieux pyrénéistes exercés; aussi, 
 est-ce surtout aux débutants, c'est-à-dire au grand nombre,
 qu'ils s'adressent.
@@ -481,11 +473,9 @@ refuges, les hôtels, etc., etc. La nourriture est due au guide. Pour
 plus de liberté de part et d'autre, au lieu de lui fournir des vivres,
 il vaut mieux lui donner une indemnité.
 
-
 <div class="page"/>
 
 — p. 13 —
-
 
 <u>__NOURRITURE__</u>
 
@@ -517,11 +507,9 @@ Seule, la voilette en mousseline de soie, noire ou verte, est efficace
 contre les coups de soleil, lorsqu'on séjourne longtemps sur
 la neige ou sur les glaciers.
 
-
 <div class="page"/>
 
 — p. 14 —
-
 
 # Notice sur l'influence de la lune<br>dans ses diverses phases, du 15 juin à fin Septembre.
 
@@ -553,20 +541,17 @@ de septembre;
 un changement de temps en sens inverse des deux derniers 
 jours du précédent quartier.
 
-Nota. — Biem entendu, ces indications et celles du tableau
+> Nota. - Bien entendu, ces indications et celles du tableau
 ci-contre sont sans valeur pour la plaine et la petite montagne ;
 elles ne concernent que la zone des hautes altitudes, c'est-à-dire
 au-dessus de 2.200 m., et encore du 15 juin à fin septembre
 seulement.
 
-
 <div class="page"/>
 
 — p. 15 —
 
-
 Tableau en p. % des diverses phases de la lune
-
 
 | Détail, jour par jour, du cycle lunaire | Pourcentage en faveur du beau temps |
 | --------------------------------------- | ----------------------------------- |
@@ -585,9 +570,7 @@ Tableau en p. % des diverses phases de la lune
 | Les 26° et 27°                          | 50 %.                               |
 | Les 28° et 29° (deux mauvais jours)     | 40 % seulement.                     |
 
-
 # La Brume rouge indicatrice du temps
-
 
 Dans les Pyrénées, lorsque la brume rouge paraît à l'O. au
 début de la matinée, elle indique d'une façon presque absolue le
@@ -602,15 +585,13 @@ Voici, à ce sujet, les deux proverbes pyrénéens bien connus :
 2° Bruno roujo pét sé, ét bèt témps qu'és vé.<br>
 (Brume rouge le soir, le beau temps se voit).
 
-Nota. — Le proverbe du matin existe aussi dans les Alpes, et
+> Nota. - Le proverbe du matin existe aussi dans les Alpes, et
 voici comment H. Bordeaux le reproduit dans la Maison Morte :
 « Brume rouge le matin, il y aura de l'eau pour le moulin. »
-
 
 <div class="page"/>
 
 — p. 16 —
-
 
 # Accessoires Indispensables à une Caravane
 
@@ -646,11 +627,9 @@ porteur ou qu'on déposera en réserve au refuge.
 5. Enfin, une paire de lunettes noires pour les glaciers, ou,
 mieux encore, une voilette en mousseline de soie, noire ou verte.
 
-
 <div class="page"/>
 
 — p. 17 —
-
 
 # <p class="centre">PETIT VOCABULAIRE<br>DES<br>TERMES PYRÉNÉENS<br>RELATIFS A LA MONTAGNE</p>
 
@@ -691,7 +670,6 @@ Coma............ Combe du versant espagnol.
 <div class="page"/>
 
 — p. 18 —
-
 
 ```
 Combe, Coume..... Vallon rapide vers le haut de la montagne
@@ -736,7 +714,6 @@ Lane, Lanne..... Lande, plaine, plateau herbeux.
 
 — p. 19 —
 
-
 ```
 Laousate, Laouse,
 Lauze, Liose,
@@ -775,14 +752,12 @@ Prat .......... Prairie.
 Pradet......... Petite prairie.
 ```
 
-
 <div class="page"/>
 
 — p. 20 —
 
-
 ```
-Pulg............ FR donné aux sommets dans les Pyrénées-Orientales.
+Pulg............ ****FR donné aux sommets dans les Pyrénées-Orientales.
 Queba........... Abri sous roche. Toue de la région d'Ossau.
 Raillère........ Talus de déjections, couloir d'éboulis.
 Replat... ...... Petit plateau très élevé deminant un précipice.
@@ -854,7 +829,6 @@ dans le riant bassin de Bedous-Accous.
 A 4k. 500 en amont de Bedous, la vallée s'étrangle subitement
 entre les crêtes du Pène d'Esquit (1.961m), à l'O., et le Pic d'Ara
 poup (1.669m), à l'E. Elle s'ouvre à nouveau au Pont de Lescun, 
-
 
 <div class="page"/>
 

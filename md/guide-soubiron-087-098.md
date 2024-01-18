@@ -28,7 +28,6 @@ __et du PIC d'ESTIBAOUDE.__
 
 <u>__AVIS AUX TOURISTES__</u>
 
-
 Un pyrénéiste exercé peut très bien diriger cette excursion.
 On emportera des vivres pour trois repas et, si on ne prend
 pas de guide, un porteur me paraît indispensable.
@@ -39,7 +38,6 @@ tenancier y est installé tout l'été. Comme il a été agrandi en
 prix modérés.
 
 <p class="droite">Voir ci-contre la Carte de l'Excursion</p>
-
 
 <div class="page"/>
 
@@ -56,9 +54,7 @@ prix modérés.
 __Ascension de la Grande Fache (3.006m),__<br>
 __avec retour au Refuge du Marcadau (1.860m).__
 
-
 —— GUIDE UTILE ——
-
 
 __Conseils.__ — __Itin. recomm.__ — On partira à 4h. en voiture jusqu'au 
 Pont d'Espagne (1.496m). Là, on mettra immédiatement
@@ -96,9 +92,7 @@ Le point de vue de la Fache est de toute beauté, surtout vers
 le N.-O., sur le Balaïtous et le Pic de Midi d'Ossau, et. vers le
 S.-E., sur le Vignemale.
 
-
 <div class="page"/>
-
 
 — p. 90 — CIRQUE de CAMBALES (6me EXCURSION)
 
@@ -147,9 +141,7 @@ Fache (2.956m) et le Pène d'Aragon; en face, le splendide Cambalès
 de Cambalès (2.660m), au N.; à dr. et faisant face à l'Araillous,
 le Bernat Barraou (2.794m).
 
-
 <div class="page"/>
-
 
 — p. 91 — (6me EXCURSION)  CAMBALES-BERNAT BARRAOU
 
@@ -200,9 +192,7 @@ monte directement au Pène d'Aragon, d'où elle descend au col de ce
 nom pour remonter au Pic de Cambalès.<br>
 (2) Ce lac reste ordinairement glacé jusqu'aux premiers jours d'août.
 
-
 <div class="page"/>
-
 
 — p. 92 — VALLEE D'ARRATILLE (6me EXCURSION)
 
@@ -303,9 +293,7 @@ droit vers le lac de Chabarrou (2.282m) qu'on longera par la g.
 Immédiatement après, le sentier franchit le déversoir et, en de
 nombreux lacets, descend, par la rive dr., jusqu'au fond de la
 
-
 <div class="page"/>
-
 
 — p. 94 — LAC de GAUBE | (6me EXCURSION)
 
@@ -354,7 +342,6 @@ malgré son voisinage avec la mondaine station de Cauterets..
 Situé immédiatement au S. de la Raillère, puisqu'il est bormé
 au N. par le Hourmigas, il est encerclé par des sites universeltement 
 connus : au N., le Val de Jéret: à l'O., la Vallée de Gaube;
-
 
 <div class="page"/>
 
@@ -406,9 +393,7 @@ garni de neige (le névé vu d'en bas) et il faut le remonter par le
 flanc de la rive dr., ce que nous faisons aujourd'hui. Après le
 15 août, on peut en suivre le centre dans toute sa longueur.
 
-
 <div class="page"/>
-
 
 — p. 96 — ESTIBAOUDE (6me EXCURSION)
 
@@ -460,7 +445,6 @@ Pamorce est située 20 min. en amont et au S.-E. de la cascade
 
 <div class="page"/>
 
-
 — p. 97 — (6me EXCURSION) LACS D'ESTIBAOUDE
 
 de Splumous. Ce couloir, relativement facile à la montée, serait
@@ -510,9 +494,7 @@ entre: les deux cuvettes un espace desséché; il y a alors deux lacs à
 l'endroit même où, quelques semaines auparavant, on n'en voyait
 qu'un seul.
 
-
 <div class="page"/>
-
 
 — p. 98 — VALLEE de LUTOUR (6me EXCURSION)
 
@@ -544,7 +526,7 @@ Du pic aux lacs d'Estibaoude........... 1h.20  } (Arrêts en sus).
 Des lacs d'Estibaoude à Cauterets...... 3h.15  }
 ```
 
-Nota. — De la digue des lacs d'Estibaoude, on apercevra en
+> Nota. - De la digue des lacs d'Estibaoude, on apercevra en
 face, mais de l'autre côté de la vallée et presque à sa hauteur,
 le refuge de Culaous et le sentier qui y conduit.
 

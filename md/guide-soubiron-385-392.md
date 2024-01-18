@@ -358,12 +358,11 @@ Du Fourcat à la Laouzatte.......... 0h.35 }
 De la Laouzatte à Mercus........... 2h.25 } (Arrêts en sus).
 ```
 
-Nota. — Cette excursion peut être effectuée en sens inverse;
+> Nota. - Cette excursion peut être effectuée en sens inverse;
 mais, dans ce cas, celle présente l'inconvénient de faire toute
 l'ascension à découvert et face au soleil.
 
 <u>__POINTS D'INTERRUPTION__</u>
-
 
 __SAURAT__
 - Pour faire la deuxième et la troisième journée ou

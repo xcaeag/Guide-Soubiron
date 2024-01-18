@@ -119,7 +119,7 @@ De Luchon aux granges d'Astau, 2 h. en voiture, 45 min. en auto;
 Des granges d'Astau à Espingo, 2h.15, arrêts en sus.
 ```
 
-Nota. — V. Notice sur le Refuge d'Espingo, p. 237 de la 18me E,
+> Nota. - V. Notice sur le Refuge d'Espingo, p. 237 de la 18me E,
 
 ## DEUXIÈME JOURNÉE
 
@@ -248,7 +248,7 @@ Du Hourgade aux granges d'Astau....... 3h.40 } (Arrêts en sus).
 Des granges d'Astau à Oô (4 k.)....... 0h.40 }
 ```
 
-Nota. — A Oô, on pourra diner et coucher, soit chez J. Menvielle, 
+> Nota. - A Oô, on pourra diner et coucher, soit chez J. Menvielle, 
 soit chez Sansuc, tous deux guides du C. A. F.
 
 ## TROISIÈME JOURNÉE
@@ -421,7 +421,7 @@ qui conduit presque horizontalement au Port de Pierrefitte
 40 min. en suivant le sentier de crête. (V. pour la suite la 18° E
 p. 233.)
 
-Nota. — L'excursion dy Pouylouby et du Montné peut aussi
+> Nota. - L'excursion dy Pouylouby et du Montné peut aussi
 s'effectuer de Luchon, dans la même journée, en se faisant
 conduire en auto à Jurvielle, le matin, et en se faisant prendre
 le soir à Bourg-d'Oueil.
@@ -556,7 +556,7 @@ De la crête de Sarnès à la Rue d'Enfer... 1h.20 } (Arrêts en sus).
 De la Rue d'Enfer à Luchon............... 3h.15 }
 ```
 
-Nota. — Si une voiture attendait les touristes à l'Hôtellerie
+> Nota. - Si une voiture attendait les touristes à l'Hôtellerie
 du Lys, on ferait alors une délicieuse promenade d'environ
 6 h. — Les séjournants de l'Hôtel de Superbagnères peuvent
 y remonter dans 2 h. par le sentier qui s'amorce 1 k. en aval

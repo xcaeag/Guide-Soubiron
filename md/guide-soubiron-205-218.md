@@ -16,7 +16,6 @@ output: pdf_document
 
 — p. 205 —
 
-
 # SEIZIÈME EXCURSION
 
 (N° 13 de la 1re édition)
@@ -54,7 +53,6 @@ est indispensable pour les deux premiers jours; on le prendra
 deux fois par jour par un autobus, en attendant la construction d'un
 tramway électrique.
 
-
 <div class="page"/>
 
 — p. 206 —  DE SAINT-LARY A LUCHON  (16me EXCURSION)
@@ -64,7 +62,6 @@ tramway électrique.
 <div class="page"/>
 
 — p. 207 —
-
 
 (16me EXCURSION) VALLEE de RIOUMAJOU
  
@@ -76,7 +73,7 @@ __par le Lustou (3.025m) et la Vallée de Rioumajou.__
 
 —— GUIDE INDISPENSABLE ——
 
-Nota. — L'ascension du Lustou par la voie que je vais
+> Nota. - L'ascension du Lustou par la voie que je vais
 décrire fait gagner près de 2 h. sur celle qu'indiquent les divers
 guides : 1° parce que la pente est régulière de Saint-Lary au
 sommet; 2° parce que le terrain d'ascension est des meilleurs
@@ -112,15 +109,12 @@ On suivra la route de l'Hospice jusqu'aux Granges de Frédancon
 (1.388m) où on tournera à g., à l'E., pour franchir le Rioumajou 
 sur le Pont de Beauregard (1) et monter au vallon de Péguère.
 
-
 ———<br>
 (1) Beauregard est le nom du complaisant propriétaire de la confortable 
 grange située à l'O. du pont et où de nombreux touristes ont
 trouvé une aimable hospitalité.
 
-
 <div class="page"/>
-
 
 — p. 208 — Le LUSTOU (16me EXCURSION)
 
@@ -169,7 +163,6 @@ le massif du Batoua.
 Contrairement à ce que croyait Russell, on pourrait descendre
 à l'E., au vallon de la Pez; mais je ne crois pas l'arête S. praticable
 comme il l'indique dans son ascension au Batoua. Par la
-
 
 <div class="page"/>
 
@@ -262,7 +255,7 @@ n'aura qu'à suivre le chemin de Gistaïn jusqu'au confluent de la
 Cinqueta d'Aygues-Cruses où on tournera à l'E., pour aller coucher 
 aux granges de Viados (V. 15° E., p. 197).
 
-Nota. — Le porteur ne montera pas au Batoua. Du Port de
+> Nota. - Le porteur ne montera pas au Batoua. Du Port de
 Caouarère, il descendra directement à l'E., au fond de la vallée 
 espagnole de la Pez, où il attendra la caravane sur le sen-
 
@@ -276,9 +269,7 @@ celui de Batoua.<br>
 (2) La pointe N.-E. cotée 2.970, est désignée par les gens du pays
 sous le noin de « Pic Balinet ».
 
-
 <div class="page"/>
-
 
 — p. 211 — (16me EXCURSION) Les GRANGES De VIADOS
 
@@ -329,9 +320,7 @@ il faut une attention soutenue et de grandes précautions pour
 gravir ces pentes sans s'écorcher. On gagnera enfin la crête, à
 environ 500 m. au N. de la tourelle, où on déposera le sac.
 
-
 <div class="page"/>
-
 
 — p. 212 — Les POSETS (16me EXCURSION)
 
@@ -385,7 +374,6 @@ descend des lacs de ce nom. Prénant alors la direction N.-N.-O.
 
 <div class="page"/>
 
-
 — p. 213 — (16me EXCURSION) PORT d'Oô ET PIC des GOURGS-BLANCS
 
 on suivra la rive g. du ruisseau jusqu'aux trois petits lacs d'où
@@ -432,14 +420,11 @@ Autrefois, Espingo, avec sa vieille cabane, n'était qu'un lieu de
 passage, tandis qu'à présent, grâce au nouveau refuge, c'est un
 magnifique centre d'excursions (1).
 
-
 ———<br>
 (1) Voir du même auteur : Espingo et le Cirque d'Oô, brochure de
 40 pages contenant 12 itinéraires, 2 cartes et une vue du refuge.
 
-
 <div class="page"/>
-
 
 — p. 214 — ENVIRONS D'ESPINGO - PARTIE EST (16me EXCURSION)
 
@@ -450,7 +435,6 @@ et des repas à des prix modérés. Voir à la 18° Excursion la Notice
 sur le Refuge d'Espingo.
 
 <div class="page"/>
-
 
 — p. 215 — (16me EXCURSION) CAP de HOUNTS-SECS
 
@@ -504,9 +488,7 @@ crête qui se détache à g., vers le Cap de Bassiéret, puis le Céciré
 dépression de la crête qui va du Pic de Montarrouye (2.850m), au S.,
 au Cap de Hounts-Secs (2.707m), au N.
 
-
 <div class="page"/>
-
 
 — p. 216 — COLS de MONTARROUYE et De SARNES (16m EXCURSION)
 
@@ -613,9 +595,7 @@ De la Rue d'Enfer, le chemin descend pendant une demi-h., en
 de nombreux lacets, par la rive g., jusqu'au pont supérieur (Pont
 Nadié) (1.375m) où il passe rive dr. On fera là une petite halte
 
-
 <div class="page"/>
-
 
 — p. 218 — GOUFFRE d'ENFER — VALLEE du LYS (16me EXCURSION)
 
@@ -661,7 +641,7 @@ __REFUGE D'ESPINGO__
 - Pour rejoindre de Luchon, 1 h. d'auto et 2h de sentier
 - Pour rentrer à Luchon, 4h.30 de marche dont 13 Km de route
 
-Nota. — A Luchon, les bons hôtels sont nombreux; mais
+> Nota. - A Luchon, les bons hôtels sont nombreux; mais
 je ne saurais trop recommander l'Hôtel de Bordeaux dont le
 propriétaire, M. Saffores, membre du C. A. F., est plein de
 sollicitude pour ses collègues.

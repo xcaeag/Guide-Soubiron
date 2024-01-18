@@ -14,7 +14,6 @@ output: pdf_document
 -----------------------
 [//]: # (— p. 219 —)
 
-
 # DIX-SEPTIÈME EXCURSION
 
 (N° 14 de la 1re édition)
@@ -54,9 +53,7 @@ qu'on trouve la plus grande étendue de glace, car, si on allait
 du Gourg-Blanc inférieur, à l'O., au lac de Litayrolle, à l'E., on
 effectuerait un trajet de 10 k. environ sans la quitter. A cette
 
-
 <div class="page"/>
-
 
 — p. 220 — D'ARREAU A LUCHON ET A MARIGNAC (17me EXCURSION)
  
@@ -67,7 +64,6 @@ du Cirque d'Oô couronné de 14 sommets, dont 11 dépassent
 3.000 m. C'est du belvédère central de la Tusse de Montarqué 
 qu'on apercevra dans leur ensemble toutes les splendeurs 
 du plus grand cirque glaciaire de la chaîne.
-
 
 <div class="page"/>
 
@@ -170,7 +166,6 @@ glacés et couverts de neige; ils le sont encore actuellement
 pendant dix mois et demi. De cet état des lieux est né le nom de
 « Gourgs-Blancs » donné à cette admirable région.
 
-
 <div class="page"/>
 
 — p. 223 — (17me EXCURSION) PIC GOURDON — TUSSE De MONTARQUE
@@ -234,7 +229,7 @@ __et le Vallon de Médassoles.__
 
 —— GUIDE INDISPENSABLE ——
 
-Nota. — Le Quaïrat est l'un des sommets les plus captivants
+> Nota. - Le Quaïrat est l'un des sommets les plus captivants
 des Pyrénées, et le meilleur point de départ pour en faire
 l'ascension, c'est le refuge d'Espingo. Cette ascension, qui comprend 
 un trajet d'environ 2 h en terrain délicat, exige une
@@ -277,9 +272,7 @@ flanc E. de la crête par d'étroites corniches, puis on grimpera à
 ———<br>
 (1) Mme et M. Descazaux, Marcel Gandillon et Blaise Baylac.
 
-
 <div class="page"/>
-
 
 — p. 225 — (17me EXCURSION) MONTARROUYE
 
@@ -336,7 +329,6 @@ Du Cap de Hounts-Secs (2.707m), qu'on dominera vers le N.
 
 <div class="page"/>
 
-
 — p. 226 — VALLON de MEDASSOLES  (17me EXCURSION)
 
 souder au Pic de Céciré (2.400m); c'est cette crête qu'on franchira
@@ -380,7 +372,7 @@ Du Quaïrat au Montarrouye............ 1h.30 }  10h.30
 Du Montarrouye aux granges d'Astau... 2h.45 }  (arrêts en sus)
 Des granges d'Astau à Luchon......... 2h.30 }
 ```
-Nota. — Du col de Montarrouye, on peut aussi rentrer à
+> Nota. - Du col de Montarrouye, on peut aussi rentrer à
 Luchon par l'itinéraire suivant et par Superbagnères :
 
 On dévale droit au N.-E. en laissant à dr., d'abord, le petit
@@ -392,9 +384,7 @@ où l'on prend la crémaillère pour Luchon (V. 18me E.).
 
 Horaire probable du Col de Montarrouye à Superbagnères. 3h.
 
-
 <div class="page"/>
-
 
 — p. 227 — (17me EXCURSION) BACANERE — BURAT
 
@@ -444,9 +434,7 @@ des environs. C'est au Burat qu'il faut monter pour avoir
 une vue d'ensemble sur le Cirque du Lys et pour en admirer les
 splendeurs.
 
-
 <div class="page"/>
-
 
 — p. 228 — GORGE de MARIGNAC (17me EXCURSION)
 

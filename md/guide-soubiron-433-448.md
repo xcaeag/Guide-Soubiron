@@ -397,7 +397,7 @@ un beau plateau de verdure, rive dr. de la haute vallée d'Aston.
 La plus confortable est la première, celle qui appartenait à
 l'ancien berger principal, Papy (1).
 
-Nota. — Si on n'a pris le porteur que pour deux jours, c'est
+> Nota. - Si on n'a pris le porteur que pour deux jours, c'est
 du Rulle qu'il faut le renvoyer; il pourra ainsi rentrer facilement 
 à l'Hospitalet le soir même, par la Couillade et la Jasse
 de Pédourès.
@@ -568,7 +568,7 @@ Le chemin, garni de pavés glissants, monte ensuite pendant
 1/4 d'h. environ et bientôt on rejoint la grande route qui conduit
 directement à Aston (2).
 
-Nota. — Si on avait les provisions nécessaires, on pourrait
+> Nota. - Si on avait les provisions nécessaires, on pourrait
 éviter 1 h. de marche, le soir, et autant, le lendemain matin,
 en couchant au hameau de la Réglat, 10 min. en aval du ruisseau
 de Sirbal.
@@ -712,7 +712,7 @@ le second continue droit au N. et, après avoir franchi le torrent
 de Durbat, y aboutit 1 k. en amont de Siguer. Les deux sont
 bons et demandent le même temps.
 
-Nota. - on peut, en 1/2 h., descendre de Siguer à Larramade
+> Nota. - on peut, en 1/2 h., descendre de Siguer à Larramade
 (2 k. 500) et là, prendre le petit train, soit pour Vicdessos ou
 Auzat, soit pour Tarascon.
 

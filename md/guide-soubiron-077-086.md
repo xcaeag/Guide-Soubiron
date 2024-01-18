@@ -12,9 +12,7 @@ output: pdf_document
 
 <div class="page"/>
 
-
 [//]: # (— p. 77 —)
-
 
 # CINQUIÈME EXCURSION
 
@@ -98,7 +96,6 @@ presque en face, en haut, le Roc de Maillaraoube, vers lequel on
 montera en suivant le petit sentier qui zigzague cette pente très
 inclinée.
 
-
 <div class="page"/>
 
 — p. 80 — COL DE RIOU - (5me EXCURSION)
@@ -171,7 +168,7 @@ en se dirigeant vers la g. du cirque. Là, on rejoindra le
 grand chemin muletier qui, en de nombreux lacets, descend directement 
 à Cauterets.
 
-Nota. — Pour cette excursion, on peut déjeuner à l'hôtellerie
+> Nota. - Pour cette excursion, on peut déjeuner à l'hôtellerie
 du Col de Riou ou avec les vivres tirés du sac.
 
 __Horaire de la Journée :__
@@ -202,7 +199,6 @@ route jusqu'au Cerisey. Au-dessus de la cascade, on prendra, à
 La traduction littérale, en patois du pays, est : Les Bergères.
 Le nom de ce sommet signifierait donc : Pic des Bergères. On aurait
 dû, par conséquent, l'orthographier en deux mots.
-
 
 <div class="page"/>
 
@@ -253,9 +249,7 @@ on le quittera pour prendre, à g., le sentier du Cambasque. Environ
 de là, on peut descendre directement vers les fermes du Cambasque 
 sans suivre les méandres du sentier.
 
-
 <div class="page"/>
-
 
 — p. 83 — (5me EXCURSION) MONTNE de CAUTERETS
 
@@ -311,7 +305,6 @@ min. plus à l'O. On peut y arriver, soit à toute crête, soit par une
 sente du flanc N.
 
 <div class="page"/>
-
 
 — p. 84 — Le CABALIROS (5me EXCURSION)
 
@@ -410,7 +403,6 @@ imédiatement après, on tournera un peu à g., au S., afin de remonter
 le large couloir neigeux qui conduit à la brèche supérieure 
 de Bat-Escure (2.700m). Cette brèche est située entre le
 sommet supérieur de Maleshores (2.766m), à l'O., et la crête
-
 
 <div class="page"/>
 

@@ -40,16 +40,13 @@ rendez-vous à Gèdre, vers 13 ou 14 h.
 
 ![carte p134](../maps/guide-soubiron-0134-carte.jpg)
 
-
 <div class="page"/>
-
 
 — p. 135 — (10me EXCURSION) LUZ-GEDRE 136
 
 ## PREMIÈRE JOURNÉE
 
 __De LUZ (685m)à HÉAS(1.547m), par Saint-Sauveur et Gèdre (1.011m)__
-
 
 —— SANS GUIDE ——
 
@@ -91,7 +88,6 @@ de la Munia et par la cheminée qui débarque dans le cirque.
 
 On partira de très bonne heure et, 10 min. après, on quittera
 le sentier de Touyères pour monter, à g., au Turon de Bédous
-
 
 <div class="page"/>
 
@@ -143,9 +139,7 @@ Au pic de Troumouse, le regard franchit le port de Barroude
 cotées 3.150 et 3.159. Il faut donc hausser de 9 m. la cote des cartes
 actuelles.
 
-
 <div class="page"/>
-
 
 — p. 137 — (10me EXCURSION) CIRQUE de TROUMOUSE-HEAS
 
@@ -179,7 +173,7 @@ __Horaire de la Journée :__
 De Héas à la Munia..................... 6h. » }    9h. »
 De la Munia à Héas, par le col......... 3h. » } (Arrêts en sus).
 ```
-Nota. — L'ascension directe par le col se fait en 4 h. environ:
+> Nota. - L'ascension directe par le col se fait en 4 h. environ:
 
 ## TROISIÈME JOURNÉE
 
@@ -193,7 +187,6 @@ __Conseils.__ — __Itin. recomm.__ — On partira de très bonne heure et
 on prendra, direction N.-E. le sentier qui, par la rive g. du torrent 
 d'Aguila, monte à la Hourquette de Héas. Environ 1 h. après,
 lorsqu'on aura atteint le premier plateau, on quittera le sentier
-
 
 <div class="page"/>
 
@@ -242,7 +235,6 @@ difficulté sérieuse à la montée. On l'attaquera par le flanc O. jusqu'à
 la « Brèche Capo » qui est la première entaille profonde de
 cette arête. A partir de là, on découvrira sa route à mesure, tantôt 
 à flanc, tantôt à toute crête, jusqu'au pic S. de Campbieil
-
 
 <div class="page"/>
 
@@ -293,9 +285,7 @@ rive g. de la vallée jusqu'à la cabane du Badet. Quelques min.
 en aval de la cabane, on trouve deux rochers assez rapprochés
 pour permettre de sauter le torrent et de passer rive dr. Le sen-
 
-
 <div class="page"/>
-
 
 — p. 140 — PLAN D'ARAGNOUET (10me. EXCURSION)
 
@@ -319,7 +309,7 @@ De la Hourquette au Pic de Campbieil....... 2h.15 } (Arrêts en sus)
 Du Pic de Campbieil au Plan, voie directe.. 2h.45 }
 ```
 
-Nota. — Si on repasse à la Hourquette de Campbieil, 1 h. en
+> Nota. - Si on repasse à la Hourquette de Campbieil, 1 h. en
 sus.
 
 ## QUATRIÈME JOURNÉE
@@ -329,7 +319,7 @@ __par le Pic Méchant (2.944m) et le Lac d'Orédon (1.879m).__
 
 —— GUIDE INDISPENSABLE ——
 
-Nota. — Voici un pic au nom rébarbatif qui n'a reçu qu'une
+> Nota. - Voici un pic au nom rébarbatif qui n'a reçu qu'une
 douzaine de visites. Serait-ce à cause de son appellation ? Il
 n'est cependant un peu « Méchant » que par la face S., celle du
 Badet, alors qu'il est très débonnaire sur le versant d'Orédon.
@@ -349,7 +339,6 @@ des murailles S. du Pic Méchant, m'affirme qu'un seul touriste y est
 monté par la face du Badet, le 19 août 1905. C'est le lieutenant Dollfus,
 du 4me colonial. J'ai, en effet, trouvé sa carte au sommet, dans une
 boîte à sardines.
-
 
 <div class="page"/>
 
@@ -397,7 +386,6 @@ du pic. La muraille, haute de 5 ou 6 m., est presque verticale,
 mais le rocher est bon et les prises nombreuses. Pour un pyrénéiste 
 exercé, cela n'exige que quelques minutes d'attention. Du
 haut de la muraille, un couloir facile conduit au sommet dans
-
 
 <div class="page"/>
 
@@ -452,9 +440,7 @@ qu'il faut le renvoyer pour qu'il puisse rentrer à Gèdre le soir même.
 Si on le garde le 5me jour, on aura à lui payer une journée supplémentaire
  de rapatriement.
 
-
 <div class="page"/>
-
 
 — p. 143 — (10me EXCURSION) FABIAN
 
@@ -478,7 +464,7 @@ __par le Lac de Sarrouès (2.500m) et le Pic d'Aret (2.940m).__
 
 —— GUIDE UTILE ——
 
-Nota. — L'ascension de l'Aret nous mène au principal belvédère 
+> Nota. - L'ascension de l'Aret nous mène au principal belvédère 
 de l'une des plus belles vallées pyrénéennes : « la
 Vallée d'Aure ». Elle inspira à Russell les lignes suivantes :
 
@@ -508,7 +494,6 @@ vers 16 h.<br>
 pont sépare la commune de Tramezaygues de celle d'Aragnouet.
 
 <div class="page"/>
-
 
 — p. 144 — LAC de SARROUES - PIC D'ARET  (10me EXCURSION)
 
@@ -559,9 +544,7 @@ vers les crêtes entre les arêtes sinueuses; lacs étincelants d'où
 s'échappent les Nestes en serpentant vers la plaine; cimes sourcilleuses 
 et glaciers immaculés, tout est sous les yeux, du Pic
 
-
 <div class="page"/>
-
 
 — p. 145 — (10me ECCURSION) VALLEE de RIOUMAJOU 
 
@@ -615,7 +598,6 @@ desservi deux fois par jour par un courrier automobile, en attendant
 la construction d'un tramway électrique.
 
 <div class="page"/>
-
 
 — p. 146 — SAINT-LARY (10me EXCURSION)
 

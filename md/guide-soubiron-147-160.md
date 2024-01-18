@@ -30,7 +30,6 @@ __le Pic Long, le Pic de Bugaret, le Montarrouy et le Maucapera.__
 __2me De BARÈGES à PIERREFITTE,__<br>
 __par le Soum Arrouy, le Pic Léviste et le Lac d'Izaby.__
 
-
 <u>__AVIS AUX TOURISTES__</u>
 
 On prendra un guide au moins pour les trois premiers jours.
@@ -52,7 +51,6 @@ Bastan. A partir de là, un bon chemin muletier monte directement
 à l'hôtellerie du Col de Sencours (2.378m) où on couchera.
 Le lendemain matin, on partira à la lanterne, à 3 h., afin d'ar-
 
-
 <div class="page"/>
 
 — p. 148 — ENVIRONS de BAREGES (11me EXCURSION)
@@ -72,13 +70,11 @@ De l'Hôtellerie au Pic........... 1h.45 } (Arrêts en sus)
 Du Pic à Barèges................. 0h.30 }
 ```
 
-Nota. — On peut aussi faire l'excursion dans la même journée 
+> Nota. - On peut aussi faire l'excursion dans la même journée 
 en partant de très bonne heure; mais, dans ce dernier cas,
 on ne jouit pas d'un aussi joli point de vue.
 
-
 <div class="page"/>
-
 
 — p. 149 — (11me EXCURSION) COL D'AUBERT — NEOUVIELLE
 
@@ -125,9 +121,7 @@ Maudits. On le distingue de plusieurs sommets secondaires du
 Saint-Gironnais, à cause de l'arête rocheuse qui partage son
 glacier en deux, comme l'arête du Portillon, celui des Monts-
 
-
 <div class="page"/>
-
 
 — p. 150 —  LAC D'OREDON (11me EXCURSION)
  
@@ -176,9 +170,7 @@ au plus tard, pour jouir plus sûrement du joli point de vue.
 On prendra le chemin de chars qui, par la rive dr. du Lac
 d'Orédon, monte au Lac de Cap-de-Long (2.120m). Après la maison
 
-
 <div class="page"/>
-
 
 — p. 151 — (11me EXCURSION) LAC de CAP-De-LONG
 
@@ -231,9 +223,7 @@ Certains chasseurs que j'ai interrogés, le nomment « Gourg glacé de
 Cap-de-Long ». Cette appellation me paraît être la bonne, puisqu'il
 s'écoule par la vallée de Cap-de-Long au grand lac de ce nom.
 
-
 <div class="page"/>
-
 
 — p. 152 — PIC LONG (11me EXCURSION)
 
@@ -283,9 +273,7 @@ parvenu en vue du lac de Rabiet (2.220m), on descendra rapidement
 vers lui. Bientôt, le sentier bifurque; celui de g. conduit
 au Col de Pierrefitte qu'on aperçoit au N.-O.; celui de dr. monte
 
-
 <div class="page"/>
-
 
 — p. 153 — (11me EXCURSION): REFUGE du RABIET — LAC TOURRAT
 
@@ -303,7 +291,7 @@ Du Cap-de-Long au Pic Long............. 3h.30 }    9h. »
 Du Pic Long au refuge du Rabiet........ 3h.30 } (Arrêts en sus)
 ```
 
-Nota. — Du Refuge du Rabiet, l'ascension du Pic Long est
+> Nota. - Du Refuge du Rabiet, l'ascension du Pic Long est
 faisable dans 8 h., aller et retour. Elle peut donc être reprise
 de ce point au cas où, pour une cause quelconque, on l'aurait
 manquée le premier jour.
@@ -332,9 +320,7 @@ une si vivante description :
 exemple, probablement unique aux Pyrénées, d'un lac important
 où se déverse tout entier un glacier d'une seule venue. Très
 
-
 <div class="page"/>
-
 
 — p. 154 — PIC de BUGARET (11me EXCURSION)
 
@@ -374,16 +360,14 @@ Du Lac Tourrat au Pic de Bugaret...... 1h.45 } (Arrêts en sus)
 Du Pic de Bugaret au Refuge........... 2h.45 }
 ```
 
-Nota. — Si on ne garde pas le guide pour la 4me journée, on
+> Nota. - Si on ne garde pas le guide pour la 4me journée, on
 le renverra du Rabiet, ce qui lui permettra de rentrer à Barèges 
 le soir même.
 
 ———<br>
 (1) Au Pays des Isards, tome II, p. 16.
 
-
 <div class="page"/>
-
 
 — p. 155 — (11me EXCURSION) PIC de MONTARROUY
  
@@ -396,7 +380,7 @@ __le Maucapéra (2.720m) et la Vallée de l'Ise (1).__
 
 —— GUIDE UTILE ——
 
-Nota. — L'ascension du Montarrouy est des plus faciles et,
+> Nota. - L'ascension du Montarrouy est des plus faciles et,
 quoi qu'on ait écrit sur le Maucapéra, ce dernier ne présente pas
 de difficultés sérieuses, si on se contente d'y monter par la
 voie la plus commode. Donc, un bon pyrénéiste peut y conduire,
@@ -534,9 +518,7 @@ revient ensuite sur la rive dr. pour aboutir au haut d'une
 prairie. Là, on continuera droit à l'O., et presque horizontalement, 
 jusqu'à la Montagne fleurie.
 
-
 <div class="page"/>
-
 
 — p. 158 — SOUM ARROUY (11me EXCURSION)
 
@@ -584,7 +566,6 @@ massif calcaire et ceux du Pic Long et du Nèouvielle sont de
 toute beauté.
 
 Au N.-O., à moins de 500 m. parait le signal du Pic Léviste
-
 
 <div class="page"/>
 
@@ -637,7 +618,6 @@ du Pradet que domine, au S., sa superbe cascade. Là, le
 
 <div class="page"/>
 
-
 — p. 160 — PIERREFITTE (11me EXCURSION)
 
 chemin remonte un peu à dr. entre des prairies, et reprend
@@ -663,7 +643,7 @@ Du Pic Léviste au Lac d'Izaby........... 2h. » } (Arrêts en sus).
 Du Lac d'Izaby à Pierrefitte............ 3h.15 }
 ```
 
-Nota. — Cette course peut être faite en sens inverse; elle
+> Nota. - Cette course peut être faite en sens inverse; elle
 serait ainsi la première journée de la 10me excursion, au lieu
 de la dernière. Mais, comme il y a dans ce sens une différence de
 niveau de plus de 2.000 m. à monter et un long parcours à
@@ -674,7 +654,6 @@ ses forces pour l'ascension des 900 m. qui restent à gravir;
 
 2° On partira au plus tard à 4 h., pour arriver au Pic Léviste
 avant midi.
-
 
 <u>__POINTS D'INTERRUPTION__</u>
 

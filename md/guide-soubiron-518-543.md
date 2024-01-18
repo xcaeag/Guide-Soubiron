@@ -386,7 +386,7 @@ le Pla Guillem et le Canigou
 
 __des 1.500 Noms de Lieux__
 
-Nota. — Je donne dans cet index : 1° les noms des vallées, des
+> Nota. - Je donne dans cet index : 1° les noms des vallées, des
 montagnes, des pics, des lacs, des cirques et de toutes les curiosités
 visitées en cours de route: 2° ceux des lieux signalés au passage,
 soit parce qu'ils présentent un intérêt touristique, soit parce qu'ils
@@ -844,14 +844,12 @@ Comte (lac de)...... 449, 452
 — p. 530 —
 INDEX ALPHABETIQRE
 
-
 ```
 . Corre (port de la)
 
 : Corel (col des).
 
 540: Fa
-
 
 An rs ref AS PTS 0 UE
 

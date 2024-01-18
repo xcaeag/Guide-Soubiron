@@ -11,7 +11,6 @@ title: DEUXIÈME EXCURSION
 
 [//]: # (— p. 39 —)
 
-
 # DEUXIÈME EXCURSION
 
 __Cinq jours au départ des Eaux-Chaudes__
@@ -49,18 +48,15 @@ deuxième et la troisième journée.
 postes et télégraphes, desservi par des automobiles depuis la gare
 de Laruns (6 k.).
 
-
 <div class="page"/>
 
 — p. 40 —
 
 ![carte p40](../maps/guide-soubiron-0040-carte.jpg)
 
-
 <div class="page"/>
 
 — p. 41 — (2me EXCURSION) CAPERAN DE SESQUES
-
 
 ## PREMIÈRE JOURNÉE
 
@@ -104,7 +100,6 @@ On marche d'abord sous forêt, puis à découvert par des rochers,
 et enfin, par une clairière presque horizontale qui précède
 le premier plateau ou Artigue de Sesques; parvenu là, on découvre 
 subitement, au S.-S.-O., le fameux Capéran de Sesques, dont
-
 
 <div class="page"/>
 
@@ -211,7 +206,6 @@ partage le vallon en deux, formant une verte dépression qu'on
 nomme Col de Moustis. On quittera alors le sentier et, en zigzaguant 
 les pentes de la rive g. on descendra directement au col.
 
-
 <div class="page"/>
 
 — p. 44 — CHEMIN de La MATURE (2me EXCURSION)
@@ -240,7 +234,7 @@ passer par là les sapins fameux de la Baigt de Saint-Cours qu'on
 destinait à des mâts de navires. On a échancré le flanc de la
 montagne pour permettre le passage d'un mulet trainant un
 sapin, et rien n'est plus terrifiant que ce chemin suspendu. Dans
-la profonde gorge de la partie inférieure de la Baïigt de Saint-
+la profonde gorge de la partie inférieure de la ****Baïigt de Saint-
 Cours, on a dû, pour pouvoir passer, tailler le chemin en encorbellement 
 dans le roc vif, sur une longueur d'environ 2 k. et sur
 des flancs à pic. Parfois il surplombe le torrent de plusieurs
@@ -269,7 +263,7 @@ cette dernière qui remonte par la rive g. et qui fait passer près
 du Fort du Portalet. On remarquera au passage l'entrée de l'impressionnante 
 gorge et une partie du chemin de la Mâture suspendu tout en haut.
 
-Nota. — Si, comme fin août 1918, le gave d'Aspe n'a qu'un
+> Nota. - Si, comme fin août 1918, le gave d'Aspe n'a qu'un
 petit volume d'eau et qu'on puisse le traverser sur des pierres, 
 en face d'une prairie située 1 k. en amont du pont de
 Sebers, on évitera un fastidieux trajet de 2 k., ce qui fera
@@ -287,7 +281,6 @@ Du grand Pic de Sesques au Col par le               }  10h.30
 Du Col de Sesques à la Baigt de Saint-Cours. 2h. »  }
 De ce point à Urdos (1)....................  3h. »  }
 ```
-
 
 ## DEUXIÈME JOURNÉE
 
@@ -312,7 +305,6 @@ la grand'route pour prendre, à dr., un sentier qui passe sous
 
 ———<br>
 (1) A Urdos, bon hôtel Ferras.
-
 
 <div class="page"/>
 
@@ -372,7 +364,7 @@ de Anglassé (1.339m).
 La Casa de Anglassé est située sur la rive g. du torrent, au
 confluent du vallon de Canaou Roya.
 
-Nota. — Si on ne peut plus coucher à la Casa de Anglassé,
+> Nota. - Si on ne peut plus coucher à la Casa de Anglassé,
 on descendra 1/4 d'h. plus bas au nouveau vill. des Arañonés,
 qui est situé, vers 1.200m d'alt., près de la gare internationale
 de Canfranc (4 k.). On y trouve déjà trois hôtels.
@@ -442,19 +434,19 @@ du Col d'Ayous par Bious-Artigues et l'ascension du pic lors de
 la première excursion, le regard aura fait le tour complet de
 cet intéressant sommet.
 
-Nota. — Au cas où on n'aurait pas réussi la première ascen-
+> Nota. - Au cas où on n'aurait pas réussi la première ascen-
 sion de l'Ossau et qu'on veuille la reprendre, on couchera au
 refuge de Pombie, au lieu de redescendre à Gabas.
 
 __Horaire de la Journée :__
 
 ```
-De la Casa de Anglassé à l'Anayette..... 4h. » }  9h.30
+De la Casa de Anglassé à l'Anayette..... 4h. » }    9h.30
 De l'Anayette au Col d'Anèou............ 2h. » }  (Arrêts en sus)
 Du Col d'Anèou à Gabas.................. 3h.30 }
 ```
 
-Nota. — Si on a couché aux Arañones, 20 min. en sus.
+> Nota. - Si on a couché aux Arañones, 20 min. en sus.
 
 ## QUATRIÈME JOURNÉE
 
@@ -520,7 +512,6 @@ facile.
 ———<br>
 (1) Dans les cartes, ce sommet porte le nom de « Pic de Goupey ».
 
-
 <div class="page"/>
 
 — p. 50 — COL De LURDE (2me EXCURSION)
@@ -570,7 +561,6 @@ aussi descendre aux Eaux-Bonnes par un temps très clair
 (1) Cette fleur portait autrefois un nom allemand. Sur la proposition 
 de M. Léon Aucher, président du tourisme en montagne au
 Touring-Club, on a adopté le nom français de « Etoile des Neiges ».
-
 
 <div class="page"/>
 
@@ -626,7 +616,6 @@ sauf sur la dr., un peu plus haut, où les pentes sont boisées.
 (4) Les Eaux-Bonnes (Basses-Pyrénées), desservi par des automobiles 
 depuis la gare de Laruns (6 k.).
 
-
 <div class="page"/>
 
 — p. 52 — PIC de GER  . (2me EXCURSION)
@@ -670,7 +659,7 @@ Du Col du Ger au Pic de Ger............ 1h.30 } (Arrêts en sus)
 Du Pic de Ger aux Eaux-Bonnes.......... 4h.   }
 ```
 
-Nota. — En partant à 4 h., on peut rentrer assez tôt pour
+> Nota. - En partant à 4 h., on peut rentrer assez tôt pour
 prendre un train qui quitterait Laruns vers 18 h.
 
 <u>__POINTS D'INTERRUPTION__</u>

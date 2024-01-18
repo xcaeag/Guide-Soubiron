@@ -144,7 +144,7 @@ D'Auzat au Pic d'Endron.............. 5h. » }   9h.45
 Du Pic d'Endron à l'Etang Fourcat.... 4h.45 } (Arrêts en sus).
 ```
 
-Nota. — Si on n'a pas obtenu la clé du refuge du Fourcat,
+> Nota. - Si on n'a pas obtenu la clé du refuge du Fourcat,
 on pourra coucher à l'orry de la Chaudière, et rejoindre l'itinéraire
 du lendemain au port de l'Arbeille par le vallon de
 ce nom. 
@@ -246,7 +246,6 @@ des Pyrénées Centrales, n° 52.)<br>
 (2) Le Serrat, vill. d'été, comprend une vingtaine de maisons couvertes
 en ardoise. La plus recommandée est celle de Vincente Zacurraga.
 
-
 <div class="page"/>
 
 — p. 429 — (34me EXCURSION) PIC DE L'ESTANYO
@@ -271,7 +270,7 @@ __par le Vallon de Serrère.__
 
 —— GUIDE UTILE ——
 
-Nota. — Voici une région qui n'a pas reçu la visite de vingt
+> Nota. - Voici une région qui n'a pas reçu la visite de vingt
 touristes et qui possède cependant deux des plus beaux sommets
 de l'Andorre et de l'Ariège : l'Estanyo qui plane sur toute
 l'Andorre et le Serrère qui trône, à la crête frontière, sur les
@@ -430,7 +429,7 @@ Du Serrat au Port de Siguer........... 2h.30 }   7h.30
 Du Port au village de Siguer.......... 5h. » } (Arrêts en sus).
 ```
 
-Nota. — En 1/2 h., on peut descendre de Siguer à Larramade
+> Nota. - En 1/2 h., on peut descendre de Siguer à Larramade
 (2 k. 500), pour prendre le train, soit pour Tarascon, soit pour
 Auzat.
 

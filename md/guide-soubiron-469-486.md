@@ -31,7 +31,6 @@ __le Col de Puymorens, le Lac de Font-Nègre,__<br>
 __les Sources de l'Ariège, le Pic Nègre d'Embalire__<br>
 __et le Campcardos.__
 
-
 <u>__AVIS AUX TOURISTES__</u>
 
 Il n'existe pas à Ax des guides connaissant l'excursion en
@@ -58,7 +57,6 @@ clé du refuge d'En-Beys; on s'entendra avec lui à ce sujet.
 <div class="page"/>
 
 — p. 471 — (38me EXCURSION) MERENS — VALLEE du NABRE
-
 
 ## PREMIÈRE JOURNÉE
 
@@ -583,7 +581,7 @@ __et le Pic de Campcardos (2.914m).__
 
 —— GUIDE UTILE ——
 
-Nota. — Un service postal franco-andorran fonctionne entre
+> Nota. - Un service postal franco-andorran fonctionne entre
 le bureau de Porté et le premier vill. andorran de Saldeu. Un
 courrier à pied fait le trajet, entre ces localités, par le chemin
 muletier des mineurs jusqu'au Pas de la Casa (2.075m); il passe
@@ -820,7 +818,7 @@ Madame. On pourra aussi repartir dans l'autre sens pour revenir
 à Ax. Dans tous les cas, si on a pris un guide à Porté, c'est de
 Porta qu'il faut le renvoyer.
 
-Nota. — A la gare internationale de Latour-de-Carol, on
+> Nota. - A la gare internationale de Latour-de-Carol, on
 changera de train pour prendre la ligne de Perpignan par
 Bourg-Madame.
 

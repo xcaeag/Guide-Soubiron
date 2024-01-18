@@ -12,7 +12,6 @@ title: NEUVIÈME EXCURSION
 -----------------------
 [//]: # (— p. 119 —)
 
-
 # NEUVIÈME EXCURSION
 
 (N° 8 de la 1re édition)
@@ -22,7 +21,6 @@ __Une semaine à Gavarnie et ses Environs__
 _B. E. — Du 20 Juillet à Fin Août._
 
 Cartes à emporter : Luz et Gavarnie réunies.
-
 
 <u>__AVIS AUX TOURISTES__</u>
 
@@ -41,7 +39,6 @@ compagnons, on prendra aussi un porteur pour toute l'excursion.
 
 <p class="droite">(Voir ci-contre la Carte de 9me Excursion).</p>
 
-
 <div class="page"/>
 
 — p. 120 — MASSIF CALCAIRE (9me EXCURSION)
@@ -53,7 +50,6 @@ CARTE DU MASSIF CALCAIRE
 <div class="page"/>
 
 — p. 121 — (9me EXCURSION) CIRQUE DE GAVARNIE
-
 
 ## PREMIÈRE JOURNÉE
 
@@ -92,7 +88,6 @@ lacets; on laissera là le sac à la garde du porteur, et on fera,
 
 ———<br>
 (1) Les cotes d'alt. sont celles de la carte au 1/20.000e de F. Schrader.
-
 
 <div class="page"/>
 
@@ -146,9 +141,7 @@ Cylindre et le Mont Perdu, vu de Tuquerouye.
 à la Direction centrale, 121, botlevurd Haussmann, Paris, au prix de
 6 francs.
 
-
 <div class="page"/>
-
 
 — p. 123 — (9me EXCURSION) TUQUEROUYE
 
@@ -164,7 +157,7 @@ du Mont Perdu qui est sur le versant opposé au grand couloir, et
 on peut affirmer, sans crainte d'être contredit, que c'est le mieux
 situé des Pyrénées et l'un des plus utiles.
 
-Nota. — Des travaux pour capter la houille blanche ayant été
+> Nota. - Des travaux pour capter la houille blanche ayant été
 effectués aux alentours du Lac glacé, il existe, près du déversoir,
 une cantine où on peut aussi coucher.
 
@@ -181,7 +174,6 @@ __Ascensions des Pics d'Astazou (3.083-3.016), du Marboré (3.253m)__<br>
 __et du Cylindre (3.327m).__
 
 —— GUIDE INDISPENSABLE ——
-
 
 Conseils. —— Itin. recomm. — Cette excursion, la plus belle des
 Pyrénées, est délicate et longue; elle ne doit être entreprise que
@@ -201,7 +193,6 @@ Hautes-Alpes, je les ai vues dans ma première jeunesse, à cet âge où
 l'on voit tout plus grand et plus beau que nature. Du Mont Blanc
 même, il faut venir au Mont Perdu : Quand on a vu la première des
 montagnes granitiques, il reste à voir la première des montagnes calcaires. »
-
 
 <div class="page"/>
 
@@ -257,9 +248,7 @@ Passet. »
 (2) V. Annuaire du C. A. F., 1875, p. 391.
 (3) V. Au Pays des Isards, tome II, p. 38.
 
-
 <div class="page"/>
-
 
 — p. 125 — (9me EXCURSION) MARBORE-CYLINDRE
 
@@ -313,7 +302,6 @@ Mont Perdu (3.052m) situé au S.-E. du Cylindre. C'est à tort que certains
 écrivains appellent ce dernier col du Cylindre. Le vrai col du
 Cylindre est entre le pic de ce nom et le Marboré.
 
-
 <div class="page"/>
 
 — p. 126 — LE MONT PERDU (9me EXCURSION)
@@ -338,7 +326,6 @@ __Du TUQUEROUYE (2.667m) à ORDESA (1.318m),__<br>
 __par le Mont Perdu (3.353m), le Saut de Gaulis (1.890m),__<br>
 __| __et la Vallée d'Arazas.__
 
-
 —— GUIDE INDISPENSABLE ——
 
 __Conseils.__ — __Itin. recomm.__ — On partira de très bonne heure et
@@ -361,7 +348,6 @@ comme, par exemple, au Pic de Midi d'Ossau, à la Pique Longue
 Monts-Maudits, à l'O. du Néthou.
 
 <div class="page"/>
-
 
 — p. 127 — (9me EXCURSION) Le SAUT de GAULIS
 
@@ -412,9 +398,7 @@ nom de « Soaso » était inconnu sur le versant français; en parlant de
 ces lieux, tous nos guides disaient : Saut de Gaulis, Cascade de Gaulis.
 Ma préférence va à ces premières appellations.
 
-
 <div class="page"/>
-
 
 — p. 128 — VALLEE D'ARAZAS (9me EXCURSION)
 
@@ -463,7 +447,6 @@ __de Roland (2.801m).__
 
 —— GUIDE INDISPENSABLE ——
 
-
 <u>__AVIS AUX TOURISTES__</u>
 
 Au N. des Casas de Ordesa, et les dominant de près de
@@ -500,9 +483,7 @@ col et, dans 40 min., aller et retour, on fera l'ascension du Gabiétou
 
 Le Gabiétou comprend une double cime (3.031m-3.024m). Seul,
 
-
 <div class="page"/>
-
 
 — p. 130 — TAILLON - BRECHE DE ROLAND (9me EXCURSION)
 
@@ -601,9 +582,7 @@ Isards, la Brèche et le Cirque.
 nom de « Sarradets ». D'après Henri Passet et Bernat Salles, c'est le
 col du Taillon. Le col des Sarradets n'existe pas.
 
-
 <div class="page"/>
-
 
 — p. 132 — GAVARNIE (9me EXCURSION)
 

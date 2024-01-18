@@ -442,7 +442,7 @@ dans une prairie. On trouvera là un grand sentier qui descend
 direction N. et qui va rejoindre la grand'route à la Bordette, à
 4 k. de Bosost.
 
-Nota. — Pour le trajet de l'Entécade à Bosost, consulter la
+> Nota. - Pour le trajet de l'Entécade à Bosost, consulter la
 carte des « Environs de Luchon », p. 240.
 
 __Horaire de la Journée :__

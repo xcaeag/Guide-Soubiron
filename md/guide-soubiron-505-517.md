@@ -158,7 +158,6 @@ bornée vers le S. |
 On descendra ensuite; à l'E., au Col de Noufonts (2.640m) et,
 en suivant toujours la crête frontière, on escaladera au passage
 
-
 <div class="page"/>
 
 — p. 509 — (40me EXCURSION) COUME DE FRESER
@@ -198,7 +197,7 @@ de Ter ............................. 2h.15
  } (Arrêts en sus).
 ```
 
-Nota. — V. notice sur Ull de Ter, p. 498.
+> Nota. - V. notice sur Ull de Ter, p. 498.
 
 ## DEUXIÈME JOURNÉE
 
@@ -352,7 +351,7 @@ De Roque Couloum au Costabona....... 1h. » } (Arrêts en sus).
 Du. Costabona à La Preste...,....ssvusss 2h.45
 ```
 
-Nota. — La Preste, 55 hab., commune de' Prats-de-Mollo, est
+> Nota. - La Preste, 55 hab., commune de' Prats-de-Mollo, est
 
 une station thermale <ont les établissements sont ouverts du
 ler juin au 31 octobre. Ils sont situés à 1.130 m. d'alt., dans un
@@ -455,7 +454,7 @@ Du Pla Guillem au Canigou.............. 3h. 15 Mur
 Du Canigou au Refuge des Cortalets..... 11h.15
 ```
 
-Nota. — Le chalet-hôtel des Cortalets a été bâti par le
+> Nota. - Le chalet-hôtel des Cortalets a été bâti par le
 « Club Alpin Français » et inauguré en 1899. Il y a une vingtaine
 de lits et on y trouve des provisions. Il est ouvert du
 
@@ -619,6 +618,6 @@ CHALES' de SGpRTA TS <br>
 
 » » de Prades....... 6h.30
 
-Nota. - Voir ci-contre la notg sur
+> Nota. - Voir ci-contre la notg sur
   
 Canigou.

@@ -9,9 +9,7 @@ title:  EXCURSION
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
-
 [//]: # (— p. 23 —)
-
 
 # PREMIÈRE EXCURSION
 
@@ -28,7 +26,6 @@ __le Pic de Midi d'Ossau et Gabas.__
 
 (Emporter des conserves pour quatre repas).
 
-
 ## PREMIÈRE JOURNÉE
 
 __Le Lac et le Cirque de Lhurs,__<br>
@@ -37,7 +34,7 @@ __et la Vallée d'Ansabe.__
 
 —— GUIDE UTILE ——
 
-Nota. — L'ascension du Pic d'Anie, plus courte que celle de
+> Nota. - L'ascension du Pic d'Anie, plus courte que celle de
 Lhurs, des Trois-Rois et d'Ansabe, viendra en seconde journée.
 Elle permettra de rentrer de bonne heure à Lescun et d'en repartir 
 assez tôt pour aller coucher le soir même à Urdos.
@@ -55,11 +52,9 @@ On prendra, à l'O. de Lescun, le chemin qui franchit, 1/2 h
 (35 k.), gare de Lescun-Eygun à 6 K. et à 1 k. du Pont de Lescun, ligne
 d'Oloron au Somport par la vallée d'Aspe.
 
-
 <div class="page"/>
 
 [//]: # (— p. 24 —)
-
 
 ![carte p24](../maps/guide-soubiron-0024-carte.jpg)
 
@@ -123,7 +118,6 @@ que confinent les trois provinces ci-dessus.
 
 — p. 26 —  PIC des TROIS ROIS (1re EXCURSION)
 
-
 A l'E., au pied de la Table des Trois Rois, brille le petit lac
 de Lhurs, enfoncé entre les crêtes du Billare et de Landrosque.
 Mais c'est au Pic des Trois Rois qu'on jouit d'un plus beau
@@ -177,11 +171,9 @@ Du Port d'Ansabère à Lescun............... 3h. » }
 Dans la carte au 1/100.000, le Port d'Ansabère porte le nom de
 Col de Naye, et dans celle d'état-major celui de Col d'Escoueste.
 
-
 <div class="page"/>
 
 — p. 27 —  (1re EXCURSION) VALLON du LAUGA
-
 
 
 ## DEUXIÈME JOURNÉE
@@ -330,7 +322,6 @@ excursion pourrait être faite sans guide; mais, comme les brouillards
 sont fréquents dans cette région et que le moutonnement
 du terrain compris entre le port de Gabedaille et la crête de
 Bernera se prête particulièrement à l'erreur, on se fera accom-
-
 
 <div class="page"/>
 
@@ -642,7 +633,7 @@ de Bious-Artigues (1.500m). Une route conduit ensuite directement
 à Gabas où on couchera, hôtel des Pyrénées, chez Baylou
 (V.2e et 3e E., pp. 48 et 55).
 
-Nota. — Du col d'Ayous, on peut rejoindre directement le
+> Nota. - Du col d'Ayous, on peut rejoindre directement le
 refuge de Pombie dans 3 h. environ, ce qui réduirait d'autant
 la journée du lendemain. On n'a qu'à contourner horizontalement 
 le haut du cirque d'Ayous afin d'aboutir au col de Peyreget, 
@@ -761,7 +752,6 @@ sur l'heure légale au Pic du Midi.<br>
 (2) Petit in-8° illustré. Chez l'auteur, à Izarda-Osse, par Bedous
 (Basses-Pyrénées).
 
-
 <div class="page"/>
 
 — p. 38 — REFUGE DE POMBIE (1re EXCURSION)
@@ -770,7 +760,7 @@ du Val d'Arrius, à 8 k. de Gabas, où on rentrera par la vallée de
 Brousset. On n'aura plus qu'à descendre aux Eaux-Chaudes, à
 8 k. de Gabas.
 
-Nota. — Au cas où on voudrait prendre le train du soir à
+> Nota. — Au cas où on voudrait prendre le train du soir à
 Laruns, on retiendra une voiture qui viendra chercher les
 touristes au confluent d'Arrius, 22 k. de la gare.
 

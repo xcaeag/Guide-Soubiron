@@ -230,6 +230,6 @@ Du Cagire à Juzet-d'Izaut........... 2h. 10 } (Arrêts en sus).
 De Juzet à Aspet.................... 1h. 20 }
 ```
 
-Nota. — La vingt-quatrième excursion peut être réalisée en
+> Nota. - La vingt-quatrième excursion peut être réalisée en
 sens inverse, en allant coucher la veille, soit à Aspet, soit à
 Juzet. 

@@ -42,7 +42,6 @@ des compagnons exercés et résistants à la fatigue.
 
 (Voir aussi le Plan du Balaïtous, page 58).
 
-
 <div class="page"/>
 
 — p. 100 —
@@ -50,7 +49,6 @@ des compagnons exercés et résistants à la fatigue.
 ![carte p100](../maps/guide-soubiron-0100-carte.jpg)
 
 <div class="page"/>
-
 
 — p. 101 — (7me EXCURSION) CAMPO PLANO
 
@@ -107,7 +105,6 @@ __De CAMPO-PLANO (2.100m) à SALLENT (1.268m),__<br>
 __par le Balaïtous (3.146m),__<br>
 __le Cirque d'Ariel, le Paso del Oso et la Garganta d'Agua Limpia.__
 
-
 —— GUIDE INDISPENSABLE ——
 
 __Conseils.__ — __Itin. recomm.__ — On fera l'ascension du Balaïtous
@@ -145,9 +142,7 @@ montagne.
 Pour la descente, on reprendra l'itinéraire d'ascension jusqu'à
 la base de la muraille de 40 m. Là, selon l'état du couloir de la
 
-
 <div class="page"/>
-
 
 — p. 103 — (7me EXCURSION) GORGE de L'AGUA LIMPIA
 
@@ -195,9 +190,7 @@ aboutit immédiatement dans un terrain facile. On n'arrivera pas
 au fond de la cuvette, mais on tournera à l'O., en se tenant très
 haut, pour entrer dans la gorge par la rive dr. On passe là à la
 
-
 <div class="page"/>
-
 
 — p. 104 — SALLENT (7me EXCURSION)
 
@@ -219,7 +212,7 @@ le bourg.
 A Sallent, je recommande la « Fonda » de Enrique Bergua et,
 pour la location des mulets, el señor Eugenio Perer.
 
-Nota. — Dès son arrivée à Sallent, on louera un mulet pour
+> Nota. - Dès son arrivée à Sallent, on louera un mulet pour
 faire monter les sacs, le lendemain matin, au plateau supérieur
 de Pundillos, vers 2.000 d'alt.
 
@@ -251,7 +244,6 @@ vers 2.000 d'alt.
 (2) Cascade de Sallent, qu'on peut admirer au passage.
 
 <div class="page"/>
-
 
 — p. 105 — (7me EXCURSION) ALGAS — AROLLAS
 
@@ -302,7 +294,6 @@ pointe de la Pique Longue.
 (1) Les Espagnols prononcent : Las Arouélas.
 
 <div class="page"/>
-
 
 — p. 106 — PIC D'ENFER (7me EXCURSION)
 
@@ -356,7 +347,6 @@ rejoindre l'arête S.-O. On montera à toute crête jusqu'au sommet
 
 <div class="page"/>
 
-
 — p. 107 — (7me EXCURSION) PORT du MARCADAU
 
 A environ 400 m., à l'E.-S.-E., on aperçoit la tourelle du point
@@ -409,9 +399,7 @@ Du Port du Marcadau au Refuge Wallon.... 2h.15 }
 (1) Le Pont des Espagnols est situé sur le gave du Marcadau,
 environ 10 min. en amont du confluent du ruisseau de Cambalès.
 
-
 <div class="page"/>
-
 
 — p. 108 — LAC du POURTET (7me EXCURSION)
 
@@ -421,7 +409,6 @@ __Du REFUGE du MARCADAU (1.860m) à CAUTERETS (932m);__<br>
 __par le Lac Nère (2.250m),__<br>
 __le Lac du Pourtet (2.450m), les Lacs de Castellabarca (2.187m),__<br>
 __le Col de la Haougadé (2.350m) et le Lac d'ilhèou (1.986m).__
-
 
 —— GUIDE UTILE ——
 
@@ -460,7 +447,6 @@ nom de « Pourtet »; il est, en effet, sur le Pourtet qui fait communiquer
 la région de Castellabarca avec celle de Cambalès.
 
 <div class="page"/>
-
 
 — p. 109 — (7me EXCURSION) COL de LA HAOUGADE
 
@@ -506,7 +492,6 @@ Du Lac d'Ilhèou à Cauterets............... 2h.15 }
 ```
 
 <div class="page"/>
-
 
 — p. 110 —
 

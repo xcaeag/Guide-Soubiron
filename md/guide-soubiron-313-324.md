@@ -150,7 +150,7 @@ la fureur des vents. Malgré sa haute alt., ce coin conviendrait
 admirablement à l'édification d'un sanatorium. Nulle part, le
 touriste ne trouvera un pareil régal des yeux, avec si peu de fatigue.
 
-Nota. — Comme il faut partir de très bonne heure le lendemain, 
+> Nota. - Comme il faut partir de très bonne heure le lendemain, 
 on fera ses provisions et on règlera les dépenses le
 soir même. Si on ne prend pas cette précaution, on perdra plus
 d'une h. au moment du départ, ce qui peut compromettre le
@@ -475,7 +475,7 @@ __le Pic d'Aubas (2.072m) et Couradilles (1.985m).__
 
 —— SANS GUIDE ——
 
-Nota. — Pour la cinquième journée, on peut, le cas échéant,
+> Nota. - Pour la cinquième journée, on peut, le cas échéant,
 en modifier le programme par l'une des deux variantes ci-après : 
 1° en rentrant directement à Marignac, si on voulait
 continuer vers la plaine; 2° en reprenant l'ascension de l'Entécade

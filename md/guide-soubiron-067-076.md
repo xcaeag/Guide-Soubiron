@@ -52,7 +52,6 @@ le Pic Long, le Néouvielle et le Pic de Midi de Bigorre.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
-
 <div class="page"/>
 
 — p. 68 —
@@ -70,7 +69,6 @@ __De LOURDES (386m) à LOURDES,__<br>
 __par la Gorge de l'Arboucau, Omex, le Pic de Montégut (1.133m),__<br>
 __le Pibeste (1.383m), Salles (638m), Sère, Gez (660m)__<br>
 __et Argelès (455m).__
-
 
 —— SANS GUIDE ——
 
@@ -103,7 +101,6 @@ de Tarbes; mais son ascension est surtout utile pour repérer
 la voie qui monte au Pibeste.
 
 Droit au S., on apercevra une sente rapide qui monte en ligne
-
 
 <div class="page"/>
 
@@ -156,7 +153,6 @@ Après une petite descente jusqu'à Sère où on franchit le Ber-
 (1) Concernant l'étymologie des Pics du Midi, voir note p. 3.
 (2) V. Bulletin de la Section des Pyrénées Centrales, n° 49. 
 
-
 <div class="page"/>
 
 — p. 71 — (4me EXCURSION) ARGELES
@@ -168,7 +164,7 @@ de la région : on dominera Argelès et on en embrassera
 toute la vallée, depuis le Viscos jusqu'au Ger de Lourdes.
 Parvenu à Argelès, on prendra le train pour Lourdes.
 
-Nota. — On peut aussi coucher à Argelès pour faire, le
+> Nota. - On peut aussi coucher à Argelès pour faire, le
 lendemain, l'ascension du Hautacamp. Dans ce cas, on ira
 rejoindre l'itinéraire à Saint-Pastous, à 5 k. d'Argelès.
 
@@ -207,7 +203,6 @@ n'y a pas d'eau au sommet; il sera prudent d'en faire provision
 à Saint-Pastous.
 
 On remarquera au passage, sur la g., la jonction du beau sen-
-
 
 <div class="page"/>
 
@@ -264,7 +259,6 @@ Du Hautacamp à Lugagnan............. 3h.15 } (Arrêts en sus).
 (1) Certains le nomment « Davantaïgues », d'autres, montagne de
 Gazost.
 
-
 <div class="page"/>
 
 — p. 73 — (4me EXCURSION) GER De LOURDES
@@ -311,7 +305,6 @@ et, au N., dans un immense éventail, paraissent un grand nombre
 (1) En été, à l'époque des pèlerinages, il est perçu un droit de
 0 fr. 50 pour monter au belvédère. Avec la carte du Touring-Club, on
 y monte gratis.
-
 
 <div class="page"/>
 
@@ -363,11 +356,9 @@ l'allure d'une haute montagne.
 
 Aux granges de Bourdalats, coule, près de la route, une très
 
-
 <div class="page"/>
 
 — p. 75 — (4me EXCURSION) CLIQUE DE GERMS
-
 
 bonne source; on y fera sa provision d'eau, car celle du vill. de
 Germs n'est pas des meilleures.
@@ -417,7 +408,6 @@ Si, après avoir effectué les excursions des environs de Lourdes,
 on veut continuer immédiatement par les environs de
 Cauterets, c'est de la Clique de Germs qu'on rentrera à Lour-
 
-
 <div class="page"/>
 
 — p. 76 — LUGAGNAN (4e EXCURSION)
@@ -428,7 +418,6 @@ qu'on rejoindra près de sa source. Là, un grand sentier en
 longe la rive g. et, 20 min. plus bas, on retrouve la grand'route
 à la cote 587, à 10 k. de Lourdes et à 6 de Lugagnan, où on
 pourra prendre le train pour Cauterets.
-
 
 <u>__POINTS D'INTERRUPTION__</u>
 

@@ -122,7 +122,7 @@ route d'Ax pour prendre, en face, celle du Col de Paillères; on la
 suivra jusqu'aux granges de Montmija, qui ne sont qu'à quelques
 min. et où l'on couchera.
 
-Nota. — Du Coumeil de Brasseil, on peut rentrer à Ax dans
+> Nota. - Du Coumeil de Brasseil, on peut rentrer à Ax dans
 3h.30 par la voie d'ascension.
 
 __Horaire de la Journée :__

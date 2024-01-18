@@ -552,7 +552,7 @@ Là, on suivra cette dernière 10 min. environ, afin de prendre,
 près du poste des bennes, le sentier qui descend à Massada où
 on rejoint la route à 3 k. 500 d'Auzat.
 
-Nota. — On trouvera à Auzat un excellent accueil à l'hôtel
+> Nota. - On trouvera à Auzat un excellent accueil à l'hôtel
 Denjean, dont le propriétaire est membre du Club Alpin
 Français.
 

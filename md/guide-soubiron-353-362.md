@@ -167,7 +167,7 @@ __par le Pic de l'Homme (2.722m) et le Pic de Montolieu (2.678m).__
 
 —— SANS GUIDE ——
 
-Nota. — Cette journée d'excursion permet de refaire facilement
+> Nota. - Cette journée d'excursion permet de refaire facilement
 l'ascension du Maubermé. Dans l'affirmative, on montera
 droit à l'E. vers le Col de Tartereau (2.508m) pour grimper
 ensuite par la cheminée S.-O. On redescendra par la cheminée
@@ -222,7 +222,7 @@ du Port d'Orle qui mène directement à N.-D. de Mongarri
 (1.652m). On pourra coucher à la posada d'el Señor Espagne, où
 on trouvera quelques provisions.
 
-Nota. — On peut coucher aussi à l'auberge del Señor François
+> Nota. - On peut coucher aussi à l'auberge del Señor François
 Molas, qui est située au confluent du ruisseau d'Orle,
 1 k. en amont de N.-D. de Mongarri.
 
@@ -244,7 +244,7 @@ __la Pica de Bonabé (2.717m) et la Roca Blanca (2.758m).__
 
 —— GUIDE UTILE ——
 
-Nota. — Comme l'exploitation de la forêt est terminée, il est
+> Nota. - Comme l'exploitation de la forêt est terminée, il est
 probable qu'il n'existe plus de cantine à Bonabé. On se renseignera
 donc à Mongarri, afin d'emporter des provisions pour
 le soir si cela est nécessaire. On pourra toujours coucher à
@@ -416,7 +416,7 @@ attendant l'ouverture de la ligne en construction, on pourra descendre
 de Seix à Saint-Girons (18 Kk.), par l'autobus qui fait ce
 service.
 
-Nota. — Si on est pressé et qu'on veuille prendre le dernier
+> Nota. - Si on est pressé et qu'on veuille prendre le dernier
 train du soir à Saint-Girons, cela est possible en partant de
 Bonabé à 5 h., afin d'arriver à Seix vers 13 h. L'horaire serait
 le suivant : de Bonabé au port, 1 h. 45; du port à Salau, 2 h.;

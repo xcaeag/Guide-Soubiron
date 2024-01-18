@@ -392,7 +392,7 @@ __et Saint-Girons.__
 
 —— SANS GUIDE ——
 
-Nota. — Le programme de la quatrième journée, qui n'exige
+> Nota. - Le programme de la quatrième journée, qui n'exige
 que six h. de marche et qui permet de rentrer le soir même
 à Toulouse, peut tout aussi bien être réalisé à la suite de la
 deuxième journée, si on n'effectue pas la troisième.
@@ -411,7 +411,7 @@ l'Arraing (1.667m).
 Ce sommet, d'accès très facile et qui n'a nullement la forme
 d'un pic, est cependant un très joli belvédère. Ce qui en fait
 surtout le charme, c'est sa vue très étendue vers l'O., car on aperçoit
-notamment le Pic de Midi de Bigorre, l'Arbizon et le Nèouvielle.
+> Nota. - mment le Pic de Midi de Bigorre, l'Arbizon et le Nèouvielle.
 
 Revenu au col, on descendra au N.-E. à travers une petite
 forêt à l'orée de laquelle on trouve le chemin muletier qui mène
@@ -430,6 +430,6 @@ Du Col au Pic, aller et retour........ 1h.30 } (Arrêts en sus).
 Du Col de l'Arraing à Castillon....... 2h.30 }
 ```
 
-Nota. — Cette excursion peut être faite aussi de Saint-Girons 
+> Nota. - Cette excursion peut être faite aussi de Saint-Girons 
 à Saint-Girons dans la journée, en partant par le premier
 train du matin.
