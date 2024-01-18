@@ -137,7 +137,7 @@ qui forment l'Ourse de Ferrère.
 
 <div class="page"/>
 
-— p. 232 — MONTNE de LUCHON  (l8m18me EXCURSION)
+— p. 232 — MONTNE de LUCHON  (18me EXCURSION)
 
 ![carte p232](../maps/guide-soubiron-0232-carte.jpg) 
 
@@ -820,7 +820,7 @@ en longeant la frontière qu'on laisse à dr. et en dominant constamment
 le vallon fleuri de la Frèche qui se creuse à g. Parvenu
 
 ———<br>
-(1) 11 s'agit bien ici du fameux « Goueil de Jouèou », que certains
+(1) il s'agit bien ici du fameux « Goueil de Jouèou », que certains
 auteurs considèrent comme l'une des sources de la Garonne.<br>
 (2) Petite échelle.
 

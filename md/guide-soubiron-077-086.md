@@ -422,7 +422,7 @@ et le lac d'Ihèou.
 On pourrait, dans 4-h., redescendre à Cauterets par la voie
 d'ascension:; mais l'excursion atteindra son maximum d'intérêt
 par l'itinéraire suivant : De la brèche de Bat-Escure, on descendra,
-environ 5 min. au S.-O0., puis on marchera à flanc de montagne, 
+environ 5 min. au S.-O., puis on marchera à flanc de montagne, 
 direction S., afin d'aboutir à une seconde brèche en forme
 de V, entaillée dans la crête de Piarrouy, entre le pic de ce
 nom (2.754m), au S., et le Grand Barbat, au N. Cette brèche

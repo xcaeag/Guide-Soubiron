@@ -189,7 +189,7 @@ __Horaire de la Journée :__
 ```
 De Montlouis au Pla de la Bégude....... 3h. »
 Du Pla de la Bégude au Pic de Finestrelles. 1h.45
-Du Pic de Finestrelles au Col de Nuria... O0h.45
+Du Pic de Finestrelles au Col de Nuria... 0h.45
 Du Col de Nuria au Col des Neuf-Croix.. 11h.45
 Du Col des Neuf-Croix au Refuge de Ull
 de Ter ............................. 2h.15
