@@ -401,7 +401,7 @@ l'autre côté de cette dernière coume, le Pic de l'Enfer s'élance en
 plein ciel jusqu'à 2.870 m. d'alt. Du grand Pic de la Vaca, on
 s'aperçoit déjà d'une grosse erreur des cartes françaises qui le
 situeot sur la frontière. Il est en entier en France, à 400 m. environ
-de la grande chaîne, sur un chaïnon secondaire qui se détache
+de la grande chaîne, sur un chaînon secondaire qui se détache
 au N. Le sommet situé sur la crête frontière (2.800m), s'appelle
 Pic des Gourgs.
 
