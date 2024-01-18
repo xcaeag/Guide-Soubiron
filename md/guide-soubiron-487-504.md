@@ -108,7 +108,7 @@ cul-de-sac, en haut de la vallée.
 Là, s'ouvrent deux vallons secondaires qui conduisent à Ia
 crête frontière; le premier grimpe, droit au S., au Pla de las
 Seinas (2.234m); le second qui tourne à g., au S.-E. conduit au
-Pas dels Lladres (2.5007m ****). C'est ce dernier qu'il faut suivre mais
+Pas dels Lladres (2.500 ?). C'est ce dernier qu'il faut suivre mais
 sans l'aborder immédiatement.
 
 Au S.-E., sur un plateau dominant Valcebollère, on aperçoit
@@ -118,7 +118,7 @@ prendra le chemin de chars qui se dirige au S. et qui, 5 min.
 
 <div class="page"/>
 
-— p. 490 — PAS **** pezs LLADRES - La TOSA (39me EXCURSION)
+— p. 490 — PAS DELS LLADRES - LA TOSA (39me EXCURSION)
 
 après, fait un lacet à g., pour conduire près de la croix. Sur le
 plateau, le chemin bifurque; celui de dr. mène à la chapelle de
@@ -211,7 +211,7 @@ Neuf-Croix.
 La descente sur le sanctuaire est des plus faciles, car, sauf le
 dernier quart d'h., tout le trajet est à découvert. On domine, en
 effet, au N.-E., le Pla d'Eugacers qui occupe le haut du vallon, à
-**** &., et la Coma de Lambut située plus bas, à dr.
+g., et la Coma de Lambut située plus bas, à dr.
 
 On dégringolera à travers la rocaille, droit au N.-E., pour rejoindre
 un sentier qui aboutit au Pla d'Eugacers, après avoir
@@ -241,8 +241,8 @@ Du Pas dels Lladres au Puigmal........... 1h.45 }
 Du Puigmal au Sanctuaire de Nuria........ 2h.15 } (Arrêts en sus).
 ```
 
-__Note concernant NURIA__
-****
+<u>__Note concernant NURIA__</u>
+
 On peut affirmer que le sanctuaire de Nuria est le paradis des
 pyrénéistes qui veulent explorer la région s'étendant du Puigmai
 au Pic de l'Enfer, y compris les hautes vallées d'Eyne et de Carança

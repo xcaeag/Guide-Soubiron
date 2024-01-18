@@ -310,7 +310,7 @@ Du Col d'Anie à la Cascade Sanchez....... 2h. » }  (Arrêts en sus)
 De la Cascade Sanchez à Lescun........... 1h. » }
 ```
 
-> Nota. — Si on est parfi du refuge de Labérouat, 1 h. en moins.
+> Nota. — Si on est parti du refuge de Labérouat, 1 h. en moins.
 
 ## TROISIÈME JOURNÉE
 
@@ -589,16 +589,12 @@ rang d'alt., de l'E. à l'O. : Lac Romassot (1.812m); petit lac du
 Milieu (1.880m); grand lac d'Ayous ou Gentaou (1.970m). 
 Sur les
 
-———****
-
-Peña del Mediodia (pic du milieu du jour);  Peña de la Una (pic de 1h)
-
+———<br>
+Peña del Mediodia (pic du milieu du jour);  Peña de la Una (pic de 1h)<br>
 Voici les principaux pics de Midi de la chaîne pyrénéenne : Midi
 d'Ossau. — Midi de Ferrières (Gabizos). — Midi d'Arrens. — Midi de
-Bigorre. — Midi de Saint-Lary. — Midi de Genost. 
-— Midi de Bordes (Ariège) et Midi de Siguer.
-
-———<br>
+Bigorre. — Midi de Saint-Lary. — Midi de Genost. - 
+Midi de Bordes (Ariège) et Midi de Siguer.<br>
 (1) Malgré ce qui est écrit dans les Grandes Ascensions de Russel,
 j'affirme que toutes les crêtes qui dominent le cirque de Larry sont
 praticables pour des pyrénéistes exercés.

@@ -234,7 +234,7 @@ passer par là les sapins fameux de la Baigt de Saint-Cours qu'on
 destinait à des mâts de navires. On a échancré le flanc de la
 montagne pour permettre le passage d'un mulet trainant un
 sapin, et rien n'est plus terrifiant que ce chemin suspendu. Dans
-la profonde gorge de la partie inférieure de la ****Baïigt de Saint-
+la profonde gorge de la partie inférieure de la Baigt de Saint-
 Cours, on a dû, pour pouvoir passer, tailler le chemin en encorbellement 
 dans le roc vif, sur une longueur d'environ 2 k. et sur
 des flancs à pic. Parfois il surplombe le torrent de plusieurs
@@ -245,8 +245,8 @@ instinctivement vers les parois de la montagne, tant on a la
 sensation d'être en l'air.
 
 Si, au dernier tournant, à celui qui fait face au fort du Portalet
-et qui le domine, on regarde en arrière, on se demande, en fré-
-missant, comment on a pu passer par là sans difficulté et sans
+et qui le domine, on regarde en arrière, on se demande, en frémissant, 
+comment on a pu passer par là sans difficulté et sans
 vertige. Les amateurs d'émotions fortes trouveront pleine satisfaction 
 dans ce trajet.
 
@@ -276,7 +276,7 @@ __Horaire de la Journée:__
 ```
 Des Eaux-Chaudes au Cirque de Sesques.....   3h  »  }
 Du Cirque au grand Pic de Sesques.........   2h  »  }
-Du grand Pic de Sesques au Col par le               }  10h.30
+Du grand Pic de Sesques au Col par le               }    10h.30
   petit pic                                  0h.30  }  (Arrêts en sus)
 Du Col de Sesques à la Baigt de Saint-Cours. 2h. »  }
 De ce point à Urdos (1)....................  3h. »  }

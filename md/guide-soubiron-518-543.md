@@ -443,7 +443,7 @@ Arboucau (gorges de l)....... 69 | Aspe (pic et pas d')... 39,45, 46
 Arbu (étang d')..............383 | Aspe (vallée d')....... 21, 27 39
 Ardengost .................. 188 | Aspet ....................... 328
 Ardengost (ruisseau d')..... 188 | Aspin (col et vill. d')...... 185
-Ardiden (pourtère et pic)   **** | Aspre (pic d').......... 420, 421
+Ardiden (pourtère et pic d')     | Aspre (pic d').......... 420, 421
                              118 | Astau (granges d'). 234, 238, 249
 Areng (pic d')......... 187, 188 | Astazou (pics et col d') 123, 124
 Aret (pic d').......... 143, 144 | Aston (vallée et vill. d').
