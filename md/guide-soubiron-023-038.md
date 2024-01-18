@@ -449,9 +449,9 @@ __Horaire de la Journée :__
 ```
 Des Forges d'Abel au Port de &abedaille... 1h.30 }
 Du Port de Gabedaille au Visaurin......... 3h. » }     9h.30
-Du Visaurin au Lac d'Estaës... ........... 2h.10 }  (Arrêts en sus)
+Du Visaurin au Lac d'Estaès... ........... 2h.10 }  (Arrêts en sus)
 Du Lac d'Estaès aux Forges d'Abel ........ 1h.30 }
-Des Forges d'Abel à Urdos (7 k.}.......... 1h.20 }
+Des Forges d'Abel à Urdos (7 k.).......... 1h.20 }
 
 N. B. — Si on est monté à pied d'Urdos aux Forges, 1 h. 1/2
 en sus.
