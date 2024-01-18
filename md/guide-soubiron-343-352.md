@@ -139,7 +139,7 @@ vers l'O. et qui mène, en 1/4 d'h., près d'une grange située à g.,
 au bord d'un pré. En remontant ce dernier en diagonale, on
 parviendra dans 10 min. au faîte de la colline qui sépare la
 vallée de Massat de celle d'Aulus, vers 650 d'alt. De ce point,
-on domine tout le bassin de Seix dont on a sous les veux
+on domine tout le bassin de Seix dont on a sous les yeux
 Soueix, Vic, Oust, Seix, Sentenac et Rogalle.
 
 A deux pas, en face, s'élève le Cap de Bouirech (1.872m), dont
