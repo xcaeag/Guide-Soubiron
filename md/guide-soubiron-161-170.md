@@ -85,7 +85,7 @@ le massif du Montné par le S. et l'O. Le sentier tourne bientôt
 de Lesponne que domine majestueusement, au S., le Pic de Midi
 de Bagnères. Ce point de vue est très beau. Baudéan est sous soi
 
-———\
+———<br>
 (1) Sorte de gros rocher qui culmine la colline naissante.
 
 
@@ -162,8 +162,8 @@ dans l'après-midi.
 
 ## DEUXIÈME JOURNÉE
 
-__Ascension du Casque de Lhéris (1.593m), avec retour à Bagnères__\
-__par le Col de Banios (1.421m),__\
+__Ascension du Casque de Lhéris (1.593m), avec retour à Bagnères__<br>
+__par le Col de Banios (1.421m),__<br>
 __les Cabanes d'Ordincède (1.345m) et Campan (668m).__
 
 
@@ -302,8 +302,8 @@ Du Col de Banios à Campan.............. 2h. » }
 
 ## TROISIÈME JOURNÉE
 
-__Ascension du Lac Bleu (1.968m),__\
-__du Col de Bizourtère (2.275m) et retour à Bagnères__\
+__Ascension du Lac Bleu (1.968m),__<br>
+__du Col de Bizourtère (2.275m) et retour à Bagnères__<br>
 __par Le Lac Vert ou Lac d'Ourrec (1.681m).__
 
 —— SANS GUIDE ——
@@ -396,7 +396,7 @@ tracé qui grimpe dans le rocher par le Pas du Bouc, pour
 gagner le haut du plateau; là, il rejoint le chemin direct du
 Col d'Aoubo dont on a aperçu l'amorce en montant. Ce pla-
 
-———\
+———<br>
 (1) Ce col est appelé Hourquette d''Ouscouaou par la carte d'Etat-
 Major et Col du Lac par celle du Ministère de l'Intérieur.
 

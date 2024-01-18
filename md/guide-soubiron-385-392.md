@@ -24,8 +24,8 @@ Carte à emporter : Foix.
 
 ## PREMIÈRE JOURNÉE
 
-__De FOIX (406m) à SAURAT (674m), par Ganac (600m),__\
-__le Calmil (1.160m), le Cap de la Coume de Pignou (1.716m)__\
+__De FOIX (406m) à SAURAT (674m), par Ganac (600m),__<br>
+__le Calmil (1.160m), le Cap de la Coume de Pignou (1.716m)__<br>
 __et le Roc des Louvetières (1.501m).__
 
 —— SANS GUIDE ——
@@ -107,7 +107,7 @@ description à la 31° excursion.
 A l'E.-S.-E., le massif de Tabe, qu'on aperçoit en entier, paraît
 à deux pas.
 
-———\
+———<br>
 (1) Pour les gens du versant de Foix, ce sommet s'appelle le
 « Picou ».
 
@@ -154,9 +154,9 @@ intéressante.
 
 ## DEUXIÈME JOURNÉE
 
-__De SAURAT (67142m) aux CABANNES (533m),__\
-__par le Pic de la Journalade (1.949m), le Cap de la Dosse (1.953m),__\
-__le Roc de Trabinet (1.652m), le Roc des Iretgés, le Cap__\
+__De SAURAT (67142m) aux CABANNES (533m),__<br>
+__par le Pic de la Journalade (1.949m), le Cap de la Dosse (1.953m),__<br>
+__le Roc de Trabinet (1.652m), le Roc des Iretgés, le Cap__<br>
 __de Brougat (915m), Bédeilhac et Tarascon (480m).__
 
 —— SANS GUIDE ——
@@ -260,7 +260,7 @@ Du Cap de la Dosse à Bédeilhac........3h. » }
 De Bédeilhac à Tarascon.............. 1h. » }
 ```
 
-———\
+———<br>
 (1) Roc des hérétiques.
 
 <div class="page"/>
@@ -269,8 +269,8 @@ De Bédeilhac à Tarascon.............. 1h. » }
 
 ## TROISIÈME JOURNÉE
 
-__Des CABANNES (533m) à FOIX (406m), par Verdun,__\
-__le Mont Fourcat (2.004m), le Pic de la Laouzatte (1.655m),__\
+__Des CABANNES (533m) à FOIX (406m), par Verdun,__<br>
+__le Mont Fourcat (2.004m), le Pic de la Laouzatte (1.655m),__<br>
 __Croquié et Mercus.__
 
 —— SANS GUIDE ——
@@ -311,7 +311,7 @@ du Lujat. Après avoir franchi le ruisseau d'Arnave et traversé
 un ravin, on quitte la forêt pour aborder les pâturages supérieurs
 vers 1.600 m. d'alt. On inclinera alors légèrement à dr.,
 
-———\
+———<br>
 (1) Pas de Souloumbrie de la carte d'Etat-Major.
 
 <div class="page"/>
@@ -362,7 +362,7 @@ Nota. — Cette excursion peut être effectuée en sens inverse;
 mais, dans ce cas, celle présente l'inconvénient de faire toute
 l'ascension à découvert et face au soleil.
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 
 __SAURAT__

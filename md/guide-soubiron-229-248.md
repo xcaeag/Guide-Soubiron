@@ -16,7 +16,7 @@ output: pdf_document
 
 # 18°, 19° et 20° EXCURSIONS
 
-__Quinze jours aux Environs de Luchon__\
+__Quinze jours aux Environs de Luchon__<br>
 __En trois Excursions__
 
 <u>__NOTICE sur LUCHON__</u>
@@ -52,7 +52,7 @@ nouveaux points de vue. Aussi, dès notre arrivée à Luchon,
 irons-nous, dans une même journée, visiter ces deux lieux charmants, 
 autour desquels nous rayonnerons ensuite.
 
-(Voir les cartes des Environs de Luchon, pp. 202 et 214.\
+(Voir les cartes des Environs de Luchon, pp. 202 et 214.<br>
 (Voir aussi les cartes des Environs d'Espingo, pp. 232 et 240.
 
 
@@ -92,7 +92,7 @@ a intérêt à faire les excursions dans l'ordre indiqué; on peut
 cependant, sans inconvénient sérieux, effectuer chacune d'elles
 selon sa fantaisie.
 
-———\
+———<br>
 (1) Deux volumes in-4° couronne, illustrés de 169 héliogravures et d'une
 carte. En vente à la librairie E. Privat, 14, rue des Arts, Toulouse.
 
@@ -105,15 +105,15 @@ carte. En vente à la librairie E. Privat, 14, rue des Arts, Toulouse.
 
 __Cinq jours aux environs de Luchon__
 
-(1re Série)\
+(1re Série)<br>
 _B. E. — Du 1er Juillet au 1er Octobre._
 
 Cartes à emporter : Bagnères-de-Luchon et Val d'Arouge réunies.
 
 ## PREMIÈRE JOURNÉE
 
-__De MAULÉON-BAROUSSE (600m) à LUCHON (629m),__\
-__par la Vallée de Ferrère. le Mortré-de-Luchon (2.147m)__\
+__De MAULÉON-BAROUSSE (600m) à LUCHON (629m),__<br>
+__par la Vallée de Ferrère. le Mortré-de-Luchon (2.147m)__<br>
 __et la Vallée d'Oueil.__
 
 —— SANS GUIDE ——
@@ -135,7 +135,7 @@ débouche au petit cirque des Pontous; là, se réunissent les trois
 ruisseaux de Pouvaous, de Sèouès et de la Saoubette de Cardouet,
 qui forment l'Ourse de Ferrère.
 
-———\
+———<br>
 (1) Petites mares, terrains saturés d'eau.
 
 <div class="page"/>
@@ -222,9 +222,9 @@ attractions des Environs de Luchon.
 
 ## DEUXIÈME JOURNÉE
 
-__EXCURSION au CIRQUE d'ESPINGO (2.000m),__\
-__par Supérbagnères (1.800m), le Col de la Coume de Bourg (2.325m)__\
-__et le Col de Bassieret (2.275m), avec retour à Luchon__\
+__EXCURSION au CIRQUE d'ESPINGO (2.000m),__<br>
+__par Supérbagnères (1.800m), le Col de la Coume de Bourg (2.325m)__<br>
+__et le Col de Bassieret (2.275m), avec retour à Luchon__<br>
 __par le Lac d'Oô (1.500m) et les Granges d'Astau (1.112m).__
 
 —— SANS GUIDE ——
@@ -381,7 +381,7 @@ d'Espingo est le point de départ rêvé qui permet d'en faire
 
  
 
-———\
+———<br>
 (1) Indépendamment du refuge gardé, ouvert seulement en été, il
 existe : 1° une pièce libre, contenant un bat-flanc et fermée seulement 
 au loquet; 2° une nouvelle cabane, très spacieuse, construite
@@ -431,7 +431,7 @@ Des granges d'Astau à Luchon....... 2h.30 } (Arrêts en sus)
 
 ## TROISIÈME JOURNÉE
 
-__Ascensions du Poujastou (1.930m) du Mail de Criq (1.824m)__\
+__Ascensions du Poujastou (1.930m) du Mail de Criq (1.824m)__<br>
 __et des Tourettes de Pène-Mélère.__
 
 —— SANS GUIDE ——
@@ -547,7 +547,7 @@ et de là, rentrer à Luchon par le vallon de Burbe et la Cascade
 Sidonie; cela allongerait d'environ 1 h. On peut aussi. du Portillon, 
 descendre à Bosost dans 1h.30.
 
-———\
+———<br>
 (1) Henry Spont, Luchon et ses environs, p. 86.
 
 
@@ -557,9 +557,9 @@ descendre à Bosost dans 1h.30.
 
 ## QUATRIÈME JOURNÉE
 
-__Ascensions du Soum de Couradilles (1.985m)__\
-__et du Cap de la Palo (2.156m), avec retour à Luchon__\
-__par les Cols de Barèges (1.800m) et de l'Artiguette (1.300m),__\
+__Ascensions du Soum de Couradilles (1.985m)__<br>
+__et du Cap de la Palo (2.156m), avec retour à Luchon__<br>
+__par les Cols de Barèges (1.800m) et de l'Artiguette (1.300m),__<br>
 __le Vallon de Burbe et la Cascade Sidonie.__
 
 —— GUIDE UTILE ——
@@ -706,8 +706,8 @@ rejoindre la route entre l'Hospice de France et le Pont Lapadé.
 
 ## CINQUIÈME JOURNÉE
 
-__Excursion au Port de Venasque (2.448m),__\
-__avec ascension facultative du Pic de Sauvegarde (2.736m)__\
+__Excursion au Port de Venasque (2.448m),__<br>
+__avec ascension facultative du Pic de Sauvegarde (2.736m)__<br>
 __et retour à Luchon par le Port de la Picade (2.475m).__
 
 —— GUIDE UTILE ——
@@ -787,7 +787,7 @@ des passagers du port.
 Bien que le Sauvegarde soit un pic de second ordre et d'un
 accès très facile, on jouit sur son sommet d'un point de vue
 
-———\
+———<br>
 (1) C'est par erreur que M. H. Spont donne à cette crête le nom
 de Montagnette; le pic de ce nom (2.558m) est situé plus au S.-O. à
 environ 3 k., entre le pic de la Glère et le Sauvegarde. Cette erreur
@@ -844,7 +844,7 @@ promenades. On descend en pente douce par le versant français,
 en longeant la frontière qu'on laisse à dr. et en dominant constamment 
 le vallon fleuri de la Frèche qui se creuse à g. Parvenu
 
-———\
+———<br>
 (1) 11 s'agit bien ici du fameux « Goueil de Jouèou », que certains
 auteurs considèrent comme l'une des sources de la Garonne.
 

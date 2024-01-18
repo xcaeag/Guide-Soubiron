@@ -18,17 +18,17 @@ output: pdf_document
 
 Cinq jours au départ d'Ax-les-Thermes
 
-(N°28 de la 1re édition)\
+(N°28 de la 1re édition)<br>
 _BE, — Du 1 Juillet au 15 Septembre._
 
 Cartes à emporter : Perles, Ax et Saillagouse.
 
-__D'AX-les-THERMES à BOURG-MADAME, par Mérens,__\
-__la Vallée du Nabré, le Pic de l'Etang-Faury,__\
-__le Refuge d'En-Beys, le Pic de Prigue, la Bouillouse,__\
-__le Lac de Lanroux, le Pic Pédroux, le Carlitte,__\
-__le Col de Puymorens, le Lac de Font-Nègre,__\
-__les Sources de l'Ariège, le Pic Nègre d'Embalire__\
+__D'AX-les-THERMES à BOURG-MADAME, par Mérens,__<br>
+__la Vallée du Nabré, le Pic de l'Etang-Faury,__<br>
+__le Refuge d'En-Beys, le Pic de Prigue, la Bouillouse,__<br>
+__le Lac de Lanroux, le Pic Pédroux, le Carlitte,__<br>
+__le Col de Puymorens, le Lac de Font-Nègre,__<br>
+__les Sources de l'Ariège, le Pic Nègre d'Embalire__<br>
 __et le Campcardos.__
 
 
@@ -62,7 +62,7 @@ clé du refuge d'En-Beys; on s'entendra avec lui à ce sujet.
 
 ## PREMIÈRE JOURNÉE
 
-__D'AX (716m) au REFUGE d'EN-BEYS (1.950m), par Mérens (1.056m),__\
+__D'AX (716m) au REFUGE d'EN-BEYS (1.950m), par Mérens (1.056m),__<br>
 __la Vallée du Nabré ét le Pic de l'Etang-Faury (2.709m).__
 
 —— GUIDE UTILE ——
@@ -99,7 +99,7 @@ continuera à toute crête.
 Le Pic de l'Étang Faury (2.709m) s'élève au point de jonction
 de trois crêtes, au centre de l'un des plus jolis coins de la haute
 
-———\
+———<br>
 (1) Le qualificatif de « Porteille » est impropre pour un si large
 col, c'est plutôt Couillade de Madidès qu'il faudrait dire, puisque le
 mot « Porteille » signifie une brèche, un étroit passage.
@@ -164,7 +164,7 @@ Du Pic de l'Etang-Faury au refuge d'En-      }
 
 ## DEUXIÈME JOURNÉE
 
-__Du LAC d'EN-BEYS (1.950m) à LA BOUILLOUSE (2.014m),__\
+__Du LAC d'EN-BEYS (1.950m) à LA BOUILLOUSE (2.014m),__<br>
 __par la Porteille d'Espagne (2.460m) et le Pic de Prigue (2.810m).__
 
 ——— GUIDE UTILE
@@ -293,8 +293,8 @@ Du Pic de Prigue à La Bouillouse.......... 2h.35 } (Arrêts en sus).
 
 ## TROISIÈME JOURNÉE
 
-__De LA BOUILLOUSE (2.014m) au LAC de LANOUX (2.176m),__\
-__par le Vallon et la Porteille de Lagrave (2.397m),__\
+__De LA BOUILLOUSE (2.014m) au LAC de LANOUX (2.176m),__<br>
+__par le Vallon et la Porteille de Lagrave (2.397m),__<br>
 __le Col des Bésineilles (2.450m) et les Pics Pédroux (2.831-2.828m).__
 
 —— SANS GUIDE ——
@@ -353,7 +353,7 @@ moment où elle tourne à l'O., pour grimper directement au
 Pédroux N. (2.831m). Ce trajet, qui n'offre pas de difficulté, est
 des plus intéressants. On domine constamment les deux cirques
 
-———\
+———<br>
 (1) La carte d'Etat-Major appelle ce large col : Porteille de la
 Serre Blanche.
 
@@ -402,7 +402,7 @@ situé au N. de l'autre, grimpe un couloir d'éboulis qui
 rejoint la crête du Carlitte entre les deux sommets. Des Pédroux.
 on peut, à la lorgnette, en examiner tous les détails, ce qui
 
-———\
+———<br>
 (1) Les cartes cotent le Lanoux à 2.154 m. mais des nivellements
 récents ont élevé l'alt. de ses eaux à 2.176 m.
 
@@ -458,7 +458,7 @@ Des Pics Pédroux au Lanoux................. 1h.45 }
 
 ## QUATRIÈME JOURNÉE
 
-__Du LAC de LANOUX (2.176m) à PORTÉ (1.623m),__\
+__Du LAC de LANOUX (2.176m) à PORTÉ (1.623m),__<br>
 __par le Carlitte (2.915-2.921m) et l'Etang de Font-Vive.__
 
 —— SANS GUIDE ——
@@ -576,9 +576,9 @@ Du Lanoux à Porté.................... 2h. » } (Arrêts en sus).
 
 ## CINQUIÈME JOURNÉE
 
-__De PORTÉ (1.623m) à BOURG-MADAME (1.140m),__\
-__par le Col de Puymorens (1.918m), le Lac de Font-Nègre (2.290m),__\
-__les Sources de l'Ariège, le Pic Nègre d'Embalire (2.812m)__\
+__De PORTÉ (1.623m) à BOURG-MADAME (1.140m),__<br>
+__par le Col de Puymorens (1.918m), le Lac de Font-Nègre (2.290m),__<br>
+__les Sources de l'Ariège, le Pic Nègre d'Embalire (2.812m)__<br>
 __et le Pic de Campcardos (2.914m).__
 
 —— GUIDE UTILE ——
@@ -697,7 +697,7 @@ Le premier sommet (pointe N.) est situé sur la grande chaîne;
 le second (pointe S.) fait partie des chaînes secondaires qui se
 détachent, à l'O. vers le Cirque dels Pessons et, au S., vers la
 
-———\
+———<br>
 (1) C'est par erreur que la carte d'Etat-Major place ce lac à 2.107
 d'alt., dans la vallée de Campeardos. Il y a confusion; celui qui est
 situé à 2.107 est le Lac de Campcardos, lac très peu profond et en train.
@@ -834,7 +834,7 @@ Du Port de Font-Nègre au Campcardos..... 2h.40 } (Arrêts en sus).
 Du Pic de Campcardos à Porta............ 2h.45 }
 ```
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __LA BOUILLOUSE__
 - Pour rejoindre de Montlouis (14 k.) : 4 h.

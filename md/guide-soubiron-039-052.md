@@ -20,9 +20,9 @@ _B. E. — Du 1er Juillet au 15 Septembre._
 
 Cartes à emporter : Oloron et Laruns réunies.
 
-__Des EAUX-CHAUDES (1) aux EAUX-BONNES,__\
-__Par le Pic de Sesques,__\
-__la Vallée d'Aspe, le Pic d'Aspe, l'Anayette, le Pic de Cézy__\
+__Des EAUX-CHAUDES (1) aux EAUX-BONNES,__<br>
+__Par le Pic de Sesques,__<br>
+__la Vallée d'Aspe, le Pic d'Aspe, l'Anayette, le Pic de Cézy__<br>
 __et le Pic de Ger.__
 
 (Emporter des conserves pour cinq repas).
@@ -65,8 +65,8 @@ de Laruns (6 k.).
 
 ## PREMIÈRE JOURNÉE
 
-__Des EAUX-CHAUDES (675m) à URDOS (760m),__\
-__par la Gorge de Bitet, le Pic de Sesques (2.605m)__\
+__Des EAUX-CHAUDES (675m) à URDOS (760m),__<br>
+__par la Gorge de Bitet, le Pic de Sesques (2.605m)__<br>
 __et le Chemin de la Mâture.__
 
 —— GUIDE UTILE ——
@@ -152,7 +152,7 @@ les débris de l'ancien signal.
 
 Le Sesques, qui comprend une double cime, est une montagne
 
-———\
+———<br>
 (1) Les bergers d'Aspe, qui ont droit de pacage sur cette montagne, 
 l'appellent Mondaout; mais ce nom est presque inconnu sur le
 versant d'Ossau. Dans son guide des Eaux-Bonnes, le Comte de
@@ -292,7 +292,7 @@ De ce point à Urdos (1)....................  3h. »  }
 
 ## DEUXIÈME JOURNÉE
 
-__De URDOS (760m) à la CASA DE ANGLASSÉ (1.339m),__\
+__De URDOS (760m) à la CASA DE ANGLASSÉ (1.339m),__<br>
 __par le Pic d'Aspe (2.645m) et le Cirque de Tortiellas.__
 
 —— GUIDE INDISPENSABLE ——
@@ -311,7 +311,7 @@ d'Aspe, à l'E.
 Au grand lacet de Sansané, 4 k. en deçà du Somport, on quittera 
 la grand'route pour prendre, à dr., un sentier qui passe sous
 
-———\
+———<br>
 (1) A Urdos, bon hôtel Ferras.
 
 
@@ -389,7 +389,7 @@ Du Pic d'Aspe à Anglassé.................. 3h.45 }
 
 ## TROISIÈME JOURNÉE
 
-__De la CASA DE ANGLASSÉ {1.339m) à GABAS (1.125m),__\
+__De la CASA DE ANGLASSÉ {1.339m) à GABAS (1.125m),__<br>
 __par l'Anayette (2.572m)et le Col d'Anèou (2.100m).__
 
 —— GUIDE UTILE ——
@@ -459,8 +459,8 @@ Nota. — Si on a couché aux Arañones, 20 min. en sus.
 
 ## QUATRIÈME JOURNÉE
 
-__De GABAS (1.125m) aux EAUX-BONNES (726m),__\
-__par la Gorge de Soussoueou,__\
+__De GABAS (1.125m) aux EAUX-BONNES (726m),__<br>
+__par la Gorge de Soussoueou,__<br>
 __le Pic de Cézy (2.209m) et le Col de Lurdé (1.951m).__
 
 —— SANS GUIDE ——
@@ -518,7 +518,7 @@ face S. d'une corniche gazonnée qui a l'air d'un jardin suspendu,
 on se demande par quelle voie on va y monter. Rien n'est plus
 facile.
 
-———\
+———<br>
 (1) Dans les cartes, ce sommet porte le nom de « Pic de Goupey ».
 
 
@@ -567,7 +567,7 @@ nomme la Brèque. On aperçoit de ce point le vallon rapide de
 Balour qu'on laisse en contrebas, à dr. et par lequel on pourrait 
 aussi descendre aux Eaux-Bonnes par un temps très clair
 
-———\
+———<br>
 (1) Cette fleur portait autrefois un nom allemand. Sur la proposition 
 de M. Léon Aucher, président du tourisme en montagne au
 Touring-Club, on a adopté le nom français de « Etoile des Neiges ».
@@ -598,7 +598,7 @@ Du Col de Lurdé aux Eaux-Bonnes........ 2h.45 }
 
 ## CINQUIÈME JOURNÉE
 
-__Ascension du Pic de Ger (2.612m) par la Coume d'Aas,__\
+__Ascension du Pic de Ger (2.612m) par la Coume d'Aas,__<br>
 __avec retour aux Eaux-Bonnes par la Coume de Balour.__
 
  
@@ -623,7 +623,7 @@ première halte.
 Le terrain change d'aspect; ce ne sont qu'éboulis et raillères,
 sauf sur la dr., un peu plus haut, où les pentes sont boisées.
 
-——— \
+——— <br>
 (4) Les Eaux-Bonnes (Basses-Pyrénées), desservi par des automobiles 
 depuis la gare de Laruns (6 k.).
 
@@ -674,7 +674,7 @@ Du Pic de Ger aux Eaux-Bonnes.......... 4h.   }
 Nota. — En partant à 4 h., on peut rentrer assez tôt pour
 prendre un train qui quitterait Laruns vers 18 h.
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __URDOS__
 

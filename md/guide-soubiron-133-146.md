@@ -16,14 +16,14 @@ title: DIXIÈME EXCURSION
 
 (N° 9 de la 1re édition)
 
-__Cinq jours au départ de Luz__\
+__Cinq jours au départ de Luz__<br>
 __B. E. — Du 15 Juillet à fin Août.__
 
 Cartes à emporter : Luz et Gavarnie réunies.
 
-__De LUZ à SAINT-LARY,__\
-__par Gèdre; le Cirque de Troumouse, le Pic de Troumouse,__\
-__la Munia, le Pic des Aiguillous, le Pic de Campbieil,__\
+__De LUZ à SAINT-LARY,__<br>
+__par Gèdre; le Cirque de Troumouse, le Pic de Troumouse,__<br>
+__la Munia, le Pic des Aiguillous, le Pic de Campbieil,__<br>
 __le Pic Méchant, le Lac d'Orédon et le Pic d'Aret.__
 
 <u>__AVIS AUX TOURISTES__</u>
@@ -77,8 +77,8 @@ De Gèdre à Héas (10 k. de route)........ 2h.30 } (Arrêts en sus)
 
 ## DEUXIÈME JOURNÉE:
 
-__Ascensions du Pic de Troumouse (3.086m)__\
-__et de la Munia (3.159m), par le Col de la Sède (2.618m)__\
+__Ascensions du Pic de Troumouse (3.086m)__<br>
+__et de la Munia (3.159m), par le Col de la Sède (2.618m)__<br>
 __et Serre-Mourène.__
 
 —— GUIDE INDISPENSABLE ——
@@ -138,7 +138,7 @@ Géla sont on ne peut plus impressionnants.
 
 Au pic de Troumouse, le regard franchit le port de Barroude
 
-———\
+———<br>
 (1) Dans la minute au 1/40.000, les deux pointes de la Munia sont
 cotées 3.150 et 3.159. Il faut donc hausser de 9 m. la cote des cartes
 actuelles.
@@ -183,8 +183,8 @@ Nota. — L'ascension directe par le col se fait en 4 h. environ:
 
 ## TROISIÈME JOURNÉE
 
-__De HÉAS (1.547m) au PLAN d'ARAGNOUET (1.326m),__\
-__par le Pic des Aiguillous (2.960m),__\
+__De HÉAS (1.547m) au PLAN d'ARAGNOUET (1.326m),__<br>
+__par le Pic des Aiguillous (2.960m),__<br>
 __la Hourquette de Campbieil (2.595m) et le Pic de Campbieil (3.175m)__
 
 —— GUIDE INDISPENSABLE ——
@@ -324,7 +324,7 @@ sus.
 
 ## QUATRIÈME JOURNÉE
 
-__Du PLAN d'ARAGNOUET (1.326m) à FABIAN (1.100m),__\
+__Du PLAN d'ARAGNOUET (1.326m) à FABIAN (1.100m),__<br>
 __par le Pic Méchant (2.944m) et le Lac d'Orédon (1.879m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -343,7 +343,7 @@ Le Pic Méchant est flanqué de deux brèches profondes, une à
 l'E. et l'autre à l'O. De chacune de ces brèches, descend un
 couloir vertigineux jusqu'au fond de la vallée. Entre ces deux 
 
-———\
+———<br>
 (1) Le guide Péclose, dont la maison et les propriétés sont au pied
 des murailles S. du Pic Méchant, m'affirme qu'un seul touriste y est
 monté par la face du Badet, le 19 août 1905. C'est le lieutenant Dollfus,
@@ -442,7 +442,7 @@ d'ailleurs, le lendemain, devant l'usine qui, près d'Eget,
 réglemente et distribue cette force. Au pont de Fabian, on verra le
 travail gigantesque accompli par l'eau pour se frayer un passage
 
-———\
+———<br>
 (1). Dans le petit cairn du sommet, j'ai déposé une boîte en fer contenant 
 un carnet dans lequel j'ai soigneusement recueilli les cartes de
 visite de mes courageux devanciers.
@@ -474,7 +474,7 @@ Du Lac d'Orédon à Fabian.............. 1h.45  }
 
 ## CINQUIÈME JOURNÉE
 
-__De FABIAN (1.100m) à SAINT-LARY (825m),__\
+__De FABIAN (1.100m) à SAINT-LARY (825m),__<br>
 __par le Lac de Sarrouès (2.500m) et le Pic d'Aret (2.940m).__
 
 —— GUIDE UTILE ——
@@ -500,7 +500,7 @@ pendant 3 k. et, à environ 100 m. en aval du pont d'Aragnouet (3),
 en face de la cascade d'Eget, on prendra, à dr., un sentier qui
 monte dans la forêt de Bert. En de multiples lacets, par la rive
 
-———\
+———<br>
 (1) Hameau d'Aragnouet, desservi par un autobus partant d'Arreau
 (23 k.) à l'arrivée du premier train du matin, et repartant de Fabian
 vers 16 h.
@@ -612,7 +612,7 @@ De Fabian au Pic d'Aret................... 6h. » }    10h.30
 Du Pic d'Aret à Saint-Lary, par Baricave.. 4h.30 }  (Arrêts en sus)
 ```
 
-———\
+———<br>
 (1) Saint-Lary (Hautes-Pyrénées), à 12 k. de la gare d'Arreau, est
 desservi deux fois par jour par un courrier automobile, en attendant
 la construction d'un tramway électrique.
@@ -622,7 +622,7 @@ la construction d'un tramway électrique.
 
 — p. 146 — SAINT-LARY (10me EXCURSION)
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __HEAS__ 
 - Pour rejoindre de Gèdre : 2h.30

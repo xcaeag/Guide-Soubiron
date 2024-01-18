@@ -22,12 +22,12 @@ _B. E. — Du 15 Juillet à fin Août._
 
 Cartes à emporter : Luz et Gavarnie réunies.
 
-__1re De BARÈGES à BARÈGES,__\
-__par les Lacs d'Escoubous, le Nèouvielle, les Lacs d'Aubert,__\
-__d'Aumar, d'Orédon et de Cap-de-Long,__\
+__1re De BARÈGES à BARÈGES,__<br>
+__par les Lacs d'Escoubous, le Nèouvielle, les Lacs d'Aubert,__<br>
+__d'Aumar, d'Orédon et de Cap-de-Long,__<br>
 __le Pic Long, le Pic de Bugaret, le Montarrouy et le Maucapera.__
 
-__2me De BARÈGES à PIERREFITTE,__\
+__2me De BARÈGES à PIERREFITTE,__<br>
 __par le Soum Arrouy, le Pic Léviste et le Lac d'Izaby.__
 
 
@@ -84,9 +84,9 @@ on ne jouit pas d'un aussi joli point de vue.
 
 ## PREMIÈRE JOURNÉE
 
-__De BARÈGES (1.232m), au LAC d'ORÉDON (1.879m),__\
-__par les Lacs d'Escoubous, le Col d'Aubert (2.500m),__\
-__le Nèouvielle (3.092m),__\
+__De BARÈGES (1.232m), au LAC d'ORÉDON (1.879m),__<br>
+__par les Lacs d'Escoubous, le Col d'Aubert (2.500m),__<br>
+__le Nèouvielle (3.092m),__<br>
 __le Lac d'Aubert (2.160m), et le Lac d'Aumar (2.202m).__
  
 
@@ -163,8 +163,8 @@ Du Néouvielle au Lac d'Orédon.......... 2h.45 }
 
 ## DEUXIÈME JOURNÉE
 
-__Du LAC d'ORÉDON (1.879m) au REFUGE du RABIET (2.524m),__\
-__par le Lac de Cap-de-Long (2.120m),__\
+__Du LAC d'ORÉDON (1.879m) au REFUGE du RABIET (2.524m),__<br>
+__par le Lac de Cap-de-Long (2.120m),__<br>
 __le Pic Long (3.194m) et la Hourquette de Bugaret (2.645m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -212,7 +212,7 @@ au-dessous de la brèche située à la plus basse dépression
 de l'arête qui va du Badet au Pic Long. En tardive saison,
 la rimaye est très ouverte et difficile à franchir. On peut éviter
 
-———\
+———<br>
 (1) Le nom donné à ce pic étonne les gens du pays, car ce sommet
 est en entier sur le Campbieil, tandis que la montagne et la vallée du
 Badet sont plus à l'E., de l'autre côté du pic de Campbieil et de la
@@ -380,7 +380,7 @@ Nota. — Si on ne garde pas le guide pour la 4me journée, on
 le renverra du Rabiet, ce qui lui permettra de rentrer à Barèges 
 le soir même.
 
-———\
+———<br>
 (1) Au Pays des Isards, tome II, p. 16.
 
 
@@ -392,8 +392,8 @@ le soir même.
 
 ## QUATRIÈME JOURNÉE
 
-__Du REFUGE DU RABIET (2.524m) à BARÈGES (1.232m),__\
-__par le Montarrouy (2.797m), __\
+__Du REFUGE DU RABIET (2.524m) à BARÈGES (1.232m),__<br>
+__par le Montarrouy (2.797m), __<br>
 __le Maucapéra (2.720m) et la Vallée de l'Ise (1).__
 
 —— GUIDE UTILE ——
@@ -428,7 +428,7 @@ franchira ce morne, partie à flanc E., partie à flanc O., jusqu'au
 col (2.472m). On jouira là d'une belle vue sur les trois lacs de
 Rabiet, de Coueyla-det-Mey, de Bugaret et sur la Hourquette
 
-———\
+———<br>
 (1) Je ne m'explique pas les variations de divers auteurs en ce qui
 concerne le nom de cette vallée. Les uns la nomment « La Liza »,
 d autres, « La Lise ». En parlant du ruisseau qui donne son nom à la
@@ -520,8 +520,8 @@ Du Lac de Maucapera à Barèges.............  3h.50 }
 
 ## CINQUIÈME JOURNÉE
 
-__De BARÈGES (1.232m) à PIERREFITTE (4681m),__\
-__par le Soum Arrouy (2.491m), le Pic Léviste (2.464m)__\
+__De BARÈGES (1.232m) à PIERREFITTE (4681m),__<br>
+__par le Soum Arrouy (2.491m), le Pic Léviste (2.464m)__<br>
 __et le Lac d'Izaby (1.572m).__
 
 —— SANS GUIDE ——
@@ -678,7 +678,7 @@ ses forces pour l'ascension des 900 m. qui restent à gravir;
 avant midi.
 
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __LAC D'OREDON__
 - Pour rejoindre de Saint-Lary : 4h.15

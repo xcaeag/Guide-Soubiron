@@ -26,10 +26,10 @@ _B. E. — Du 1° Juillet à fin Septembre._
 
 Cartes à emporter : Luz et Gavarnie réunies.
 
-__Ascensions du Pic de Viscos,__\
-__du Soum de Conques, du Pène-Nère, du Col de Riou,__\
-__du Soum de Las Aoueillèros, du Péguère.__\
-__du Montné, du Pic Wilson,__\
+__Ascensions du Pic de Viscos,__<br>
+__du Soum de Conques, du Pène-Nère, du Col de Riou,__<br>
+__du Soum de Las Aoueillèros, du Péguère.__<br>
+__du Montné, du Pic Wilson,__<br>
 __du Cabaliros, du Grand Barbat et du Lac d'Ilhèou.__
 
  
@@ -59,9 +59,9 @@ d'eaux.
 
 # PREMIÈRE JOURNÉE
 
-__Ascensions du Pic de Viscos (2.141m),__\
-__du Soum de Conques (2.088m), du Pène-Nère (2.050m),__\
-__du Col de Riou (1.949m), du Soum de Las Aoueillèros (2.166m),__\
+__Ascensions du Pic de Viscos (2.141m),__<br>
+__du Soum de Conques (2.088m), du Pène-Nère (2.050m),__<br>
+__du Col de Riou (1.949m), du Soum de Las Aoueillèros (2.166m),__<br>
 __avec retour à Cauterets, par le Lisey.__
 
 —— SANS GUIDE ——
@@ -186,7 +186,7 @@ Du Soum de Las Aoueillèros à Cauterets. 1h.55 }
 
 ## DEUXIÈME JOURNÉE
 
-__Ascension du Péguère (2.252m), par le Cerisey,__\
+__Ascension du Péguère (2.252m), par le Cerisey,__<br>
 __avec descente à Cauterets, par le Cambasque.__
 
 —— SANS GUIDE ——
@@ -197,7 +197,7 @@ que les 3/4 d'une journée moyenne, et point n'est besoin de partir
 ce qui fera gagner plus de 100 m. d'alt., et on suivra ensuite la
 route jusqu'au Cerisey. Au-dessus de la cascade, on prendra, à
  
-———\
+———<br>
 (1) C'est volontairement que j'écris en deux mots « Las Aoueillèros ». 
 La traduction littérale, en patois du pays, est : Les Bergères.
 Le nom de ce sommet signifierait donc : Pic des Bergères. On aurait
@@ -271,7 +271,7 @@ Du Péguère à Cauterets par le Cambasque. 2h.45 } (Arrêts en sus).
 
 ## TROISIÈME JOURNEE
 
-__Ascensions du Montné (2.724m), du Pic Wilson (2.398m)__\
+__Ascensions du Montné (2.724m), du Pic Wilson (2.398m)__<br>
 __et du Cabaliros (2.333m).__
 
 —— GUIDE UTILE ——
@@ -360,7 +360,7 @@ Du Montné au Cabaliros................ 2h.45  }   10 h.
 Du Cabaliros à Cauterets.............. 2h.15  } (Arrêts en sus)
 ```
 
-———\
+———<br>
 (1) C'est après son ascension par une caravane américaine, le
 30 janvier 1919, sous la direction de M. A. Meillon, qu'on a donné le
 nom de « Wilson » au Rocher de Cohe.
@@ -371,8 +371,8 @@ nom de « Wilson » au Rocher de Cohe.
 
 ## QUATRIÈME JOURNÉE
 
-__Ascension du Grand Barbat (2.812m), par le Col d'Ilhèou (2.306m),__\
-__et retour à Cauterets,__\
+__Ascension du Grand Barbat (2.812m), par le Col d'Ilhèou (2.306m),__<br>
+__et retour à Cauterets,__<br>
 __par la Brèche des Hourats (2.600m) et le Lac d'Ilhèou (1.986m).__
 
 —— GUIDE UTILE ——

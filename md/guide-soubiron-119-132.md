@@ -75,8 +75,8 @@ repas et les divers casse-croûte. On laissera le reste des provisions
 
 # DEUXIÈME JOURNÉE
 
-__De GAVARNIE (1.350m) au REFUGE de TUQUEROUYE (2.667m),__\
-__par le Piméné (2.799m)__\
+__De GAVARNIE (1.350m) au REFUGE de TUQUEROUYE (2.667m),__<br>
+__par le Piméné (2.799m)__<br>
 __et la Hourquette d'Allans (2.424m) (1).__
 
 —— GUIDE INDISPENSABLE ——
@@ -90,7 +90,7 @@ Parvenu au plateau de Cardous (2.200m), un nouveau sentier
 se détache à g., direction N., pour monter au Piméné en de multiples 
 lacets; on laissera là le sac à la garde du porteur, et on fera,
 
-———\
+———<br>
 (1) Les cotes d'alt. sont celles de la carte au 1/20.000e de F. Schrader.
 
 
@@ -141,7 +141,7 @@ d'un des plus beaux spectacles de la nature. Rien ne peut
 être comparé au féerique coucher du soleil sur le Marboré, le
 Cylindre et le Mont Perdu, vu de Tuquerouye.
 
-———\
+———<br>
 (1). V. Annuaire du C. A. F., 1876, p. 625. Ce panorama est en vente
 à la Direction centrale, 121, botlevurd Haussmann, Paris, au prix de
 6 francs.
@@ -177,7 +177,7 @@ Du Piméné à Tuquerouye............ 3h.30  } (Arrêts en sus).
 
 ## TROISIÈME JOURNÉE
 
-__Ascensions des Pics d'Astazou (3.083-3.016), du Marboré (3.253m)__\
+__Ascensions des Pics d'Astazou (3.083-3.016), du Marboré (3.253m)__<br>
 __et du Cylindre (3.327m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -187,7 +187,7 @@ Conseils. —— Itin. recomm. — Cette excursion, la plus belle des
 Pyrénées, est délicate et longue; elle ne doit être entreprise que
 par des pyrénéistes exercés et non sujets au vertige. Un débu-
 
-———\
+———<br>
 (1) Voici des extraits de cette belle page :
 
 « En vain, j'essaierai de peindre la magnifique apparence de ce
@@ -252,7 +252,7 @@ Passet. »
 
 « I n'y a que deux passages réellement périlleux, dit Lequeutre. »
 
-———\
+———<br>
 (1) V. Annuaire du C. A. F., 1885, p. 209.
 (2) V. Annuaire du C. A. F., 1875, p. 391.
 (3) V. Au Pays des Isards, tome II, p. 38.
@@ -307,7 +307,7 @@ jouit par l'ascension successive de ces quatre cimes.
 Du Cylindre, on rentrera au refuge par le Col du Mont Perdu.
 On contournera le contrefort S. du Cylindre et on laissera le
 
-———\
+———<br>
 (1) Il ne faut pas confondre ce col, qui est à 3.192 m. avec le col du
 Mont Perdu (3.052m) situé au S.-E. du Cylindre. C'est à tort que certains 
 écrivains appellent ce dernier col du Cylindre. Le vrai col du
@@ -334,8 +334,8 @@ Du Cylindre au Refuge................ 3h. » }
 
 ## QUATRIÈME JOURNÉE
 
-__Du TUQUEROUYE (2.667m) à ORDESA (1.318m),__\
-__par le Mont Perdu (3.353m), le Saut de Gaulis (1.890m),__\
+__Du TUQUEROUYE (2.667m) à ORDESA (1.318m),__<br>
+__par le Mont Perdu (3.353m), le Saut de Gaulis (1.890m),__<br>
 __| __et la Vallée d'Arazas.__
 
 
@@ -355,7 +355,7 @@ est visible à plus de 100 k. Cependant on n'a pas, sur son sommet,
 l'impression d'être suspendu sur des abimes sans fond
 comme, par exemple, au Pic de Midi d'Ossau, à la Pique Longue
 
-———\
+———<br>
 (1) Le premier est le Néthou (3.404m); le deuxième, le Posets
 (3.367m) et le troisième, la Pointe d'Astorg (3.354m), l'une des cimes des
 Monts-Maudits, à l'O. du Néthou.
@@ -406,7 +406,7 @@ Vraiment, la « Peñalara » exagère.
 
 Après une petite descente par les gazonnés du haut de la vallée,
 
-———\
+———<br>
 (1) En 1892, lors de ma première excursion au Massif Calcaire, le
 nom de « Soaso » était inconnu sur le versant français; en parlant de
 ces lieux, tous nos guides disaient : Saut de Gaulis, Cascade de Gaulis.
@@ -457,8 +457,8 @@ Du Mont Perdu à Ordesa............... 5h. » }
 
 ## CINQUIÈME JOURNÉE
 
-__D'ORDESA (1.318m) à GAVARNIE (1.350m),__\
-__par le Gabiétou (3.031m), le Taillon (3.143m) et la Brèche__\
+__D'ORDESA (1.318m) à GAVARNIE (1.350m),__<br>
+__par le Gabiétou (3.031m), le Taillon (3.143m) et la Brèche__<br>
 __de Roland (2.801m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -562,7 +562,7 @@ De la Brèche à Gavarnie................ 2h.45 }
 
 ## SIXIÈME JOURNÉE
 
-__Ascensions du Casque (3.005m), de la Tour (3.017m)__\
+__Ascensions du Casque (3.005m), de la Tour (3.017m)__<br>
 __et de l'Epaule du Marboré (3.085m).__
  
 —— GUIDE INDISPENSABLE ——
@@ -596,7 +596,7 @@ successivement à flanc S. de crête l'ascension de la Tour (3.017m),
 de l'Epaule (3.085m), et on rentrera à Gavarnie par le Col des
 Isards, la Brèche et le Cirque.
 
-———\
+———<br>
 (1) C'est par erreur que la carte de Schrader porte pour ce col le
 nom de « Sarradets ». D'après Henri Passet et Bernat Salles, c'est le
 col du Taillon. Le col des Sarradets n'existe pas.
@@ -618,7 +618,7 @@ De l'Epaule à Gavarnie ................. 4h.15 }
 ```
  
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __TUQUEROUYE__
 - Pour rentrer à Gavarnie : 4h.45

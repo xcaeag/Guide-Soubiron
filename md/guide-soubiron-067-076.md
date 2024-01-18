@@ -66,9 +66,9 @@ le Pic Long, le Néouvielle et le Pic de Midi de Bigorre.
 
 ## PREMIÈRE JOURNÉE
 
-__De LOURDES (386m) à LOURDES,__\
-__par la Gorge de l'Arboucau, Omex, le Pic de Montégut (1.133m),__\
-__le Pibeste (1.383m), Salles (638m), Sère, Gez (660m)__\
+__De LOURDES (386m) à LOURDES,__<br>
+__par la Gorge de l'Arboucau, Omex, le Pic de Montégut (1.133m),__<br>
+__le Pibeste (1.383m), Salles (638m), Sère, Gez (660m)__<br>
 __et Argelès (455m).__
 
 
@@ -152,7 +152,7 @@ qu'on rejoindra la route qui conduit à Argelès (6 k.).
 
 Après une petite descente jusqu'à Sère où on franchit le Ber-
 
-———\
+———<br>
 (1) Concernant l'étymologie des Pics du Midi, voir note p. 3.
 (2) V. Bulletin de la Section des Pyrénées Centrales, n° 49. 
 
@@ -182,8 +182,8 @@ De Salles à Argelès (6 k.)............ 1h.15  } (Arrêts en sus)
 
 ## DEUXIÈME JOURNÉE
 
-__Ascension du HAUTACAMP (1.802m),__\
-__par Saint-Pastous (583m), avec retour à Lourdes,__\
+__Ascension du HAUTACAMP (1.802m),__<br>
+__par Saint-Pastous (583m), avec retour à Lourdes,__<br>
 __par Lias, Berbérust et Lugagnan.__
  
 
@@ -260,7 +260,7 @@ De Boo-Silhen au Hautacamp.......... 4h.30 } 7h.45
 Du Hautacamp à Lugagnan............. 3h.15 } (Arrêts en sus).
 ```
 
-———\
+———<br>
 (1) Certains le nomment « Davantaïgues », d'autres, montagne de
 Gazost.
 
@@ -271,9 +271,9 @@ Gazost.
 
 ## TROISIÈME JOURNÉE
 
-__De LOURDES (386m) à BAGNÈRES-DE-BIGORRE (556m),__\
-__par le Pic du Ger (950m), Lheret, le Col de Lingoust (600m),__\
-__Germs et la Clique (1.049m), les Ardoisières__\
+__De LOURDES (386m) à BAGNÈRES-DE-BIGORRE (556m),__<br>
+__par le Pic du Ger (950m), Lheret, le Col de Lingoust (600m),__<br>
+__Germs et la Clique (1.049m), les Ardoisières__<br>
 __et le village de Labassère (787m).__
 
 —— SANS GUIDE ——
@@ -307,7 +307,7 @@ Du Pic de Midi de Bigorre au Gabizos, toute la grande chaîne
 est sous les yeux. A ses pieds, au S., s'allonge la vallée d'Argelès
 et, au N., dans un immense éventail, paraissent un grand nombre
 
-———\
+———<br>
 (1) En été, à l'époque des pèlerinages, il est perçu un droit de
 0 fr. 50 pour monter au belvédère. Avec la carte du Touring-Club, on
 y monte gratis.
@@ -430,7 +430,7 @@ longe la rive g. et, 20 min. plus bas, on retrouve la grand'route
 pourra prendre le train pour Cauterets.
 
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __ARGELÈS__ :  Pour abandonner après le premier jour.
 

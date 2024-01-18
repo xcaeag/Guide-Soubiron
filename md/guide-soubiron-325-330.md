@@ -36,7 +36,7 @@ aller coucher à Fronsac, la veille.
 
 ## PREMIÈRE JOURNÉE
 
-__De FRONSAC (425m) à JUZET-d'IZAUT (591m),__\
+__De FRONSAC (425m) à JUZET-d'IZAUT (591m),__<br>
 __par les Pics du Gars (1.757-1.786n) et le village d'Arguenos.__
 
 —— SANS GUIDE ——
@@ -104,7 +104,7 @@ quittera le chemin d'ascension; là, on prendra, à dr., un sentier
 qui file vers l'E. Après environ 1 h. de marche sous bois, on débouchera 
 à découvert au bas de la forêt, d'où l'on apercevra sous
 
-———\
+———<br>
 (1) Une autre petite source, qui ne tarit ordinairement qu'en août,
 existe à environ 100 m. au N. du sommet 1757.
 
@@ -136,7 +136,7 @@ Du Gars à Juzet-d'Izaut................ 3h. » }
 
 ## DEUXIÈME JOURNÉE
 
-__De JUZET-d'IZAUT (591m) à ASPET (588m),__\
+__De JUZET-d'IZAUT (591m) à ASPET (588m),__<br>
 __par le Cagire (1.912m) et Sengouagnet.__
 
 —— SANS GUIDE ——
@@ -151,7 +151,7 @@ aérienne et le centre est formé par un beau cirque verdoyant et
 très incliné qu'on appelle « la Colline » et qui vient mourir au
 haut de la forêt de Cagire, à la cabane de Juzet-d'Izaut. Il y a
 
-———\
+———<br>
 (1) Juzet-d'Izaut, 504 hab., c. d'Aspet, 7 k. Si, à l'auberge, il n'y a
 plus de lits, on en trouve facilement dans le village.
 
@@ -202,7 +202,7 @@ Le Cagire est le type parfait des sommets de premier plan
 Sa vue sur la grande chaîne est immense, et celle qui s'étend
 sur la plaine va de Tarbes à Toulouse et aux confins de l'Aude.
 
-———\
+———<br>
 (1) Petite pique
 
 <div class="page"/>

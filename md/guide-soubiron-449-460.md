@@ -16,9 +16,9 @@ output: pdf_document
 
 # TRENTE-SIXIÈME EXCURSION
 
-__Quatre jours aux Environs d'Ax-les-Thermes__\
+__Quatre jours aux Environs d'Ax-les-Thermes__<br>
 
-(1° Série)\
+(1° Série)<br>
 _B. E. — Du 15 Juin au 15 Octobre._
 
 Cartes à emporter : Perles et Ax-les-Thermes.
@@ -41,10 +41,10 @@ thermale.
 
 ## PREMIÈRE JOURNÉE
 
-__D'AX (716m) à MÉRENS (1.056m),__\
-__par le Plateau de Bonascre (1.370m), le Chalet de Manseille(1.665m),__\
-__le Saquet (2.259m), le Pic de l'Etang Rebenty (2.416m),__\
-__et le Lac de Comte (1.715m).__\
+__D'AX (716m) à MÉRENS (1.056m),__<br>
+__par le Plateau de Bonascre (1.370m), le Chalet de Manseille(1.665m),__<br>
+__le Saquet (2.259m), le Pic de l'Etang Rebenty (2.416m),__<br>
+__et le Lac de Comte (1.715m).__<br>
 __Avec retour à Ax facultatif__
 
 —— SANS GUIDE ——
@@ -159,7 +159,7 @@ De Mérens à Ax (8 k. de route)....... 1h.30 }
 Nota. — Si on rentre à Ax par le train, l'excursion sera
 réduite à 8h.30 de marche effective.
 
-———\
+———<br>
 (1) Petit étang.
 
 <div class="page"/>
@@ -170,9 +170,9 @@ réduite à 8h.30 de marche effective.
 
 ## DEUXIÈME JOURNÉE
 
-__Ascension du Cap de Larguis (1.861m),__\
-__par Petches et le Col de Joux (1.685m), avec retour à Ax__\
-__par le Col de Surt (1.775m), la Vallée__\
+__Ascension du Cap de Larguis (1.861m),__<br>
+__par Petches et le Col de Joux (1.685m), avec retour à Ax__<br>
+__par le Col de Surt (1.775m), la Vallée__<br>
 __et le village d'Orgeix.__
 
 —— SANS GUIDE ——
@@ -280,7 +280,7 @@ Du Cap de Larguis à Ax............ 3h.35 }
 
 ## TROISIÈME JOURNÉE
 
-__D'AX (716m) au LAC d'EN-BEYS (1.950m), par la Vallée d'Orlu__\
+__D'AX (716m) au LAC d'EN-BEYS (1.950m), par la Vallée d'Orlu__<br>
 __et les rives de l'Oriège.__
 
 —— SANS GUIDE ——
@@ -361,7 +361,7 @@ l'ancien, dont la construction était attribuée aux Romains, et la
 route s'arrête là (1). Un grand sentier muletier d'environ 11 k.
 lui succède jusqu'au lac d'En-Beys.
 
-———\
+———<br>
 (1) En amont du pont de Bisp, sur la rive dr. et à travers les prairies
 on vient de construire un bout de route de 1.500 m.; un sentier
 lui succède jusqu'au pont-passerelle de Caralp, où on rejoint le chemin
@@ -468,7 +468,7 @@ De la Jasse de Gaudu au lac d'En-Beys.. 2h. » } (Arrêts en sus).
 
 ## QUATRIÈME JOURNÉE
 
-__Du LAC d'EN-BEYS (1.950m) à Ax, par le Col de Beys (2.355m),__\
+__Du LAC d'EN-BEYS (1.950m) à Ax, par le Col de Beys (2.355m),__<br>
 __le Lac de Naguilles (1.864m) et les Forges d'Orlu (938m).__
 
 —— GUIDE UTILE ——
@@ -506,7 +506,7 @@ torrent sur une petite passerelle pour rejoindre le chemin qu'on
 aperçoit devant soi, taillé dans le roc à une certaine hauteur. Ou
 contournera ensuite le lac par le S. et on coupera bientôt le tor-
 
-———\
+———<br>
 (1) L'eau qui se déverse par un tunnel de 2.200 m., augmente la
 réserve de Naguilles d'environ 60 %.
 

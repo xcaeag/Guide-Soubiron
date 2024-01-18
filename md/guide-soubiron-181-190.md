@@ -37,8 +37,8 @@ sommets, un des plus beaux centres d'excursions des Pyrénées.
 
 ## PREMIÈRE JOURNÉE
 
-__Ascension du Soum de Menvielle (1.170m), par Lançon (1.089m)__\
-__et retour à Arreau par la Forêt de Lançon, Ilhan__\
+__Ascension du Soum de Menvielle (1.170m), par Lançon (1.089m)__<br>
+__et retour à Arreau par la Forêt de Lançon, Ilhan__<br>
 __et la Vallée du Louron.__
 
 —— SANS GUIDE ——
@@ -123,7 +123,7 @@ et quelle que soit la puissance du soleil, cet agréable trajet de
 Dès l'entrée de la forêt, le chemin tourne un peu à g, puis
 monte en pente douce, direction S.-E., jusqu'au haut de la colline
 
-———\
+———<br>
 (1) Cette route, qui va de Gouaux à Bordères par Lançon et Ilhan,
 met en communication la vallée d'Aure avec celle du Louron.
 
@@ -164,8 +164,8 @@ du Lys.
 
 ## DEUXIÈME JOURNÉE
 
-__D'ARREAU (698m) à SARRANCOLIN (623m),__\
-__par le Col d'Aspin (1.497m), le Montné d'Aspin (1.755m)__\
+__D'ARREAU (698m) à SARRANCOLIN (623m),__<br>
+__par le Col d'Aspin (1.497m), le Montné d'Aspin (1.755m)__<br>
 __le Mont Bassia (1.900m) et le Col de Beyrède (1).__
 
 —— SANS GUIDE ——
@@ -179,7 +179,7 @@ Sesques (2.605m), pour les vallées d'Aspe et d'Ossau; le Pibeste
 Gavarnie; le Pouylouby (2.098m), le Montné (2.147m) et le
 Burat (2.150m), pour les environs de Luchon et le Haut Aran;
 
-———\
+———<br>
 (1) Cette ascension est déjà décrite, en dernière journée de la
 11me excursion, dans la première édition de mon guide, à la page 151.
 
@@ -325,7 +325,7 @@ Du Mont Bassia à Sarrancolin......... 3h.30 }
 
 ## TROISIÈME JOURNÉE
 
-__D'ARREAU (698m) à MAULÉON-BAROUSSE (600m),__\
+__D'ARREAU (698m) à MAULÉON-BAROUSSE (600m),__<br>
 __par le Pic d'Areng (2.081m), Crouhens (820m) et Ferrère (691m).__
 
 —— SANS GUIDE ——
@@ -398,7 +398,7 @@ la vallée de la Salabe. Encore 20 min. de marche sur ce grand
 chemin, et on arrive à Crouhens, où on rejoint la grand'route,
 à 7 %k. de Mauléon (1).
 
-———\
+———<br>
 (1) Mauléon-Barousse, chef-lieu de canton des Hautes-Pyrénées,
 desservi par un autobus qui part de la gare de Loures-Barbazan
 (10 k.), à l'arrivée des principaux trains. A Mauléon, l'Hôtel de la
@@ -430,7 +430,7 @@ De Crouhens à Mauléon (7 k. de route)... 11h.30 }
 
 ## QUATRIÈME JOURNÉE
 
-__De MAULÉON-BAROUSSE (600m) à la gare de MONTRÉJEAU (420m),__\
+__De MAULÉON-BAROUSSE (600m) à la gare de MONTRÉJEAU (420m),__<br>
 __par le Montaspet (1.849m), le Nistos, Aventignan et Mazères.__
 
 —— SANS GUIDE ——
@@ -504,7 +504,7 @@ Nota. — Si on part de très bonne heure, on aura le temps
 de dîner au buffet de Montréjeau et de rentrer à Toulouse
 par le dernier train.
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 ARREAU-SARRANCOLIN et MAULÉON-BAROUSSE
 

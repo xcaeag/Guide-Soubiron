@@ -16,7 +16,7 @@ output: pdf_document
 
 # VINGT et UNIÈME et VINGT-DEUXIÈME EXCURSIONS
 
-__Le MASSIF des MONTS-MAUDITS__\
+__Le MASSIF des MONTS-MAUDITS__<br>
 __Et ses Environs__
 
 __En deux Excursions au départ de LUCHON__
@@ -48,7 +48,7 @@ sans danger (1);
 
 <p class="droite">Voir à la p. 284 la carte spéciale des Monts-Maudits (2).</p>
 
-———\
+———<br>
 (1) V. Bulletin de la Section des Pyrénées Centrales, n° d'octobre-
 décembre 1922.
 
@@ -100,8 +100,8 @@ __Cinq jours au départ de Luchon__
 
 ## JOURNÉE D'APPROCHES
 
-__De LUCHON (629m) à LA RENCLUSE (2.133m),__\
-__par l'Hospice de France (1.360m), le Port de Venasque (2.448m)__\
+__De LUCHON (629m) à LA RENCLUSE (2.133m),__<br>
+__par l'Hospice de France (1.360m), le Port de Venasque (2.448m)__<br>
 __et le Pic de Sauvegarde (2.736m).__
 
 —— GUIDE UTILE ——
@@ -130,7 +130,7 @@ enfin, la grande merveille : _le Port de Venasque_.
 
 Au Port de Venasque, surgit tout d'un coup, comme dans un
 
-———\
+———<br>
 (1) La cabane de l'Homme est située 2 min. plus haut.
 
 <p class="droite">(Voir ci-contre la vue des Monts-Maudits).</p>
@@ -141,7 +141,7 @@ Au Port de Venasque, surgit tout d'un coup, comme dans un
 
 ![carte 280](../maps/guide-soubiron-0280-clip.jpg)
 
-__Massif des Monts-Maudits__\
+__Massif des Monts-Maudits__<br>
 (Vu du Port de Venasque)
 
 _1. Col des Salenques (2.801m). 2. Pic de La Rencluse. 3. Pic Margalide
@@ -162,7 +162,7 @@ le point de vue de la brèche de Tuquerouye peut lui être comparé
 Du Port de Venasque, on aperçoit très bien le chalet-hôtel de
 La Rencluse et la cascade nouvelle qui s'échappe du gouffre de
 
-———\
+———<br>
 (1) C'est le tirage à part qui nécessite une nouvelle description de
 l'ascension au port de Venasque, description parue déjà dans le
 volume, à la 18me Excursion. 
@@ -277,8 +277,8 @@ __<p class="centre">Course A (deux jours)</p>__
 
 ## PREMIÈRE JOURNÉE
 
-__De LA RENCLUSE (2.133m)à l'HOSPICE de VIELLA (1.626m),__\
-__par le Trou du Toro (2.020m), le Col des Salenques (2.801m),__\
+__De LA RENCLUSE (2.133m)à l'HOSPICE de VIELLA (1.626m),__<br>
+__par le Trou du Toro (2.020m), le Col des Salenques (2.801m),__<br>
 __le Pic Pierre-Soubiron (2.865m) et les lacs de Rio Bueno.__
 
 —— GUIDE INDISPENSABLE ——
@@ -333,7 +333,7 @@ Plan des Agualluts.
 
 On grimpera pendant quelques min. entre deux bandes rocheu-
 
-———\
+———<br>
 (1) Norbert Casteret. « L'Enigme du Trou du Toro. Détermination
 des sources du rio Esera et de la Garonne occidentale. » (Bulletin de
 da Société d'Histoire naturelle de Toulouse, 1er fascicule 1931.)
@@ -573,7 +573,7 @@ __<p class="centre">Course A</p>__
 
 ## DEUXIÈME JOURNÉE
 
-__De l'HOSPICE de VIELLA (1.626m) à LA RENCLUSE (2.133m),__\
+__De l'HOSPICE de VIELLA (1.626m) à LA RENCLUSE (2.133m),__<br>
 __par La Fourcanade (2.882m) et le Pic de Moulières (3.005m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -690,8 +690,8 @@ __<p class="centre">Course B (un jour)</p>__
 
 ## Traversée du Col Maudit
 
-__De LA RENCLUSE (2.133m) à LA RENCLUSE,__\
-__par la Dent d'Albe (3.114m),__\
+__De LA RENCLUSE (2.133m) à LA RENCLUSE,__<br>
+__par la Dent d'Albe (3.114m),__<br>
 __le Lac Grégonio, le Col Maudit (3.150m) et la Maladetta (3.312m).__
 
 <u>__NOTICE sur le COL MAUDIT__</u>
@@ -708,7 +708,7 @@ Voici la liste des traversées connues à fin 1923 :
 1° La première a été effectuée en août 1908 par M. Busquet,
 de Barcelone, avec le guide Anselmo, de Venasque.
 
-———\
+———<br>
 (1) Souvenirs d'un Montagnard, 2e édition, p. 472.
 
 <div class="page"/>
@@ -940,8 +940,8 @@ d'Albe (3.096m).
 
 __De la vingt et unième Excursion__
 
-__De LA RENCLUSE (2.133m) à LUCHON (629m)__\
-__par le Lac des Gourgoutes, le Pic de Sacroux (2.678m),__\
+__De LA RENCLUSE (2.133m) à LUCHON (629m)__<br>
+__par le Lac des Gourgoutes, le Pic de Sacroux (2.678m),__<br>
 __le Cirque des Graouès et la Cascade du Cœur.__
 
 —— GUIDE UTILE ——

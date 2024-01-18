@@ -25,11 +25,11 @@ _B. E. — Du 15 Juillet au 15 Septembre._
 
 Cartes à emporter : Bagnères-de-Luchon et Val d'Arouge réunies.
 
-__D'ARREAU à LUCHON et à MARIGNAC__\
-__par la Gorge de Clarabide,__\
-__le Lac de Caillaouas, les Gourgs-Blancs, le Spijeoles,__\
-__le Pic Gourdon, le Col des Gourgs-Blancs,__\
-__la Tusse de Montarqué,__\
+__D'ARREAU à LUCHON et à MARIGNAC__<br>
+__par la Gorge de Clarabide,__<br>
+__le Lac de Caillaouas, les Gourgs-Blancs, le Spijeoles,__<br>
+__le Pic Gourdon, le Col des Gourgs-Blancs,__<br>
+__la Tusse de Montarqué,__<br>
 __le Quaïrat, le Montarrouye, Bacanère et le Burat.__
 
 (Emporter des provisions pour quatre repas et les divers casse-croûte.)
@@ -75,8 +75,8 @@ du plus grand cirque glaciaire de la chaîne.
 
 ## PREMIÈRE JOURNÉE
 
-__D'ARREAU (698m) au LAC de CAILLAOUAS (2.165m),__\
-__par la Vallée de Louron,__\
+__D'ARREAU (698m) au LAC de CAILLAOUAS (2.165m),__<br>
+__par la Vallée de Louron,__<br>
 __Loudenvielle (9782m) et la Gorge de Clarabide.__
 
 —— GUIDE UTILE ——
@@ -128,9 +128,9 @@ Du Pont de la Soula au Lac de Caillaouas. 2h. » }
 
 ## DEUXIÈME JOURNÉE
 
-__Du LAC de CAILLAOUAS (2.165m) à ESPINGO (1.925m),__\
-__par le Spijeoles (3.065m),__\
-__le Pic Gourdon (3.038m), le Col des Gourgs-Blancs (2.896m)__\
+__Du LAC de CAILLAOUAS (2.165m) à ESPINGO (1.925m),__<br>
+__par le Spijeoles (3.065m),__<br>
+__le Pic Gourdon (3.038m), le Col des Gourgs-Blancs (2.896m)__<br>
 __et la Tusse de Montarqué (2.896m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -228,8 +228,8 @@ De la Tusse de Montarqué à Espingo...... 2h. » }
 
 ## TROISIÈME JOURNÉE
 
-__D'ESPINGO (1.925m)à LUCHON (629m),__\
-__par le Quaïrat (3.0582m), le Montarrouye (2.850m)__\
+__D'ESPINGO (1.925m)à LUCHON (629m),__<br>
+__par le Quaïrat (3.0582m), le Montarrouye (2.850m)__<br>
 __et le Vallon de Médassoles.__
 
 —— GUIDE INDISPENSABLE ——
@@ -274,7 +274,7 @@ premier sommet; il n'y a qu'un entassement de rocs granitiques,
 mais pas la moindre difficulté. Après le sommet N., on suivra le
 flanc E. de la crête par d'étroites corniches, puis on grimpera à
 
-———\
+———<br>
 (1) Mme et M. Descazaux, Marcel Gandillon et Blaise Baylac.
 
 
@@ -331,7 +331,7 @@ Du Cap de Hounts-Secs (2.707m), qu'on dominera vers le N.
  
 
  
-———\
+———<br>
 (1) V. Souvenirs d'un Montagnard, seconde édition, p. 278.
 
 <div class="page"/>
@@ -400,7 +400,7 @@ Horaire probable du Col de Montarrouye à Superbagnères. 3h.
 
 ## QUATRIÈME JOURNÉE
 
-__De LUCHON (629m) à MARIGNAC (500m), par Bacanère (2.194m),__\
+__De LUCHON (629m) à MARIGNAC (500m), par Bacanère (2.194m),__<br>
 __le Pic de Burat (2.150m) et la Gorge de Marignac.__
 
 —— SANS GUIDE ——
@@ -490,7 +490,7 @@ pour aller rejoindre 1a grand'route de la vallée, 800 m. en aval
 de la halte d'Antignac, à 6 k. de Luchon.
  
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __ESPINGO__
 - Pour rejoindre de Luchon, 13 k. de roule et 2h.30 de sentier.

@@ -22,7 +22,7 @@ output: pdf_document
 
 __Trois jours aux Environs d'Auzat.__
 
-(2° Série)\
+(2° Série)<br>
 _B. E. — Du 15 Juillet au 15 Seplembre._
 
 Cartes à emporter : Foix et Perles réunies.
@@ -55,7 +55,7 @@ dispositions, et être prèt à partir vers treize heures.
 
 ## PREMIÈRE JOURNÉE
 
-__D'AUZAT (710m) aux ORRYS de PUJOL (1.704m).__\
+__D'AUZAT (710m) aux ORRYS de PUJOL (1.704m).__<br>
 __par Marc d'Auzat (99m).__
 
 —— GUIDE UTILE ——
@@ -106,9 +106,9 @@ D'Auzat aux Orrys de Pujol, 4 h. environ.
  
 ## DEUXIÈME JOURNÉE
 
-__Des ORRYS de PUJOL (1.704m) aux ORRYS du CARLA (1.735m),__\
-__par le Montcalm (3.080m),__\
-__la Pique d'Estats (3.141m), la Combe de Rioufred__\
+__Des ORRYS de PUJOL (1.704m) aux ORRYS du CARLA (1.735m),__<br>
+__par le Montcalm (3.080m),__<br>
+__la Pique d'Estats (3.141m), la Combe de Rioufred__<br>
 __et le Pla Soulcem.__
 
 —— GUIDE INDISPENSABLE ——
@@ -234,8 +234,8 @@ De la Pique d'Estats aux Orrys du Carla... 3h.45 }
 
 ## TROISIÈME JOURNÉE
 
-__Des ORRYS du CARLA (1.735m) à AUZAT (740m),__\
-__par le Pic de Malcaras (2.850m), l'Etang Fourcat (2.420m).__\
+__Des ORRYS du CARLA (1.735m) à AUZAT (740m),__<br>
+__par le Pic de Malcaras (2.850m), l'Etang Fourcat (2.420m).__<br>
 __l'Etang d'Izourt (1.642m) et la Vallée d'Arties.__
 
 —— GUIDE UTILE ——
@@ -379,7 +379,7 @@ l'usine, l'autorisation d'y coucher; 2° l'orry situé sur la rive g.
 du petit étang, s'il existe encore; 3° l'orry de la « Chaudière »;
 4° enfin, les orrys d'Izourt.
 
-———\
+———<br>
 (1) Le mot la « Claudière » n'a aucun sens pour le lieu que les
 cartes désignent. Les gens du pays disent la « Caoudèro », c'est-à-dire
 « La Chaudière ».

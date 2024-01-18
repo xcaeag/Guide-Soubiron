@@ -18,14 +18,14 @@ title: SEPTIÈME EXCURSION
 
 __Cinq jours aux environs de Cauterets__
 
-(3° Série)\
+(3° Série)<br>
 _B. E. — Du 15 Juillet à fin Août._
 
 Cartes à emporter : Oloron et Laruns réunies.
 
-__De CAUTERETS à CAUTERETS,__\
-__par le Balaïtous, Sallent, l'Algas, l'Arollas, les Bains de Particosa,__\
-__le Pic d'Enfer, le Port du Marcadau,__\
+__De CAUTERETS à CAUTERETS,__<br>
+__par le Balaïtous, Sallent, l'Algas, l'Arollas, les Bains de Particosa,__<br>
+__le Pic d'Enfer, le Port du Marcadau,__<br>
 __les lacs Nère, du Pourtet, de Castellabarca et d'Ilhèou.__
 
 <u>__AVIS AUX TOURISTES__</u>
@@ -56,7 +56,7 @@ des compagnons exercés et résistants à la fatigue.
 
 ## PREMIÈRE JOURNÉE
 
-__De CAUTERETS (902m)au REFUGE de CAMPO-PLANO (2.100m),__\
+__De CAUTERETS (902m)au REFUGE de CAMPO-PLANO (2.100m),__<br>
 __par le Marcadau et le Col de la Fache (2.738m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -103,8 +103,8 @@ Du Col de la Fache au refuge de Campo-          }
 
 ## DEUXIÈME JOURNÉE
 
-__De CAMPO-PLANO (2.100m) à SALLENT (1.268m),__\
-__par le Balaïtous (3.146m),__\
+__De CAMPO-PLANO (2.100m) à SALLENT (1.268m),__<br>
+__par le Balaïtous (3.146m),__<br>
 __le Cirque d'Ariel, le Paso del Oso et la Garganta d'Agua Limpia.__
 
 
@@ -235,7 +235,7 @@ Du Paso del Oso à Sallent............ 3h. » }
 
 ## TROISIÈME JOURNÉE
 
-__De SALLENT (1.268m) aux BAINS de PANTICOSA (1.639m),__\
+__De SALLENT (1.268m) aux BAINS de PANTICOSA (1.639m),__<br>
 __par les Pics d'Algas (3.035m-3.045m) et d'Arollas (3.060m),__
 
 —— GUIDE INDISPENSABLE ——
@@ -246,7 +246,7 @@ et le col de ce nom. On l'utilisera en partie pour faire
 monter les sacs par un mulet jusqu'au plateau supérieur de Pundillos, 
 vers 2.000 d'alt. 
 
-———\
+———<br>
 (1) Nid des Colombes.
 (2) Cascade de Sallent, qu'on peut admirer au passage.
 
@@ -298,7 +298,7 @@ creuse très profondément le vallon de Caldarès, et l'œil remonte
 aux cimes aiguës du massif des Batans que domine plus loin la
 pointe de la Pique Longue.
 
-———\
+———<br>
 (1) Les Espagnols prononcent : Las Arouélas.
 
 <div class="page"/>
@@ -329,8 +329,8 @@ De l'Arollas aux Bains de Panticosa....... 3h. »  }
 
 ## QUATRIÈME JOURNÉE
 
-__Des BAINS de PANTICOSA (1.639m) au REFUGE__\
-__du MARCADAU (1.860m), par les Pics d'Enfér (3.073m-3.081m)__\
+__Des BAINS de PANTICOSA (1.639m) au REFUGE__<br>
+__du MARCADAU (1.860m), par les Pics d'Enfér (3.073m-3.081m)__<br>
 __et le Port du Marcadau (2.556m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -405,7 +405,7 @@ Du Pic d'Enfer au Port du Marcadau...... 3h. » } (Arrêts en sus)
 Du Port du Marcadau au Refuge Wallon.... 2h.15 }
 ```
 
-———\
+———<br>
 (1) Le Pont des Espagnols est situé sur le gave du Marcadau,
 environ 10 min. en amont du confluent du ruisseau de Cambalès.
 
@@ -417,9 +417,9 @@ environ 10 min. en amont du confluent du ruisseau de Cambalès.
 
 ## CINQUIÈME JOURNÉE
 
-__Du REFUGE du MARCADAU (1.860m) à CAUTERETS (932m);__\
-__par le Lac Nère (2.250m),__\
-__le Lac du Pourtet (2.450m), les Lacs de Castellabarca (2.187m),__\
+__Du REFUGE du MARCADAU (1.860m) à CAUTERETS (932m);__<br>
+__par le Lac Nère (2.250m),__<br>
+__le Lac du Pourtet (2.450m), les Lacs de Castellabarca (2.187m),__<br>
 __le Col de la Haougadé (2.350m) et le Lac d'ilhèou (1.986m).__
 
 
@@ -454,7 +454,7 @@ Après une ascension facile au N. du Lac Nère, on arrive dans
 un large col pierreux. Le curieux Lac du Pourtet (2.450m) est un
 peu à g. et presque à cheval sur les deux versants (1). Retenu au
 
-———\
+———<br>
 (1) C'est, sans doute, sa situation spéciale qui lui a fait donner le
 nom de « Pourtet »; il est, en effet, sur le Pourtet qui fait communiquer 
 la région de Castellabarca avec celle de Cambalès.
@@ -510,7 +510,7 @@ Du Lac d'Ilhèou à Cauterets............... 2h.15 }
 
 — p. 110 —
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __SALLENT__
 - Pour rejoindre de Laruns, 36k. de route, 2h d'autobus

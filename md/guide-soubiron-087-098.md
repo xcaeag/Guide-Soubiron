@@ -17,13 +17,13 @@ title: SIXIÈME EXCURSION
 
 __Quatre jours aux environs de Cauterets__
 
-(2° Série)\
+(2° Série)<br>
 _B. E. — Du 15 Juillet au 15 Septembre._
 
 Cartes à emporter : Laruns et Luz.
 
-__ASCENSIONS de la GRANDE FACHE,__\
-__du PIC de CAMBALÈS, du BERNAT BARRAOU, du CHABARROU__\
+__ASCENSIONS de la GRANDE FACHE,__<br>
+__du PIC de CAMBALÈS, du BERNAT BARRAOU, du CHABARROU__<br>
 __et du PIC d'ESTIBAOUDE.__
 
 <u>__AVIS AUX TOURISTES__</u>
@@ -53,7 +53,7 @@ prix modérés.
 
 ## PREMIÈRE JOURNÉE
 
-__Ascension de la Grande Fache (3.006m),__\
+__Ascension de la Grande Fache (3.006m),__<br>
 __avec retour au Refuge du Marcadau (1.860m).__
 
 
@@ -125,7 +125,7 @@ De la Grande Fache au refuge...........  3h. »            }
 
 ## DEUXIÈME JOURNÉE
 
-__Ascensions du Pic de Cambalès (2.965m) et du Pic__\
+__Ascensions du Pic de Cambalès (2.965m) et du Pic__<br>
 __de Bernat Barraou (2.794m).__
 
 —— SANS GUIDE ——
@@ -193,7 +193,7 @@ sans difficulté la tourelle aperçue du Cambalès.
 Les récents travaux géodésiques de M. A. Meillon ont, non
 seulement déterminé la situation exacte du Bernat Barraou, mais
 
-———\
+———<br>
 (1) C'est à tort que les cartes font passer la frontière à la Petite.
 Fache, qui est en entier en France. Du Col de la Fache (2.738m), elle
 monte directement au Pène d'Aragon, d'où elle descend au col de ce
@@ -235,7 +235,7 @@ Du Bernat Barraou au Refuge........... 1h.45 }
 
 ## TROISIÈME JOURNÉE
 
-__Du REFUGE DU MARCADAU (1.860m) au LAC DE GAUBE(1.789m),__\
+__Du REFUGE DU MARCADAU (1.860m) au LAC DE GAUBE(1.789m),__<br>
 __par la Vallée d'Arratille et le Pic de Chabarrou (2.911m).__
 
 —— GUIDE UTILE ——
@@ -329,8 +329,8 @@ Du Chabarrou au Lac de Gaube............. 3h.30  }
 
 ## QUATRIÈME JOURNÉE
 
-__Du LAC de GAUBE (1.789m) à CAUTERETS (932m),__\
-__par la Vallée de Gaube, le Pic d'Estibaoude (2.820m),__\
+__Du LAC de GAUBE (1.789m) à CAUTERETS (932m),__<br>
+__par la Vallée de Gaube, le Pic d'Estibaoude (2.820m),__<br>
 __les Lacs d'Estibaoude (2.361m) et la Vallée de Lutour.__
 
 —— GUIDE UTILE ——
@@ -501,7 +501,7 @@ alors à g., nous trouvons un fragment de sentier qui nous
 fait franchir un premier torrent (probablement celui qui descend
 des lacs) pour nous mener ensuite sur une autre pente de pe-
 
-———\
+———<br>
 (1) La carte d'état-major ne fait figurer 1à qu'un lac et ce n'est
 point toujours une erreur, car, au printemps, quelquefois, la fonte
 des neiges élève le niveau des eaux qui recouvrent alors d'une seule
@@ -549,7 +549,7 @@ Nota. — De la digue des lacs d'Estibaoude, on apercevra en
 face, mais de l'autre côté de la vallée et presque à sa hauteur,
 le refuge de Culaous et le sentier qui y conduit.
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __REFUGE DU MARCADAU__
 - Pour rejoindre de Cauterets : 4h.30

@@ -27,11 +27,11 @@ _B. E. — Du 15 Juillet au 15 Septembre._
 
 Cartes à emporter : Foix et Perles réunies
 
-__En HAUTE ARIÈGE, en CATALOGNE__\
-__et en ANDORRE,__\
-__par la Vallée de Soulcen, la Pique Rouge de la Soucaranne__\
-__la Coma Pedrosa, le Port de Médacourbe,__\
-__le Pic des Lavans, les Pics de l'Etang Fourcat,__\
+__En HAUTE ARIÈGE, en CATALOGNE__<br>
+__et en ANDORRE,__<br>
+__par la Vallée de Soulcen, la Pique Rouge de la Soucaranne__<br>
+__la Coma Pedrosa, le Port de Médacourbe,__<br>
+__le Pic des Lavans, les Pics de l'Etang Fourcat,__<br>
 __le Tristagnes et le Pic de l'Aspre.__
  
 <u>__AVIS AUX TOURISTES__</u>
@@ -61,9 +61,9 @@ les vivres de trois jours et demi qu'il faut emporter.
 
 ## PREMIÈRE JOURNÉE
 
-__D'AUZAT (740m) à l'ORRY du LABINAS (1.807m),__\
-__par la Vallée de Soulcen,__\
-__et ascension de la Pique Rouge de la Soucaranne (2.904m),__\
+__D'AUZAT (740m) à l'ORRY du LABINAS (1.807m),__<br>
+__par la Vallée de Soulcen,__<br>
+__et ascension de la Pique Rouge de la Soucaranne (2.904m),__<br>
 __par le Port de Bouet (2.450m).__
 
 __Conseils.__ — __Itin. recomm.__ — On prendra au S. d'Auzat la
@@ -166,8 +166,8 @@ De la Soucaranne à l'Orry du Labinas.... 2h.15 }
 
 ## DEUXIÈME JOURNÉE
 
-__Ascension de la Coma Pedrosa (2.945m),__\
-__par le Port de las Bareytes (2.761m) et du Pic des Lavans (2.897m),__\
+__Ascension de la Coma Pedrosa (2.945m),__<br>
+__par le Port de las Bareytes (2.761m) et du Pic des Lavans (2.897m),__<br>
 __par le Port de Médacourbe (2.750m ?).__
 
 —— GUIDE INDISPENSABLE ——
@@ -304,10 +304,10 @@ peu intéressante du Médacourbe, parce qu'elle m'a obligé à
 
 ## TROISIÈME JOURNÉE
 
-__De l'ORRY du LABINAS (1.807m)__\
-__au REFUGE de l'ETANG FOURCAT (2. 450m),__\
-__par le Vallon de Caraoussans,__\
-__les Pics de l'Etang Fourcat (2.862-2.750m) ;__\
+__De l'ORRY du LABINAS (1.807m)__<br>
+__au REFUGE de l'ETANG FOURCAT (2. 450m),__<br>
+__par le Vallon de Caraoussans,__<br>
+__les Pics de l'Etang Fourcat (2.862-2.750m) ;__<br>
 __et le Pic de Tristagnes (2.879m).__
 
 —— GUIDE UTILE ——
@@ -440,7 +440,7 @@ Cela constituerait un supplément de marche d'environ 3/4 d'h.
 
 ## QUATRIÈME JOURNÉE
 
-__De l'ETANG FOURCAT à VICDESSOS (695m),__\
+__De l'ETANG FOURCAT à VICDESSOS (695m),__<br>
 __par le Pic de l'Aspre (2.745m), la Bède d'Olbier et Goulier.__
 
 —— GUIDE UTILE ——
@@ -536,7 +536,7 @@ Des Etangs de Petsiguer à Goulier........ 3h.30 } (Arrêts en sus)
 De Goulier à Vicdessos................... 0h.45 }
 ``` 
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __ORRY DU LABINAS__
 

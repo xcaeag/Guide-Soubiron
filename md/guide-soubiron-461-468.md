@@ -18,7 +18,7 @@ output: pdf_document
 
 Trois jours aux Environs d'Ax-les-Thermes
 
-(2° Série)\
+(2° Série)<br>
 _B. E. — Du 15 Juin au 15 Octobre._
 
 Cartes à emporter : Perles et Ax-les-Thermes.
@@ -28,7 +28,7 @@ Cartes à emporter : Perles et Ax-les-Thermes.
 
 ## PREMIÈRE JOURNÉE
 
-__D'AX (716m) aux GRANGES de MONTMIJA (1.400m),__\
+__D'AX (716m) aux GRANGES de MONTMIJA (1.400m),__<br>
 __par la Dent d'Orlu (2.220m).__
 
 —— SANS GUIDE ——
@@ -89,8 +89,8 @@ au S., on aperçoit le beau lac de Naguilles visité la veille.
 
 A l'O. de la Dent d'Orlu, un peu en contrebas, on remarquera
 
-———\
-(1) Ce sommet porte dans les cartes le nom de Pic de Brasseil.\
+———<br>
+(1) Ce sommet porte dans les cartes le nom de Pic de Brasseil.<br>
 Plusieurs pyrénéistes en ont tenté, en vain, l'ascension par la
 face S. Elle a été réussie pour la première fois, je crois, par nos jeunes
 camarades, Jean Arlaud et Raoul Rives, le 28 juin 1914, pendant que
@@ -135,7 +135,7 @@ De la Dent d'Orlu à Montmija.......... 3h.30 }
 ```
 ## DEUXIÈME JOURNÉE
 
-__Des GRANGES de MONTMIJA (1.400m) à Ax (716m),__\
+__Des GRANGES de MONTMIJA (1.400m) à Ax (716m),__<br>
 __par le Col de Paillères (1.972m) et le Pic de Tarbézou (2.366m),__
 
 —— SANS GUIDE ——
@@ -192,8 +192,8 @@ Du Tarbézou à Ax....................... 4h.15 } (Arrêts en sus).
 
 ## TROISIÈME JOURNÉE
 
-__Ascension du Soularac (2.360m) et du Saint-Barthélémy (2.349m),__\
-__par Trimounts, avec retour à Luzenac (5971m)__\
+__Ascension du Soularac (2.360m) et du Saint-Barthélémy (2.349m),__<br>
+__par Trimounts, avec retour à Luzenac (5971m)__<br>
 __par le ravin du Sauquet, Axiat et le Col de Lordat.__
 
 —— SANS GUIDE ——
@@ -230,7 +230,7 @@ de la Lauze. A partir de là, on ne peut plus se tromper, car on
 a pour guides les câbles aériens par lesquels descendent les
 bennes qui portent le tale à Luzenac. On n'a qu'à monter paral-
 
-———\
+———<br>
 (1) V. 30me E., p. 391.
 
 <div class="page"/>
@@ -304,7 +304,7 @@ n'est que le complément de celle du Soularac. Pour moi, c'est
 tout simplement une variante pour descendre à Luzenac par un
 chemin différent de celui de l'ascension.
 
-———\
+———<br>
 (1) C'est par erreur que les cartes cotent le Soularac 2.343 m. au
 lieu de 2.360 m. plaçant ainsi le point culminant au Saint-Barthélémy
 qui n'est qu'à 2.349 m. V. note rectificative à La Montagne, année

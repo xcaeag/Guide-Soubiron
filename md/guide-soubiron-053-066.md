@@ -19,9 +19,9 @@ _B. E. — Du 15 Juillet à fin Août._
 
 Cartes à emporter : Oloron et Laruns réunies, Tarbes.
 
-__De LARUNS (1) à ARGELÈS,__\
-__par les Eaux-Chaudes, Gabas, le Pallas, le Pic d'Arriel,__\
-__le Balaïtous, le Gabizos,__\
+__De LARUNS (1) à ARGELÈS,__<br>
+__par les Eaux-Chaudes, Gabas, le Pallas, le Pic d'Arriel,__<br>
+__le Balaïtous, le Gabizos,__<br>
 __le Pic de Bazès et le Soum de Granquet.__
 
 (Emporter des vivres pour sept repas).
@@ -45,7 +45,7 @@ tous les sens à travers le massif du Balaïtous, sans s'exposer
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).<br>
 (Voir aussi page 58 le Plan du Balaïtous).</p>
 
-———\
+———<br>
 (1) Laruns, chef-lieu de canton, 2.200 h., point terminus du chemin
 de fer dont l'embranchement est à Pau. Gare desservant les Eaux-
 Bonnes et les Eaux-Chaudes.
@@ -108,7 +108,7 @@ De Laruns au Val d'Arrius (22 k. de route)...
 De ce point au Refuge d'Arrémoulit...........   3h.30
 ```
 
-———\
+———<br>
 (1) Le col d'Arrius est situé à 2.25m d'alt., entre le Lurien (2.825m),
 au N.-N.-E. et le petit pic d'Arriel (2.606m), au S.-S.-E.
 
@@ -119,7 +119,7 @@ au N.-N.-E. et le petit pic d'Arriel (2.606m), au S.-S.-E.
 
 ## DEUXIÈME JOURNÉE
 
-__Journée d'approches du Balaïtous__\
+__Journée d'approches du Balaïtous__<br>
 __en faisant les Ascensions du Pallas (2.976m) et de l'Arriel (2.823m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -159,7 +159,7 @@ de la mort, etc., etc. (2). »
 Pour varier l'excursion, on pourra descendre au N., à toute
 crête, jusqu'à une petite échancrure qu'on nomme « Brèche des
 
-———\
+———<br>
 (1) V. le volume sur le Balaïtous, p. 85, et aussi Au Pays des
 Isards, tome 2, p. 122.
 (2) V. Bulletin Pyrénéen, année 1907, p. 278.
@@ -358,7 +358,7 @@ Du Balaïtous à Labassa............. 2h.45 } (Arrêts EN US).
 
 ## QUATRIÈME JOURNÉE
 
-__De LABASSA (1.970m) à ARRENS (900m),__\
+__De LABASSA (1.970m) à ARRENS (900m),__<br>
 __par les Pics de Gabizos (2.684-2.639m) et la Vallée d'Azun.__
 
 —— GUIDE INDISPENSABLE ——
@@ -370,7 +370,7 @@ au grand Gabizos (2.684m) nommé aussi « Les Taillades. »
 On descendra par la vallée d'Azun en suivant le chemin muletier 
 jusqu'à Grougne-Pouret (1.232m), au confluent du vallon de
 
-———\
+———<br>
 (1) Il paraît que le nom officiel de ce refuge est « Refuge du
 Balaïtous ».
 
@@ -480,9 +480,9 @@ Du Petit Gabizos à Arrens............. 2h.15 }
 
 ## CINQUIÈME JOURNÉE
 
-__D'ARRENS (900m) à ARGELÈS (455m),__\
-__par le Pic de Bazès (1.806m), le Pic de Navaillo (1.667m),__\
-__le Roc de Monbula (1.452m),__\
+__D'ARRENS (900m) à ARGELÈS (455m),__<br>
+__par le Pic de Bazès (1.806m), le Pic de Navaillo (1.667m),__<br>
+__le Roc de Monbula (1.452m),__<br>
 __le Soum de Granquet (1.874m) et la Vallée d'Estrem de Salles.__
 
 
@@ -592,7 +592,7 @@ Du Pic de Bazès au Soum de Granquet.... 2h.50 } (Arrêts en sus)
 Du Soum de Granquet à Argelès.......... 3h.10 } 
 ```
  
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __ARRÉMOULIT__
 - 1

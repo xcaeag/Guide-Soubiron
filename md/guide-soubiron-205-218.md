@@ -27,10 +27,10 @@ _B. E. — Du 15 Juillet à fin Août._
 
 Cartes à emporter : Luz et Gavarnie réunies, Bagnères-de-Luchon et Val d'Arouge réunies.
  
-__De SAINT-LARY (1) à LUCHON__\
-__par le Lustou, le Batoua, le Posets, le Pic du Port d'Oô,__\
-__le Pic des Gourgs-Blances, les lacs du Port d'Oô,__\
-__de Saousat et d'Espingo, le Cap de Hounts-Secs__\
+__De SAINT-LARY (1) à LUCHON__<br>
+__par le Lustou, le Batoua, le Posets, le Pic du Port d'Oô,__<br>
+__le Pic des Gourgs-Blances, les lacs du Port d'Oô,__<br>
+__de Saousat et d'Espingo, le Cap de Hounts-Secs__<br>
 __et le Pic Lézat.__
 
 <u>__AVIS AUX TOURISTES__</u>
@@ -49,7 +49,7 @@ est indispensable pour les deux premiers jours; on le prendra
 
 (Voir aussi les cartes des Environs d'Espingo, p. 202 et 214).
 
-———\
+———<br>
 (1) Saint-Lary (H.-Pyr.), à 12 k. de la gare d'Arreau, est desservi
 deux fois par jour par un autobus, en attendant la construction d'un
 tramway électrique.
@@ -71,7 +71,7 @@ tramway électrique.
 
 ## PREMIÈME JOURNÉE
 
-__De SAINT-LARY (825m) à l'HOSPICE de RIOUMAJOU (1.560m),__\
+__De SAINT-LARY (825m) à l'HOSPICE de RIOUMAJOU (1.560m),__<br>
 __par le Lustou (3.025m) et la Vallée de Rioumajou.__
 
 —— GUIDE INDISPENSABLE ——
@@ -113,7 +113,7 @@ On suivra la route de l'Hospice jusqu'aux Granges de Frédancon
 sur le Pont de Beauregard (1) et monter au vallon de Péguère.
 
 
-———\
+———<br>
 (1) Beauregard est le nom du complaisant propriétaire de la confortable 
 grange située à l'O. du pont et où de nombreux touristes ont
 trouvé une aimable hospitalité.
@@ -201,9 +201,9 @@ Du Lustou à l'Hospice de Rioumajou..... 3h.30 }
 
 ## DEUXIÈME JOURNÉE
 
-__De l'HOSPICE DE RIOUMAJOU (1.560m)__\
-__aux GRANGES de VIADOS (1.650m),__\
-__par le Port de Caouarère (2.5302m), le Tuc de Caouarère (2.900m),__\
+__De l'HOSPICE DE RIOUMAJOU (1.560m)__<br>
+__aux GRANGES de VIADOS (1.650m),__<br>
+__par le Port de Caouarère (2.5302m), le Tuc de Caouarère (2.900m),__<br>
 __le Batoua (3.035m) et la Cinqueta de la Pez.__
 
 —— GUIDE INDISPENSABLE ——
@@ -219,7 +219,7 @@ sentier du port du Plan jusqu'au moment où il fait un crochet
 à l'E.-S.-E. et on découvre les pentes qui y conduisent; on quittera 
 donc le sentier du port du Plan pour grimper directement
 
-———\
+———<br>
 (1) L'Hospice de Rioumajou qui, jadis, laissait tant à désirer, est
 maintenant très bien tenu par M. Soulan. On y trouve trois ou quatre
 lits et des provisions.
@@ -266,7 +266,7 @@ Nota. — Le porteur ne montera pas au Batoua. Du Port de
 Caouarère, il descendra directement à l'E., au fond de la vallée 
 espagnole de la Pez, où il attendra la caravane sur le sen-
 
-———\
+———<br>
 (1) On ne s'explique pas cette dénomination, puisque le pic de Guerreys 
 est à 1 k. au N.-E. du Port de Péguère. C'est donc la crête qui va
 de ce dernier port au Lustou qui est la vraie Crête de Guerreys. Celle
@@ -299,7 +299,7 @@ De la Pointe 2.970 aux Granges de Viados.3h.30 }
 
 ## TROISIÈME JOURNÉE
 
-__Des GRANGES de VIADOS (1.650m)__\
+__Des GRANGES de VIADOS (1.650m)__<br>
 __aux CABANES de TURMES (1.675m), par le Posets (3.367m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -372,9 +372,9 @@ Du Posets aux Cabanes de Turmes..... 3h.45 } (Arrêts en sus).
 
 ## QUATRIÈME JOURNÉE
 
-__Des CABANES de TURMES (1.675m) à ESPINGO (1.925m).__\
-__par le Port d'Oô (2.901m), le Pic du Port d'Oô (3.065m),__\
-__le Pic des Gourgs-Blancs (3.131m), le Lac Glacé (2.664m)__\
+__Des CABANES de TURMES (1.675m) à ESPINGO (1.925m).__<br>
+__par le Port d'Oô (2.901m), le Pic du Port d'Oô (3.065m),__<br>
+__le Pic des Gourgs-Blancs (3.131m), le Lac Glacé (2.664m)__<br>
 __et le Lac Saousat (1.960m).__
 
 —— GUIDE INDISPENSABLE ——
@@ -434,7 +434,7 @@ passage, tandis qu'à présent, grâce au nouveau refuge, c'est un
 magnifique centre d'excursions (1).
 
 
-———\
+———<br>
 (1) Voir du même auteur : Espingo et le Cirque d'Oô, brochure de
 40 pages contenant 12 itinéraires, 2 cartes et une vue du refuge.
 
@@ -468,10 +468,10 @@ Du Pic des Gourgs-Blancs à Espingo. 2h.25 }
 
 ## CINQUIÈME JOURNÉE
 
-__D'ESPINGO (1.925m) à LUCHON (629m),__\
-__par le Cap de Hounts-Secs (2.707m), le Col de Mon-__\
-__tarrouye (2.625m), le Col de Sarnès (2.550m), le Pic Lézat (3.099m),__\
-__les Mines de Crabioules, la Rue d'Enfer (1.576m)__\
+__D'ESPINGO (1.925m) à LUCHON (629m),__<br>
+__par le Cap de Hounts-Secs (2.707m), le Col de Mon-__<br>
+__tarrouye (2.625m), le Col de Sarnès (2.550m), le Pic Lézat (3.099m),__<br>
+__les Mines de Crabioules, la Rue d'Enfer (1.576m)__<br>
 __et la Vallée du Lys.__
 
 —— GUIDE UTILE ——
@@ -500,7 +500,7 @@ et de nouveaux spectacles surgissent de toutes parts. C'est d'abord
 le vallon fleuri de Médassoles qu'on découvre en rejoignant la
 crête qui se détache à g., vers le Cap de Bassiéret, puis le Céciré
 
-———\
+———<br>
 (1) Le Col de Montarrouye (2.625m), peu caractérisé, est une simple
 dépression de la crête qui va du Pic de Montarrouye (2.850m), au S.,
 au Cap de Hounts-Secs (2.707m), au N.
@@ -556,7 +556,7 @@ A partir de la corniche, on grimpera droit au sommet sans la
 moindre difficulté.
 
  
-———\
+———<br>
 (1) Certains Luchonnais soutiennent que c'est là le vrai Col de
 Montarrouye ; à mon avis, il est plus logique de l'appeler Col de Sarnès :
 1° parce qu'il est très voisin de la montagne de Sarnès ; 2 parce qu'il ne
@@ -648,7 +648,7 @@ Du Pic Lézat à la Rue d'Enfer.......... 2h.   } (Arrêts en sus)
 De la Rue d'Enfer à Luchon............. 3h.15 }
 ```
 
-<u>__POINTS D’INTERRUPTION__</u>
+<u>__POINTS D'INTERRUPTION__</u>
 
 __GRANGES DE VIADOS__ 
 
