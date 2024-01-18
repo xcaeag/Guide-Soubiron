@@ -15,8 +15,6 @@ output: pdf_document
 -----------------------
 [//]: # (— p. 191 —)
 
-— p. 191 —
-
 # QUINZIÈME EXCURSION
 
 (N° 12 de la 1° édition)

@@ -14,8 +14,6 @@ output: pdf_document
 -----------------------
 [//]: # (— p. 205 —)
 
-— p. 205 —
-
 # SEIZIÈME EXCURSION
 
 (N° 13 de la 1re édition)

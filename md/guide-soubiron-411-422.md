@@ -14,8 +14,6 @@ output: pdf_document
 -----------------------
 [//]: # (— p. 411 —)
 
-— p. 411 —
-
 # TRENTE-TROISIÈME EXCURSION
 
 (No 24 de la 1re édition)

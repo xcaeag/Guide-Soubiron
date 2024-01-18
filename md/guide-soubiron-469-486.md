@@ -16,7 +16,7 @@ output: pdf_document
 
 # TRENTE-HUITIÈME EXCURSION
 
-Cinq jours au départ d'Ax-les-Thermes
+__Cinq jours au départ d'Ax-les-Thermes__
 
 (N°28 de la 1re édition)<br>
 _BE, — Du 1 Juillet au 15 Septembre._

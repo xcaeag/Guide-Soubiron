@@ -18,7 +18,7 @@ output: pdf_document
 
 (N° 29 de la 1" édition)
 
-Quatre jours au départ de Bourg-Madame
+__Quatre jours au départ de Bourg-Madame__
 
 _B. E. — Du 15 Juillet uu 15 Septembre._
 

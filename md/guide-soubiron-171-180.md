@@ -22,8 +22,6 @@ _B. E. — Du 1° Juillet à fin Septembre._
 
 Cartes à emporter : Luz, Bagnères-de-Luchon.
 
- 
-
 __De BAGNÈRES-de-BIGORRE à ARREAU,__<br>
 __par le Pic de Midi, le Pic des Quatre Termes et l'Arbizon.__
 

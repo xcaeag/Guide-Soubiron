@@ -463,8 +463,9 @@ la brèche 2.647 d'où on montera à toute crête au Maucapéra
 Si on veut varier le chemin du retour et gagner 1/4 d'h. à la
 descente, on prendra le couloir rapide à la brèche 2.647, et on
 fera au bas un crochet à g., afin de rejoindre son sac.
-****
-(4) Je ne partage pas l'opinion de plusieurs auteurs quand ils
+
+———<br>
+(1) Je ne partage pas l'opinion de plusieurs auteurs quand ils
 disent que ce mot signifie « mauvais prêtre ». Maucapera viendrait
 plutôt des mots : maou capérat, ce qui signifierait : « Mal Coiffé -
 Pose tête ». C'est d'ailleurs aussi l'opinion des chasseurs de

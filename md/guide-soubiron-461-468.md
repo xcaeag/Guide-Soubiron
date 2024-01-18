@@ -16,7 +16,7 @@ output: pdf_document
 
 # TRENTE-SEPTIÈME EXCURSION
 
-Trois jours aux Environs d'Ax-les-Thermes
+__Trois jours aux Environs d'Ax-les-Thermes__
 
 (2° Série)<br>
 _B. E. — Du 15 Juin au 15 Octobre._

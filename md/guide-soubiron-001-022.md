@@ -757,7 +757,7 @@ Pradet......... Petite prairie.
 — p. 20 —
 
 ```
-Pulg............ ****FR donné aux sommets dans les Pyrénées-Orientales.
+Puig............ Nom donné aux sommets dans les Pyrénées-Orientales.
 Queba........... Abri sous roche. Toue de la région d'Ossau.
 Raillère........ Talus de déjections, couloir d'éboulis.
 Replat... ...... Petit plateau très élevé deminant un précipice.
@@ -775,7 +775,7 @@ Soula (la)...... Versant méridional de la montagne.
 Taillante....... Petit outil à tranchant latéral pour couper du bois. Par analogie, crête de montagne à arête tranchante.
 Tosse, Tosa, 
 Tose............ Sommet dont une face est rocheuse et très inclinée et dont l'autre est herbeuse et en pente douce.
-Toue. .......... Abri sous roche de la région du Lavedan.
+Toue............ Abri sous roche de la région du Lavedan.
 Tourrat......... Gelé, glacé.
 Tuc, Tuco, Tuque, 
 Tusse .......... Sommet à puissants contreforts.

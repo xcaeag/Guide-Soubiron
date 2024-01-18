@@ -14,8 +14,6 @@ output: pdf_document
 -----------------------
 [//]: # (— p. 403 —)
 
-— p. 403 —
-
 # TRENTE-DEUXIÈME EXCURSION
 
 (N° 23 de la 1re édition)
