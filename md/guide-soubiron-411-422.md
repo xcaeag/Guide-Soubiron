@@ -291,8 +291,8 @@ le Médacourbe au lieu du Lavans. Ce dernier est bien
 supérieur comme belvédère, et la grande muraille du Médacourbe 
 n'est réellement intéressante que vue du N. surtout
 du fond de la vallée.
-
-La journée déjà chargée ne permettrait d'y ajouter ce sommet
+>
+> La journée déjà chargée ne permettrait d'y ajouter ce sommet
 qu'en faisant la tournée entière avec vitesse. Si on dispose de
 1h.30, on peut y monter sans sac, depuis le port, en grimpant
 par la cheminée rapide qui conduit à un col situé à 10 min. du

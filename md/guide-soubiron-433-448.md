@@ -55,6 +55,7 @@ d'Ax à Bourg-Madame.
 <div class="page"/>
 
 — p. 434 — SISCA - RULLE - FONTARGENTE  (35me EXCURSION)
+****
 
 ![carte p434](../maps/guide-soubiron-0434-carte-portrait.jpg)
 

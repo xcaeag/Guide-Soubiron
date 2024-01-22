@@ -37,6 +37,7 @@ rendez-vous à Gèdre, vers 13 ou 14 h.
 <div class="page"/>
 
 — p. 134 — (10me EXCURSION)
+****
 
 ![carte p134](../maps/guide-soubiron-0134-carte.jpg)
 
@@ -329,13 +330,13 @@ __par le Pic Méchant (2.944m) et le Lac d'Orédon (1.879m).__
 douzaine de visites. Serait-ce à cause de son appellation ? Il
 n'est cependant un peu « Méchant » que par la face S., celle du
 Badet, alors qu'il est très débonnaire sur le versant d'Orédon.
-
-Tous les touristes, sauf un (1), sont montés par la face N. en
+>
+>Tous les touristes, sauf un (1), sont montés par la face N. en
 venant d'Orédon; celui qui l'a gravi par le S. n'ayant laissé
 aucune relation de son ascension, il me paraît utile d'en décrire
 le terrain et l'itinéraire que j'ai suivi le 14 juillet 1916.
-
-Le Pic Méchant est flanqué de deux brèches profondes, une à
+>
+>Le Pic Méchant est flanqué de deux brèches profondes, une à
 l'E. et l'autre à l'O. De chacune de ces brèches, descend un
 couloir vertigineux jusqu'au fond de la vallée. Entre ces deux 
 
@@ -351,13 +352,13 @@ boîte à sardines.
 — p. 141 — (10me EXCURSION) PIC MECHANT
 ****
 
-couloirs, exactement au S. du pic, existe un puissant contrefort
+>couloirs, exactement au S. du pic, existe un puissant contrefort
 dont la partie supérieure forme une crête qui va mourir en
 pente douce au pied de la brèche O. C'est par la rive dr. du
 couloir E. et la crête supérieure du contrefort qu'il faut faire
 l'ascension.
-
-Ce qui fait l'intérêt et la beauté de l'excursion, en montant
+>
+>Ce qui fait l'intérêt et la beauté de l'excursion, en montant
 par la face du Badet pour descendre ensuite à Orédon, c'est non
 seulement le charme des émotions qu'elle procure, mais surtout
 l'impression ressentie au sommet lorsque le rideau se lève sur
@@ -476,16 +477,16 @@ __par le Lac de Sarrouès (2.500m) et le Pic d'Aret (2.940m).__
 > Nota. - L'ascension de l'Aret nous mène au principal belvédère 
 de l'une des plus belles vallées pyrénéennes : « la
 Vallée d'Aure ». Elle inspira à Russell les lignes suivantes :
-
-« Où trouverait-on, en Suisse, des teintes si chaudes, tant de
+>
+>« Où trouverait-on, en Suisse, des teintes si chaudes, tant de
 lumière et de couleurs, de tels contrastes entre le soleil, la
 neige, les fleurs et la verdure ? » (2).
-
-J'ajoute qu'aucune autre vallée ne possède de pareilles richesses 
+>
+>J'ajoute qu'aucune autre vallée ne possède de pareilles richesses 
 dans les parties habitées, ni une telle profusion de beaux
 sites dans les hauteurs environnantes qui trônent sur elle.
-
-C'est par le Pic d'Aret qu'il faut commencer les ascensions en
+>
+>C'est par le Pic d'Aret qu'il faut commencer les ascensions en
 haute vallée d'Aure, et c'est la raison pour laquelle j'y conduis
 directement le touriste dès avoir visité la région de Gavarnie.
 

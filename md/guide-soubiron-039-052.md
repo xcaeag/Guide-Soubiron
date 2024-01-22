@@ -676,15 +676,12 @@ prendre un train qui quitterait Laruns vers 18 h.
 
 <u>__POINTS D'INTERRUPTION__</u>
 
-__URDOS__
-
-- Pour abandonner ou pour rejoindre après la 1" journée
-d'excursion.
-- Pour rejoindre de Laruns (14 k.)... 3h.
-
-__GABAS__
-- Pour rentrer à Laruns après la 3° journée... 2h.45
-- Pour rentrer à Laruns après la 4° journée... 1h.
-
-__EAUX-BONNES__
-- Pour rejoindre de Laruns (5 k.)... 1h.
+- __URDOS__
+  - Pour abandonner ou pour rejoindre après la 1" journée
+  d'excursion.
+  - Pour rejoindre de Laruns (14 k.)... 3h.
+- __GABAS__
+  - Pour rentrer à Laruns après la 3° journée... 2h.45
+  - Pour rentrer à Laruns après la 4° journée... 1h.
+- __EAUX-BONNES__
+  - Pour rejoindre de Laruns (5 k.)... 1h.

@@ -1041,16 +1041,16 @@ Du Sacroux à Luchon...................... 4 h.15 }
 
 > Nota. - On peut aussi, au départ de Luchon, faire l'ascension 
 du Sacroux comme je l'indique ci-dessous.
-
-1° En couchant la veille à l'Hospice de France puis en suivant
+>
+> 1° En couchant la veille à l'Hospice de France puis en suivant
 le sentier du Port de la Glère, qu'on nomme « Chemin de
 l'Impératrice ». Ce sentier s'amorce sur le chemin du Port de
 Venasque à 1/4 d'h. environ de l'Hospice, immédiatement après
 le deuxième pont. Il contourne presque horizontalement les
 contreforts N. de la crête de Baliran, pour aboutir au cirque de
 la Glère, d'où il monte au port en de nombreux lacets.
-
-2°. En allant coucher à la maison forestière de Jouèou pour
+>
+> 2°. En allant coucher à la maison forestière de Jouèou pour
 monter, le lendemain, par le Gouffre Maleplate, au cirque de la
 Glère. Par cette dernière voie, l'ascension est plus dure, puisqu'il 
 faut s'élever de près de 1.800 m.

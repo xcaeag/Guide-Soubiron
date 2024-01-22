@@ -490,8 +490,8 @@ en modifier le programme par l'une des deux variantes ci-après :
 continuer vers la plaine; 2° en reprenant l'ascension de l'Entécade
 dans le cas où on aurait eu du brouillard à la vingtième
 excursion.
-
-Pour l'Entécade, on quittera l'autobus à Las Bordas et,
+>
+> Pour l'Entécade, on quittera l'autobus à Las Bordas et,
 après avoir traversé le vill, on franchira, sur un deuxième
 pont, à l'O., la Garonne de Jouéou. Immédiatement après, on
 trouvera un sentier qui monte au S. par la rive g. de la vallée

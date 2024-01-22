@@ -41,7 +41,7 @@ vue d'ensemble sur la magnifique région qu'on va explorer.
 <div class="page"/>
 
 — p. 394 — ENVIRONS D'AUZAT (31me EXCURSION)
- ****
+****
 
 ![carte p394](../maps/guide-soubiron-0394-carte.jpg)
 

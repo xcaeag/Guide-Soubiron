@@ -136,18 +136,18 @@ On partira le matin en tramway jusqu'à Artigues, afin
 d'y arriver à 9 ou 10 h.; dans 20 min., aller et retour, on ira
 voir la cascade de Garet. Dans l'après-midi, on montera coucher 
 à l'Hôtellerie de Sencours.
-
-Le lendemain, on partira à la lanterne, à 3 h., pour assister
+>
+>Le lendemain, on partira à la lanterne, à 3 h., pour assister
 au pic au lever du soleil; on visitera l'observatoire et on redescendra 
 à l'hôtellerie pour le petit déjeuner. Repartant immédiatement 
 après, on ira, par le Col d'Aoubo, faire le grand
 déjeuner au bord du Lac Bleu, et on rentrera à Bagnères par
 Chiroulet et la vallée de Lesponne.
-
-Si les 15 k. de route paraissent longs, on peut se faire
+>
+>Si les 15 k. de route paraissent longs, on peut se faire
 prendre en voiture à Chiroulet.
-
-Pour l'ascension du Pic de Midi depuis Barèges, voir la note
+>
+>Pour l'ascension du Pic de Midi depuis Barèges, voir la note
 spéciale, p. 147.
 
 ## DEUXIÈME JOURNÉE

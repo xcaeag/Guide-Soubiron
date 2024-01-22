@@ -38,12 +38,14 @@ Bagnères.
 <div class="page"/>
 
 — p. 162 — ENVIRONS de BAGNERES-DE-BIGORRE (12me EXCURSION)
+****
 
 ![carte p162](../maps/guide-soubiron-0162-carte.jpg)
 
 <div class="page"/>
 
 — p. 163 — (12me EXCURSION) CROIX de MANSE
+****
 
 ## PREMIÈRE JOURNÉE
 
@@ -90,6 +92,7 @@ de Bagnères. Ce point de vue est très beau. Baudéan est sous soi
 <div class="page"/>
 
 — p. 164 — MONTNE — CASTEL-MOULY (19me EXCURSION)
+****
 
 à 500 m. de profondeur, et l'œil prend en enfilade toute la vallée
 de Campan.
@@ -139,6 +142,7 @@ pendant laquelle on passera près de la source de Cot de Ger, on
 <div class="page"/>
 
 — p. 165 — (12me EXCURSION) GORGE DE LHERIS
+****
 
 rejoindra le chemin d'ascension à la Croix dé Manse, à une
 demi-h. de Bagnères.
@@ -187,6 +191,7 @@ de suivre le chemin indiqué à dr. par le Joanne, car il est plus
 <div class="page"/>
 
 — p. 166 — CASQUE de LHERIS (12me EXCURSION)
+****
 
 long et plus fatigant. Poursuivant droit devant soi, on franchira,
 trois min. après, le ruisseau de Lhéris et, en deux lacets rapides,
@@ -237,6 +242,7 @@ du S.-O., afin d'aboutir à la petite cheminée qu'on nomme « Pas
 <div class="page"/>
 
 — p. 167 — (12me EXCURSION) COL DE BANIOS — CABANES d'ORDINCEDE
+****
 
 du Chat ». Ce passage est plus impressionnant que difficile; l'important 
 est de marcher en rang serré dans le couloir inférieur
@@ -289,6 +295,7 @@ Du Col de Banios à Campan.............. 2h. » }
 <div class="page"/>
 
 — p. 168 — LAC BLEU de BAGNERES (12me EXCURSION)
+****
 
 ## TROISIÈME JOURNÉE
 
@@ -336,6 +343,7 @@ dans la même journée.
 <div class="page"/>
 
 — p. 169 — (12me EXCURSION) LAC VERT de BAGNERES
+****
 
 Afin de donner à cette ascension son maximum d'intérêt, on
 montera, à l'O., au Col de Bizourtère (1) pour redescendre par
@@ -376,7 +384,7 @@ De Chiroulet à Bagnères en voiture........ 1h.30 }   de marche.
 
 > Nota. - Si, du Lac Bleu, on voulait aller coucher à l'Hôtellerie 
 de Sencours, afin de faire l'ascension du Pic de Midi
-le lendemain, rien n'est plus facile; en voici l'itinéraire :
+le lendemain, rien n'est plus facile; en voici l'itinéraire :<br>
 Sur la rive dr. du déversoir, on trouve un sentier à peine
 tracé qui grimpe dans le rocher par le Pas du Bouc, pour
 gagner le haut du plateau; là, il rejoint le chemin direct du
@@ -389,18 +397,19 @@ Major et Col du Lac par celle du Ministère de l'Intérieur.
 <div class="page"/>
 
 — p. 170 — BAGNERES-DE-BIGORRE (12me EXCURSION)
+****
 
--teau gazonné forme un promontoire admirable pour voir le
+>teau gazonné forme un promontoire admirable pour voir le
 lac en entier.
-
-Le Col d'Aoubo est situé à l'E.-S.-E. et, de ce plateau, on en
+>
+>Le Col d'Aoubo est situé à l'E.-S.-E. et, de ce plateau, on en
 aperçoit très bien l'échancrure. Un très joli sentier y conduit
 en pente douce et, même avec du brouillard, on y parviendra
 sans difficulté en marchant à l'E.-S.-E. Au Col d'Aoubo, on a
 une fort belle vue, surtout sur la cuvette d'Escoubous et le
 massif de Nèouvielle.
-
-Le sentier descend dans la cuvette d'Aoubo qu'il traverse
+>
+>Le sentier descend dans la cuvette d'Aoubo qu'il traverse
 direction S.-E., pour remonter, en face, au nouveau Col d'Oncet, 
 et contourner le contrefort de ce nom. Il se dirige ensuite
 au N.-E.; on découvre subitement le Lac d'Oncet, l'Hôtellerie
@@ -410,5 +419,5 @@ après, on rejoint le chemin qui, de Barèges, monte directement
 
 <u>__POINT UNIQUE D'INTERRUPTION__</u>
 
-__BAGNÈRES de BIGORRE__
-- Soit pour abandonner, après la 1re ou la 2e journée, soit pour rejoindre.
+- __BAGNÈRES de BIGORRE__
+  - Soit pour abandonner, après la 1re ou la 2e journée, soit pour rejoindre.

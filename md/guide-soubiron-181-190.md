@@ -58,7 +58,8 @@ joli point de vue sur les environs immédiats.
 <div class="page"/>
 
 — p. 182 — ENVIRONS D'ARREAU (14me EXCURSION)
- 
+****
+
 ![carte p182](../maps/guide-soubiron-0182-carte.jpg)
 
 <p class="centre">
@@ -124,6 +125,7 @@ met en communication la vallée d'Aure avec celle du Louron.
 <div class="page"/>
 
 — p. 184 — ILHAN (14me EXCURSION)
+****
 
 boisée; là, on quitte la sapinière pour des taillis de hêtres et on
 franchit un petit col. En y débouchant, on découvre à nouveau
@@ -178,6 +180,7 @@ Burat (2.150m), pour les environs de Luchon et le Haut Aran;
 <div class="page"/>
 
 — p. 185 — (14me EXCURSION) COL d'ASPIN
+****
 
 les Trois Seigneurs (2.199m) et le Soularac (2.360m), pour les
 monts Ariégeois et Catalans; enfin, les pics de la Tausse
@@ -234,6 +237,7 @@ axe, resplendit le magnifique glacier des Gourgs-Blancs. Au N.
 <div class="page"/>
 
 — p. 186 — MONTNE d'ASPIN — MONT BASSIA (14me EXCURSION)
+****
 
 du Col, à quelques m au-dessus de la route, on trouve une intéressante 
 table d'orientation. Mais, si on veut jouir d'un panorama
@@ -284,6 +288,7 @@ On peut redescendre au Col de Beyrède, soit par la voie d'as-
 <div class="page"/>
 
 — p. 187 — (14me EXCURSION) COL de BEYREDE — SARRANCOLIN
+****
 
 cension, soit en dévalant par les pentes S. vers une source dont
 on aperçoit le bassin de l'orée de la forêt. De ce point, un beau
@@ -338,6 +343,7 @@ Pendant 3 k., on est comme suspendu et, par endroits, on a dû
 <div class="page"/>
 
 — p. 188 — PIC D'ARENG (14me EXCURSION)
+****
 
 placer des rampes en fer, car il n'y a pas une place suffisante
 pour y construire des parapets en pierre. Et ce trajet est d'autant
@@ -391,6 +397,7 @@ Poste, chez Noguès, est recommandé.
 <div class="page"/>
 
 — p. 189 — (14me EXCURSION) FERRERE — MAULEON
+****
 
 Le trajet de Crouhens et Mauléon est des plus intéressants;
 la route descend en pente douce par une étroite gorge au fond
@@ -439,6 +446,7 @@ on fera l'ascension du sommet par des pentes faciles.
 <div class="page"/>
 
 — p. 190 — MONTASPET — NISTOS (14me EXCURSION)
+****
 
 Le Montaspet (1.849m) est un point de triangulation de premier
 ordre; une belle tourelle est bâtie sur le sommet. Son panorama
@@ -486,6 +494,6 @@ par le dernier train.
 
 <u>__POINTS D'INTERRUPTION__</u>
 
-ARREAU-SARRANCOLIN et MAULÉON-BAROUSSE
+- ARREAU-SARRANCOLIN et MAULÉON-BAROUSSE
 
  

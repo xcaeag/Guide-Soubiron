@@ -618,13 +618,12 @@ ter électrique.
 
 <u>__POINTS D'INTERRUPTION__</u>
 
-__LA PRESTE__
-- Pour rejoindre de Prats de Mollo, 7 k. de roule en autobus.
-- Pour descendre vers Perpignan après la 2me journée.
-
-__CHALET des PORTALETS__ 
-- Pour rejoindre de Vernet : 5h.30
-- Pour rejoindre de Prades : 6h.30
+- __LA PRESTE__
+  - Pour rejoindre de Prats de Mollo, 7 k. de roule en autobus.
+  - Pour descendre vers Perpignan après la 2me journée.
+- __CHALET des PORTALETS__ 
+  - Pour rejoindre de Vernet : 5h.30
+  - Pour rejoindre de Prades : 6h.30
 
 > Nota. - Voir ci-contre la note sur le Canigou.
 

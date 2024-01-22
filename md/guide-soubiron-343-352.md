@@ -420,7 +420,7 @@ l'Arraing (1.667m).
 Ce sommet, d'accès très facile et qui n'a nullement la forme
 d'un pic, est cependant un très joli belvédère. Ce qui en fait
 surtout le charme, c'est sa vue très étendue vers l'O., car on aperçoit
-> Nota. - mment le Pic de Midi de Bigorre, l'Arbizon et le Nèouvielle.
+notamment le Pic de Midi de Bigorre, l'Arbizon et le Nèouvielle.
 
 Revenu au col, on descendra au N.-E. à travers une petite
 forêt à l'orée de laquelle on trouve le chemin muletier qui mène

@@ -300,7 +300,7 @@ frontière au Col des Neuf-Croix, ce n'est plus, par les crêtes,
 qu'une délicieuse marche pendant laquelle on monte sur sept
 pics et on traverse six cols dans moins de 5h.
 >
->Les dépressions entre chaque sommet sont si peu profondes
+> Les dépressions entre chaque sommet sont si peu profondes
 qu'elles procurent plutôt un repos aux divers muscles en
 alternant leur travail et en permettant de marcher presque
 aussi vite à l'ascension qu'à la descente. Puis, ce qui augmente

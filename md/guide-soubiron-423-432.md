@@ -280,8 +280,8 @@ touristes et qui possède cependant deux des plus beaux sommets
 de l'Andorre et de l'Ariège : l'Estanyo qui plane sur toute
 l'Andorre et le Serrère qui trône, à la crête frontière, sur les
 deux versants.
-
-C'est du Serrat qu'il faut partir pour faire commodément
+>
+> C'est du Serrat qu'il faut partir pour faire commodément
 l'ascension des deux sommets dans la même journée. On peut se
 faire accompagner par un berger de la région; mais ce n'est
 pas indispensable, si on n'est pas un débutant.

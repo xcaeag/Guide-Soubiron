@@ -402,8 +402,8 @@ jours au village du Trein, situé à 1 k. 500 en aval de Saint-
 Lizier d'Ustou. On fera bien de se renseigner au passage sur
 les horaires de ces services, en vue de la vingt-neuvième
 excursion.
-
-Si on est parti de très bonne heure de Cuanca, on peut aller
+>
+> Si on est parti de très bonne heure de Cuanca, on peut aller
 coucher à Seix (12 k.), où on trouvera le confortable de la
 ville et des autobus correspondant à tous les trains de Saint-
 Girons.

@@ -56,7 +56,8 @@ effectuerait un trajet de 10 k. environ sans la quitter. A cette
 <div class="page"/>
 
 — p. 220 — D'ARREAU A LUCHON ET A MARIGNAC (17me EXCURSION)
- 
+****
+
 ![carte p220](../maps/guide-soubiron-0220-carte.jpg)
 
 situation unique dans les Pyrénées, s'ajoute le spectacle grandiose 
@@ -68,6 +69,7 @@ du plus grand cirque glaciaire de la chaîne.
 <div class="page"/>
 
 — p. 221 — (17me EXCURSION) GORGE de CLARABIDE — LAC de CAILLAOUAS
+****
 
 ## PREMIÈRE JOURNÉE
 
@@ -121,6 +123,7 @@ Du Pont de la Soula au Lac de Caillaouas. 2h. » }
 <div class="page"/>
 
 — p. 222 — GOURGS-BLANCS — SPIJEOLES (17me EXCURSION)
+****
 
 ## DEUXIÈME JOURNÉE
 
@@ -169,6 +172,7 @@ pendant dix mois et demi. De cet état des lieux est né le nom de
 <div class="page"/>
 
 — p. 223 — (17me EXCURSION) PIC GOURDON — TUSSE De MONTARQUE
+****
 
 préférence sur le versant d'Oô. Ce sommet est devenu tristement
 célèbre par la chute mortelle qu'y fit le grand pyrénéiste Marcel
@@ -220,6 +224,7 @@ De la Tusse de Montarqué à Espingo...... 2h. » }
 <div class="page"/>
 
 — p. 224 — QUAIRAT (17me EXCURSION)
+****
 
 ## TROISIÈME JOURNÉE
 
@@ -235,8 +240,8 @@ l'ascension, c'est le refuge d'Espingo. Cette ascension, qui comprend
 un trajet d'environ 2 h en terrain délicat, exige une
 attention soutenue; elle est cependant sans danger, le rocher
 étant des meilleurs, et l'intérêt s'intensifie à chaque pas.
-
-Le 21 août 1930, à 73 ans, j'en ai fait la quatrième ascension
+> 
+> Le 21 août 1930, à 73 ans, j'en ai fait la quatrième ascension
 en y conduisant une caravane de cinq (1), et j'ai constaté, qu'à
 chaque excursion, le plaisir s'amplifie.
 
@@ -275,6 +280,7 @@ flanc E. de la crête par d'étroites corniches, puis on grimpera à
 <div class="page"/>
 
 — p. 225 — (17me EXCURSION) MONTARROUYE
+****
 
 la cime principale (3.058m). Le point culminant est constitué par
 un monolithe de granit, d'une hauteur d'environ 3m. et planté
@@ -321,15 +327,13 @@ points de vue des environs d'Espingo.
 Du Cap de Hounts-Secs (2.707m), qu'on dominera vers le N.
 (V. 16° E., p. 215), se détache au N.-E. une longue crête qui va se
 
- 
-
- 
 ———<br>
 (1) V. Souvenirs d'un Montagnard, seconde édition, p. 278.
 
 <div class="page"/>
 
 — p. 226 — VALLON de MEDASSOLES  (17me EXCURSION)
+****
 
 souder au Pic de Céciré (2.400m); c'est cette crête qu'on franchira
 tout à l'heure pour débarquer au vallon de Médassoles. Du haut
@@ -374,8 +378,8 @@ Des granges d'Astau à Luchon......... 2h.30 }
 ```
 > Nota. - Du col de Montarrouye, on peut aussi rentrer à
 Luchon par l'itinéraire suivant et par Superbagnères :
-
-On dévale droit au N.-E. en laissant à dr., d'abord, le petit
+>
+> On dévale droit au N.-E. en laissant à dr., d'abord, le petit
 lac de Montarrouye, puis, la cabane de Sarnès, près de laquelle
 on rejoint le grand sentier qui, par Coumo Néro et la crête de
 Subescale, mène à la Coume de Bourg. Là, on suit le sentier
@@ -387,6 +391,7 @@ Horaire probable du Col de Montarrouye à Superbagnères. 3h.
 <div class="page"/>
 
 — p. 227 — (17me EXCURSION) BACANERE — BURAT
+****
 
 ## QUATRIÈME JOURNÉE
 
@@ -437,6 +442,7 @@ splendeurs.
 <div class="page"/>
 
 — p. 228 — GORGE de MARIGNAC (17me EXCURSION)
+****
 
 Le Montlude (2.516m), au N.-E., prend l'aspect d'une très haute
 montagne et le Pic du Gars (1.757m), au N., est pleine d'allure.
@@ -480,10 +486,9 @@ de la halte d'Antignac, à 6 k. de Luchon.
 
 <u>__POINTS D'INTERRUPTION__</u>
 
-__ESPINGO__
-- Pour rejoindre de Luchon, 13 k. de roule et 2h.30 de sentier.
-- Pour rentrer à Luchon après la 2° journée : 4h.15
-
-__LUCHON__
-- Pour abandonner après la 3e journée.
-- Pour rejoindre et faire la 4e journée.
+- __ESPINGO__
+  - Pour rejoindre de Luchon, 13 k. de roule et 2h.30 de sentier.
+  - Pour rentrer à Luchon après la 2° journée : 4h.15
+- __LUCHON__
+  - Pour abandonner après la 3e journée.
+  - Pour rejoindre et faire la 4e journée.

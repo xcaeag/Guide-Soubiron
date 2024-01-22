@@ -430,8 +430,8 @@ train du soir à Saint-Girons, cela est possible en partant de
 Bonabé à 5 h., afin d'arriver à Seix vers 13 h. L'horaire serait
 le suivant : de Bonabé au port, 1 h. 45; du port à Salau, 2 h.;
 de Salau à Seix, 2h.45: soit au total 6h.30, arrêts en sus.
-
-La course faite ainsi perdrait beaucoup de son intérêt et si
+>
+> La course faite ainsi perdrait beaucoup de son intérêt et si
 j'indique cet horaire rapide, sans le conseiller, c'est pour un
 cas de nécessité.
 

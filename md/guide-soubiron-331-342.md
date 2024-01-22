@@ -422,8 +422,8 @@ Pyrénées centrales aux Pyrénées ariégeoises et catalanes. C'est
 du magnifique belvédère du Maubermé que nous verrons encore
 un grand nombre de ses cimes et que nous dirons adieu à
 cette admirable région.
-
-Si les avis sont partagés sur la ligne séparative des Pyrénées
+>
+> Si les avis sont partagés sur la ligne séparative des Pyrénées
 occidentales et des Pyrénées centrales (les uns la placent
 à la vallée d'Ossau et d'autres à la vallée d'Azun), ici, la ligne
 de démarcation est nette; elle est formée au N. par la Garonne
@@ -540,5 +540,5 @@ __Horaire de la Journée :__
 De Salardu à Bagerque..................... 0h.45 }
 De Bagerque au Port d'Urets............... 3h.30 }   10h.30
 Du Port d'Urets au Maubermé (al. et ret.). 2h.45 } (Arrêts en sus).
-Du Port d'Ürets à Sentein................. 3h.30 }
+Du Port d'Urets à Sentein................. 3h.30 }
 ```

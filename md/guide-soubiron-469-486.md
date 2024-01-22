@@ -600,7 +600,7 @@ muletier des mineurs jusqu'au Pas de la Casa (2.075m); il passe
 la frontière pour monter ensuite au port de Framiquel (2.445m),
 et, de là, descendre à Saldeu par la vallée d'Embalire.
 >
->Nous suivrons cet itinéraire jusqu'à la frontière, c'est-à-dire
+> Nous suivrons cet itinéraire jusqu'à la frontière, c'est-à-dire
 jusqu'au Pas de la Casa. On peut aussi, depuis le Col de Puymorens
 partir par la route nationale n° 20 jusqu'au Llata et
 prendre la nouvelle route de l'Andorre; cette voie cest plus

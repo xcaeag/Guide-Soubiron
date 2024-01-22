@@ -220,6 +220,7 @@ qui se dirige au N. vers le lac d'Arrius. Là, on franchira une
 <div class="page"/>
 
 — p. 58 — PLAN du BALAÏTOUS (3me EXCURSION)
+****
 
 ![carte p58](../maps/guide-soubiron-0058-carte.jpg)
 
@@ -462,8 +463,7 @@ une route carrossable qui mène à Arrens dans moins de 1 h.
 intéressante. A mi-descente, on pourrait faire un crochet à
 g, au N. afin de gagner la crête E. du Gabizos au petit pic de
 Pène d'Aube (1.780m). On a de ce petit. sommet un magnifique
-point de vue sur la partie supérieure de la vallée.
->
+point de vue sur la partie supérieure de la vallée.<br>
 > On descendra ensuite par les pentes N.-E., vers le fond du
 vallon d'Escoute-Pout, qui tourne à l'E. pour aboutir au grand
 chemin de chars au pont de Peyrariose, à 3/4 d'h. d'Arrens.

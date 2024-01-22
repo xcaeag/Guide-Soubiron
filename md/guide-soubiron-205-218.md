@@ -60,10 +60,8 @@ tramway électrique.
 
 <div class="page"/>
 
-— p. 207 —
-
-(16me EXCURSION) VALLEE de RIOUMAJOU
- 
+— p. 207 — (16me EXCURSION) VALLEE de RIOUMAJOU
+****
 
 ## PREMIÈME JOURNÉE
 
@@ -77,8 +75,8 @@ décrire fait gagner près de 2 h. sur celle qu'indiquent les divers
 guides : 1° parce que la pente est régulière de Saint-Lary au
 sommet; 2° parce que le terrain d'ascension est des meilleurs
 et qu'on monte à l'ombre jusqu'à 2.200 m. d'alt.
-
-Par Azet et le vallon d'Arsoue, les ondulations du chemin
+>
+> Par Azet et le vallon d'Arsoue, les ondulations du chemin
 augmentent la différence de niveau à franchir et, de plus, en
 amont du lac de Lustou, on ne peut éviter un terrain d'éboulis
 des plus fatigants.
@@ -276,7 +274,7 @@ sous le noin de « Pic Balinet ».
 — p. 211 — (16me EXCURSION) Les GRANGES De VIADOS
 ****
 
-tier. Cependant, s'il connaît déjà le chemin, il pourra filer
+> tier. Cependant, s'il connaît déjà le chemin, il pourra filer
 directement jusqu'aux granges de Viados pour y préparer le
 gîte.
 

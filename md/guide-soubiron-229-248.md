@@ -195,8 +195,8 @@ sous les conditions suivantes : 1° d'être parvenu à Bourg-
 d'Oueil vers 6 h., ce qui est possible en auto; 2° d'arriver assez
 tôt à Mauléon pour prendre le courrier qui correspond au
 dernier train s'arrêtant à Loures.
-
-L'ascension du Montné peut aussi être effectuée dans la journée 
+>
+> L'ascension du Montné peut aussi être effectuée dans la journée 
 depuis Luchon, en se faisant conduire en auto à Bourg-
 d'Oueil.
 
