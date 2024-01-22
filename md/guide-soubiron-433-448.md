@@ -11,7 +11,6 @@ output: pdf_document
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
------------------------
 [//]: # (— p. 433 —)
 
 # TRENTE CINQUIÈME EXCURSION
@@ -417,7 +416,7 @@ __Horaire de la Journée :__
 Du Refuge à la Porteille du Sisca........ 0h.45 }
 De la Porteille au Pic de l'Albe......... 1h.30 }
 Du Pic de l'Albe au Pic de Rulle......... 2h.15 }  8h. 15
-Du Pic de Rulle au Pic Noir de Joucla.... 2h. » } (Arrêts en sus).
+Du Pic de Rulle au Pic Noir de Joucla.... 2h. » } (Arrêts en sus).
 Du Pic Noir aux Cabanes de Garseing...... 1h.45 }
 ```
 

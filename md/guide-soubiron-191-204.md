@@ -12,7 +12,6 @@ output: pdf_document
 <style>.droite {text-align: right}</style>
 <style>.notedroite {text-align: right; font-size:10px; }</style>
 
------------------------
 [//]: # (— p. 191 —)
 
 # QUINZIÈME EXCURSION
@@ -458,7 +457,7 @@ __Horaire de la Journée :__
 ```
 Des Granges de Viados au Pic Schrader... 4h.30 }
 Du Pic Schrader au Port d'Aygues-Tortes. 2h.15 }    10h.30
-Du Port d'Aygues-Tortes au Lac de Cail-        } (Arrêts en sus)
+Du Port d'Aygues-Tortes au Lac de Cail-        } (Arrêts en sus)
   laouas ............................... 3h.45 }
 ```
 

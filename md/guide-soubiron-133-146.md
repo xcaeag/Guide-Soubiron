@@ -9,7 +9,6 @@ title: DIXIÈME EXCURSION
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
------------------------
 [//]: # (— p. 133 —)
 
 # DIXIÈME EXCURSION

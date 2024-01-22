@@ -11,7 +11,6 @@ output: pdf_document
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
------------------------
 [//]: # (— p. 229 —)
 
 # 18°, 19° et 20° EXCURSIONS
@@ -528,7 +527,7 @@ va rejoindre celui de l'ascension au 9° lacet.
 __Horaire de la Journée :__
 
 ``` 
-De Luchon au Poujastou............... 4h.30 } 
+De Luchon au Poujastou............... 4h.30 } 
 Du Poujastou au Mail de Criq......... 0h.50 }   8 h.
 Du Mail de Criq à Luchon............. 2h.40 } (Arrêts en sus).
 ```

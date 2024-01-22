@@ -10,7 +10,6 @@ output: pdf_document
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
------------------------
 [//]: # (— p. 519 —)
 
 ## Table Méthodique des 40 Excursions
@@ -378,6 +377,7 @@ Albe (étangs ariégeois de).  439 │ Aragnouet (pont d').......... 143
 <div class="page"/>
 
 — p. 526 — INDEX ALPHABETIQUE
+****
 
 ```
                            pages                               pages
@@ -433,6 +433,7 @@ Azun (vallée d')........... 61   │
 <div class="page"/>
 
 — p. 527 — INDEX ALPHABETIQUE
+****
 
 ```
 ===============================  B  ================================
@@ -487,6 +488,7 @@ Baulou (roc de)............. 450 │ Bonascre (plateau de)........ 451
 ```
 
 <div class="page"/>
+****
 
 — p. 528 —
 ```
@@ -542,6 +544,7 @@ Campbieil (pic de)..... 137, 139 │ Cap del Camp (le)............ 454
 <div class="page"/>
 
 — p. 529 — INDEX ALPHABETIQUE
+****
 
 ```
                            pages                               pages
@@ -598,6 +601,7 @@ Chalets Saint-Néré.......... 189 │ Comte (lac de).......... 449, 452
 <div class="page"/>
 
 — p. 530 — INDEX ALPHABETIQUE
+****
 
 ```
                            pages                               pages
@@ -649,6 +653,7 @@ Eaux-Chaudes (Les).......... 23, │ Elysée Cottin (l')........... 164
 <div class="page"/>
 
 — p. 531 — INDEX ALPHABETIQUE
+****
 
 ```
                            pages                               pages
@@ -704,6 +709,7 @@ Faustin (col de)............ 366 │ Finestrelles (col de)........ 508
 <div class="page"/>
 
 — p. 532 — INDEX ALPHABETIQUE
+****
 
 ```
                            pages                               pages
@@ -758,6 +764,7 @@ Gavarnie ......... 119, 121, 129 │ Goueil de Jouèou............. 283
 <div class="page"/>
 
 — p. 533 — INDEX ALPHABETIQUE
+****
 
 ```
                            pages                               pages
@@ -809,6 +816,7 @@ Irazem ..................... 392 │ Izourt (étang d')....... 397, 408
 <div class="page"/>
 
 — p. 534 — INDEX ALPHABETIQUE
+****
 
 ```
 ===============================  J  ================================
@@ -862,6 +870,7 @@ Lanouzet (étangs de)........ 476 │ Lesponne (vallée de)......... 163
 <div class="page"/>
 
 — p. 535 — INDEX ALPHABETIQUE
+****
 
 ```
                            pages                               pages
@@ -914,6 +923,7 @@ Marboré (le) .......... 123, 125 │   de)........................ 359
 <div class="page"/>
 
 — p. 536 — INDEX ALPHABETIQUE
+****
 
 ```
                            pages                               pages
@@ -970,6 +980,7 @@ Montarrouy (le) ............ 155 │
 <div class="page"/>
 
 — p. 537 — INDEX ALPHABETIQUE
+****
 
 ```
 ===============================  N  ================================
@@ -1021,6 +1032,7 @@ Palo de la Claouèro (col et      │ Parsigoule (vallée de la).... 513
 <div class="page"/>
 
 — p. 538 — INDEX ALPHABETIQUE
+****
 
 ```
                            pages                               pages
@@ -1078,6 +1090,7 @@ Peyrot (pics)............... 426 │ Pont Beauregard ............. 207
 <div class="page"/>
 
 — p. 539 — INDEX ALPHABETIQUE
+****
 
 ```
                            pages                               pages
@@ -1132,6 +1145,7 @@ Querquèou (roc de).......... 396 │
 <div class="page"/>
 
 — p. 540 — INDEX ALPHABETIQUE
+****
 
 ```
 ===============================  R  ================================
@@ -1186,6 +1200,7 @@ Saint-Barnabé (chapelle de). 490 │                          335, 336
 <div class="page"/>
 
 — p. 541 — INDEX ALPHABETIQUE
+****
 
 ```
                            pages                               pages
@@ -1242,6 +1257,7 @@ Seix.............  343, 347, 361 │ Soulanette (la) ............. 512
 <div class="page"/>
 
 — p. 542 — INDEX ALPHABETIQUE
+****
 
 ```
                            pages                               pages
@@ -1297,6 +1313,7 @@ Trimounts (carrières de).... 465 │
 <div class="page"/>
 
 — p. 543 —
+****
 
 _A placer face à la page 284 de la deuxième édition_
 

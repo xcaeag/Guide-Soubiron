@@ -9,10 +9,9 @@ title: ONZIÈME EXCURSION
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
------------------------
 [//]: # (— p. 147 —)
 
-# ONZIÈME EXCURSION
+# ONZIÈME EXCURSION
 
 (N° 10 de la 1re édition)
 

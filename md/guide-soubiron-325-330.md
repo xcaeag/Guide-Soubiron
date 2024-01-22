@@ -11,7 +11,6 @@ output: pdf_document
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
------------------------
 [//]: # (— p. XX —)
 
 — p. 325 —
@@ -133,7 +132,7 @@ __Horaire de la Journée :__
 De Fronsac à la chapelle des Puts...... 1h.05 }
 De la chapelle à la fontaine d'Artalas. 2h.30 }   7h.45
 De la fontaine au Pic du Gars (1.757m). 1h. » }
-Du Gars (1.757m) au Gars (1.786m)...... Oh.10 } (Arrêts en sus).
+Du Gars (1.757m) au Gars (1.786m)...... Oh.10 } (Arrêts en sus).
 Du Gars à Juzet-d'Izaut................ 3h. » }
 ```
 

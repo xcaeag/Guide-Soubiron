@@ -11,7 +11,6 @@ output: pdf_document
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
------------------------
 [//]: # (— p. 393 —)
 
 # TRENTE ET UNIÈME EXCURSION
@@ -123,7 +122,7 @@ __Horaire de la Journée :__
 
 ``` 
 De Tarascon à Génat.................. 1h.45 }  7h.15
-De Génat au Querquèou................ 2h.45 } (Arrêts en sus)
+De Génat au Querquèou................ 2h.45 } (Arrêts en sus)
 Du Querquèou à Auzat................. 2h.45 }
 ```
 

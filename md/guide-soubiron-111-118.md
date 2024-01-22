@@ -9,7 +9,6 @@ title: HUITIÈME EXCURSION
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
------------------------
 [//]: # (— p. 111 —)
 
 # HUITIÈME EXCURSION
@@ -96,7 +95,7 @@ __Horaire de la Journée :__
 ``` 
 De Cauterets au Lac d'Estom................. 3h.39 }
 Du Lac d'Estom au Col d'Araillé............. 2h.50 }    8h.45
-Du Col d'Araillé aw Pic d'Araillé et retour. 1h.30 } (Arrêts en sus)
+Du Col d'Araillé aw Pic d'Araillé et retour. 1h.30 } (Arrêts en sus)
 Du Col d'Araillé au refuge d'Ossoue......... 1h.15 }
 ```
 

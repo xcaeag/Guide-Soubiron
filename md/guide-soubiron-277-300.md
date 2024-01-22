@@ -11,7 +11,6 @@ output: pdf_document
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
------------------------
 [//]: # (— p. 277 —)
 
 # VINGT et UNIÈME et VINGT-DEUXIÈME EXCURSIONS
@@ -237,7 +236,7 @@ __Horaire :__
 
 ```
 De Luchon à l'Hospice de France, 10 k. 500 de route. }
-De l'Hospice au Port de Venasque.............. 2h.45 } 6h. de marche
+De l'Hospice au Port de Venasque.............. 2h.45 } 6h. de marche
 Du Port au Sauvegarde, aller et retour........ 1h.15 } (Arrêts en sus).
 Du Port de Venasque à La Rencluse............. 2h. » }
 ```
@@ -696,7 +695,7 @@ __Horaire :__
 ```
 De l'Hospice de Viella à La Fourcanade... 4h.30 }
 De La Fourcanade au Col Alfred........... 1h. » }   9h.30
-Du Col Alfred au Moulières (all. et ret.) 1h.15 } (Arrêts en sus).
+Du Col Alfred au Moulières (all. et ret.) 1h.15 } (Arrêts en sus).
 Du Col Alfred à La Rencluse.............. 2h.45 }
 ```
 

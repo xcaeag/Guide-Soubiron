@@ -11,7 +11,6 @@ output: pdf_document
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
------------------------
 [//]: # (— p. 373 —)
 
 # VINGT-NEUVIÈME EXCURSION
@@ -194,7 +193,7 @@ Vogueira.
 __Horaire de la Journée :__
 
 ```
-Du Cirque de Cagateilles au Certescons.. 4h.45 }   9h. »
+Du Cirque de Cagateilles au Certescons.. 4h.45 }   9h. »
 Du Certescons à la cabane de Boahil..... 4h.15 } (Arrêts en sus).
 ```
 

@@ -9,10 +9,10 @@ title: SEPTIÈME EXCURSION
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
------------------------
 [//]: # (— p. 99 —)
 
-# SEPTIÈME EXCURSION
+
+# SEPTIÈME EXCURSION
 
 (N° 6 de la 1re édition)
 

@@ -9,7 +9,6 @@ title: TREIZIÈME EXCURSION
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
------------------------
 [//]: # (— p. 171 —)
 
 # TREIZIÈME EXCURSION

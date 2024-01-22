@@ -113,7 +113,7 @@ __Horaire de la Journée :__
 
 ```
 De Cauterets au Pont d'Espagne.......... 1h.30 de voiture }
-Du Pont d'Espagne au refuge du Marcadau. 2h.30            }   9h.15
+Du Pont d'Espagne au refuge du Marcadau. 2h.30            }   9h.15
 Du refuge du Marcadau au Col de la Fache.2h.30            }
 Du Col de la Fache à la (Grande Fache... 1h.15            } (Arrêts en sus).
 De la Grande Fache au refuge...........  3h. »            }
@@ -313,7 +313,7 @@ __Horaire de la Journée :__
 
 ```
 Du refuge de Marcadau à la digue d'Arra-         }
-   tille ................................ 1h.30  } 7h.30
+   tille ................................ 1h.30  } 7h.30
 De la digue d'Arratille au Pic de Cha-           }
    barrou................................ 2h.30  } (Arrêts en sus)
 Du Chabarrou au Lac de Gaube............. 3h.30  }

@@ -11,7 +11,6 @@ output: pdf_document
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
------------------------
 [//]: # (— p. 385 —)
 
 # TRENTIÈME EXCURSION
@@ -258,7 +257,7 @@ __Horaire de la Journée :__
 ```
 De Saurat au pont du Loumet.......... 1h. » }
 Du pont au Col de l'Estagnou......... 2h. » }
-Du Col à la Journalade............... 1h.30 }    9h. »
+Du Col à la Journalade............... 1h.30 }    9h. »
 De la Journalade au Cap de la Dosse.. 0h.30 } (Arrêts en sus).
 Du Cap de la Dosse à Bédeilhac........3h. » }
 De Bédeilhac à Tarascon.............. 1h. » }

@@ -9,7 +9,6 @@ title: NEUVIÈME EXCURSION
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
------------------------
 [//]: # (— p. 119 —)
 
 # NEUVIÈME EXCURSION
@@ -42,6 +41,7 @@ compagnons, on prendra aussi un porteur pour toute l'excursion.
 <div class="page"/>
 
 — p. 120 — MASSIF CALCAIRE (9me EXCURSION)
+****
 
 ![carte p120](../maps/guide-soubiron-0120-carte.jpg)
 
@@ -439,7 +439,7 @@ __Horaire de la dournée :__
 
 ```
 De Tuquerouye au Col du Mont Perdu... 3h. » }    9h.30
-Du Col au sommet du Mont Perdu....... 1h.30 } (Arrêts en sus)
+Du Col au sommet du Mont Perdu....... 1h.30 } (Arrêts en sus)
 Du Mont Perdu à Ordesa............... 5h. » }
 ```
 

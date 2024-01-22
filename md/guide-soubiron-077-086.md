@@ -4,13 +4,10 @@ abstract: LES PYRÉNÉES
     En 40 Excursions
 title: CINQUIÈME EXCURSION
     Quatre jours aux environs de Cauterets
-output: pdf_document 
 ---
 
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
-
-<div class="page"/>
 
 [//]: # (— p. 77 —)
 
@@ -46,8 +43,6 @@ d'eaux.
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
 <div class="page"/>
-
-— p. 78 — 5° EXCURSION
 
 ![carte p78](../maps/guide-soubiron-0078-carte.jpg)
 

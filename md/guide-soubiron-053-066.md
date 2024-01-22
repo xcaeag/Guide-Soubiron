@@ -591,7 +591,7 @@ depuis le Viscos jusqu'au Ger de Lourdes.
 __Horaire de la Journée :__
 
 ```
-D'Arrens au Pic de Bazès............... 3h.30 }    9h.30
+D'Arrens au Pic de Bazès............... 3h.30 }    9h.30
 Du Pic de Bazès au Soum de Granquet.... 2h.50 } (Arrêts en sus)
 Du Soum de Granquet à Argelès.......... 3h.10 } 
 ```
