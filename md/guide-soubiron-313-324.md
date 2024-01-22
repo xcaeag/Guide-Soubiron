@@ -162,7 +162,7 @@ bon résultat de la journée.
 __Horaire de la Journée :__
 
 ```
-De Viella au Port.................. . 3h.45 }   5h.30
+De Viella au Port.................... 3h.45 }   5h.30
 Du Port à l'Hospice.................. 1h.45 } (Arrêts en sus).
 ```
 
@@ -308,11 +308,11 @@ __Horaire de la Journée :__
 De l'Hospice au grand Lac de Bécibéri... 2h.15 }
 Du Lac de Bécibéri au Col des Abellanés. 3h. » }
 Du Col des Abellanés au Bécibéri S...... 0h.20 }
-Du Bécibéri S. au Comolo Forno....... .. 0h.30 }   10h. »
+Du Bécibéri S. au Comolo Forno.......... 0h.30 }   10h. »
 Du Comolo Forno au Lac de Los Caballe-         }
   ros................................... 2h.40 } (Arrêts en sus).
 Du Lac de Los Caballeros à Caldas de           }
-  Bohi. ................................ 1h.15 }
+  Bohi.................................. 1h.15 }
 ```
 
 ## TROISIÈME JOURNÉE

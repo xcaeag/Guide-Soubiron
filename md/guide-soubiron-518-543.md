@@ -493,7 +493,7 @@ Baulou (roc de)............. 450 │ Bonascre (plateau de)........ 451
                            pages                               pages
 Boo-Silhen .................. 71 │ Bourg-Madame....... 481, 486, 489
 Bordes-sur-Lez ............. 347 │ Bout de Touroum.............. 388
-Bordette (La) .............. 273 │ Braca d’Azuns (forêt de)...... 27
+Bordette (La) .............. 273 │ Braca d'Azuns (forêt de)...... 27
 Bosost ................ 273, 274 │ Braque (Hourquette) ......... 177
 Boucacers (col de).......... 513 │ Brèche de Roland........ 129, 131
 Boucharo (port de).......... 131 │ Brilles (col de)............. 503
@@ -504,7 +504,7 @@ Bouirech (cap de)...... 347, 348 │ Bugaret (Hourquette et lac
 Boum (lacs de).............. 246 │   de) ....................... 150
 Boum (pic de)............ 7h 272 │ Bugaret (pic de)........ 153, 154
 Bourdious (granges de)...... 276 │ Burat (pic de)............... 227
-Bourg-d’Oueil............... 233 │ Burbe (vallon de)....... 242, 244
+Bourg-d'Oueil............... 233 │ Burbe (vallon de)....... 242, 244
 
 ===============================  C  ================================
 Cabaliros ............... 77, 83 │ Campbieil (Hourquette de)
@@ -555,7 +555,7 @@ Cap-de-Long (gourg glacé         │ Chermentas (Hourquette de)... 138
 Cap de Ruhos................ 371 │ Chiroulel ................... 168
 Cap des Arraspès............ 256 │ Cier-de-Luchon ......... 262, 264
 Cap Latus .................. 122 │ Cime des Cums................ 513
-Capounta ......... 397, 399, 425 │ Cinqueta d’Aygues-Cruses.
+Capounta ......... 397, 399, 425 │ Cinqueta d'Aygues-Cruses.
 Carança (col de).. 493, 495, 507 │                          196, 210
 Carança (lacs de) .......... 496 │ Cinqueta de la Pez........... 209
 Carança (vallée et gorges        │ Cirères (rio et vallon de)... 360
@@ -623,27 +623,27 @@ Coumebère (plateau de)...... 383 │ Croquié ................ 391, 392
 Coume de Bassibès...... 499, 500 │ Crouhens ............... 187, 231
 Coume de Bourg......... 234, 257 │ Cruz (Pla et orrys de la).
 Coume de Fréser............. 509 │                         413 à 418
-Coume de l’Abesque (lac de       │ Cuanca (hameau de).......... 368,
+Coume de l'Abesque (lac de       │ Cuanca (hameau de).......... 368,
   la) ............ 213, 223, 268 │                          370, 371
 Coume de l'Enfer............ 496 │ Cueva de las Palomas......... 104
-Coume d’Or (pic de la)...... 477 │ Cugnérède (col de)........... 189
-Coume d’Ose (col, pic et lac     │ Culaous (refuge de)..... 116, 117
+Coume d'Or (pic de la)...... 477 │ Cugnérède (col de)........... 189
+Coume d'Ose (col, pic et lac     │ Culaous (refuge de)..... 116, 117
   de la) .............. 442, 443 │ Culaous (colet pic de).. 116, 118
 Coume Mitzane .............. 496 │ Culet (le) .................. 246
 Coume de Pourteille ........ 175 │ Cylindre (col du)............ 125
 Coume de Seignac....... 442, 444 │ Cylindre du Marboré..... 123, 125
-Coume de Pignou (pic de la)  385 │ Cylindre d’Ascobes .......... 435
+Coume de Pignou (pic de la)  385 │ Cylindre d'Ascobes .......... 435
 
 ===============================  D  ================================
 Darré Spumous (cabane │ Dôme (le) ................... 310
   de) ...................... 101 │ Donya (pic de la) ........... 499
-Dent d’Albe (la)....... 292, 295 │ Dorria (pic de).............. 490
-Dent d’Orlu ........... 461, 462 │ Durier (brèche) ............. 516
+Dent d'Albe (la)....... 292, 295 │ Dorria (pic de).............. 490
+Dent d'Orlu ........... 461, 462 │ Durier (brèche) ............. 516
 
 ===============================  E  ================================
-Eaux-Bonnes (Les).... 39, 48, 51 │ Echez (ruisseau d’)........... 74
+Eaux-Bonnes (Les).... 39, 48, 51 │ Echez (ruisseau d')........... 74
 Eaux-Chaudes (Les).......... 23, │ Elysée Cottin (l')........... 164
-                      36, 39, 41 │ Embalire (vallée d’)......... 484
+                      36, 39, 41 │ Embalire (vallée d')......... 484
 ```
 
 <div class="page"/>
@@ -652,42 +652,42 @@ Eaux-Chaudes (Les).......... 23, │ Elysée Cottin (l')........... 164
 
 ```
                            pages                               pages
-En-Beys (lac d’)............ 455 │ Esquiou (col d’)............. 164
-                        459, 473 │ Estaëès (lac d’).......... 29, 31
-En-Beys (refuge d’)........ 458, │ Estagnou (col de l')......... 389
+En-Beys (lac d')............ 455 │ Esquiou (col d')............. 164
+                        459, 473 │ Estaëès (lac d').......... 29, 31
+En-Beys (refuge d')........ 458, │ Estagnou (col de l')......... 389
                         471, 473 │ Estagnous (refuge des)....... 365
-Encantados (Los) ...... 337, 339 │ Estaing (lac d’).............. 84
-Endron (pic d’)............. 425 │ Estan del Mar (l')........... 322
-Enfer (cascade d’)..... 218, 271 │ Estanyo (pic de l’)..... 429, 430
-Enfer (gouffre d’)..... 218, 271 │ Estaragne (ruisseau et val-
-Enfer (pic d’)......... 106, 107 │   lon d') ................... 142
-Enfer (rue d’)........ 215, 217, │ Estats (pique et port d’).
+Encantados (Los) ...... 337, 339 │ Estaing (lac d').............. 84
+Endron (pic d')............. 425 │ Estan del Mar (l')........... 322
+Enfer (cascade d')..... 218, 271 │ Estanyo (pic de l')..... 429, 430
+Enfer (gouffre d')..... 218, 271 │ Estaragne (ruisseau et val-
+Enfer (pic d')......... 106, 107 │   lon d') ................... 142
+Enfer (rue d')........ 215, 217, │ Estats (pique et port d').
                         257, 259 │                          406, 407
-Enfer (coume et pic de l')...... │ Estaubé (cirque d’).......... 122
+Enfer (coume et pic de l')...... │ Estaubé (cirque d').......... 122
                         493, 496 │ Estellades (forêt des)....... 468
 Entécade (pic de l')........ 273 │ Estibaoude (pic et lacs d').
 Epaule du Marboré........... 131 │                        94, 96, 97
-Eroueil (lacs et vallon d'). 306 │ Estibat (pic d’)............. 389
-Erp (vill. d’).............. 343 │ Estillon (pont d’)........... 375
-Err (vallée d’)............. 490 │ Estom (lac et hôtellerie d’).
+Eroueil (lacs et vallon d'). 306 │ Estibat (pic d')............. 389
+Erp (vill. d').............. 343 │ Estillon (pont d')........... 375
+Err (vallée d')............. 490 │ Estom (lac et hôtellerie d').
 Esbints (vallée d')......... 348 │                          111, 116
-Escalette (pas de 1’).. 247, 311 │ Estom Soubiran (col et lacs
+Escalette (pas de 1').. 247, 311 │ Estom Soubiran (col et lacs
 Escalette (pic de l').. 311, 312 │   d')................... 113, 115
-Escorce (vallon d’)......... 375 │ Estrem de Salles (vallée d').
-Escoubous (lac d’).......... 149 │                            64, 66
+Escorce (vallon d')......... 375 │ Estrem de Salles (vallée d').
+Escoubous (lac d').......... 149 │                            64, 66
 Eséra (vallée de l')........ 281 │ Etang Blanc ................. 431
 Espades (pic de las)........ 211 │ Etang Bleu .................. 464
-Espade (som de l').......... 175 │ Etang Faury (pic de l’)..
-Esparbé (lac d’)............ 475 │                          471, 472
-Espelunguère (vallon d’)..... 30 │ Etang Liat .................. 356
-Espiaup (montagne d’).  253, 256 │ Etang Noir .................. 464
-Espingo (cabane et lac d’).      │ Etang Rebenty (pic de │').
+Espade (som de l').......... 175 │ Etang Faury (pic de l')..
+Esparbé (lac d')............ 475 │                          471, 472
+Espelunguère (vallon d')..... 30 │ Etang Liat .................. 356
+Espiaup (montagne d').  253, 256 │ Etang Noir .................. 464
+Espingo (cabane et lac d').      │ Etang Rebenty (pic de │').
     212, 215, 222, 224, 234, 249 │                          449, 452
-Espingo (col d’)............ 249 │ Etang Tort .................. 466
-Espingo (refuge d’)........ 212, │ Eychounzé (vallon d’)........ 459
+Espingo (col d')............ 249 │ Etang Tort .................. 466
+Espingo (refuge d')........ 212, │ Eychounzé (vallon d')........ 459
          214, 215, 222, 224, 267 │ Eylie ....................... 350
-Esquierry (vallon d’).  251, 253 │ Eyne (vill. et vallée d').... 507
-Esquino-d’Azé (crête de 1).  499 │ Eyne (pic d’)................ 508
+Esquierry (vallon d').  251, 253 │ Eyne (vill. et vallée d').... 507
+Esquino-d'Azé (crête de 1).  499 │ Eyne (pic d')................ 508
 
 ===============================  F  ================================
 Fabian (pont et vill. de).       │ Féchan (pic)................. 289
@@ -716,9 +716,9 @@ Font-Nègre (cirque, lac et       │ Fourcat (le mont)....... 391, 392
 Font-Nègre (port de)........ 483 │ Fourcat (port et refuge. du). 418
 Fontpédrouse .......... 492, 501 │ Framiquel (port de).......... 482
 Font-Romeu ............ 502, 504 │ Frèche (vallon de la)... 247, 248
-Font-Vive (pic et lac de).       │ Fréchet d’Aure .............. 187
+Font-Vive (pic et lac de).       │ Fréchet d'Aure .............. 187
                         479, 481 │ Frédancon (granges de),
-Forges d’Ascou ............. 462 │                          207, 208
+Forges d'Ascou ............. 462 │                          207, 208
 Fos ................... 274, 276 │ Fréser (pic de).............. 493
 Fosse du Géant (pic de           │ Frondella (glacier de la).... 103
   La) ................. 403, 494 │ Fronsac ..................... 325
@@ -745,7 +745,7 @@ Garin (moraine de)..... 253, 254 │ Gez .................. 66, 69, 71
 Garin (vill. de)....... 253, 254 │ Gias (ruisseau et lacs de)... 212
 Garmo-Négro (massif et lac       │ Gimbre (col de).............. 189
 de) ........................ 105 │ Girabal (col de)............. 468
-Gars (pic du)........t.. 325, 327 │ Glère (cirque de la)......... 300
+Gars (pic du)........... 325, 327 │ Glère (cirque de la)......... 300
 Garseing (cabanes de).. 438, 442 │ Glère (fontaine et port de
 Gaube (lac et vallée de). 92, 95 │   la)........................ 299
 Gaudu (jasse de)............ 457 │ Gniouré (vallée de).......... 427
@@ -761,7 +761,7 @@ Gavarnie ......... 119, 121, 129 │ Goueil de Jouèou............. 283
 
 ```
                            pages                               pages
-Gouffre d’Enfer ............ 218 │ Gra de Fajol (pic del).  493, 497
+Gouffre d'Enfer ............ 218 │ Gra de Fajol (pic del).  493, 497
 Gouffre de Maleplatte....... 300 │ Grail (col de)........... 399, 40
 Goulier ..... 399, 420, 422, 425 │ Granquet (soum de)........ 53, 65
 Goupey (V. pic de Cézy)...... 50 │ Graouès (cirque des)......... 299
@@ -789,18 +789,18 @@ Hermittans (massif des).         │ Hourcadère (fontaine de)..... 189
                         220, 222 │ Hourgade (pic et lac de).
 Herran (prairies de)........ 239 │                201, 203, 251, 252
 Hille de la Laouzo (la)..... 379 │ Hourquette Braque ........... 177
-Hille de l’Etang (la)....... 379 │ Hourquette d’Allans..... 121, 122
-Homme (cabane de l’...)..... 279 │ Hourquette d’Arreau ......... 180
+Hille de l'Etang (la)....... 379 │ Hourquette d'Allans..... 121, 122
+Homme (cabane de l'...)..... 279 │ Hourquette d'Arreau ......... 180
 Homme (pic de lP)........... 357 │ Hourquette de Campbieil.
 Hospice de France...... 245, 279 │                          137, 138
-Hospice de Rioumajou... 207, 209 │ Hourquette d’Ossoue ......... 113
+Hospice de Rioumajou... 207, 209 │ Hourquette d'Ossoue ......... 113
 Hospice de Venasque......... 298 │
 
 ===============================  I  ================================
 Ilhan ................. 181, 184 │ Isards (col des)............. 131
 Ihèou (col d')............... 85 │ Ise (vallée de P)....... 155, 157
-Ihèou (torrent et lac d’).       │ Iseye (col d’)................ 41
-                         77,  85 │ Izaby (lac d’).......... 157, 159
+Ihèou (torrent et lac d').       │ Iseye (col d')................ 41
+                         77,  85 │ Izaby (lac d').......... 157, 159
 Iller-Larramade ............ 396 │ Izard (vallée de l').... 350, 355
 Irazem ..................... 392 │ Izourt (étang d')....... 397, 408
 
@@ -818,7 +818,7 @@ Joucla (étangs andorrans         │ Journalade (pic de la)....... 388
   de) ...................... 441 │ Joux (col de)................ 453
 Joucla (étangs français de ) 441 │ Jurvielle ................... 253
 Joucla (pic noir de). — V.       │ Juzet de Luchon.............. 227
-  Pic Noir ............ 438, 441 │ Juzet d’Izaut........... 325, 328
+  Pic Noir ............ 438, 441 │ Juzet d'Izaut........... 325, 328
 Joucla (pic Sud de)......... 437 │
 
 ===============================  L  ================================
@@ -831,14 +831,14 @@ Labinas (orry du)...... 413, 418 │ Larramade .............. 432, 448
 Lac Bleu de Bagnères........ 168 │ Larrech (col de)........ 347, 349
 Lac Cantet ................. 118 │ Larry (vallon et col de).. 32, 33
 Lac Casdabat ............... 118 │ Larry (pic de)............ 32, 34
-Lac d’Araing........... 350, 355 │ Laruns ................... 53, 55
+Lac d'Araing........... 350, 355 │ Laruns ................... 53, 55
 Lac de Comte........... 449, 452 │ Las Aoueillèros (soum de).
 Lac de Laquès............... 118 │                            77, 81
 Lac de Naguilles....... 459, 460 │ Las Bordas ............. 315, 323
-Lac d’En-Beys..... 455, 459, 473 │ Las Clotos (lac de).......... 334
+Lac d'En-Beys..... 455, 459, 473 │ Las Clotos (lac de).......... 334
 Lac d'Oô............... 238, 249 │ Lasqueille (signal de)....... 482
-Lac d’Ourec ................ 169 │ Lassas (ruisseau, vallon de). 144
-Lac Grand d’Ardiden......... 118 │ Lassole (étang de)........... 322
+Lac d'Ourec ................ 169 │ Lassas (ruisseau, vallon de). 144
+Lac Grand d'Ardiden......... 118 │ Lassole (étang de)........... 322
 Lac Hourat ................. 118 │ Las Touétos (défilé, étang
 Lac Major .................. 334 │     de) ..................... 379
 Lac Nère ................... 108 │ Latour (brèche) ............. 102
@@ -902,7 +902,7 @@ Madres (massif de)......... 474, │             }  Tour du....... 131
                         500, 502 │ Marcadau (refuge du). 89,
 Magnabatch (vallon de)....... 36 │                 92, 101, 106. 108
 Mail Barrat (le)....... 272, 299 │ Marcadau (port du)...... 106, 107
-Mail de Criq........... 238, 241 │ Marc d’Auzat ................ 403
+Mail de Criq........... 238, 241 │ Marc d'Auzat ................ 403
 Maladetta (la) ............. 292 │ Mare de Deu (bois de la)..... 493
 Malcaras (pic de)........... 408 │ Margalida (rio et vallon de)  275
 Malibierne (lacs et col de). 304 │ Marignac (gorge et vill. de).
@@ -920,7 +920,7 @@ Marboré (le) .......... 123, 125 │   de)........................ 359
 Marimaña (col et pics de)... 359 │ Montarrouye (col de).. 215,
 Mariola (lac de)............ 369 │                          216, 267
 Marrana (col de la)..493,        │ Montarrouye (pic de).... 222, 225
-                        497, 507 │ Montarto d’Aran (le).... 321, 322
+                        497, 507 │ Montarto d'Aran (le).... 321, 322
 Marraout (col de)........... 156 │ Montaspet (le) ......... 189, 190
 Marterat (port de).......... 371 │ Montauban de Luchon ......... 238
 Mas Pitot .................. 513 │ Montbéas (tuc de)............ 382
@@ -937,7 +937,7 @@ Mauléon- Barousse. 187, 189, 231 │ Montlouis ......... 499, 502, 507
 Maupas (glacier du)......... 271 │ Montlude (pic de)....... 274, 275
 Maupas (Tusse de)........... 271 │ Montmajou ................... 264
 Mayrègne ................... 233 │ Montmija (granges de)... 461, 463
-Mazères .................... 189 │ Montné d’Aspin (le)..... 184, 186
+Mazères .................... 189 │ Montné d'Aspin (le)..... 184, 186
 Méchant (pic) ......... 140, 141 │ Montné de Bigorre (le).. 163, 164
 Médacourbe (port et pic de)  415 │ Montné de Cauterets (le).
 Médacourbe (lac de)......... 417 │                            71, 83
@@ -948,7 +948,7 @@ Mercus ................ 391, 392 │ Mont Perdu (le)......... 126, 127
 Mérens............ 449, 469, 471 │ Mont Perdu (col du).......... 126
 Midi de Bagnères (pic de)        │ Montréjeau .................. 185
                         173, 174 │ Mont Rouch (pics de).... 368, 369
-Midi d’Ossau (pic de).... 36, 37 │ Monts-Maudits (les)..... 277, 301
+Midi d'Ossau (pic de).... 36, 37 │ Monts-Maudits (les)..... 277, 301
 Midi de Siguer (pic de)......... │ Montvalier (le) ............. 365
                         446, 448 │ Montvalier (refuge du)....... 365
 Millères (col de)........... 515 │ Mort de Lescoula (le)........ 511
@@ -990,21 +990,21 @@ Néthou (le) ........... 308, 310 │ Nuria (col de)............... 507
 Néthou (glacier du).... 308, 309 │
 
 ===============================  O  ================================
-Olbier (bède d’)....... 397, 420 │ Orgeix (vallée d’)........... 453
-Olbier (vill. d')........... 399 │ Oriège (vallée de l’)... 455, 457
-Olibon (cirque d’)....... 29, 31 │ Orle (sentier du port d’).... 358
-Omex ........................ 69 │ Orlu (Dent d’)............... 461
-Oncet (col et lac d’)....... 170 │ Orlu (forges d’)........ 456, 459
-Oô (port et lac d’).... 234,     │ Orus.................... 395, 396
-                        238, 250 │ Osseja (vill. et vallée d’).. 489
-Oô (lac glacé du port d’).       │ Ossèze (cascade d’).......... 372
+Olbier (bède d')....... 397, 420 │ Orgeix (vallée d')........... 453
+Olbier (vill. d')........... 399 │ Oriège (vallée de l')... 455, 457
+Olibon (cirque d')....... 29, 31 │ Orle (sentier du port d').... 358
+Omex ........................ 69 │ Orlu (Dent d')............... 461
+Oncet (col et lac d')....... 170 │ Orlu (forges d')........ 456, 459
+Oô (port et lac d').... 234,     │ Orus.................... 395, 396
+                        238, 250 │ Osseja (vill. et vallée d').. 489
+Oô (lac glacé du port d').       │ Ossèze (cascade d').......... 372
                         212, 213 │ Ossoue (hourquette et re-
 Oô (vill. d').......... 251, 253 │   fuge d') ............. 111, 113
-Ordesa (casas et rio d').   126, │ Oueil (vallée d’)....... 231, 233
+Ordesa (casas et rio d').   126, │ Oueil (vallée d')....... 231, 233
                         128, 129 │ Oule de Couplan (l')......... 142
-Ordincède (cabanes d’). 165, 167 │ Oulettes de Gaube............ 114
-Ordino ..................... 429 │ Ourdissettou (ruisseau d’)... 195
-Orédon. (lac et chalet d’).      │ Ourse (l').............. 189, 231
+Ordincède (cabanes d'). 165, 167 │ Oulettes de Gaube............ 114
+Ordino ..................... 429 │ Ourdissettou (ruisseau d')... 195
+Orédon. (lac et chalet d').      │ Ourse (l').............. 189, 231
               140, 142, 149, 150 │ Oussade (étang de la)........ 409
 Orgeix ................ 453, 455 │ Oust ........................ 343
 
@@ -1029,12 +1029,12 @@ Pas de la Balme............. 366 │ Pez (port de la)............. 221
 Pas de la Casa......... 481, 482 │ Pibeste (le).............. 69, 70
 Pas de la Mounjoye.......... 248 │ Picade (port de la)..... 245, 311
 Pas de las Aygues (pic du).      │ Pica de Bonabé ......... 358, 360
-                        446, 447 │ Pic Nègre d’Embalire.... 481, 484
-Pas de l’Escalette.......... 247 │ Pic Noir ou Pic Gourdon.
-Pas de l’Escalier...... 446, 447 │                          222, 223
+                        446, 447 │ Pic Nègre d'Embalire.... 481, 484
+Pas de l'Escalette.......... 247 │ Pic Noir ou Pic Gourdon.
+Pas de l'Escalier...... 446, 447 │                          222, 223
 Pas de Mahomet......... 308, 310 │ Pic Noir de Joucla...... 438, 441
 Pas de la Pourtanelle....... 401 │ Pico de Laou................. 380
-Pas de l’Ours............... 467 │ Picou du ...Calmil........... 385
+Pas de l'Ours............... 467 │ Picou du ...Calmil........... 385
 Pas dels Lladres............ 489 │ Picou de Ganac............... 387
 Pas de Vernaux.............. 391 │ Pic Pierre Soubiron..... 283, 
 Pas de Villamos........ 273, 274 │                          286, 287
@@ -1043,7 +1043,7 @@ Pas du Chat du Lléris....... 167 │ Pierrefitte (col de).... 152, 155
 Paso del Oso........... 102, 103 │ Pierrefitte (port de)........ 256
 Paso de los Caballos........ 196 │ Piméné (le...).......... 121, 122
 Passadéras (étang de las)... 483 │ Pinara (vallon de)........... 194
-Paül (glacier et col de).... 212 │ Pique d’Estats (la)..... 405, 406
+Paül (glacier et col de).... 212 │ Pique d'Estats (la)..... 405, 406
 Pauseplane (lac glacé de)... 408 │ Pique Rouge (la)............. 473
 Pecico de la Canal (lacs         │ Pique Rouge de la Souca- 
   del) ..................... 107 │   ranne (la) ................ 414
@@ -1062,7 +1062,7 @@ Pène-Mélère (tourettes de).. 241 │ Pla du Carla................. 407
 Pène Nère (le)........... 77, 80 │ Pla Guillem ................. 513
 Pérafeu (métairie de)....... 512 │ Pla Subra ................... 405
 Perche (signal de la)....... 507 │ Planalarga (cabane de)....... 303
-Perdighero (pic de).... 268, 269 │ Plan d’Aragnouet ....... 137, 140
+Perdighero (pic de).... 268, 269 │ Plan d'Aragnouet ....... 137, 140
 Perdiu (col de la)..... 514, 516 │ Plan (port du)............... 209
 Pessons (cirque dels)....... 484 │ Plan des Aguailluts.......... 284
 Petches (hameau de)......... 453 │ Plan des Etangs.............. 298
@@ -1081,13 +1081,13 @@ Peyrot (pics)............... 426 │ Pont Beauregard ............. 207
 
 ```
                            pages                               pages
-Pont d’Arnet ............... 465 │ Posets (le) ............ 211, 212
+Pont d'Arnet ............... 465 │ Posets (le) ............ 211, 212
 Pont de Betsou.............. 453 │ Pouchergues (lac de)......... 197
 Pont de Bisp................ 456 │ Pouey-Caou (pont de).......... 98
 Pont de la Peña ....... 367, 369 │ Poueytrémous (brèche de)...... 93
 Pont de la Soula............. 72 │ Poujastou (le) ......... 238, 239
 Pont de la Taule............ 361 │ Pourtanech des Mulats........ 368
-Pont d’Espagne .............. 89 │ Pourtère de l’Ardiden........ 118
+Pont d'Espagne .............. 89 │ Pourtère de l'Ardiden........ 118
 Pont de Sebers............... 45 │ Pourtet (lac du)............. 108
 Pont des Espagnols.......... 107 │ Pouylané (col de)............ 273
 Pont du Roi....... 274, 276, 315 │ Pouylouby (soum de)..... 253, 254
@@ -1095,29 +1095,29 @@ Pont Jean-Louis ............ 462 │ Pouymourou (col et pic de)
 Pont Napoléon .............. 135 │                          113, 115
 Pont Sainte-Suzanne ........ 435 │ Prade de Saint-Jean (la)..... 130
 Pont Séjourné .............. 502 │ Prades ................. 515, 517
-Pont Soubiron .............. 207 │ Pradets (pic d’ets).......... 156
+Pont Soubiron .............. 207 │ Pradets (pic d'ets).......... 156
 Porta ...................... 486 │ Pradières (pla de)........... 397
-Portalet (fort du)........... 45 │ Prat d’Albis ................ 358
+Portalet (fort du)........... 45 │ Prat d'Albis ................ 358
 Portarras (pic de).......... 177 │ Prat de Bassibès (pic de).... 498
 Portarron d'Espot .......... 336 │ Pratlong (refuge de)...  259,
 Port Bieil (crête de).  176, 177 │                          268, 271
 Port Bieil (lac de)......... 299 │ Prats-Balaguer (vallée de)... 494
 Port Bieil (pic de)......... 177 │ Prats-de-Mollo .............. 512
 Port de Pinède.............. 122 │ Preste (bains de la).... 509, 513
-Port d’Oô (pic du)..... 212, 213 │ Prigue (pics de)........ 473, 474
+Port d'Oô (pic du)..... 212, 213 │ Prigue (pics de)........ 473, 474
 Porté ................. 479, 481 │ Puig Barbet (le)............. 515
-Porte d’Enfer .............. 204 │ Puigcerda .............. 489, 491
+Porte d'Enfer .............. 204 │ Puigcerda .............. 489, 491
 Portes de Fer.......... 163, 164 │ Puigmal (le) ........... 489, 491
-Porteille Blanche d’Andorre  483 │ Puig-Péric. — V. Prigue...... 474
+Porteille Blanche d'Andorre  483 │ Puig-Péric. — V. Prigue...... 474
 Porteille d'Espagne ........ 473 │ Pujol (jasse et orrys de)
-Porteille de l’Etang Tort... 471 │                          403, 405
+Porteille de l'Etang Tort... 471 │                          403, 405
 Porteille de Mantet.... 500, 510 │ Pundillos (vallon, plateau
 Porteille de Maranges....... 485 │   de) .................. 104, 105
 Porteille de Morens.... 509, 510 │ Pundillos (col, cirque, lacs 
-porteille d’Orlu ...... 454, 463 │   de) ....................... 106
+porteille d'Orlu ...... 454, 463 │   de) ....................... 106
 Portillon de Burbe ......... 211 │ Punta Fulsa ............ 195, 196
 Portillon (crête du)........ 309 │ Punta del Sabre (la)......... 200
-Portillon d’En-haut ........ 309 │ Punta Suelsa ........... 195, 196
+Portillon d'En-haut ........ 309 │ Punta Suelsa ........... 195, 196
 Portillon d'En-bas .... 298, 310 │ Punta de Zarre............... 107
 Portillon (lac glacé du).... 268 │ Puymorens (col de)...... 481, 482
 Port-Vieux (le) ............ 193 │ Py (col de).................. 188
@@ -1165,7 +1165,7 @@ Riberot (vallée du)......... 365 │ Roya-de-Mollas (la) ......... 368
 Rio-Bueno (lacs de).... 283, 288 │ Royo de Luchon (pic)......... 268
 Rio Fréser ................. 509 │ Ruda (Garonne de)............ 339
 Rio-Malo (pleta de)......... 319 │ Ruda (vallée de)............. 338
-Rio Ter .................... 498 │ Rue d’Enfer (la)... 217, 257, 261
+Rio Ter .................... 498 │ Rue d'Enfer (la)... 217, 257, 261
 Rios (lacs de).............. 322 │ Rulle (pic de)............... 438
 Riou (col de)............ 77, 80 │ Russell (refuge) ............ 116
 Rioufred (col de)........... 406 │ Russell (pic) ............... 302
@@ -1190,7 +1190,7 @@ Saint-Barnabé (chapelle de). 490 │                          335, 336
 ```
                            pages                               pages
 Saint-Pastous ............... 11 │ Sem .................... 399, 400
-Saint-Paul-d’Oueil ......... 262 │ Sencours (col et Hôtellerie
+Saint-Paul-d'Oueil ......... 262 │ Sencours (col et Hôtellerie
 Saint-Pierre-de-Soulan. 343, 346 │   de) ....................... 173
 Saint-Sauveur (H.-P.)....... 135 │ Sengouagnet ................. 328
 Saint-Sauveur (P.-O.)....... 513 │ Sentein....... 339, 342, 347,
@@ -1199,7 +1199,7 @@ Salabe (vallée de la)....... 188 │ Sentenac .................... 347
 Salardu...... 333, 334, 338, 339 │ Sept-Hommes (pic de)......... 514
 Salarus (gorge et corniche       │ Sère ..................... 69, 70
   du)                        129 │ Serrat (le)... 427, 428, 429, 431
-Salat (vallée du)........... 362 │ Serre-de-l’Artigue (la) ..... 490
+Salat (vallée du)........... 362 │ Serre-de-l'Artigue (la) ..... 490
 Salau (port et vill. de).... 361 │ Serre Galinière (pic de)..... 500
 Saldeu ................ 481, 484 │ Serre Mourène (pic de).. 135, 136
 Saleix (port de)....... 382, 383 │ Serrère (pic de)........ 429, 430
@@ -1215,7 +1215,7 @@ San Mauricio (lac de).. 336, 338 │ Sierra de Montech (la)....... 414
 Santédan (col de)........... 254 │ Siguer (port, vallée, vill.
 Santète (la) ............... 231 │   de) ............. 431, 446, 448
 Saousat (lac) .... 213, 223, 268 │ Sirbal (pont et vallon de)... 446
-Saquet ou Tuto de l’Ours........ │ Sisca (vallon et refuge du).
+Saquet ou Tuto de l'Ours........ │ Sisca (vallon et refuge du).
   (le)...................... 449 │                          433, 435
 Sarnès (cabane de).......... 226 │ Sisca (cirque du).. 433, 435, 437
 Sarnès (col de)........ 215, 216 │ Sisca (étang du)............. 437
@@ -1252,7 +1252,7 @@ Soum de Menvieille..... 181, 183 │ Subescale (crête de)......... 258
 Souno (pic de).............. 377 │ Suc et Sentenac.............. 401
 Sounou (lacs et port de)........ │ Suelsa (Punta) ......... 195, 196
                         377, 379 │ Sullo (pic de)............... 407
-Sources de l’Ariège......... 481 │ Sullo ou d’Estat (port de)... 407
+Sources de l'Ariège......... 481 │ Sullo ou d'Estat (port de)... 407
 Sources de la Garonne....... 333 │ Superbagnères .......... 234,
 Sources du Fréser........... 507 │                          257, 267
 Sources du Tech............. 912 │ Surt (col del)..............  453
@@ -1278,19 +1278,19 @@ Thuès-entre-Valls ..... 499, 501 │ Tuc de la Tuménéja........... 321
 Tirapitz (crête de)......... 509 │ Tuc des Crabes............... 311
 Toran (val de)......... 274, 276 │ Tuc des Monges............... 115
 Tosa (la).............. 489, 490 │ Tuc det Bouc................. 356
-Tose de l’Albe (la)......... 438 │ Tucou (le) .................. 163
+Tose de l'Albe (la)......... 438 │ Tucou (le) .................. 163
 Tour d'Eyne ................ 508 │ Tuquerouye (couloir de)...... 122 
 Tour du Marboré ............ 131 │ Tuquerouye (borne de)..... 
 Tourettes de Pène-Mélère.        │                          121, 122
                         238, 241 │ Tuquerouye (refuge de)...
 Tourmalet (le) ........ 171, 174 │                     121, 123, 126
-Touroum d’Arse (étang de)... 379 │ Turenne (pointe de).......... 130
+Touroum d'Arse (étang de)... 379 │ Turenne (pointe de).......... 130
 Tramezaygues (vill. de)..... 145 │ Turgulla (pic de)....... 377, 379
 Tramezaygues (pont de) ..... 221 │ Turmes (cabanes de)..... 211, 212
 Traouc del Rat (brèche du).. 335 │ Turon de la Courade (le)..... 130
 Trèdos (bains de) .......... 334 │ Tusse de Maupas.............. 271
 Trégon (cascade de)......... 260 │ Tusse de Montarqué...... 222, 223
-Treize Vents (pic de)....... 516 │ Tuto de l’Ours (V. Saquet)... 451
+Treize Vents (pic de)....... 516 │ Tuto de l'Ours (V. Saquet)... 451
 Trimounts (carrières de).... 465 │
 ```
 

@@ -579,7 +579,7 @@ conduisent directement aux Eaux-Bonnes (1).
 __Horaire de la Journée :__
 
 ```
-De Gabas au Col de Lurdé..:............ 3h.45 }
+De Gabas au Col de Lurdé............... 3h.45 }
 Du Col de Lurdé au Pic de Cézy......... 0h.45 }   7h.45
 Du Pic de Cézy au Col de Lurdé......... 0h.30 } (Arrêts en sus).
 Du Col de Lurdé aux Eaux-Bonnes........ 2h.45 }

@@ -158,7 +158,7 @@ pour constituer un passage idéal qu'on appelle le Pountet.
 __Horaire de la Journée :__
 
 ``` 
-D'Auzat à l'Orry du Labinas........... . 5h. » }
+D'Auzat à l'Orry du Labinas............. 5h. » }
 De l'Orry du Labinas au Port de Bouet... 2h.10 }    10h.45
 Du Port de Bouet à la Soucaranne........ 1h.20 }  (Arrêts en sus)
 De la Soucaranne à l'Orry du Labinas.... 2h.15 }

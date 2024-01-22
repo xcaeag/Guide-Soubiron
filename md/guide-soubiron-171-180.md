@@ -122,7 +122,7 @@ __Horaire de la Journée :__
 
 ``` 
 De Bagnères à Gripp, 1 h. de tram.              }
-De Gripp à Artigues.. ....................0h.40 }    6h.15
+De Gripp à Artigues.......................0h.40 }    6h.15
 D'Artigues à l'Hôtellerie de Sencours.... 3h.20 } (Arrêts en sus)
 De l'Hôtellerie à l'observatoire, aller et      }
   retour..................................2h.15 }

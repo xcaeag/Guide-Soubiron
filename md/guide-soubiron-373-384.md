@@ -572,7 +572,7 @@ __Horaire de la Journée :__
 ```
 D'Aulus au Port de Saleix............... 3h. » }
 Du Port de Saleix au Pic de Mont Ceint         }    8h. » 
-  (aller et retour)........,............ 1h. » }
+  (aller et retour)..................... 1h. » }
 Du Port de Saleix au Cabanatous......... 0h.50 } (Arrêts en sus).
 Du Cabanatous à Auzat................... 3h.10 }  
 ```

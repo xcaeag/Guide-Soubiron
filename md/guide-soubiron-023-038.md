@@ -162,7 +162,7 @@ __Horaire de la Journée :__
 De Lescuns au Lac de Lhurs................ 2h.50 }
 Du Lac de Lhurs à la Table des Trois Rois. 2h.20 } 
 De la Table des Trois Rois au Pic des            }  9h.30
-Trois Rois.............. ................. 0h.20 }  (arrêts en sus)
+Trois Rois................................ 0h.20 }  (arrêts en sus)
 Du Pic des Trois Rois au Port d'Ansabère.  1h. » }
 Du Port d'Ansabère à Lescun............... 3h. » }
 ```
@@ -449,7 +449,7 @@ __Horaire de la Journée :__
 ```
 Des Forges d'Abel au Port de &abedaille... 1h.30 }
 Du Port de Gabedaille au Visaurin......... 3h. » }     9h.30
-Du Visaurin au Lac d'Estaès... ........... 2h.10 }  (Arrêts en sus)
+Du Visaurin au Lac d'Estaès............... 2h.10 }  (Arrêts en sus)
 Du Lac d'Estaès aux Forges d'Abel ........ 1h.30 }
 Des Forges d'Abel à Urdos (7 k.).......... 1h.20 }
 
@@ -646,7 +646,7 @@ le refuge de Pombie.
 __Horaire de la Journée :__
 
 ```
-D'Urdos au Col d'Ayous............. ..... 3h.45 }
+D'Urdos au Col d'Ayous................... 3h.45 }
 Du Col d'Ayous au Pic de Larry et retour. 0h.40 }    8h.30
 Du Col au Pic d'Ayous.................... Oh.25 }  (Arrêts en sus)
 Du Pic d'Ayous à Gabas .................. 3h.40 }
@@ -773,7 +773,7 @@ touristes au confluent d'Arrius, 22 k. de la gare.
 __Horaire de la Journée :__
 
 ```
-De Gabas au Col de Suzon........ ....... 3h.45 }
+De Gabas au Col de Suzon................ 3h.45 }
 Du Col de Suzon au Pic de Midi d'Ossau.. 2h.15 }     11h.30
 Du Pic de Midi d'Ossau au Col de Suzon.. 1h.15 }   (Arrêts en sus)
 Du Col de Suzon à Gabas par Brousset.... 2h.45 }
