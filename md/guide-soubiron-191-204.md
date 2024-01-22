@@ -59,13 +59,15 @@ d'un tramway électrique.
 <div class="page"/>
 
 — p. 192 — DE SAINT-LARY A LOUDENVIELLE (15me EXCURSION)
+****
 
 ![carte p192](../maps/guide-soubiron-0192-carte.jpg)
 
 <div class="page"/>
 
 — p. 193 —  (15me EXCURSION) VALLEE DE LA GELA
- 
+****
+
 ## PREMIÈRE JOURNÉE
 
 __De SAINT-LARY (825m) à PARZAN (1.153m).__<br>
@@ -114,6 +116,7 @@ bureau de poste est à Fabian.
 <div class="page"/>
 
 — p. 194 — PICS de BARROUDE et de BARROSA (15me EXCURSION)
+****
 
 franchit le ruisseau pour remonter les pentes de la rive g. Celui
 du Port Vieux continue presque horizontalement, direction S.,
@@ -160,6 +163,7 @@ deux gradins superposés, une muraille d'environ 1.500 m. de hau-
 <div class="page"/>
 
 — p. 195 — (15me EXCURSION) - PUNTA FULSA 
+****
 
 teur monte presque verticalement jusqu'à la crête de la Munia
 qui se profile sur le ciel. Rien n'est plus imposant.
@@ -210,6 +214,7 @@ Le panorama de la Fulsa (2.860m) est déjà très beau, puisque
 <div class="page"/>
 
 — p. 196 — PUNTA SUELSA (15me EXCURSION)
+****
 
 ce sommet pointu appartient à un massif qui réunit le double
 avantage de l'isolement et de la haute alt.; mais c'est à la Suelsa,
@@ -259,6 +264,7 @@ Cinquetas de la Pez et d'Aygues-Cruses (1.582m). Là, on tournera
 <div class="page"/>
 
 — p. 197 — (15me EXCURSION) GRANGES de VIADOS
+****
 
 à l'E. et on ira coucher aux Granges de Viados (1.650m), à l'entrée 
 du vallon d'Aygues-Cruses (1).
@@ -336,6 +342,7 @@ Le chaînon par lequel les Cadier sont montés à la Punta
 <div class="page"/>
 
 — p. 199 — (15me EXCURSION) PIC SCHRADER
+****
 
 del Sabré (1) et de là à toute crête au Pic Schrader, n'est qu'un
 contrefort extrême de la crête S. du Batchimale qui meurt en
@@ -389,6 +396,7 @@ pour éviter une confusion possible dans l'esprit du lecteur.
 <div class="page"/>
 
 — p. 200 — LAC de CAILLAOUAS (15me EXCURSION)
+****
 
 bré. Cette, dernière voie me paraît de beaucoup la plus intéressante, 
 et c'est celle que je vais décrire.
@@ -438,6 +446,7 @@ région des Gourgs-Blancs.
 <div class="page"/>
 
 — p. 201 — (15me EXCURSION) . COL D'AROUGE
+****
 
 sentier descend, à travers des pelouses, jusqu'à la passerelle du
 déversoir, et quelques min. après, on arrive à la Maison des Ingénieurs 
@@ -489,6 +498,7 @@ Val d'Arouge. (V. 19me E.)
 <div class="page"/>
 
 — p. 202 — ENVIRONS D'ESPINGO — PARTIE OUEST (15me EXCURSION)
+****
 
 ![carte p202](../maps/guide-soubiron-0202-carte.jpg)
 
@@ -548,6 +558,7 @@ d'Espichadère et d'Aube.
 <div class="page"/>
 
 — p. 204 — VALLEE D'AUBE  (15me EXCURSION) 
+****
 
 Pour la descente, on reviendra sur ses pas 1/4 d'h. environ,
 puis, on se dirigera au N.-O. vers le petit lac de Hourgade, afin
@@ -582,13 +593,12 @@ De la Belle-Sayette à Loudenvielle...... 4 h.  } (Arrêts en sus)
 
 <u>__POINTS D'INTERRUPTION__</u>
 
-__GRANGES DE VIADOS__
-- Pour rejoindre de Saint-Lary par l'Hospice de Rioumajou et le port de Cauouarère : 9h »
-- Pour rentrer à Saint-Lary par cette voie : 8h. »
-- Pour rejoindre de Loudenvielle par le Port de la Pez : 8 h. »
-- Pour rentrer à Loudenvielle par cette voie : 7h. »
-  
-__LAC DE CAILLAOUAS__
-- Pour rejoindre de Loudenvielle : 5h.15
-- Pour rentrer à Loudenvielle : 4h. »
+- __GRANGES DE VIADOS__
+  - Pour rejoindre de Saint-Lary par l'Hospice de Rioumajou et le port de Cauouarère : 9h »
+  - Pour rentrer à Saint-Lary par cette voie : 8h. »
+  - Pour rejoindre de Loudenvielle par le Port de la Pez : 8 h. »
+  - Pour rentrer à Loudenvielle par cette voie : 7h. »
+- __LAC DE CAILLAOUAS__
+  - Pour rejoindre de Loudenvielle : 5h.15
+  - Pour rentrer à Loudenvielle : 4h. »
 

@@ -59,7 +59,7 @@ Bonnes et les Eaux-Chaudes.
 <div class="page"/>
 
 — p. 55 — (3me EXCURSION) ARRIUS-ARREMOULIT
-***
+****
 
 ## PREMIÈRE JOURNÉE
 
@@ -116,7 +116,7 @@ au N.-N.-E. et le petit pic d'Arriel (2.606m), au S.-S.-E.
 <div class="page"/>
 
 — p. 56 — PALLAS (3me EXCURSION)
-***
+****
 
 ## DEUXIÈME JOURNÉE
 
@@ -168,7 +168,7 @@ Isards, tome 2, p. 122.
 <div class="page"/>
 
 — p. 57 —  (3me EXCURSION) ARRIEL
-***
+****
 
 Géodésiens ». Ce trajet, un peu délicat, exige quelque attention.
 
@@ -226,7 +226,7 @@ qui se dirige au N. vers le lac d'Arrius. Là, on franchira une
 <div class="page"/>
 
 — p. 59 — (3me EXCURSION) COL D'ARREMOULIT
-***
+****
 
 croupe, au N.-E., pour retrouver, quelques minutes après, le
 sentier de la veille qui, par le Col d'Arrius, conduit au refuge.
@@ -276,7 +276,7 @@ Batcrabère.
 <div class="page"/>
 
 — p. 60 — BALAITOUS (3me EXCURSION)
-***
+****
 
 Pour un pyrénéiste exercé, le trajet de la « Grande Diagonale »
 est idéal, surtout à l'ascension, si on prend les précautions indiquées 
@@ -329,7 +329,7 @@ Nèous qu'on traversera par la g., le long des rochers, pour
 <div class="page"/>
 
 — p. 61 — (3me EXCURSION) LABASSA
-***
+****
 
 rieure peut être franchie en de nombreuses glissades. On quittera
 le glacier avant d'arriver tout à fait au fond, en obliquant à g.,
@@ -381,7 +381,7 @@ Balaïtous ».
 <div class="page"/>
 
 — p. 62 — GRAND GABIZOS (3me EXCURSION)
-***
+****
 
 Labas. On remontera ce dernier, direction O., après avoir gagné
 le sentier de la rive g. qui passe à une certaine hauteur. Après
@@ -433,7 +433,7 @@ plus que pour quatre ou cinq personnes. C'est un des rares som-
 <div class="page"/>
 
 — p. 63 —  (3me EXCURSION) PETIT GABIZOS
-***
+****
 
 mets sur lesquels on a l'impression du vide tout autour de soi, car
 on ne peut suivre les lignes de chute jusqu'à la base du massif.
@@ -480,7 +480,7 @@ Du Petit Gabizos à Arrens............. 2h.15 }
 <div class="page"/>
 
 — p. 64 — PIC de BAZES (3me EXCURSION)
-***
+****
 
 ## CINQUIÈME JOURNÉE
 
@@ -528,7 +528,7 @@ d'Estrem de Salles qu'on apercevra en entier. Poursuivant sa
 <div class="page"/>
 
 — p. 65 — (3me EXCURSION) SOUM DE GRANQUET
-***
+****
 
 marche vers le N., on descendra au Col d'Espandelès, où passe
 le grand chemin muletier qui fait communiquer la vallée de
@@ -578,7 +578,7 @@ chemin muletier du fond de la vallée. On longera ensuite le ruis-
 <div class="page"/>
 
 — p. 66 — ESTREM de SALLES (3me EXCURSION)
-***
+****
 
 seau de Bergons jusqu'au vill. de Sère où on rejoint la route
 qui, par Gez, conduit directement à Argelès.

@@ -54,6 +54,7 @@ tramway électrique.
 <div class="page"/>
 
 — p. 206 —  DE SAINT-LARY A LUCHON  (16me EXCURSION)
+****
 
 ![carte p206](../maps/guide-soubiron-0206-carte.jpg)
 
@@ -115,6 +116,7 @@ trouvé une aimable hospitalité.
 <div class="page"/>
 
 — p. 208 — Le LUSTOU (16me EXCURSION)
+****
 
 De ce point, on apercevra en haut, à dr., l'imposant massif du
 Batoua, dont les trois cimes sont souvent dans les nuages.
@@ -165,6 +167,7 @@ comme il l'indique dans son ascension au Batoua. Par la
 <div class="page"/>
 
 — p. 209 — (16me: EXCURSION) HOSPICE de RIOUMAJOU
+****
 
 base des murailles de la crête de Guerreys et le haut du cirque,
 on irait facilement, dans 2 h., du Lustou au Port de Péguère
@@ -218,6 +221,7 @@ lits et des provisions.
 <div class="page"/>
 
 — p. 210 — Le BATOUA (16me EXCURSION)
+****
 
 à la crête de Caouarère. L'ascension sera un peu dure, mais par
 là, on gagne près d'une h. sur le trajet du sentier qui fait un
@@ -270,6 +274,7 @@ sous le noin de « Pic Balinet ».
 <div class="page"/>
 
 — p. 211 — (16me EXCURSION) Les GRANGES De VIADOS
+****
 
 tier. Cependant, s'il connaît déjà le chemin, il pourra filer
 directement jusqu'aux granges de Viados pour y préparer le
@@ -321,6 +326,7 @@ environ 500 m. au N. de la tourelle, où on déposera le sac.
 <div class="page"/>
 
 — p. 212 — Les POSETS (16me EXCURSION)
+****
 
 On n'aura plus qu'à suivre l'arête S. à toute crête jusqu'au
 signal (3.367m).
@@ -373,6 +379,7 @@ descend des lacs de ce nom. Prénant alors la direction N.-N.-O.
 <div class="page"/>
 
 — p. 213 — (16me EXCURSION) PORT d'Oô ET PIC des GOURGS-BLANCS
+****
 
 on suivra la rive g. du ruisseau jusqu'aux trois petits lacs d'où
 on montera, au N., au Port d'Oô (2.901m).
@@ -425,6 +432,7 @@ magnifique centre d'excursions (1).
 <div class="page"/>
 
 — p. 214 — ENVIRONS D'ESPINGO - PARTIE EST (16me EXCURSION)
+****
 
 ![carte p214](../maps/guide-soubiron-0214-carte.jpg)
 
@@ -488,7 +496,8 @@ au Cap de Hounts-Secs (2.707m), au N.
 
 <div class="page"/>
 
-— p. 216 — COLS de MONTARROUYE et De SARNES (16m EXCURSION)
+— p. 216 — COLS de MONTARROUYE et de SARNES (16m EXCURSION)
+****
 
 et le Cirque du Lys; enfin, une infinité de grandes cimes environnantes 
 et lointaines. L'Hôtel de Superbagnères paraît à deux
@@ -533,7 +542,6 @@ On pourra laisser le sac à la corniche.
 
 A partir de la corniche, on grimpera droit au sommet sans la
 moindre difficulté.
-
  
 ———<br>
 (1) Certains Luchonnais soutiennent que c'est là le vrai Col de
@@ -544,6 +552,7 @@ pourrait y avoir deux cols du même nom dans une même montagne.
 <div class="page"/>
 
 — p. 217 — (16me EXCURSION) PIC LEZAT — RUE D'ENFER
+****
 
 Comme le Quaïrat et le Crabioules, le Lézat est un belvédère
 de premier ordre, surtout sur les cirques d'Oô et du Lys. Ce sommet 
@@ -596,6 +605,7 @@ Nadié) (1.375m) où il passe rive dr. On fera là une petite halte
 <div class="page"/>
 
 — p. 218 — GOUFFRE d'ENFER — VALLEE du LYS (16me EXCURSION)
+****
 
 pour admirer l'élan vertigineux des eaux du Gouffre d'Enfer;
 mais, c'est cinq min. plus bas qu'on trouve le spectacle le plus
@@ -627,17 +637,14 @@ De la Rue d'Enfer à Luchon............. 3h.15 }
 
 <u>__POINTS D'INTERRUPTION__</u>
 
-__GRANGES DE VIADOS__ 
-
-- 1er - Pour rentrer à Saint-Lary par le port de Caouarère et l'Hospice de Rioumajou : 8h
-- Pour rejoindre par cette voie : 9 h.
-- 2me - Pour rentrer à Loudenvielle par le Port de la Pez : 7h.
-- Pour rejoindre de Loudenvielle par cette voie : 8h
-
-__REFUGE D'ESPINGO__
-
-- Pour rejoindre de Luchon, 1 h. d'auto et 2h de sentier
-- Pour rentrer à Luchon, 4h.30 de marche dont 13 Km de route
+- __GRANGES DE VIADOS__ 
+  - 1° - Pour rentrer à Saint-Lary par le port de Caouarère et l'Hospice de Rioumajou : 8h
+  - Pour rejoindre par cette voie : 9 h.
+  - 2° - Pour rentrer à Loudenvielle par le Port de la Pez : 7h.
+  - Pour rejoindre de Loudenvielle par cette voie : 8h
+- __REFUGE D'ESPINGO__
+  - Pour rejoindre de Luchon, 1 h. d'auto et 2h de sentier
+  - Pour rentrer à Luchon, 4h.30 de marche dont 13 Km de route
 
 > Nota. - A Luchon, les bons hôtels sont nombreux; mais
 je ne saurais trop recommander l'Hôtel de Bordeaux dont le

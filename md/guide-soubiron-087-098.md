@@ -48,7 +48,7 @@ prix modérés.
 <div class="page"/>
 
 — p. 89 — (6me EXCURSION) GRANDE FACHE
-***
+****
 
 ## PREMIÈRE JOURNÉE
 
@@ -96,7 +96,7 @@ S.-E., sur le Vignemale.
 <div class="page"/>
 
 — p. 90 — CIRQUE de CAMBALES (6me EXCURSION)
-***
+****
 
 Dans plusieurs cartes, la Grande Fache est cotée 3.020 m.; les
 mesures récentes à l'éclimètre ont réduit cette alt. à 3.006.
@@ -146,7 +146,7 @@ le Bernat Barraou (2.794m).
 <div class="page"/>
 
 — p. 91 — (6me EXCURSION)  CAMBALES-BERNAT BARRAOU
-***
+****
 
 L'excursion de ce jour nous fera contourner en entier le
 cirque de Cambalès et ses magnifiques lacs.
@@ -198,7 +198,7 @@ nom pour remonter au Pic de Cambalès.<br>
 <div class="page"/>
 
 — p. 92 — VALLEE D'ARRATILLE (6me EXCURSION)
-***
+****
 
 aussi son alt. qui est de 2.794, au à lieu de 2.742 comme l'indiquent
 les cartes.
@@ -249,7 +249,7 @@ cette brèche qu'il faut monter pour ascendre le Chabarrou par
 <div class="page"/>
 
 — p. 93 — (6me EXCURSION) CHABARROU
-***
+****
 
 le versant d'Arratille. Elle est située entre le Chabarrou, au S.-E.,
 et Coste de Jertet (2.868m), au N.-O.
@@ -301,7 +301,7 @@ nombreux lacets, descend, par la rive dr., jusqu'au fond de la
 <div class="page"/>
 
 — p. 94 — LAC de GAUBE | (6me EXCURSION)
-***
+****
 
 vallée de Gaube où il rejoint le sentier muletier du Vignemale.
 Un peu plus bas, ce chemin passe rive dr. jusqu'au lac de Gaube
@@ -352,7 +352,7 @@ connus : au N., le Val de Jéret: à l'O., la Vallée de Gaube;
 <div class="page"/>
 
 — p. 95 — (6me EXCURSION) VALLEE DE GAUBE
-***
+****
 
 au S., le Pic et le Col d'Araillé, et enfin à l'E., la Vallée de Lutour.
 
@@ -403,7 +403,7 @@ flanc de la rive dr., ce que nous faisons aujourd'hui. Après le
 <div class="page"/>
 
 — p. 96 — ESTIBAOUDE (6me EXCURSION)
-***
+****
 
 Si le bas du couloir est étroit et rapide, le haut en est très
 évasé et en pente douce; nous débarquons facilement au gradin
@@ -454,7 +454,7 @@ Pamorce est située 20 min. en amont et au S.-E. de la cascade
 <div class="page"/>
 
 — p. 97 — (6me EXCURSION) LACS D'ESTIBAOUDE
-***
+****
 
 de Splumous. Ce couloir, relativement facile à la montée, serait
 très délicat à la descente. Il faut donc, si on veut faire la traversée 
@@ -506,7 +506,7 @@ qu'un seul.
 <div class="page"/>
 
 — p. 98 — VALLEE de LUTOUR (6me EXCURSION)
-***
+****
 
 louses. Nous quittons ce sentier et, par une nouvelle descente
 rapide, nous aboutissons à un second ressaut où nous répétons la

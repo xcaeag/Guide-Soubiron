@@ -216,7 +216,7 @@ la vallée.
 
 <div class="page"/>
 
-— p. 454 — *****
+— p. 454 — CAP DE LARGUIS  (36me EXCURSION)
 ****
 
 Au Col de Joux (1685m), où s'élève une cabane, le point de vue
@@ -520,7 +520,7 @@ réserve de Naguilles d'environ 60 %.
 
 <div class="page"/>
 
-— p. 460 — NAGUILLES *****
+— p. 460 — NAGUILLES (36me EXCURSION)
 ****
 
 rent qui descend de l'Etang Déroun. On n'aura alors qu'à suivre

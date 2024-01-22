@@ -230,8 +230,7 @@ noisetiers.
 
 <div class="page"/>
 
-— p. 318 — *****
-****
+[//]: # (— p. 318 —)
 
 ![carte p318](../maps/guide-soubiron-0318-carte.jpg)
 

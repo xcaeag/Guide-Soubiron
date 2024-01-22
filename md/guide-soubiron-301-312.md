@@ -247,11 +247,11 @@ Ribéréta.
 
 __Horaire de la Journée :__
 
-``` *****
-De la Cabane de Ribéréta au Col de Malibierne. 2h.50  } 61
-Du Col au grand Pic de Malibierne...... t h. 25 1. 30 }
-Du grand au petit Pic de Malibierne..... 0h.15 } (Arrêts en sus).
-Du petit Pic à la Cabane de Ribéréta .... 2h. »  }
+```
+De la Cabane de Ribéréta au Col de Malibierne. 2h.50 }   6h.30
+Du Col au grand Pic de Malibierne............. 1h.25 }
+Du grand au petit Pic de Malibierne........... 0h.15 } (Arrêts en sus).
+Du petit Pic à la Cabane de Ribéréta ......... 2h. » }
 ```
 __<p class="centre">Course C</p>__
 
@@ -373,11 +373,11 @@ pour aller rejoindre, au fond du vallon, le sentier qui mène directement
 
 __Horaire de la Journée :__
 
-``` *****
-De la Cabane de Ribéréta au Col de Gré-  }
-OI nous onnse eee. 3h. » } 8h.45
-Du Col de Grégonio au Pic d'Albe........ 3h.30 } (Arrêts en sus).
-Du Pic d'Albe à La Rencluse............ 2h.15 }
+```
+De la Cabane de Ribéréta au Col de Gré-      }
+  gonio................................3h. » }    8h.45
+Du Col de Grégonio au Pic d'Albe...... 3h.30 } (Arrêts en sus).
+Du Pic d'Albe à La Rencluse........... 2h.15 }
 ```
 
 <div class="page"/>

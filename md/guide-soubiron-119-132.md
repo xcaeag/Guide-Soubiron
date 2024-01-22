@@ -50,7 +50,7 @@ CARTE DU MASSIF CALCAIRE
 <div class="page"/>
 
 — p. 121 — (9me EXCURSION) CIRQUE DE GAVARNIE
-***
+****
 
 ## PREMIÈRE JOURNÉE
 
@@ -93,7 +93,7 @@ lacets; on laissera là le sac à la garde du porteur, et on fera,
 <div class="page"/>
 
 — p. 122 — LE PIMENE (9me EXCURSION)
-***
+****
 
 avec le guide, l'ascension de ce dernier sommet. Les montures
 peuvent arriver jusqu'à la crête N. du Cap Latus, vers 2.600 d'alt.
@@ -146,7 +146,7 @@ Cylindre et le Mont Perdu, vu de Tuquerouye.
 <div class="page"/>
 
 — p. 123 — (9me EXCURSION) TUQUEROUYE
-***
+****
 
 C'est la brèche de Tuquerouye qui inspira à Ramond sa page
 la plus enthousiaste lorsqu'il y arriva, en 1797 (1).
@@ -200,7 +200,7 @@ montagnes granitiques, il reste à voir la première des montagnes calcaires. »
 <div class="page"/>
 
 — p. 124 — PICS D'ASTAZOU (9me EXCURSION)
-***
+****
 
 tant ne pourrait l'effectuer qu'encadré d'un guide et d'un bon
 pyrénéiste.
@@ -255,7 +255,7 @@ Passet. »
 <div class="page"/>
 
 — p. 125 — (9me EXCURSION) MARBORE-CYLINDRE
-***
+****
 
 « Passage d'escalade pure, disent les Cadier. Un jeu, après
 l'ascension de l'Astazou par les murailles E. »
@@ -310,7 +310,7 @@ Cylindre est entre le pic de ce nom et le Marboré.
 <div class="page"/>
 
 — p. 126 — LE MONT PERDU (9me EXCURSION)
-***
+****
 
 petit lac à dr., pour monter directement au col (3.052m). De ce
 point, on découvre tout l'itinéraire du retour au refuge en longeant le lac glacé par l'E.
@@ -356,7 +356,7 @@ Monts-Maudits, à l'O. du Néthou.
 <div class="page"/>
 
 — p. 127 — (9me EXCURSION) Le SAUT de GAULIS
-***
+****
 
 et au Pic Long. Les larges assises qui l'entourent presque en entier, 
 sont de trop haute alt. pour créer le frisson qu'on ressent au
@@ -408,7 +408,7 @@ Ma préférence va à ces premières appellations.
 <div class="page"/>
 
 — p. 128 — VALLEE D'ARAZAS (9me EXCURSION)
-***
+****
 
 on sautera le Rio Ordesa, pour rejoindre de sentier qui le longe
 définitivement par la rive dr. jusqu'aux Casas de Ordesa (1.318m).
@@ -446,7 +446,7 @@ Du Mont Perdu à Ordesa............... 5h. » }
 <div class="page"/>
 
 — p. 129 — (9me EXCURSION) LE GABIETOU
-***
+****
 
 ## CINQUIÈME JOURNÉE
 
@@ -495,7 +495,7 @@ Le Gabiétou comprend une double cime (3.031m-3.024m). Seul,
 <div class="page"/>
 
 — p. 130 — TAILLON - BRECHE DE ROLAND (9me EXCURSION)
-***
+****
 
 le sommet N. E. (3.031m) présentes quelque intérêt sur ses abords
 immédiats qui sont de toute beauté.
@@ -550,7 +550,7 @@ De la Brèche à Gavarnie................ 2h.45 }
 <div class="page"/>
 
 — p. 131 — (9me EXCURSION) CASQUE - TOUR - EPAULE
-***
+****
 
 ## SIXIÈME JOURNÉE
 
@@ -596,7 +596,7 @@ col du Taillon. Le col des Sarradets n'existe pas.
 <div class="page"/>
 
 — p. 132 — GAVARNIE (9me EXCURSION)
-***
+****
 
  
 __Horaire de la Journée :__

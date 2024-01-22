@@ -55,8 +55,7 @@ du Calmil. Ce dernier continue tout droit devant soi, entre
 
 <div class="page"/>
 
-— p. 386 — *****
-****
+[//]: # (— p. 386 —)
 
 ![carte p386](../maps/guide-soubiron-0386-carte-portrait.jpg)
 

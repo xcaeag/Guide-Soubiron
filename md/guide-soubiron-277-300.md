@@ -57,6 +57,7 @@ de Luchon.
 <div class="page"/>
 
 — p. 278 — MONTS-MAUDITS (21me EXCURSION)
+****
 
 2° L'attribution de mon nom au pic coté 2.865 m., pic situé au
 S.-E. du massif, et la mise en évidence de cet intéressant sommet.
@@ -90,6 +91,7 @@ A,B et C.
 <div class="page"/>
 
 — p. 279 — (21me EXCURSION) HOSPICE de FRANCE
+****
 
 # VINGT et UNIÈME EXCURSION
 
@@ -137,6 +139,7 @@ Au Port de Venasque, surgit tout d'un coup, comme dans un
 <div class="page"/>
 
 — p. 280 — PORT de VENASQUE (21me EXCURSION)
+****
 
 ![carte 280](../maps/guide-soubiron-0280-clip.jpg)
 
@@ -169,6 +172,7 @@ volume, à la 18me Excursion.
 <div class="page"/>
 
 — p. 281 — (21me EXCURSION) PIC de SAUVEGARDE
+****
 
 Turmon, maintenant transformé en canal par la percée de son
 mur d'enceinte. Si cette cascade peut être utile aux touristes
@@ -219,6 +223,7 @@ Picade. Le chemin de Venasque tourne alors à dr. en descente
 <div class="page"/>
 
 — p. 282 — La RENCLUSE (21me EXCURSION)
+****
 
 rapide direction S.-O., pour aboutir au fond de la Vallée de
 l'Esera. On le quittera 10 min. après, à la première amorce d'un
@@ -271,6 +276,7 @@ souhait : c'est que la peseta retrouve sa modestie d'antan.
 <div class="page"/>
 
 — p. 283 — (21me EXCURSION) Le TROU du TORO
+****
 
 __<p class="centre">Course A (deux jours)</p>__
 
@@ -318,6 +324,7 @@ du Toro;_
 <div class="page"/>
 
 — p. 284 — PLAN des AGUALLUTS (21me EXCURSION)
+****
 
 ![carte 284](../maps/guide-soubiron-0284-carte.jpg)
 
@@ -340,6 +347,7 @@ da Société d'Histoire naturelle de Toulouse, 1er fascicule 1931.)
 <div class="page"/>
 
 — p. 285 — (21me EXCURSION) COL Des SALENQUES
+****
 
 ses, à travers de hautes herbes, mais bientôt le terrain s'améliore
 et on retrouve le sentier. Ce dernier monte par la rive dr. pendant
@@ -388,6 +396,7 @@ une région unique dans toutes les Pyrénées. Pendant plu-
 <div class="page"/>
 
 — p. 286 — COL PIERRE-SOUBIRON (21me EXCURSION)
+****
 
 sieurs kilomètres, on cheminera, tantôt sur des dalles de granit
 polies par les anciens glaciers, tantôt par de minuscules couloirs
@@ -416,6 +425,7 @@ contournant le lac par les hautes berges de droite. Du col, on
 <div class="page"/>
 
 — p. 287 — (21me EXCURSION) PIC PIERRE-SOUBIRON
+****
 
 grimpera à flanc S. de crête, droit au sommet coté 2.865 et surmonté
 d'un petit cairn.
@@ -463,6 +473,7 @@ aller coucher à l'Hospice de Viella ou au village de Senet. Un
 <div class="page"/>
 
 — p. 288 — LACS de RIO BUENO (21me EXCURSION)
+****
 
 bon marcheur aurait le temps de faire, de jour, le trajet de
 La Rencluse à Venasque par le pic Pierre-Soubiron, le col et la
@@ -515,6 +526,7 @@ L'Hospice est construit au centre de vertes pelouses qu'entou-
 <div class="page"/>
 
 — p. 289 — (21me EXCURSION)  HOSPICE de VIELLA
+****
 
 rent des forêts noires de sapins gigantesques. Les crêtes très
 élevées qui le dominent le protègent contre la fureur des vents.
@@ -567,6 +579,7 @@ en faisant au passage la Fourcanade et le Moulières.
 <div class="page"/>
 
 — p. 290 — HAUTE RIBAGORZANA (21me EXCURSION)
+****
 
 __<p class="centre">Course A</p>__
 
@@ -615,6 +628,7 @@ On franchit là la ligne de partage des eaux d'Europe, puisque
 <div class="page"/>
 
 — p. 291 — (21me EXCURSION) FOURCANADE — MOULIERES
+****
 
 la Ribagorzana s'écoule sur l'Ebre, tandis que les eaux du Cirque
 de Los Négros descendent sur Viella où elles se jettent dans la
@@ -665,6 +679,7 @@ sont magnifiques.
 <div class="page"/>
 
 — p. 292 — COL ALFRED  (21me EXCURSION) 
+****
 
 Du Col Alfred, on descendra à sa fantaisie, direction N., en
 obliquant légèrement à dr., afin d'aboutir au vallon qui contourne
@@ -713,6 +728,7 @@ de Barcelone, avec le guide Anselmo, de Venasque.
 <div class="page"/>
 
 — p. 293 — (21me EXCURSION) COL MAUDIT
+****
 
 2° Le 22 juillet 1910, deux intrépides étrangers, munis d'une
 corde de 60 m., en ont réussi la deuxième.
@@ -767,6 +783,7 @@ temps subit ou une chute de neige fraîche.
 <div class="page"/>
 
 — p. 295 — (21me EXCURSION) DENT D'ALBE
+****
 
 __Conseils.__ — __Itin. recomm.__ — On partira de très bonne heure,
 car, pour éviter le danger des chutes de pierres au couloir Maudit, 
@@ -815,6 +832,7 @@ de base du couloir rocheux.
 <div class="page"/>
 
 — p. 296 — COULOIR et COL MAUDIT (21me EXCURSION)
+****
 
 Voici maintenant l'itinéraire à suivre pour l'ascension du couloir
 jusqu'au col.
@@ -867,6 +885,7 @@ monter à toute crête; pour un pyrénéiste exercé, c'est la voie la
 <div class="page"/>
 
 — p. 297 — (21me EXCURSION) COL MAUDIT
+****
 
 ![gravure p297](../maps/guide-soubiron-0297-dessin.jpg)
 
@@ -895,6 +914,7 @@ travers le glacier du Néthou, puis, au bout de 20 min. environ,
 <div class="page"/>
 
 — p. 298 — LAC des GOURGOUTES (21me EXCURSION)
+****
 
 on tournera droit au N. pour rentrer à La Rencluse par le
 Portillon d'en bas.
@@ -953,6 +973,7 @@ On franchira le torrent qui descend du lac des Gourgoutes et
 <div class="page"/>
 
 — p. 299 — (21me EXCURSION) PIC de SACROUX
+****
 
 on suivra le sentier qui en remonte la rive dr., en de multiples
 lacets, jusqu'au premier plateau. Là, il passe rive g. et, après
@@ -1001,6 +1022,7 @@ de la cascade de Solage. Au bas de la prairie, on retrouve le che-
 <div class="page"/>
 
 — p. 300 — VALLEE du LYS (21me EXCURSION)
+****
 
 min qui descend directement à l'Hôtellerie du Lys, en longeant
 au passage la belle cascade du Cœur.

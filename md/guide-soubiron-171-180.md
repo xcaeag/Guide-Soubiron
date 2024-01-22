@@ -69,6 +69,7 @@ avec les tramways de Bagnères à Gripp.
 <div class="page"/>
 
 — p. 173 — (13me EXCURSION) PIC de MIDI de BIGORRE
+****
 
 ## PREMIÈRE JOURNÉE
 
@@ -117,6 +118,7 @@ directions.
 <div class="page"/>
 
 — p. 174 — COL du TOURMALET (13me EXCURSION)
+****
 
 __Horaire de la Journée :__
 
@@ -179,7 +181,7 @@ d'Eget; à l'O., celui d'Aygue-Cluse, qui descend vers Barèges;
 <div class="page"/>
 
 — p. 175 — (13me EXCURSION) COUME DE POURTEILLE
- 
+****
 
 Les deux derniers versent leurs eaux vers Gripp et Campan;
 ce sont les vraies sources de l'Adour.
@@ -240,6 +242,7 @@ sous peine de compromettre la journée.
 <div class="page"/>
 
 — p. 176 — PIC des QUATRE TERMES (13me EXCURSION)
+****
 
 On entrera là, dans un monde de pierraille qui ne finira que
 dans l'après-midi, 1/2 h. après avoir quitté le pic des Quatre
@@ -287,8 +290,8 @@ qu'à ce point de vue, sa situation est peut-être unique.
 <div class="page"/>
 
 — p. 177 — (13me EXCURSION) COLS du BASTANET et du BASTAN
+****
 
- 
 On repartira direction S.-E., à toute crête d'abord, puis à
 flanc de crête sans trop descendre, afin d'aboutir à la base de
 la Hourquette Braque (2.375m). Cette brèche, la plus profonde
@@ -336,6 +339,7 @@ Port Bieil, et s'écoulent dans l'Oule de Couplan.<br>
 <div class="page"/>
 
 — p. 178 — AULON (13me EXGURSION)
+****
 
 plement propriétaire, est, à l'occasion, un excellent guide pour
 l'Arbizon.
@@ -391,6 +395,7 @@ sourd d'une faille de rocher un peu plus haut.
 <div class="page"/>
 
 — p. 179 — (13me EXCURSION) PIC D'ARBIZON
+****
 
 et une sente suivie par les moutons en escalade le premier ressaut
 jusqu'à des rochers lisses qui bordent la rive dr. d'un petit couloir. 
@@ -440,6 +445,7 @@ Monfaucon par l'O. et en prenant, au N. du pic, un couloir
 <div class="page"/>
 
 — p. 180 — HOURQUETTE D'ARREAU (13me EXCURSION)
+****
 
 d'éboulis qui dévale, à l'E., au cirque N. de l'Arbizon. C'est un
 trajet fastidieux qui allonge de 1 h. On descendra donc par
@@ -478,13 +484,12 @@ Du Lac d'Arou à Arreau.................. 3h.15 }
 
 <u>__POINTS D'INTERRUPTION__</u>
 
-__HOTELLERIE DU PIC DE MIDI__
-- Pour rejoindre de Barèges : 3h.15
-- Pour rentrer à Bareges :  2h. »
-
-__AULON__
-- Pour rejoindre d'Arreau (11 k. 500 de route) : 3h. »
-- Pour rentrer à Arreau : 2h.30
+- __HOTELLERIE DU PIC DE MIDI__
+  - Pour rejoindre de Barèges : 3h.15
+  - Pour rentrer à Bareges :  2h. »
+- __AULON__
+  - Pour rejoindre d'Arreau (11 k. 500 de route) : 3h. »
+  - Pour rentrer à Arreau : 2h.30
 
 ———<br>
 (1) C'est de ce point qu'on pourra renvoyer le guide, ce qui lui

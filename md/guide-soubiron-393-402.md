@@ -365,7 +365,7 @@ Le Pic des Trois Seigneurs comprend deux sommets, c'est à
 
 <div class="page"/>
 
-— p. 402 — VALLEÉ DE RABAT *****
+— p. 402 — VALLEÉ DE RABAT  (31me EXCURSION)
 ****
 
 la pointe S.-E., point culminant du massif, qu'on trouve la table
