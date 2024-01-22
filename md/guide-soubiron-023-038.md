@@ -167,8 +167,7 @@ Du Pic des Trois Rois au Port d'Ansabère.  1h. » }
 Du Port d'Ansabère à Lescun............... 3h. » }
 ```
 
-———
-
+———<br>
 Dans la carte au 1/100.000, le Port d'Ansabère porte le nom de
 Col de Naye, et dans celle d'état-major celui de Col d'Escoueste.
 

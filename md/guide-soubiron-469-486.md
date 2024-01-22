@@ -169,7 +169,7 @@ Du Pic de l'Etang-Faury au refuge d'En-      }
 __Du LAC d'EN-BEYS (1.950m) à LA BOUILLOUSE (2.014m),__<br>
 __par la Porteille d'Espagne (2.460m) et le Pic de Prigue (2.810m).__
 
-——— GUIDE UTILE
+—— GUIDE UTILE ——
 
 <u>__AVIS AUX TOURISTES__</u>
 
