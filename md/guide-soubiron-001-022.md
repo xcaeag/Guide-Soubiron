@@ -423,7 +423,7 @@ pendantes;__ ne jamais s'asseoir ni se coucher sur la terre, même
 paraissant sèche, sans y poser des objets isolants : pélerine. vêtements, 
 branchages, etc., etc.
 
-11.  Si on est surpris par un orage, se blottir immédiatement
+11. Si on est surpris par un orage, se blottir immédiatement
 sous un rocher après avoir éloigné les piolets dont la pointe
 acérée attire la foudre. __Bien se garder de franchir une crête et
 d'y circuler pendant l'orage.__
@@ -436,7 +436,7 @@ d'y circuler pendant l'orage.__
 — p. 12 —  CONSEILS PRATIQUES
 ****
 
-12.  Enfin, si vous vous sentez des aptitudes et un dévouement à
+12. Enfin, si vous vous sentez des aptitudes et un dévouement à
 toute épreuve pour conduire une caravane, __prenez un porteur__ ;
 ce sera moins coûteux et vous goûterez le charme de marcher à
 la découverte. __Mais si vous voulez éviter tout souci__ (responsabilité 
