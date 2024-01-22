@@ -58,6 +58,9 @@ PAR ORDRE DE MATIÈRES
 9. Index alphabétique des 1.500 noms de lieux............  525
 ```
 
+****
+****
+
 __TABLEAU DES ABRÉVIATIONS__
 
 __Sans Guide__ signifie : Cette excursion peut être faite sans guide.
@@ -81,7 +84,7 @@ k.        "      kilomètre.      |  (2814m) chiffres indiquant
 
 <div class="page"/>
 
-— p. 5 —
+[//]: # (— p. 5 —)
 
 # AVERTISSEMENT DE L'AUTEUR
 
@@ -149,6 +152,7 @@ Pour mettre à jour la première édition et posséder une œuvre
 complète, il suffira d'acquérir séparément la collection des
 40 programmes tirés à part pour la deuxième-édition.
 
+****
 ****
 
 <u>__ALPINISME ACROBATIQUE__</u>
@@ -229,7 +233,7 @@ mention spéciale indique le N° de la 1re édition.
 
 __Pour l'alpinisme acrobatique,__ quelle que soit la région où
 l'on pratique ce sport, et aussi pour effectuer l'ascension de la
-majeure partie des grands sommets des Alpes, __la corde est indispensable;__ 
+majeure partie des grands sommets des Alpes, __la corde est indispensable;__
 il n'en est pas de mème pour les Pyrénées.
 
 <div class="page"/>
@@ -817,6 +821,9 @@ la chaîne, au Néthou (3.404m), pour redescendre ensuite vers l'Orient,
 afin de finir en beauté au Canigou (2.785m), face à la Méditerranée.
 
 <p class="droite">P.S.</p>
+
+****
+****
 
 __NOTICE SUR LA VALLÉE D'ASPE__
 

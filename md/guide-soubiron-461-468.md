@@ -25,6 +25,9 @@ Cartes à emporter : Perles et Ax-les-Thermes.
 <p class="droite">(Voir page 450 la Carte des Environs d'Ax-les-Thermes).<br/>
 (Voir page 466 la Carte du Massif de Tabe).</p>
 
+****
+****
+
 ## PREMIÈRE JOURNÉE
 
 __D'AX (716m) aux GRANGES de MONTMIJA (1.400m),__<br>

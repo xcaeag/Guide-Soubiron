@@ -32,13 +32,16 @@ au soir.
 Si on n'est pas soi-même un pyrénéiste exercé, on retiendra
 un guide pour la deuxième journée.
 
-(Voir les cartes des Environs de Luchon, pp. 232 et 240).
+<p class="droite">(Voir les cartes des Environs de Luchon, pp. 232 et 240).</p>
+
+****
+****
 
 ## PREMIÈRE JOURNÉE
 
-De LUCHON (629m) au REFUGE D'ESPINGO (1.925m),
-par les Granges d'Astau (1.112m), le Lac d'Oô (1.500m)
-et le Col d'Espingo (1.975m).
+__De LUCHON (629m) au REFUGE D'ESPINGO (1.925m),__<br>
+__par les Granges d'Astau (1.112m), le Lac d'Oô (1.500m)__<br>
+__et le Col d'Espingo (1.975m).__
 
 —— SANS GUIDE ——
 
@@ -152,7 +155,7 @@ d'Arouge, et à une certaine hauteur jusqu'au Col de Nère
 trajet, puisque, en cours d'ascension, on ne perd jamais ce
 dernier de vue plus de 10 minutes.
 
-(Voir p. 202 la carte de la partie O. des Environs d'Espingo.)
+<p class="doite">(Voir p. 202 la carte de la partie O. des Environs d'Espingo.)</p>
 
 __Conseils.__ — __Itin. recomm.__ - Du refuge, un sentier longe le
 petit ruisseau de la Lère, d'abord, par la rive g., puis, par la

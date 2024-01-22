@@ -32,6 +32,9 @@ sommets, un des plus beaux centres d'excursions des Pyrénées.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
+****
+****
+
 ## PREMIÈRE JOURNÉE
 
 __Ascension du Soum de Menvielle (1.170m), par Lançon (1.089m)__<br>
@@ -68,11 +71,9 @@ ET D'UNE PARTIE DE LA BAROUSSE
 
 <div class="page"/>
 
-— p. 183 —
-
-(14me EXCURSION) SOUM de MENVIEILLE
+— p. 183 — (14me EXCURSION) SOUM de MENVIEILLE
+****
  
-
 Après 1h.15 d'ascension, on débouche subitement au verdoyant 
 plateau de Lançon, d'une alt. moyenne de 1.100 m.; ce
 site est si riant qu'il peut à lui seul servir de but à une excursion.
@@ -181,22 +182,22 @@ Burat (2.150m), pour les environs de Luchon et le Haut Aran;
 — p. 185 — (14me EXCURSION) COL d'ASPIN
 ****
 
-les Trois Seigneurs (2.199m) et le Soularac (2.360m), pour les
+> les Trois Seigneurs (2.199m) et le Soularac (2.360m), pour les
 monts Ariégeois et Catalans; enfin, les pics de la Tausse
 (2.037-2.038m), pour le Capcir, la Cerdagne, da vallée de la Tet
 et toute la chaîne orientale du Puigmal au Canigou.
-
-Comme les pics ci-dessus, le Montné d'Aspin (1.755m) et le
+>
+> Comme les pics ci-dessus, le Montné d'Aspin (1.755m) et le
 Mont Bassia (1.900m) sont deux de ces belvédères au premier
 chef.
-
-Le touriste peut, à son choix, soit monter sur ces sommets
+> 
+> Le touriste peut, à son choix, soit monter sur ces sommets
 avant d'excursionner dans la région qu'il veut explorer, soit
 finir ses longues randonnées par ces cimes, ce qui lui permettra 
 de revivre, dans leur ensemble, les impressions des
 jours précédents.
-
-Aujourd'hui, au Montné d'Aspin et au Bassia, nous aurons
+>
+> Aujourd'hui, au Montné d'Aspin et au Bassia, nous aurons
 la double sensation du « déjà vu » en haute vallée d'Aure et
 des spectacles. que nous réservent nos prochaines excursions
 vers Luchon.
@@ -490,6 +491,9 @@ De Nistos à Montréjeau.................2h.35
 > Nota. - Si on part de très bonne heure, on aura le temps
 de dîner au buffet de Montréjeau et de rentrer à Toulouse
 par le dernier train.
+
+****
+****
 
 <u>__POINTS D'INTERRUPTION__</u>
 

@@ -30,6 +30,9 @@ de la deuxième et de la quatrième journée.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
+****
+****
+
 ## PREMIÈRE JOURNÉE
 
 __De SAINT-GIRONS (413m) à SEIX (503m), par Lacourt (451m),__<br>

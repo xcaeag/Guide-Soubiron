@@ -596,6 +596,9 @@ Du Pic de Bazès au Soum de Granquet.... 2h.50 } (Arrêts en sus)
 Du Soum de Granquet à Argelès.......... 3h.10 } 
 ```
  
+****
+****
+
 <u>__POINTS D'INTERRUPTION__</u>
 
 - __ARRÉMOULIT__

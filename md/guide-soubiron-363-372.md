@@ -418,6 +418,9 @@ Du Port à Saint-Lizier d'Ustou.......... 3h. » }
   (Si on poursuit jusqu'à Seix, 2h.20 en sus)
 ```
 
+****
+****
+
 <u>__POINTS D'INTERRUPTION__</u>
 
 - __BONABÉ__

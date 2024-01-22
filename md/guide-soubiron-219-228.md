@@ -42,6 +42,9 @@ guide.
 <p class="droite">(Voir ci-contre la Carte de l'Excursion.)<br/>
 (Voir aussi les cartes des Environs d'Espingo, pp. 202 et 214.)</p>
 
+****
+****
+
 <u>__GOURGS-BLANCS et CIRQUE d'OO__</u>
 
 La 17me Excursion va nous faire visiter, avec les Gourgs-
@@ -482,6 +485,8 @@ petite route qui se dirige au S.; elle descend en plusieurs lacets
 pour aller rejoindre 1a grand'route de la vallée, 800 m. en aval
 de la halte d'Antignac, à 6 k. de Luchon.
  
+****
+****
 
 <u>__POINTS D'INTERRUPTION__</u>
 

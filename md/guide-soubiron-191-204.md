@@ -287,21 +287,21 @@ __le Lac de Pouchergues (2.165m) et le Col de Couartaou (2.466m).__
 
 __Concernant le PIC SCHRADER ou GRAND BATCHIMALE.__
 
-Voici un des plus importants massifs de la chaîne, un des
+> Voici un des plus importants massifs de la chaîne, un des
 mieux situés et cependant un des moins visités. Ce n'est pas
 parce qu'il est d'accès difficile, car les difficultés sont moyennes 
 pour un pyrénéiste exercé, mais plutôt parce qu'il est loin
 de partout. Il faut, en effet, d'où que l'on vienne, lui consacrer 
 deux jours.
-
-Sans avoir fait couler des flots d'encre comme son frère le
+>
+> Sans avoir fait couler des flots d'encre comme son frère le
 Balaïtous, quelques polémiques, très courtoises d'ailleurs, ont
 été échangées à son sujet entre les maîtres du pyrénéisme,
 non pour déterminer la meilleure voie d'ascension, mais pour
 savoir si le point culminant du massif du Batchimale est en
 Espagne ou à la frontière.
-
-Pour celui qui a observé attentivement la structure de ce
+>
+> Pour celui qui a observé attentivement la structure de ce
 massif, le doute n'est pas possible : le Grand Batchimale, ou
 Pic Schrader, est bien en entier en Espagne, à environ 200 m.
 de la frontière. Celle-ci suit la ligne de partage des eaux;
@@ -310,11 +310,11 @@ centaines de m,., elle est formée d'une simple nervure de terrain
 dont la hauteur ne dépasse guère 1 m. L'erreur devient
 très facile lorsque le vallon qui longe cette mince croupe est
 garni de neige qui le nivelle à sa hauteur.
-
-Avec MM. Schrader, de Saint-Saud et Ledormeur, je dis donc
+>
+> Avec MM. Schrader, de Saint-Saud et Ledormeur, je dis donc
 que le Grand Batchimale est bien en Espagne.
-
-L'erreur de Russell, des Cadier et de quelques autres grands
+>
+> L'erreur de Russell, des Cadier et de quelques autres grands
 pyrénéistes provient de ce que, parvenus au Port d'Aygues-
 Tortes, ils ont situé la frontière plus à l'O. Elle passe au port
 
@@ -327,23 +327,23 @@ la rive dr. de la Cinqueta d'Aygues-Cruses.
 
 ![carte p198](../maps/guide-soubiron-0198-carte.jpg)
 
-même en continuant une ligne droite, direction N.-O., pour
+> même en continuant une ligne droite, direction N.-O., pour
 monter à la crête du Batchimale à laquelle elle se soude,
 environ 200 m. au N. du pic.
-
-Entre ce point de jonction, qu'on nomme pointe Ledormeur
+> 
+> Entre ce point de jonction, qu'on nomme pointe Ledormeur
 (3.120m) et le grand pic, sont entaillées deux brèches par où
 passent les eaux qui se déversent en Espagne, soit par l'O. au
 vallon de la Pez, soit par l'E., à celui d'Aygues-Cruses.
-
-Le chaînon par lequel les Cadier sont montés à la Punta
+>
+> Le chaînon par lequel les Cadier sont montés à la Punta
 
 <div class="page"/>
 
 — p. 199 — (15me EXCURSION) PIC SCHRADER
 ****
 
-del Sabré (1) et de là à toute crête au Pic Schrader, n'est qu'un
+>del Sabré (1) et de là à toute crête au Pic Schrader, n'est qu'un
 contrefort extrême de la crête S. du Batchimale qui meurt en
 Espagne, au Vallon d'Aygues-Cruses (2).
 
@@ -589,6 +589,8 @@ Du Pic de Hourgade à la Belle-Sayette... 1h.45 }   9h.30
 De la Belle-Sayette à Loudenvielle...... 4 h.  } (Arrêts en sus)
 ```
  
+****
+****
 
 <u>__POINTS D'INTERRUPTION__</u>
 

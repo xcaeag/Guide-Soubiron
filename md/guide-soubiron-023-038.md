@@ -782,6 +782,7 @@ De Gabas aux Eaux-Chaudes (8 k.)........ 1h.30 }
 > Nota. — Si on est parti du refuge de Pombie, 3 h. en moins.
 
 ****
+****
 
 <u>__POINTS D'INTERRUPTION__</u>
 
@@ -792,6 +793,7 @@ De Gabas aux Eaux-Chaudes (8 k.)........ 1h.30 }
    - Pour rejoindre des Eaux-Chaudes (8 k. de route).
    - Pour rejoindre de Laruns (14 k. de route).
 
+****
 ****
 
 __REFUGE DE POMBIE__

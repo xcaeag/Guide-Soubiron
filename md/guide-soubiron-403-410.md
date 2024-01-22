@@ -50,6 +50,9 @@ dispositions, et être prèt à partir vers treize heures.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion)</p>
 
+****
+****
+
 ## PREMIÈRE JOURNÉE
 
 __D'AUZAT (710m) aux ORRYS de PUJOL (1.704m).__<br>

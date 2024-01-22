@@ -367,6 +367,9 @@ De la Laouzatte à Mercus........... 2h.25 } (Arrêts en sus).
 mais, dans ce cas, celle présente l'inconvénient de faire toute
 l'ascension à découvert et face au soleil.
 
+****
+****
+
 <u>__POINTS D'INTERRUPTION__</u>
 
 - __SAURAT__

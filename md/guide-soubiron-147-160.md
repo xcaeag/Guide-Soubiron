@@ -38,9 +38,11 @@ d'Orédon.
  
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
-Concernant le PIC de MIDI de BIGORRE
+****
+****
+<u>__Concernant le PIC de MIDI de BIGORRE__</u>
 
-L'ascension du Pic de Midi de Bigorre se fait très souvent de
+>L'ascension du Pic de Midi de Bigorre se fait très souvent de
 Barèges, mais, comme j'y conduis le touriste par une autre voie,
 on en trouvera le programme à la 13me Excursion. Cependant,
 si on veut en faire l'ascension de Barèges, voici comment je la
@@ -57,12 +59,12 @@ Le lendemain matin, on partira à la lanterne, à 3 h., afin d'ar-
 
 ![11e EXCURSION](../maps/guide-soubiron-0148-carte.jpg)
 
--river au sommet pour le lever du soleil. On visitera l'observatoire 
+> river au sommet pour le lever du soleil. On visitera l'observatoire 
 et on redescendra à l'hôtellerie pour le petit déjeuner. En
 repartant immédiatement après, on rentrera à Barèges vers
 11 h. — L'Excursion peut être faite sans guide.
 
-Horaire probable :
+__Horaire probable :__
 
 ```
 De Barèges à J'Hôtellerié. eee... 3h.15 }    8h.30
@@ -663,6 +665,9 @@ effectuer, il est indispensable de prendre les dispositions suivantes :<br>
 ses forces pour l'ascension des 900 m. qui restent à gravir;<br>
 > 2° On partira au plus tard à 4 h., pour arriver au Pic Léviste
 avant midi.
+
+****
+****
 
 <u>__POINTS D'INTERRUPTION__</u>
 

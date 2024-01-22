@@ -42,6 +42,9 @@ on ne paiera que 2 fr. 50 pour coucher au lit de camp.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
  
+***
+***
+
 # PREMIÈRE JOURNÉE
 
 __De CAUTERETS (9321m) au REFUGE d'OSSOUE (2.690m),__<br>

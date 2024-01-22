@@ -40,6 +40,9 @@ l'Hospice de France où l'on fait une petite halte. En en repartant
 à 15 h., on arrive à La Rencluse vers 19 h. sans avoir trop souffert
 de la chaleur. (Voir la description du trajet p. 279.)
 
+****
+****
+
 __<p class="centre">Course C (trois jours)</p>__
 
 __Le Tour des Monts-Maudits__
@@ -631,6 +634,9 @@ De La Rencluse à l'Hospice de France.. 3h.50 }
 D l'Hospice de France à Luchon               }    6h
   (10 k. 500 ..........................2h.10 } (Arrêts en sus)
 ```
+
+****
+****
 
 <u>__POINT UNIQUE D'INTERRUPTION__</u>
 

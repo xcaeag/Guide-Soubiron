@@ -38,6 +38,9 @@ thermale.
 
 <p class="droite">(Voir ci-contre la Carte des Environs d'Ax).</p>
 
+****
+****
+
 ## PREMIÈRE JOURNÉE
 
 __D'AX (716m) à MÉRENS (1.056m),__<br>

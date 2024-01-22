@@ -540,6 +540,9 @@ Des lacs d'Estibaoude à Cauterets...... 3h.15  }
 face, mais de l'autre côté de la vallée et presque à sa hauteur,
 le refuge de Culaous et le sentier qui y conduit.
 
+****
+****
+
 <u>__POINTS D'INTERRUPTION__</u>
 
 - __REFUGE DU MARCADAU__

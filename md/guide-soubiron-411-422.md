@@ -539,6 +539,9 @@ Des Etangs de Petsiguer à Goulier........ 3h.30 } (Arrêts en sus)
 De Goulier à Vicdessos................... 0h.45 }
 ``` 
 
+****
+****
+
 <u>__POINTS D'INTERRUPTION__</u>
 
 - __ORRY DU LABINAS__

@@ -854,6 +854,9 @@ fer en prenant le train à Odeillo, à 1/2 h. de Font-Romeu.
 __Horaire de Font-Romeu__ (aller et retour) : 3h.30, arrêts en sus.
 _(Si on rentre par Bolquère, 4 h.)_
 
+****
+****
+
 <u>__POINTS D'INTERRUPTION__</u>
 
 - __NURIA__

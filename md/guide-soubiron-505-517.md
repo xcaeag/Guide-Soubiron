@@ -615,6 +615,9 @@ Station thermale desservie par un autobus depuis la gare de Ville-
 franche-de-Conflent (6 K.), en attendant l'ouverture d'un chemin de
 ter électrique.
 
+****
+****
+
 <u>__POINTS D'INTERRUPTION__</u>
 
 - __LA PRESTE__

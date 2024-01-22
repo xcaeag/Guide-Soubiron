@@ -742,6 +742,9 @@ Du Pic du Pas de las Aygues au Pic de          } (Arrêts en sus).
 Du Pic de Midi à Siguer................. 2h.15 }
 ```
 
+****
+****
+
 <u>__POINTS D'INTERRUPTION__</u>
 
 - __REFUGE DU SISCA__

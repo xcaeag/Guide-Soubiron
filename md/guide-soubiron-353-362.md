@@ -442,6 +442,9 @@ Du Port au Village de Salau........ 2h.30 }    7h.30
 De Salau à Seix.................... 3h. » } (Arrêts en sus).
 ```
 
+****
+****
+
 <u>__POINTS D'INTERRUPTION__</u>
 
 - __MONGARRI__

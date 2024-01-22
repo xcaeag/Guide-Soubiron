@@ -440,6 +440,9 @@ Du Port au village de Siguer.......... 5h. » } (Arrêts en sus).
 (2 k. 500), pour prendre le train, soit pour Tarascon, soit pour
 Auzat.
 
+****
+****
+
 <u>__POINTS D'INTERRUPTION__</u>
 
 - __LE SERRAT__

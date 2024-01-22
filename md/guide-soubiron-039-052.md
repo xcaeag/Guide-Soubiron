@@ -674,6 +674,9 @@ Du Pic de Ger aux Eaux-Bonnes.......... 4h.   }
 > Nota. - En partant à 4 h., on peut rentrer assez tôt pour
 prendre un train qui quitterait Laruns vers 18 h.
 
+****
+****
+
 <u>__POINTS D'INTERRUPTION__</u>
 
 - __URDOS__

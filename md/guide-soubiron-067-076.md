@@ -425,6 +425,9 @@ longe la rive g. et, 20 min. plus bas, on retrouve la grand'route
 à la cote 587, à 10 k. de Lourdes et à 6 de Lugagnan, où on
 pourra prendre le train pour Cauterets.
 
+****
+****
+
 <u>__POINTS D'INTERRUPTION__</u>
 
 - __ARGELÈS__ 
