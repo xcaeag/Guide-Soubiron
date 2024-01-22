@@ -77,6 +77,7 @@ son nom, l'Araillé est par lui-même sans caractère. Mais c'est
 <div class="page"/>
 
 — p. 113 — (8me EXCURSION) COL D'ARAILLE
+***
 
 le balcon révé pour bien jouir de l'envolée gracieuse de la Pique
 Longue.
@@ -130,6 +131,7 @@ On y trouve des provisions, et le couchage au lit de camp coûte
 <div class="page"/>
 
 — p. 114 — Le VIGNEMALE (8me EXCURSION)
+***
 
 l'ascension en entier par ce dernier, ou en partie par la crête de
 Montferrat. En tardive saison, la partie basse du glacier est très
@@ -181,6 +183,7 @@ par M. Russell en 1893.
 <div class="page"/>
 
 — p. 115 — (8me EXCURSION) CIRQUE D'ESTOM SOUBIRAN
+***
 
 sur la crête séparative, mais un peu en recul vers le N. sur le
 cirque lacustre d'Estom Soubiran. C'est par le Col de Pouymourou 
@@ -232,6 +235,7 @@ gracieuse fleurette bleue qu'on trouve en quantité dans ses alentours.
 <div class="page"/>
 
 — p. 116 — LAC D'ESTOM — PIC de CULAOUS  (8me EXCURSION)
+***
 
 ## TROISIÈME JOURNÉE
 
@@ -282,6 +286,7 @@ suivra presque horizontalement le flanc N. de la crête qui sépare
 <div class="page"/>
 
 — p. 117 — (8me EXCURSION) PIC de CESTREDE
+***
 
 les deux sommets jusqu'au point situé verticalement au-dessous
 du Cestrède. Pendant ce trajet, on longera les bords de deux
@@ -335,6 +340,7 @@ lacets, le sentier conduit, à dr., près d'une source abondante.
 <div class="page"/>
 
 — p. 118 — PIC D'ARDIDEN — LUZ (8me EXCURSION)
+***
 
 ## QUATRIÈME JOURNÉE
 
@@ -379,7 +385,6 @@ au vill. de Sazos où on rejoint la route qui conduit à Luz.
 __Horaire de la Journée :__
 
 ``` 
-
 Du refuge de Culaous à l'Ardiden....... 3h. » }
 De l'Ardiden au Lac Grand.............. 1h.45 }    8h. »
 Du Lac Grand à Sazos................... 2h.45 } (Arrêts en Sus).

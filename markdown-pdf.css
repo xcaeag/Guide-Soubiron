@@ -1,3 +1,7 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
 li,
 ul {
     font-size: 10px;
@@ -19,6 +23,7 @@ strong {
 }
 
 code {
+    font-family: 'Courier New', Courier, monospace;
     line-height: 135%;
     font-size: 8px;
 }
@@ -30,6 +35,7 @@ table {
 
 h1 {
     font-size: 14px;
+    border-bottom-width: 0px;
 }
 
 h2 {
@@ -40,10 +46,11 @@ h2 {
     padding: 0;
     margin-top: 6px;
     margin-bottom: 6px;
-    background-color: None;
+    background-color: #ffffff;
 }
 
 pre {
+    font-family: 'Courier New', Courier, monospace;
     background-color: #ffffff;
     border: 0px;
 }
@@ -52,4 +59,31 @@ pre {
 pre:not(.hljs),
 pre.hljs code>div {
     padding: 1px;
+}
+
+hr {
+    border-bottom: 1px solid;
+}
+
+blockquote:has(ul) {
+    background-color: #d15555;
+    margin-left: 12px;
+    font-size: 12px;
+}
+
+blockquote p {
+    background-color: #ffffff;
+}
+
+blockquote {
+    border-left-style: none;
+    background-color: #ffffff;
+    margin-left: 36px;
+    font-size: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin-left: 10px;
+    padding-left: 0px;
 }

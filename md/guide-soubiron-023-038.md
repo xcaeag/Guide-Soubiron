@@ -167,9 +167,8 @@ Du Pic des Trois Rois au Port d'Ansabère.  1h. » }
 Du Port d'Ansabère à Lescun............... 3h. » }
 ```
 
-———
-
-Dans la carte au 1/100.000, le Port d'Ansabère porte le nom de
+———<br>
+(1) Dans la carte au 1/100.000, le Port d'Ansabère porte le nom de
 Col de Naye, et dans celle d'état-major celui de Col d'Escoueste.
 
 <div class="page"/>
@@ -784,13 +783,12 @@ De Gabas aux Eaux-Chaudes (8 k.)........ 1h.30 }
 
 <u>__POINTS D'INTERRUPTION__</u>
 
->__LESCUN et URDOS__
->- Pour rejoindre ou abandonner aprés les 1re, 2me ou 3me journée.
->
->__GABAS__ 
->- Pour rejoindre ou abandonner après la 4me journée.
->- Pour rejoindre des Eaux-Chaudes (8 k. de route).
->- Pour rejoindre de Laruns (14 k. de route).
+- __LESCUN et URDOS__
+   - Pour rejoindre ou abandonner aprés les 1re, 2me ou 3me journée.
+- __GABAS__ 
+   - Pour rejoindre ou abandonner après la 4me journée.
+   - Pour rejoindre des Eaux-Chaudes (8 k. de route).
+   - Pour rejoindre de Laruns (14 k. de route).
 
 __REFUGE DE POMBIE__
 

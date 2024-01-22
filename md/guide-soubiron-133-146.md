@@ -43,6 +43,7 @@ rendez-vous à Gèdre, vers 13 ou 14 h.
 <div class="page"/>
 
 — p. 135 — (10me EXCURSION) LUZ-GEDRE 136
+***
 
 ## PREMIÈRE JOURNÉE
 
@@ -92,6 +93,7 @@ le sentier de Touyères pour monter, à g., au Turon de Bédous
 <div class="page"/>
 
 — p. 136 — TROUMOUSE-MUNIA (10me EXCURSION)
+***
 
 et de là, à la cabane de Lieousaoubes. Tournant alors un peu à
 dr., direction E.-N.-E., on gagnera de l'alt. à travers des gazonnés, 
@@ -142,6 +144,7 @@ actuelles.
 <div class="page"/>
 
 — p. 137 — (10me EXCURSION) CIRQUE de TROUMOUSE-HEAS
+***
 
 et plonge dans les profondeurs du cirque de Barrosa dont on
 aperçoit les gradins qui s'étagent jusqu'au pic de Las Louséras
@@ -191,6 +194,7 @@ lorsqu'on aura atteint le premier plateau, on quittera le sentier
 <div class="page"/>
 
 — p. 138 — PIC des AIGUILLOUS (10me EXCURSION)
+***
 
 pour tourner à g. et franchir le torrent. Prenant alors la direction 
 N., on zigzaguera les pentes gazonnées de Terre-Arrouye,
@@ -239,6 +243,7 @@ cette arête. A partir de là, on découvrira sa route à mesure, tantôt
 <div class="page"/>
 
 — p. 139 — (10me EXCURSION) PIC de CAMPBIEIL
+***
 
 (3.165m). A environ 500 m. au N., on apercevra la tourelle du pic
 principal (3.175m), et 10 min. suffisent pour y arriver à toute
@@ -288,6 +293,7 @@ pour permettre de sauter le torrent et de passer rive dr. Le sen-
 <div class="page"/>
 
 — p. 140 — PLAN D'ARAGNOUET (10me. EXCURSION)
+***
 
 tier remonte pendant 1/4 d'h. à travers des gazons, puis repart
 en pente douce par la rive dr., à une certaine hauteur. On a constamment 
@@ -343,6 +349,7 @@ boîte à sardines.
 <div class="page"/>
 
 — p. 141 — (10me EXCURSION) PIC MECHANT
+***
 
 couloirs, exactement au S. du pic, existe un puissant contrefort
 dont la partie supérieure forme une crête qui va mourir en
@@ -390,6 +397,7 @@ haut de la muraille, un couloir facile conduit au sommet dans
 <div class="page"/>
 
 — p. 142 — LAC d'OREDON (10me EXCURSION)
+***
 
 1/4 d'h. Si cette voie paraît scabreuse, on n'aura qu'à redescendre
 de quelques m. à dr. pour contourner un petit éperon rocheux.
@@ -443,6 +451,7 @@ Si on le garde le 5me jour, on aura à lui payer une journée supplémentaire
 <div class="page"/>
 
 — p. 143 — (10me EXCURSION) FABIAN
+***
 
 vers la plaine, à travers le roc vif. Quelques min. en aval du pont,
 on passera devant le bureau de poste de Fabian et, immédiatement 
@@ -496,6 +505,7 @@ pont sépare la commune de Tramezaygues de celle d'Aragnouet.
 <div class="page"/>
 
 — p. 144 — LAC de SARROUES - PIC D'ARET  (10me EXCURSION)
+***
 
 g. du torrent de Lassas, ce sentier gagne le haut de la forêt en
 contournant l'éperon N. du Pic des Aiguilles (1.883m).
@@ -547,6 +557,7 @@ et glaciers immaculés, tout est sous les yeux, du Pic
 <div class="page"/>
 
 — p. 145 — (10me ECCURSION) VALLEE de RIOUMAJOU 
+***
 
 Long au Perdighero. On aperçoit presque tous les vill. de la vallée, 
 jusqu'à Arreau, et la vue s'étend jusqu'à la plaine de Lannemezan.
@@ -600,21 +611,19 @@ la construction d'un tramway électrique.
 <div class="page"/>
 
 — p. 146 — SAINT-LARY (10me EXCURSION)
+***
 
 <u>__POINTS D'INTERRUPTION__</u>
 
-__HEAS__ 
-- Pour rejoindre de Gèdre : 2h.30
-- Pour rentrer à Gèdre : 2h. »
-
-__HOURQUETTE DE CAMPBIEIL__
-- Pour rentrer à Gèdre : 2h.45
-- Pour rejoindre de Gëdre : 4h.15
-
-__PLAN D'ARAGNOUET__
-- Pour rejoindre de Saint-Lary : 3h.30
-- Pour rentrer à Saint-Lary : 3h. »
-
-__FABIAN__
-- Pour rejoindre de Saint-Lary : 2h. »
-- Pour rentrer à Saint-Lary : 1h.40
+- __HEAS__ 
+  - Pour rejoindre de Gèdre : 2h.30
+  - Pour rentrer à Gèdre : 2h. »
+- __HOURQUETTE DE CAMPBIEIL__
+  - Pour rentrer à Gèdre : 2h.45
+  - Pour rejoindre de Gëdre : 4h.15
+- __PLAN D'ARAGNOUET__
+  - Pour rejoindre de Saint-Lary : 3h.30
+  - Pour rentrer à Saint-Lary : 3h. »
+- __FABIAN__
+  - Pour rejoindre de Saint-Lary : 2h. »
+  - Pour rentrer à Saint-Lary : 1h.40

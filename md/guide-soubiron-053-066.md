@@ -59,6 +59,7 @@ Bonnes et les Eaux-Chaudes.
 <div class="page"/>
 
 — p. 55 — (3me EXCURSION) ARRIUS-ARREMOULIT
+***
 
 ## PREMIÈRE JOURNÉE
 
@@ -115,6 +116,7 @@ au N.-N.-E. et le petit pic d'Arriel (2.606m), au S.-S.-E.
 <div class="page"/>
 
 — p. 56 — PALLAS (3me EXCURSION)
+***
 
 ## DEUXIÈME JOURNÉE
 
@@ -166,6 +168,7 @@ Isards, tome 2, p. 122.
 <div class="page"/>
 
 — p. 57 —  (3me EXCURSION) ARRIEL
+***
 
 Géodésiens ». Ce trajet, un peu délicat, exige quelque attention.
 
@@ -223,6 +226,7 @@ qui se dirige au N. vers le lac d'Arrius. Là, on franchira une
 <div class="page"/>
 
 — p. 59 — (3me EXCURSION) COL D'ARREMOULIT
+***
 
 croupe, au N.-E., pour retrouver, quelques minutes après, le
 sentier de la veille qui, par le Col d'Arrius, conduit au refuge.
@@ -232,8 +236,8 @@ Horaire direct de l'Arriel, aller et retour, 4 h., arrêts en sus.
 
 ## TROISIÈME JOURNÉE
 
-D'ARRÉMOULIT (2.304m)au REFUGE DE LABASSA (1.970m),
-par le Balaïtous (3.146m).
+__D'ARRÉMOULIT (2.304m)au REFUGE DE LABASSA (1.970m),__<br>
+__par le Balaïtous (3.146m).__
 
 —— GUIDE INDISPENSABLE ——
 
@@ -272,6 +276,7 @@ Batcrabère.
 <div class="page"/>
 
 — p. 60 — BALAITOUS (3me EXCURSION)
+***
 
 Pour un pyrénéiste exercé, le trajet de la « Grande Diagonale »
 est idéal, surtout à l'ascension, si on prend les précautions indiquées 
@@ -324,8 +329,9 @@ Nèous qu'on traversera par la g., le long des rochers, pour
 <div class="page"/>
 
 — p. 61 — (3me EXCURSION) LABASSA
+***
 
--rieure peut être franchie en de nombreuses glissades. On quittera
+rieure peut être franchie en de nombreuses glissades. On quittera
 le glacier avant d'arriver tout à fait au fond, en obliquant à g.,
 vers les pâturages de Lapaca. Là, on trouvera des sentes de
 moutons qui descendent au N.-N.-E. jusqu'au refuge de Labassa (1).
@@ -349,7 +355,8 @@ __Horaire de la Journée :__
 
 ```
 D'Arrémoulit au Balaïtous.......... 5h.   }   7h.45
-Du Balaïtous à Labassa............. 2h.45 } (Arrêts EN US).
+Du Balaïtous à Labassa............. 2h.45 } (Arrêts en sus).
+
     (Pour descendre à Grougne-Pouret, 2 h. en sus.)
 ```
 
@@ -374,6 +381,7 @@ Balaïtous ».
 <div class="page"/>
 
 — p. 62 — GRAND GABIZOS (3me EXCURSION)
+***
 
 Labas. On remontera ce dernier, direction O., après avoir gagné
 le sentier de la rive g. qui passe à une certaine hauteur. Après
@@ -425,8 +433,9 @@ plus que pour quatre ou cinq personnes. C'est un des rares som-
 <div class="page"/>
 
 — p. 63 —  (3me EXCURSION) PETIT GABIZOS
+***
 
--mets sur lesquels on a l'impression du vide tout autour de soi, car
+mets sur lesquels on a l'impression du vide tout autour de soi, car
 on ne peut suivre les lignes de chute jusqu'à la base du massif.
 C'est au petit Gabizos qu'on jouit d'un magnifique panorama,
 surtout sur les plaines de Pau et de Tarbes. Le Balaïtous, vu
@@ -454,8 +463,8 @@ intéressante. A mi-descente, on pourrait faire un crochet à
 g, au N. afin de gagner la crête E. du Gabizos au petit pic de
 Pène d'Aube (1.780m). On a de ce petit. sommet un magnifique
 point de vue sur la partie supérieure de la vallée.
-
-On descendra ensuite par les pentes N.-E., vers le fond du
+>
+> On descendra ensuite par les pentes N.-E., vers le fond du
 vallon d'Escoute-Pout, qui tourne à l'E. pour aboutir au grand
 chemin de chars au pont de Peyrariose, à 3/4 d'h. d'Arrens.
 
@@ -463,14 +472,15 @@ __Horaire de la Journée :__
 
 ```
 De Labassa à Grougne-Pouret........... 2h.   }
-De Grougne-Pouret au Grand Gabizos.... 3h.   }   9h.45
-Du (Grand Gabizos au Petit Gabizos.... 2h.30 } (arrêts en sus).
+De Grougne-Pouret au Grand Gabizos.... 3h.   }    9h.45
+Du Grand Gabizos au Petit Gabizos..... 2h.30 } (arrêts en sus).
 Du Petit Gabizos à Arrens............. 2h.15 }
 ```
 
 <div class="page"/>
 
 — p. 64 — PIC de BAZES (3me EXCURSION)
+***
 
 ## CINQUIÈME JOURNÉE
 
@@ -518,6 +528,7 @@ d'Estrem de Salles qu'on apercevra en entier. Poursuivant sa
 <div class="page"/>
 
 — p. 65 — (3me EXCURSION) SOUM DE GRANQUET
+***
 
 marche vers le N., on descendra au Col d'Espandelès, où passe
 le grand chemin muletier qui fait communiquer la vallée de
@@ -567,6 +578,7 @@ chemin muletier du fond de la vallée. On longera ensuite le ruis-
 <div class="page"/>
 
 — p. 66 — ESTREM de SALLES (3me EXCURSION)
+***
 
 seau de Bergons jusqu'au vill. de Sère où on rejoint la route
 qui, par Gez, conduit directement à Argelès.
@@ -586,18 +598,14 @@ Du Soum de Granquet à Argelès.......... 3h.10 }
  
 <u>__POINTS D'INTERRUPTION__</u>
 
-__ARRÉMOULIT__
-- 1
-    - Pour rejoindre de Laruns par Gabas et Arrius : 8h.
+- __ARRÉMOULIT__
+    - 1° Pour rejoindre de Laruns par Gabas et Arrius : 8h.
     - Pour rentrer à Laruns par cette voie : 7h.30
-- 2
-    - Pour rejoindre de Laruns par Soussoueou et Artouste : 5h.
+    - 2° Pour rejoindre de Laruns par Soussoueou et Artouste : 5h.
     - Pour rentrer à Laruns par cette voie : 7h.30.
-
-__LABASSA__
-- Pour rejoindre d'Argelès : 6h.30.
-- Pour rentrer à Argelès : 6h.
-
-__ARRENS__
-- Pour rejoindre d'Argelès (13 k. de route) 3h.
-- Pour rentrer à Argelès : 2h.30
+- __LABASSA__
+  - Pour rejoindre d'Argelès : 6h.30.
+  - Pour rentrer à Argelès : 6h.
+- __ARRENS__
+  - Pour rejoindre d'Argelès (13 k. de route) 3h.
+  - Pour rentrer à Argelès : 2h.30

@@ -30,9 +30,9 @@ Entre Lourdes et Ax-les-Thermes<br>
 Par PIERRE SOUBIRON<br>
 AVEC LA COLLABORATION DE Raymond d'ESPOUY,<br>
 pour la parlie cartographique.<br>
-—o—<br>
+—oOo—<br>
 42 CARTES, 5 PLANS et 5 VUES<br>
-.<br>
+*<br>
 TOULOUSE<br>
 ÉDITIONS P. et G. SOUBIRON<br>
 9, rue de la Poste, 9<br>
@@ -124,8 +124,8 @@ les cimes qu'ils font ascendre. Les nouveaux refuges faciliteront
 certaines excursions, en en réduisant la fatigue, et amélioreront
 le couchage dans bien des cas.
 
-Quant à la grande nouveauté : l'incorporation des 86 itinéraires 
-en moyenne et petite montagne. elle sera, pour les débutants, 
+Quant à la grande nouveauté : __l'incorporation des 86 itinéraires 
+en moyenne et petite montagne.__ elle sera, pour les débutants, 
 un champ d'agrément et d'apprentissage et, pour les pyrénéistes 
 exercés, un choix de programmes d'entrainement, 
 si nécessaire au début de la saison.
@@ -164,8 +164,8 @@ le plus grand nombre possible.
 <u>__BONNES ÉPOQUES__</u>
 
 Quoique presque toutes les excursions puissent être faites du
-1er juillet au 30 septembre (quelques-unes même du 15 juin au
-15 octobre), j'indique pour chacune d'elles les époques les plus
+1er juillet au 30 septembre _(quelques-unes même du 15 juin au
+15 octobre)_, j'indique pour chacune d'elles les époques les plus
 favorables, afin de conserver la plus grande chance de réussite.
 
 <u>__CARTES ET PLANS__</u>
@@ -181,7 +181,7 @@ La forme absolument portative de mon guide ne m'a pas per-
 
 — p. 7 —
 
--mis de le surcharger de cartes à grande échelle, mais, en tête
+mis de le surcharger de cartes à grande échelle, mais, en tête
 de chaque programme, or trouvera une carte esquisse de
 l'excursion.
 
@@ -210,15 +210,11 @@ quoique très belles, m'ont paru nécessiter un plan particulier à
 yrande échelle. Mon guide contient donc, en sus des cartes spéciales 
 à chaque excursion, 5 plans tirés à part :
 
-1° _Un plan du Balaïtous et de ses abords immédiats;_
-
-2° _Un plan du massif du Grand Batchimale ou Pic Schrader;_
-
-3° _Un plan de la Sierra de Montarto;_
-
+1° _Un plan du Balaïtous et de ses abords immédiats;_<br>
+2° _Un plan du massif du Grand Batchimale ou Pic Schrader;_<br>
+3° _Un plan de la Sierra de Montarto;_<br>
 4° _Un plan des cirques du Sisca, de l'Albe, du Rulle et des
-régions de Joucla et de Fontargente._
-
+régions de Joucla et de Fontargente._<br>
 5° _Un plan du massif de Tabe._
 
 <u>__CONCORDANCE DES EXCURSIONS__</u>
@@ -328,14 +324,14 @@ locale, cela pour faciliter l'obtention de renseignements précis.
 <u>__POINTS D'INTERRUPTION__</u>
 
 Si on ne veut faire qu'une partie de l'excursion, on trouvera à
-la fin de chaque programme les « Points d'Interruption » où on
+la fin de chaque programme les __« Points d'Interruption »__ où on
 pourra, soit quitter la caravane, soit la rejoindre.
 
 <u>__VARIANTES POSSIBLES__</u>
 
 Pour quelques-uns des programmes, selon les buts du lendemain, 
 il est possible d'adopter des variantes en fin de journée;
-je l'indique sous le titre : « Variantes Possibles », toutes les fois
+je l'indique sous le titre : __« Variantes Possibles »__, toutes les fois
 que cela est utile.
 
 <div class="page"/>
@@ -348,8 +344,8 @@ que cela est utile.
 paraîtront puérils aux vieux pyrénéistes exercés; aussi, 
 est-ce surtout aux débutants, c'est-à-dire au grand nombre,
 qu'ils s'adressent.
-
-Ayant pendant plus de vingt ans, et d'une façon continue,
+>
+>Ayant pendant plus de vingt ans, et d'une façon continue,
 dirigé de nombreuses caravanes, l'expérience m'a appris quelles
 sont des conditions nécessaires pour réaliser les excursions sans
 danger et avec le minimum de fatigue, de temps et de frais.
@@ -608,8 +604,8 @@ Par Caravane
 - Un paquet de coton hydrophile. 
 - Un petit paquet de Taffetas Français épiderma.
 
-En sus des accessoires ci-dessus, chaque pyrénéiste
-doit être muni de :
+__En sus des accessoires ci-dessus, chaque pyrénéiste
+doit être muni de :__
 
 1. Un bon piolet dont le poids oscillera (selon la taille du touriste) 
 entre 900 et 1.100 grammes, et dont les dimensions seront

@@ -43,10 +43,8 @@ Situé au S.-O. et à moins de 4 h. de Lourdes, ce modeste
 sommet se trouve dans l'axe des trois vallées suivantes, qui
 conduisent le regard vers les hautes cimes :
 
-a) Celle d'Arrens, vers le Balaïtous;
-
-b) Celle de Cauterets, vers l'Ardiden et le Vignemale;
-
+a) Celle d'Arrens, vers le Balaïtous;<br>
+b) Celle de Cauterets, vers l'Ardiden et le Vignemale;<br>
 c) Celle de Luz, vers Gavarnie, le Massif Calcaire, la Munia,
 le Pic Long, le Néouvielle et le Pic de Midi de Bigorre.
 
@@ -61,7 +59,7 @@ le Pic Long, le Néouvielle et le Pic de Midi de Bigorre.
 <div class="page"/>
 
 — p. 69 — (4me EXCURSION) MONTEGUT
- 
+***
 
 ## PREMIÈRE JOURNÉE
 
@@ -105,6 +103,7 @@ Droit au S., on apercevra une sente rapide qui monte en ligne
 <div class="page"/>
 
 — p. 70 — PIBESTE (4me EXCURSION)
+***
 
 directe, à travers des taillis, jusqu'à la crête. Il faut, en 
 contournant un mamelon rocheux par la g., rejoindre cette sente
@@ -156,6 +155,7 @@ Après une petite descente jusqu'à Sère où on franchit le Ber-
 <div class="page"/>
 
 — p. 71 — (4me EXCURSION) ARGELES
+***
 
 -gons, elle remonte au S.-E. jusqu'au village de Gez (660m), où commence 
 la descente définitive sur Argelès. A 1/4 d'h. de Gez, à un
@@ -207,8 +207,9 @@ On remarquera au passage, sur la g., la jonction du beau sen-
 <div class="page"/>
 
 — p. 72 — HAUTACAMP (4me EXCURSION)
+***
 
--tier qui monte de Berbérust, par Lias; c'est par là qu'on descendra. 
+tier qui monte de Berbérust, par Lias; c'est par là qu'on descendra. 
 De ce point, Cauterets apparait en partie.
 
 Parvenu au col spacieux qui forme un petit plateau au haut de
@@ -251,7 +252,7 @@ Lourdes.
 __Horaire de la Journée :__
 
 ```
-De Boo-Silhen au Hautacamp.......... 4h.30 } 7h.45
+De Boo-Silhen au Hautacamp.......... 4h.30 }   7h.45
 Du Hautacamp à Lugagnan............. 3h.15 } (Arrêts en sus).
 ```
 
@@ -262,6 +263,7 @@ Gazost.
 <div class="page"/>
 
 — p. 73 — (4me EXCURSION) GER De LOURDES
+***
 
 ## TROISIÈME JOURNÉE
 
@@ -309,6 +311,7 @@ y monte gratis.
 <div class="page"/>
 
 — p. 74 — GERMS (4me EXCURSION)
+***
 
 de villes et de villages du Béarn, du Gers et des Hautes-Pyrénées.
 Le lac de Lourdes est là, tout près et, plus loin et dans son axe,
@@ -359,6 +362,7 @@ Aux granges de Bourdalats, coule, près de la route, une très
 <div class="page"/>
 
 — p. 75 — (4me EXCURSION) CLIQUE DE GERMS
+***
 
 bonne source; on y fera sa provision d'eau, car celle du vill. de
 Germs n'est pas des meilleures.
@@ -396,9 +400,10 @@ __Horaire de la Journée :__
 
 ```
 Du Pic du Ger à Germs............. 3h.30 }
-De Germs à la Clique et retour.... 0h.40 } 7h.45
+De Germs à la Clique et retour.... 0h.40 }   7h.45
 De Germs à Labassère.............. 2h.10 } (Arrêts en sus).
 De Labassère à Bagnères (6 k.).... 1h.15 }
+
      (Si on est monté au Ger à pied, 1h.15 en sus).
 ```
 
@@ -411,8 +416,9 @@ Cauterets, c'est de la Clique de Germs qu'on rentrera à Lour-
 <div class="page"/>
 
 — p. 76 — LUGAGNAN (4e EXCURSION)
+***
 
--des, par la voie suivante. Du sommet de la Clique, on descendra 
+des, par la voie suivante. Du sommet de la Clique, on descendra 
 à l'O. par des sentes faciles jusqu'aux bords de l'Aucère,
 qu'on rejoindra près de sa source. Là, un grand sentier en
 longe la rive g. et, 20 min. plus bas, on retrouve la grand'route
@@ -421,7 +427,9 @@ pourra prendre le train pour Cauterets.
 
 <u>__POINTS D'INTERRUPTION__</u>
 
-__ARGELÈS__ :  Pour abandonner après le premier jour.
+- __ARGELÈS__ 
+  - Pour abandonner après le premier jour.
 
-__LOURDES__ :  Soit pour abandonner après les deux premiers jours, soit
+- __LOURDES__ 
+  - Soit pour abandonner après les deux premiers jours, soit
 pour rejoindre.
