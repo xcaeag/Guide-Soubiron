@@ -63,12 +63,14 @@ N. jusqu'à Sentein.
 <div class="page"/>
 
 — p. 332 — DE SALARDU aux ENCANTADOS (25me EXCURSION)
+****
 
 ![carte p332](../maps/guide-soubiron-0332-carte.jpg)
 
 <div class="page"/>
 
 — p. 333 — (25me EXCURSION) SOURCES DE LA GARONNE
+****
 
 ## PREMIÈRE JOURNÉE
 
@@ -122,6 +124,7 @@ de Marignac.
 <div class="page"/>
 
 — p. 334 — CIRQUE DE COLOMES (25me EXCURSION)
+****
 
 ## DEUXIÈME JOURNÉE
 
@@ -173,6 +176,7 @@ del Cap de Colomès ». V. Annuaire du C. A. F., année 1877, p. 559.
 <div class="page"/>
 
 — p. 335 — (25me EXCURSION) GRAND PIC de COLOMES
+****
 
 reconnaissable à la petite ile rocheuse située à son centre, puis
 on longera par l'E. le Lac Llarc. Immédiatement après, le sentier
@@ -223,6 +227,7 @@ On redescendra au S. jusqu'à la dépression du chaînon secon-
 <div class="page"/>
 
 — p. 336 — PLETA de Los GAVACHOS (25me EXCURSION)
+****
 
 daire et, après avoir repris le sac, on tournera à g., au S.-E.,
 pour couper un petit. vallon par le haut. On n'aura plus qu'à
@@ -274,6 +279,7 @@ supérieur pour remonter en face au deuxième col. On jouira en
 <div class="page"/>
 
 — p. 337 — (25me EXCURSION) LE GRAND PEGUERA
+****
 
 y arrivant d'un point de vue magnifique sur une région splendide
 A dr., au S., le Grand Péguéra parait dans toute sa majesté; 
@@ -323,6 +329,7 @@ de m. à l'O. du lac. On pourra toujours coucher dans la forêt
 <div class="page"/>
 
 — p. 338 — POINTE et CIRQUE de SABOUREDE (25me EXCURSION)
+****
 
 voisine. A quelques min. du déversoir du lac, sur le chemin
 d'Espot, on trouve encore la chapelle où l'on se rend tous les
@@ -375,6 +382,7 @@ de la Ratère.
 <div class="page"/>
 
 — p. 339 — (25me EXCURSION) VALLEE De BAGERQUE
+****
 
 On suivra la rive g. 20 min. environ, on reviendra momentanément
 rive dr., et on repassera définitivement rive g. en longeant
@@ -433,6 +441,7 @@ avec la gare de Saint-Girons.
 <div class="page"/>
 
 — p. 340 — DE SALARDU A SENTEIN (25me EXCURSION)
+****
 
 ![carte p340](../maps/guide-soubiron-0340-carte.jpg)
 
@@ -487,6 +496,7 @@ la face S.-O.
 <div class="page"/>
 
 — p. 342 — SENTEIN  (25me EXCURSION)
+****
 
 Le Maubermé est formé d'une étroite crête d'une trentaine de
 m., orientée du N.-O. au S.-E. A chacune des extrémités, s'élève

@@ -64,6 +64,7 @@ Maudit, au cas où, pour une cause quelconque, on aurait échoué
 <div class="page"/>
 
 — p. 302 — PIC RUSSELL (22me EXCURSION)
+****
 
 ## PREMIÈRE JOURNÉE
 
@@ -117,6 +118,7 @@ d'un névé situé au pied des murailles, on obliquera légèrement
 <div class="page"/>
 
 — p. 303 — (22me EXCURSION) LLOSAS ET RIBERETA
+****
 
 lisière N. du névé. A partir de là, on reprendra la direction S.-O.
 et on descendra par le vallon de Llosas, en laissant à dr. les lacs
@@ -170,6 +172,7 @@ traces du sentier par lequel on descendra du Malibierne le lendemain.
 <div class="page"/>
 
 — p. 304 — GRAND PIC de MALIBIERNE (22me EXCURSION)
+****
 
 __<p class="centre">Course C</p>__
 
@@ -222,6 +225,7 @@ qu'il faut monter pour bien apercevoir la gigantesque structure
 <div class="page"/>
 
 — p. 305 — (22me EXCURSION) PIC OCCIDENTAL de MALIBIERNE
+****
 
 de l'immense crête des Monts-Maudits et de ses puissants contre-
 forts méridionaux. C'est là le grand intérêt de cette ascension.
@@ -243,9 +247,8 @@ Ribéréta.
 
 __Horaire de la Journée :__
 
-```
-De la Cabane de Ribéréta au Col de Malibierne
-.............................. 2h.50  } 61
+``` *****
+De la Cabane de Ribéréta au Col de Malibierne. 2h.50  } 61
 Du Col au grand Pic de Malibierne...... t h. 25 1. 30 }
 Du grand au petit Pic de Malibierne..... 0h.15 } (Arrêts en sus).
 Du petit Pic à la Cabane de Ribéréta .... 2h. »  }
@@ -274,6 +277,7 @@ cette traversée pourrait être reprise.
 <div class="page"/>
 
 — p. 306 — COL DE GREGONIO (22me EXCURSION)
+****
 
 __Conseils.__ — __Itin. recomm.__ — Droit au N.-E. de la cabane, le
 vallon d'Eroueil grimpe rapide en conduisant le regard vers le
@@ -326,6 +330,7 @@ Depuis le Col de Grégonio, on traverse un des paysages les
 <div class="page"/>
 
 — p. 307 — (22me EXCURSION) BRECHE ET PIC D'ALBE
+****
 
 plus désolés, en même temps que l'un des plus grandioses des
 Pyrénées. Après la terrifiante muraille du Col Maudit, on côtoie
@@ -368,7 +373,7 @@ pour aller rejoindre, au fond du vallon, le sentier qui mène directement
 
 __Horaire de la Journée :__
 
-```
+``` *****
 De la Cabane de Ribéréta au Col de Gré-  }
 OI nous onnse eee. 3h. » } 8h.45
 Du Col de Grégonio au Pic d'Albe........ 3h.30 } (Arrêts en sus).
@@ -378,6 +383,7 @@ Du Pic d'Albe à La Rencluse............ 2h.15 }
 <div class="page"/>
 
 — p. 308 — NOTICE sur Le NETHOU (22me EXCURSION)
+****
 
 __<p class="centre">Course D</p>__
 
@@ -430,6 +436,7 @@ qui descend jusqu'au Pic de La Rencluse, et qu'on nomme
 <div class="page"/>
 
 — p. 309 — (22me EXCURSION) GLACIER du NETHOU
+****
 
 « Crête du Portillon ». C'est dans ce chaînon que s'échancrent
 les deux passages appelés « Portillon d'en haut » et « Portillon
@@ -482,6 +489,7 @@ qui permet de franchir une crête secondaire.
 <div class="page"/>
 
 — p. 310 — Le NETHOU (22me EXCURSION)
+****
 
 n'offre aucune difficulté matérielle, mais qui nécessite une certaine
 prudence. Si les crevasses sont très ouvertes, on les contournera
@@ -537,6 +545,7 @@ l'après-midi au lieu de rentrer à Luchon.
 <div class="page"/>
 
 — p. 311 — (22me EXCURSION) PORT DE LA PICADE
+****
 
 ## APRÈS-MIDI DE RETOUR
 
@@ -586,6 +595,7 @@ qui descend à g., on poursuivra tout droit, à toute crête, jusqu'au
 <div class="page"/>
 
 — p. 312 — SOUM de L'ESCALETTE (22me EXCURSION)
+****
 
 Soum de l'Escalette (2.454m) qui n'est qu'à quelques min. On
 jouira là d'un très beau belvédère, et on pourra donner un dernier
@@ -625,10 +635,9 @@ D l'Hospice de France à Luchon               }    6h
 
 <u>__POINT UNIQUE D'INTERRUPTION__</u>
 
-__LA RENCLUSE__
-
-- Soit pour rejoindre de Luchon.
-- Soit pour abandonner après une excursion.
+- __LA RENCLUSE__
+  - Soit pour rejoindre de Luchon.
+  - Soit pour abandonner après une excursion.
 
 ———<br>
 (1) Le mot Escalette signifie « Petite Echelle ».
