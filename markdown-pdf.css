@@ -22,7 +22,7 @@ p {
     margin-top: 5px;
     margin-bottom: 3px;
     text-align: justify;
-    text-indent: 8px;
+    /*text-indent: 8px;*/
 }
 
 strong {
