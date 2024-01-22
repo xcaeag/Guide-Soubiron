@@ -382,7 +382,7 @@ entre le pic d'Anie et le Balaïtous. Le massif de Sesques
 
 <div class="page"/>
 
-— p. 31 —   (1ère EXCURSION) CIRQUE D'OLIBON. — LAC D'ESTAES
+— p. 31 —   (1re EXCURSION) CIRQUE D'OLIBON. — LAC D'ESTAES
 ****
 
 fait un très bel effet et on distingue très bien les pics de Larry
@@ -570,7 +570,7 @@ cirque lacustre de Bious qui ne comprend pas moins de
 sept lacs dont quatre sont assez importants.
 
 Le 30 août 1917, les deux petits situés au S.-E. du Lac Bersou
-(2.075m) étaient glacés. |
+(2.075m) étaient glacés.
 
 Pour compléter le panorama et aussi pour voir de plus près le
 Pic de Midi d'Ossau, on fera, au N.-E. du Col, l'ascension facile

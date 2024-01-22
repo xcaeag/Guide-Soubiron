@@ -293,7 +293,7 @@ une ascension de 500 m., on utilisera le premier départ du funiculaire,
 qui a lieu vers 7 h., pour monter au pic du Ger. Dans
 tous les cas, un grand chemin muletier, qui s'amorce derrière
 la gare du funiculaire, conduit au sommet en une dizaine de
-lacets. |
+lacets.
 
 Au haut du Ger, au belvédère du Touring-Club, on trouve une
 table d'orientation (1) qui permet d'identifier rapidement l'admirable 

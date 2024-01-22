@@ -2,12 +2,18 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-li,
+ol,
 ul {
     font-size: 10px;
     line-height: 100%;
     margin-top: 5px;
     margin-bottom: 3px;
+    margin-left: 10px;
+    padding-left: 0px;
+}
+
+ul {
+    list-style-type: none;
 }
 
 p {
@@ -80,10 +86,4 @@ blockquote {
     background-color: #ffffff;
     margin-left: 36px;
     font-size: 10px;
-}
-
-ul {
-    list-style-type: none;
-    margin-left: 10px;
-    padding-left: 0px;
 }

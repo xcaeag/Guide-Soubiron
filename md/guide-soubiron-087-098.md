@@ -300,7 +300,7 @@ nombreux lacets, descend, par la rive dr., jusqu'au fond de la
 
 <div class="page"/>
 
-— p. 94 — LAC de GAUBE | (6me EXCURSION)
+— p. 94 — LAC de GAUBE (6me EXCURSION)
 ****
 
 vallée de Gaube où il rejoint le sentier muletier du Vignemale.

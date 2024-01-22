@@ -311,7 +311,7 @@ pour attaquer le rocher et l'ascension se continue, direction E,
 par la rive dr. du torrent. Parvenu en vue du glacier O du Posets,
 vers 2.800 d'alt., on grimpera à g., par une pente rude qui aboutit
 au glacier supérieur situé au N.-N.-O. du pic, vers 3.100 m. C'est
-là qu'on rencontre le plus mauvais terrain de la journée. |
+là qu'on rencontre le plus mauvais terrain de la journée.
 
 Dans un plateau assez incliné, la pierraille s'incruste dans la
 glace vive, ce qui en facilite l'ascension; mais, pendant 3/4 d'h.
