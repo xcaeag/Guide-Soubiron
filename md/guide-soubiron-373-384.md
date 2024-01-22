@@ -55,12 +55,14 @@ de l'Intérieur « Certescons ». Les avis étant partagés, j'écris à nouveau
 <div class="page"/>
 
 — p. 374 — (29me EXCURSION) DE SAINT-GIRONS A AUZAT
+****
 
 ![carte p374](../maps/guide-soubiron-0374-carte-portrait.jpg)
 
 <div class="page"/>
 
 — p. 375 — (29me EXCURSION) CIRQUE de CAGATEILLES
+****
 
 ## PREMIÈRE JOURNÉE
 
@@ -108,6 +110,7 @@ De Saint-Lizier au Cirque de Cagateilles, 2h.30, (Arrêts en sus).
 <div class="page"/>
 
 — p. 376 — PIC de CERTESCONS (29me EXCURSION)
+****
 
 ## DEUXIÈME JOURNÉE
 
@@ -157,6 +160,7 @@ dont le point culminant (2.739m), qui n'est qu'à 1.500 m.
 <div class="page"/>
 
 — p. 377 — (29me EXCURSION) LAC de CERTESCONS - BOAHIL
+****
 
 environ, produit un grand effet. Elle sépare deux régions splendides
 égayées par de nombreuses nappes bleues. Du Certescons, on
@@ -213,6 +217,7 @@ un tram électrique depuis Oust (15 K.) et un courrier, de Saint-Girons
 <div class="page"/>
 
 — p. 378 — VALLEE DE CASTILLO (29me EXCURSION)
+****
 
 impétueux qui prend naissance sous les ports de l'Artigue (2.319m)
 et de Guillou (2.342m), se jette à la Noguera de Cardos, à Tabescan
@@ -263,6 +268,7 @@ l'étang de Turgulla qui est situé en France, sur le versant N.
 <div class="page"/>
 
 — p. 379 — (29me EXCURSION) PORT de SOUNOU - PIC DE TURGULLA
+****
 
 Le sentier passe près du premier lac qu'il longe par la dr., puis,
 en de multiples lacets par un terrain facile, monte directement
@@ -315,6 +321,7 @@ La cascade d'Arse est l'une des plus belles des Pyrénées; en
 <div class="page"/>
 
 — p. 380 — CASCADE D'ARSE (29me EXCURSION)
+****
 
 temps ordinaire, elle comprend trois chutes superposées. Celle
 du milieu forme un panache de 50 à 60 m. de largeur. Les années
@@ -368,6 +375,7 @@ un peu exercé.
 <div class="page"/>
 
 — p. 381 — (29me EXCURSION) AULUS
+****
 
 A l'E. d'Aulus, au-dessus de la dernière maison, on quittera
 le chemin de Castel Minier pour prendre le sentier qui remonic
@@ -419,6 +427,7 @@ du cirque, on trouve une belle cabane et, après une descente de
 <div class="page"/>
 
 — p. 382 — LAC du GARBET  (29me EXCURSION)
+****
 
 2 min., on franchit le Garbet sur un alignement de grosses pierres
 On passe alors définitivement sur la rive g., et c'est sur les
@@ -471,6 +480,7 @@ gare de Tarascon (18 k.).
 <div class="page"/>
 
 — p. 383 — (29me EXCURSION) PORT DE SALEIX - PIC de MONT CEINT
+****
 
 port de Saleix. Ce dernier est une route en construction, car c'est
 par le port de Saleix que passera la grande route des Pyrénées.
@@ -523,6 +533,7 @@ Mont Ceint. La ville d'Aulus paraît en entier; on domine toute la
 <div class="page"/>
 
 — p. 384 — ETANGS de BASSIES (29me EXCURSION)
+****
 
 vallée du Garbet et on aperçoit encore les trois quarts de son
 lac. A l'O., on a sous les pieds la mine des Argentières et le petit
@@ -568,8 +579,7 @@ Du Cabanatous à Auzat................... 3h.10 }
 
 <u>__POINTS D'INTERRUPTION__</u>
 
-__AULUS__
-
-- Soit pour abandonner après la 3e ou 4e journée, soit
+- __AULUS__
+  - Soit pour abandonner après la 3e ou 4e journée, soit
 pour rejoindre de Saint-Girons (32 k.), afin d'effectuer la 
 5e journée.

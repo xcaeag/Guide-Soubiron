@@ -41,12 +41,14 @@ vue d'ensemble sur la magnifique région qu'on va explorer.
 <div class="page"/>
 
 — p. 394 — ENVIRONS D'AUZAT (31me EXCURSION)
- 
+ ****
+
 ![carte p394](../maps/guide-soubiron-0394-carte.jpg)
 
 <div class="page"/>
 
 — p. 395 — (31me EXCURSION) ROC de QUERQUEOU
+****
 
 ## PREMIÈRE JOURNÉE
 
@@ -90,6 +92,7 @@ Querquéou (1.887m).
 <div class="page"/>
 
 — p. 396 — ORUS — VICDESSOS (31me EXCURSION)
+****
 
 Le Roc de Querquèou est le dernier sommet important du
 chaînon à l'E. des Trois Seigneurs, et l'un des mieux situés
@@ -131,7 +134,8 @@ localité à l'autre.
 <div class="page"/>
 
 — p. 397 — (3lme EXCURSION) ETANG D'IZOURT
- 
+****
+
 ## DEUXIÈME JOURNÉE
 
 __Ascension de l'Etang d'Izourt (1.642m), avec retour à Auzat__<br>
@@ -177,6 +181,7 @@ lac dont les nuances varient sous le jeu de la lumière.
 <div class="page"/>
 
 — p. 398 —  BEDE d'OLBIER (31me EXCURSION)
+****
 
 Pour avoir une vue plus complète de la région, on s'élèvera
 direction N.-E., afin de rejoindre l'admirable sentier en corniche 
@@ -217,6 +222,7 @@ D'Olbier à Auzat ...................... 0h.45 }
 <div class="page"/>
 
 — p. 399 — (31me EXCURSION) PIC de RISOUL
+****
 
 ## TROISIÈME JOURNÉE
 
@@ -265,6 +271,7 @@ aboutira au Col de Grail (1.500m), près du refuge forestier. On
 <div class="page"/>
 
 — p. 400 — PIC de LERCOUL (31me EXCURSION)
+****
 
 déposera là le sac et, à travers la forêt et les taillis, on montera
 droit au N., pour faire l'ascension du Pic de Lercoul (1.687m).
@@ -307,6 +314,7 @@ Du Pic de Lercoul à Vicdessos.......... 2h.45 }
 <div class="page"/>
 
 — p. 401 — (31me EXCURSION) PIC des TROIS SEIGNEURS
+****
 
 ## QUATRIÈME JOURNÉE
 
@@ -357,7 +365,8 @@ Le Pic des Trois Seigneurs comprend deux sommets, c'est à
 
 <div class="page"/>
 
-— p. 402 — VALLEÉ DE RABAT
+— p. 402 — VALLEÉ DE RABAT *****
+****
 
 la pointe S.-E., point culminant du massif, qu'on trouve la table
 des Trois Seigneurs, sorte de dalle plate qui surmonte le sommet 
@@ -394,11 +403,10 @@ Du Pic des Trois Seigneurs à Tarascon. 4h.25 }
  
 <u>__POINTS D'INTERRUPTION__</u>
 
-__AUZAT__
-- Pour rejoindre où abandonner après la première ou deuxième journée.
-
-__VICDESSOS__
-- Pour abandonner après la troisième journée ou pour rejoindre, afin d'effectuer la quatrième.
+- __AUZAT__
+    - Pour rejoindre où abandonner après la première ou deuxième journée.
+- __VICDESSOS__
+    - Pour abandonner après la troisième journée ou pour rejoindre, afin d'effectuer la quatrième.
 
 ———<br>
 (1) Pour les gens du pays, c'est ce dernier sommet qui serait le

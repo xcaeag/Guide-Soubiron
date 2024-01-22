@@ -51,12 +51,14 @@ clé du refuge d'En-Beys; on s'entendra avec lui à ce sujet.
 <div class="page"/>
 
 — p. 470 — D'AX-LES-THERMES A BOURG-MADAME (38me EXCURSION)
+****
 
 ![carte p470](../maps/guide-soubiron-0470-carte-portrait.jpg)
 
 <div class="page"/>
 
 — p. 471 — (38me EXCURSION) MERENS — VALLEE du NABRE
+****
 
 ## PREMIÈRE JOURNÉE
 
@@ -105,6 +107,7 @@ mot « Porteille » signifie une brèche, un étroit passage.
 <div class="page"/>
 
 — p. 472 — PIC de L'ETANG-FAURY (38me EXCURSION)
+****
 
 Ariège. Ses abords immédiats sont splendides. Des vallées se
 creusent dans toutes les directions et, entre elles, les crêtes
@@ -159,6 +162,7 @@ Du Pic de l'Etang-Faury au refuge d'En-      }
 <div class="page"/>
 
 — p. 473 — (38me EXCURSION) PORTEILLE D'ESPAGNXE 
+****
 
 ## DEUXIÈME JOURNÉE
 
@@ -208,6 +212,7 @@ ses pieds. au S. de la Porteille, brille l'étang supérieur de la
 <div class="page"/>
 
 — p. 474 — PIC de PRIGUE (38me EXCURSION)
+****
 
 Coume de la Tet, source principale de ce fleuve. Pour aller d'Ax
 à la Cerdagne par la montagne, on ne peut choisir une plus
@@ -256,6 +261,7 @@ a été en partie submergé. On fera donc bien d'aller rejoindre, en
 <div class="page"/>
 
 — p. 475 — (38me EXCURSION) LA BOUILLOUSE
+****
 
 amont de la Bouillouse, le sentier qui descend de la Porteille
 d'Espagne el d'arriver au déversoir par la rive dr.
@@ -307,6 +313,7 @@ franchira pas le torrent et on restera constamment sur la rive dr.
 <div class="page"/>
 
 — p. 476 — COL des BESINEILLES (38me EXCURSION)
+****
 
 Parvenu en haut du vallon, au point où celui-ci se transforme
 en cirque, on laissera à dr. le sentier qui grimpe dans son axe
@@ -358,6 +365,7 @@ Serre Blanche.
 <div class="page"/>
 
 — p. 477 — (38me EXCURSION) PIC PEDROUX
+****
 
 du Lanoux et des Bésines, et, lorsqu'on arrive au sommet du
 Pédroux N., on jouit de lun des plus jolis belvédères de la
@@ -407,6 +415,7 @@ récents ont élevé l'alt. de ses eaux à 2.176 m.
 <div class="page"/>
 
 — p. 478 — LAC de LANOUX (38me EXCURSION)
+****
 
 permettra d'en faire l'ascension le lendemain, même avec du
 brouillard.
@@ -453,6 +462,7 @@ Des Pics Pédroux au Lanoux................. 1h.45 }
 <div class="page"/>
 
 — p. 479 — (38me EXCURSION) LE CARLITTE
+****
 
 ## QUATRIÈME JOURNÉE
 
@@ -500,6 +510,7 @@ Carlitte, entre le sommet 2,915, au N., et le sommet principal
 <div class="page"/>
 
 — p. 480 — COL du CARLITTE (38me EXCURSION)
+****
 
 en corniche, on contournera le haut du ravin pour aboutir directement
 à la brèche du Carlitte. Dans 2 min., on fera, à g., le
@@ -552,6 +563,7 @@ pentes S. du Pic de Font-Vive. De la cabane du pêcheur, on longe
 <div class="page"/>
 
 — p. 481 — (38me EXCURSION) ETANGS de FONT-VIVE — PORTE
+****
 
 le torrent par la rive dr. jusqu'à la passerelle qui domine la
 cascade. Là, alors que le torrent plonge dans les abîmes du fond
@@ -605,6 +617,7 @@ on prendra le chemin de traverse qui monte, en 30 min., au Col
 <div class="page"/>
 
 — p. 482 — COL de PUYMORENS (38me EXCURSION)
+****
 
 de Puymorens (1.918m). On y jouit d'un magnifique point de vue
 et on aperçoit, notamment au N.-O., une grande partie des crêtes
@@ -654,6 +667,7 @@ principale source de l'Ariège est en Andorre. En effet, toute la
 <div class="page"/>
 
 — p. 483 — (38me EXCURSION) LAC ET PORT DE FONT-NEGRE
+****
 
 rive g. de l'Ariège, qu'on appelle « la Soulane », appartenant à
 l'Andorre jusqu'au lac de Font-Nègre, il est probable que la ligne
@@ -704,6 +718,7 @@ de disparaître.
 <div class="page"/>
 
 — p. 484 — PIC NEGRE D'EMBALIRE (38me EXCURSION)
+****
 
 Porteille Blanche d'Andorre. Si les faces E. et S. sont faciles, la
 face N. des deux sommets est inaccessible, car elle plonge verticalement
@@ -754,6 +769,7 @@ bas du port, on laissera à dr. le sentier qui, par l'étang de las
 <div class="page"/>
 
 — p. 485 — (38me EXCURSION) PIC DE CAMPCARDOS
+****
 
 Passadéras, descend à la Porteille Blanche. On dégringolera à
 travers les pelouses, direction S.-E., afin de rejoindre le ruisseau
@@ -804,6 +820,7 @@ plonger jusqu'au fond de la vallée,
 <div class="page"/>
 
 — p. 486 — PORTA — BOURG-MADAME (38me EXCURSION)
+****
 
 Quoi qu'en disent certains guides, il n'y a dans cette descente
 ni danger, ni difficulté. Ce sont, il est vrai, des pentes inclinées
@@ -834,13 +851,11 @@ Du Pic de Campcardos à Porta............ 2h.45 }
 
 <u>__POINTS D'INTERRUPTION__</u>
 
-__LA BOUILLOUSE__
-- Pour rejoindre de Montlouis (14 k.) : 4 h.
-- Pour descendre à Montlouis : 3 h. »
-
-__LAC DE LANOUX__
-- Pour rejoindre de Porté : 2h.30
-- Pour descendre à Porté :  2h. »
-
-__PORTÉ__
-- Soit pour rejoindre pour faire la 5° journée, soit pour abandonner après la 4e.
+- __LA BOUILLOUSE__
+  - Pour rejoindre de Montlouis (14 k.) : 4 h.
+  - Pour descendre à Montlouis : 3 h. »
+- __LAC DE LANOUX__
+  - Pour rejoindre de Porté : 2h.30
+  - Pour descendre à Porté :  2h. »
+- __PORTÉ__
+  - Soit pour rejoindre pour faire la 5° journée, soit pour abandonner après la 4e.

@@ -45,6 +45,7 @@ On prendra, en amont de l'église, le vieux chemin du Col de
 <div class="page"/>
 
 — p. 462 — la Dent d'Orlu (37me EXCURSION)
+****
 
 Paillères qui suit la rive g. de la Lauze jusqu'aux Forges d'Ascou
 (1.080m), où il passe rive dr.; 300 m. en amont des forges, on laissera, 
@@ -100,6 +101,7 @@ solitaire nous narguait du haut de la crête.
 <div class="page"/>
 
 — p. 463 — (37me EXCURSION) GRANGES de MONTMIJA
+****
 
 l'aiguille hardie qu'on nomme « Capucin d'Orlu ». Jusqu'en 1922,
 plusieurs pyrénéistes, et notamment le vicomte d'Ussel, en
@@ -148,6 +150,7 @@ loin, celui-ci à l'aspect d'une tour carrée (1972m), Là, on quit-
 <div class="page"/>
 
 — p. 464 — PIC de TARBEZOU (37me EXCURSION)
+****
 
 tera la route pour tourner, à dr., au S.-O. On traversera d'abord
 un plateau de pâturages, puis on montera par une croupe parsemée
@@ -189,6 +192,7 @@ Du Tarbézou à Ax....................... 4h.15 } (Arrêts en sus).
 <div class="page"/>
 
 — p. 465 — (37me EXCURSION) CARRIERES de TRIMOUNTS
+****
 
 ## TROISIÈME JOURNÉE
 
@@ -236,6 +240,7 @@ bennes qui portent le tale à Luzenac. On n'a qu'à monter paral-
 <div class="page"/>
 
 — p. 466 — Massif de TABE (37me EXCURSION)
+****
 
 ![carte p466](../maps/guide-soubiron-0466-carte.jpg)
 
@@ -262,6 +267,7 @@ On contournera ce dernier par la dr. et on zigzaguera les
 <div class="page"/>
 
 — p. 467 — (37me EXCURSION) SOULARAC - SAINT-BARTHELEMY
+****
 
 pentes gazonnées pour monter à un petit col d'où on découvre
 toute la plaine vers le N.
@@ -313,6 +319,7 @@ qui n'est qu'à 2.349 m. V. note rectificative à La Montagne, année
 <div class="page"/>
 
 — p. 468 — AXIAT — LUZENAC (37me EXCURSION)
+****
 
 On quittera le sommet par les pentes faciles du versant S.-S.-O.
 et, 3/4 d'h. après, on se dirigera droit au S., afin de rejoindre le

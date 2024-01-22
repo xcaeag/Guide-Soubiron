@@ -55,13 +55,15 @@ du Calmil. Ce dernier continue tout droit devant soi, entre
 
 <div class="page"/>
 
-— p. 386 —
+— p. 386 — *****
+****
 
 ![carte p386](../maps/guide-soubiron-0386-carte-portrait.jpg)
 
 <div class="page"/>
 
 — p. 387 — (30me EXCURSION) CAP de LA COUME DE PIGNOU
+****
 
 deux rangées de bouleaux; on le laissera à g., et on suivra celui,
 à peine tracé, qui suit la crête.
@@ -114,6 +116,7 @@ A l'E.-S.-E., le massif de Tabe, qu'on aperçoit en entier, paraît
 <div class="page"/>
 
 — p. 388 — ROC des LOUVETIERES - SAURAT (30me EXCURSION)
+****
 
 Pour jouir des principaux points de vue de cet intéressant
 chaînon, on en suivra la crête à l'E. jusqu'au Roc des Louvetières
@@ -168,6 +171,7 @@ Loumet avant d'arriver à Frat-Communal. Après le pont, on
 <div class="page"/>
 
 — p. 389 — (30me EXCURSION) PIC de LA JOURNALADE
+****
 
 prendra le chemin de chars qui s'amorce à g., et qui remonte
 le cours du Loumet; c'est la voie la plus directe de Saurat à
@@ -219,6 +223,7 @@ petit sentier qui longe la crête par la face S.
 <div class="page"/>
 
 — p. 390 — LE ROC de TRABINET (30me EXCURSION)
+****
 
 Le point de vue est analogue à celui de la Journalade, sauf sur
 la vallée de Massat qui lui est en partie masquée. En revanche,
@@ -266,6 +271,7 @@ De Bédeilhac à Tarascon.............. 1h. » }
 <div class="page"/>
 
 — p. 391 — (30me EXCURSION) VERDUN
+****
 
 ## TROISIÈME JOURNÉE
 
@@ -317,6 +323,7 @@ vers 1.600 m. d'alt. On inclinera alors légèrement à dr.,
 <div class="page"/>
 
 — p. 392 — MONT FOURCAT - LAOUZATTE (30me EXCURSION)
+****
 
 et on montera à travers les croupes gazonnées, direction N.-E.,
 afin d'aboutir à la crête, près des ruines de la cabane du Col
@@ -364,9 +371,8 @@ l'ascension à découvert et face au soleil.
 
 <u>__POINTS D'INTERRUPTION__</u>
 
-__SAURAT__
-- Pour faire la deuxième et la troisième journée ou
+- __SAURAT__
+  - Pour faire la deuxième et la troisième journée ou
 pour abandonner après la premiére.
-
-__LES CABANNES__
-- Pour ne faire que la troisième journée.
+- __LES CABANNES__
+  - Pour ne faire que la troisième journée.

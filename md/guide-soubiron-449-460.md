@@ -63,6 +63,7 @@ On dirait qu'elle a été construite pour l'agrément du touriste.
 <div class="page"/>
 
 — p. 451 — (36me EXCURSION) Le SAQUET
+****
 
 droit au S.; ce raccourci mène directement au plateau de Bonascre
 en faisant gagner 1/2 h. Au début, on ne trouve que de
@@ -112,6 +113,7 @@ car l'œil prend en enfilade toute la vallée du Nabré.
 <div class="page"/>
 
 — p. 452 — PIC de L'ETANG REBENTY (36me EXCURSION)
+****
 
 Pour donner à l'excursion toute son ampleur, on poursuivra à
 toute crête, au S., jusqu'au Pic de l'Etang Rebenty (2.416m) dont
@@ -166,6 +168,7 @@ réduite à 8h.30 de marche effective.
 — p. 453 —
 
 (36me EXCURSION) COL De JOUX
+****
 
 ## DEUXIÈME JOURNÉE
 
@@ -213,7 +216,8 @@ la vallée.
 
 <div class="page"/>
 
-— p. 454 —
+— p. 454 — *****
+****
 
 Au Col de Joux (1685m), où s'élève une cabane, le point de vue
 est déjà très beau, car on découvre subitement devant soi la coquette
@@ -264,6 +268,7 @@ regards vers le S., car c'est de ce point que la Porteille d'Orlu
 <div class="page"/>
 
 — p. 455 — (36me EXCURSION) VALLEE D'ORLU
+****
 
 (2.277m) parait dans toute sa splendeur, au haut de la vallée.
 Après le pont, on rejoint la grand'route qui traverse le vill.
@@ -319,6 +324,7 @@ l'Oriège.
 <div class="page"/>
 
 — p. 456 — FORGES D'ORLU (36me EXCURSION)
+****
 
 La vallée d'Orlu, très étroite et très encaissèe, est des plus intéressantes
 sur tout son parcours. C'est, d'abord, le superbe viaduc
@@ -373,6 +379,7 @@ passer par là à la descente, sans s'exposer à être embouteillé.
 <div class="page"/>
 
 — p. 457 — (36me EXCURSION) HAUTE VALLEE De L'ORIEGE
+****
 
 Au Pont de Bisp, la vallée s'ouvre à nouveau sur un cirque verdoyant
 de belles prairies, cirque des plus riants, en même temps
@@ -423,6 +430,7 @@ pour jouir de l'admirable décor de ce coin presque inconnu.
 <div class="page"/>
 
 — p. 458 — LAC D'EN-BEYS
+****
 
 Le lac d'En-Beys est l'un des plus sauvages et des plus pittoresques 
 des Pyrénées. Mesurant 28 hectares, il est situé à 1.950 m.
@@ -464,6 +472,7 @@ De la Jasse de Gaudu au lac d'En-Beys.. 2h. » } (Arrêts en sus).
 <div class="page"/>
 
 — p. 459 — (36me EXCURSION) COL DE BEYS
+****
 
 ## QUATRIÈME JOURNÉE
 
@@ -511,7 +520,8 @@ réserve de Naguilles d'environ 60 %.
 
 <div class="page"/>
 
-— p. 460 — NAGUILLES
+— p. 460 — NAGUILLES *****
+****
 
 rent qui descend de l'Etang Déroun. On n'aura alors qu'à suivre
 le grand sentier qui, par la rive g. du lac de Naguilles, conduit
