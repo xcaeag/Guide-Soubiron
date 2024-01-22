@@ -475,7 +475,7 @@ Montréjeau.
 __Horaire de la Journée :__
 
 ```
-De Mauléon au Montaspet......... ..... 4h.25 }  9h.30
+De Mauléon au Montaspet............... 4h.25 }  9h.30
 Du Montaspet au Nistos................ 2h.30 } (Arrêts en sus)
 De Nistos à Montréjeau.................2h.35 
 ```

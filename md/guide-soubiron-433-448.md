@@ -61,6 +61,7 @@ d'Ax à Bourg-Madame.
 <div class="page"/>
 
 — p. 435 — (35me EXCURSION) REFUGE du SISCA
+****
 
 ## PREMIÈRE JOURNÉE
 
@@ -111,6 +112,7 @@ cours de l'Ariège.
 <div class="page"/>
 
 — p. 436 — ROC MELE — PIC de La CABANETTE (35me EXCURSION)
+****
 
 Le refuge forestier de la Bésine du Sisca (1) est situé sur la
 rive g., à 20 m. du torrent et à 10 min. du cirque. Il est confortable
@@ -162,6 +164,7 @@ Bésines, au N.-E. de l'Hospitalet.
 <div class="page"/>
 
 — p. 437 — (35me EXCURSION) PIC D'ASCOBES
+****
 
 le Cirque du Sisca au S.-E. et la vallée d'Incles à l'O. On contournera
 donc la base du Cylindre pour remonter immédiatement
@@ -215,6 +218,7 @@ Joucla un en France et un en Andorre, comme nous avons quatre
 <div class="page"/>
 
 — p. 438 — PORTEILLE du SISCA  (35me EXCURSION)
+****
 
 ## DEUXIÈME JOURNÉE
 
@@ -266,6 +270,7 @@ de M. L. Rouch : 1° au Bulletin Pyrénéen, année 1914, pages 321 et
 <div class="page"/>
 
 — p. 439 — (35me EXCURSION) PIC ET ETANGS D'ALBE
+****
 
 Le point de vue de l'Albe est très beau, surtout sur les abords
 immédiats, cirques de Couart et de Rulle, jasse de Pédourès et
@@ -317,6 +322,7 @@ couloir,<br>
 <div class="page"/>
 
 — p. 440 — De L'HOSPITALET à SIGUER (35e EXCURSION)
+****
 
 ![carte p440](../maps/guide-soubiron-0440-carte.jpg)
 
@@ -336,6 +342,7 @@ Fontargente seraient le même pic. Pour d'autres (ceux de la
 <div class="page"/>
 
 — p. 441 — (35me, ExCURSION) PIC NOIR De JOUCLA
+****
 
 région d'Aston), c'est le Pic Noir de Joucla (2.612m) qui serait le
 vrai pic de Fontargente (1).
@@ -388,6 +395,7 @@ les fait communiquer avec les étangs français de Joucla.
 <div class="page"/>
 
 — p. 442 — CABANES De GARSEING (35me EXCURSION)
+****
 
 les pelouses, conduit, dans 1/4 d'h., à la première cabane de
 Garseing 1.960m où on couchera. Il en existe une autre 150 m.
@@ -439,7 +447,8 @@ passait dans cette région, le berger providentiel.
 
 <div class="page"/>
 
-— p. 443 — (35me EXCURSION) COL. de la COUME d'OSE
+— p. 443 — (35me EXCURSION) COL de la COUME d'OSE
+****
 
 20 min. de marche vers l'O., on rejoindra un petit sentier qui,
 venant des étangs de Fontargente, se dirige horizontalement vers
@@ -491,6 +500,7 @@ en est très facile.
 <div class="page"/>
 
 — p. 444 — MIL-MENUT — JASSE de QUIOULES (35me EXCURSION)
+****
 
 On quittera le Col par la g., et, par une marche horizontale, on
 coupera les terrasses du flanc N. du Pic de la Coume d'Ose. On
@@ -542,6 +552,7 @@ certaines parties; des falaises de 2 à 300 mètres de hauteur et
 <div class="page"/>
 
 — p. 445 — (35me EXCURSION) GORGE de QUIOULES
+****
 
 presque verticales; un chemin souvent accroché très haut sur le
 flanc de la montagne : voilà la partie supérieure de la gorge.
@@ -591,6 +602,7 @@ franchirait d'un bond.<br>
 <div class="page"/>
 
 — p. 446 — ASTON — VALLON de SIRBAL (35me EXCURSION)
+****
 
 ## QUATRIEME JOURNEE
 
@@ -641,6 +653,7 @@ cabane est au moins à 1.400 m.
 <div class="page"/>
 
 — p. 447 — (35me EXCURSION) PAS DE L'ESCALIER — SERRE des AFFUMATS
+****
 
 terrain facile qu'on zigzaguera à sa fantaisie jusqu'au Pas des
 Escaliers (1.800m). On ne peut pas se tromper; c'est la dépression
@@ -693,6 +706,7 @@ au N.-O. pour rester toujours sur la crête et, après avoir dépassé
 <div class="page"/>
 
 — p. 448 — PIC de MIDI de SIGUER (35me EXCURSION)
+****
 
 le Col de Bayle, remonte légèrement direction N. jusqu'au Pic de
 Midi de Siguer (2.002m). Ce n'est pas à proprement parler un
@@ -730,14 +744,12 @@ Du Pic de Midi à Siguer................. 2h.15 }
 
 <u>__POINTS D'INTERRUPTION__</u>
 
-__REFUGE DU SISCA__
-- Pour rejoindre de l'Hospitalet : 2h »
-- Pour rentrer à l'Hospilalet : 1h.30.
-
-__CABANNES DE GARSEING__
-- Pour rejoindre des Cabannes : 6h. »
-- Pour rentrer aux Cabannes : 5h. »
-
-__ASTON__
-- Pour rejoindre des Cabannes, afin d'effectuer la quatrième journée, 35 minutes.
-- Pour rentrer aux Cabannes, après la 3° journée, 1/2h.
+- __REFUGE DU SISCA__
+  - Pour rejoindre de l'Hospitalet : 2h »
+  - Pour rentrer à l'Hospilalet : 1h.30.
+- __CABANNES DE GARSEING__
+  - Pour rejoindre des Cabannes : 6h. »
+  - Pour rentrer aux Cabannes : 5h. »
+- __ASTON__
+  - Pour rejoindre des Cabannes, afin d'effectuer la quatrième journée, 35 minutes.
+  - Pour rentrer aux Cabannes, après la 3° journée, 1/2h.

@@ -756,7 +756,7 @@ Pradet......... Petite prairie.
 Puig............ Nom donné aux sommets dans les Pyrénées-Orientales.
 Queba........... Abri sous roche. Toue de la région d'Ossau.
 Raillère........ Talus de déjections, couloir d'éboulis.
-Replat... ...... Petit plateau très élevé deminant un précipice.
+Replat.......... Petit plateau très élevé deminant un précipice.
 Rimaye.......... Crevasse ouverte entre le glacier et le rocher.
 Rio, Riu........ Ruisseau ou cours d'eau du versant espagnol.
 Roque .......... Roche.
@@ -778,7 +778,7 @@ Tusse .......... Sommet à puissants contreforts.
 Tucou, Tuquet... Petit sommet à puissants contreforts.
 Turon........... Sommet secondaire dominé par un pic voisin.
 Tramezaygues.... Terme générique qui signifie « Entre deux Eaux ».
-Vire. .......... Petite corniche sur la paroi de la montagne; étroit gradin.
+Vire............ Petite corniche sur la paroi de la montagne; étroit gradin.
 
 ———<br>
 (1) Le mot « Som » n'a aucune signification, ni en français, ni en patois. Si je l'ai

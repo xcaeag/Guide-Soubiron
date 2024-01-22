@@ -50,12 +50,14 @@ c. d'Oust, postes, télégraphe et téléphone.
 <div class="page"/>
 
 — p. 364 — DE SAINT-GIRONS A USTOU (28me EXCURSION)
+****
 
 ![carte p364](../maps/guide-soubiron-0364-carte.jpg)
 
 <div class="page"/>
 
 — p. 365 — (28me EXCURSION) Le MONTVALIER
+****
 
 ## PREMIÈRE JOURNÉE
 
@@ -97,6 +99,7 @@ le soir même, à Bordes ou Castillon.
 <div class="page"/>
 
 — p. 366 — PIC DE LA PALO DE La CLAOUERO (28me EXCURSION)
+****
 
 Du refuge, on descendra au S., au petit cirque des Estagnous
 qu'on traversera pour remonter en face; obliquant ensuite à
@@ -147,6 +150,7 @@ suite vers l'O. jusqu'au Pic de Bacibé.
 <div class="page"/>
 
 — p. 367 — (28me EXCURSION) ALOS D'ISIL
+****
 
 C'est de la Palo de la Claouèro qu'on renverra le guide, ce
 qui lui permettra de rentrer, le soir même, à Bordes. On descendra
@@ -185,6 +189,7 @@ De Bonabé à Alos d'Isil................. 2h.15 }
 <div class="page"/>
 
 — p. 368 — La ROYA DE MOLLAS (28me EXCURSION)
+****
 
 ## TROISIÈME JOURNÉE
 
@@ -230,6 +235,7 @@ Monts Rouch, au N.-O., et le hameau de Cuanca, au S.-E._
 <div class="page"/>
 
 — p. 369 — (28me EXCURSION) PICS de MONT ROUCH
+****
 
 _Un chapelet de cinq lacs, creusés dans le roc et régulièrement
 étagés, orne sa partie supérieure. De l'avant-dernier, qui affecte
@@ -278,6 +284,7 @@ Le Mont Rouch de France, de même alt., est situé au N.-E. du
 <div class="page"/>
 
 — p. 370 — CUANCA (28me EXCURSION)
+****
 
 Mont Rouch d'Espagne dont il est séparé par une profonde
 dépression de la crête frontière. Il faut 1/2 h. environ pour
@@ -323,6 +330,7 @@ Du Mont Rouch de France à Cuanca.... 4h. » }
 <div class="page"/>
 
 — p. 371 — (28me EXCURSION) CAP de RUHOS
+****
 
 ## QUATRIÈME JOURNÉE
 
@@ -371,6 +379,7 @@ existait autrefois une bonne cabane, aujourd'hui en ruines, dont
 <div class="page"/>
 
 — p. 372 — USTOU (28me EXCURSION)
+****
 
 la mise en état s'impose pour pouvoir s'y réfugier en cas de tourmente.
 
@@ -412,16 +421,12 @@ Du Port à Saint-Lizier d'Ustou.......... 3h. » }
 
 <u>__POINTS D'INTERRUPTION__</u>
 
-__BONABÉ__
-
-- Pour rejoindre de Salau, afin de prendre la caravane au passage, 
+- __BONABÉ__
+  - Pour rejoindre de Salau, afin de prendre la caravane au passage, 
 le soir du 2e jour : 4h.30
-
-- Pour rentrer à Salau le soir du 2° jour (ce qui
+  - Pour rentrer à Salau le soir du 2° jour (ce qui
 porterait la durée de l'excursion à 11 heures). : 4h. »
-
-__ALOS d'ISIL__
-
-- Pour rejoindre de Salau par le Port de ce nom : 5h. »
-- Pour rentrer à Salau par cette voie : 5h.30
+- __ALOS d'ISIL__
+  - Pour rejoindre de Salau par le Port de ce nom : 5h. »
+  - Pour rentrer à Salau par cette voie : 5h.30
 

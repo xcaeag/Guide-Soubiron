@@ -322,7 +322,7 @@ Du Refuge au Col Swan................ 2h. » }
 Du Col au Grand Astazou et retour.... 0h.45 }
 Du Col Swan au Petit Astazou......... 0h.45 }    10h.15
 Du Petit Astazou au Marboré.......... 2h.30 } (Arrêts en sus).
-Du Marboré au Cylindre............. . 1h.15 }
+Du Marboré au Cylindre............... 1h.15 }
 Du Cylindre au Refuge................ 3h. » }
 ```
 

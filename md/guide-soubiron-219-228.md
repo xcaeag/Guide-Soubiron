@@ -154,7 +154,7 @@ pente de neige qui, par un couloir, rampe jusqu'à la brèche située
 entre le Spijeoles et le Pic Noir. On y déposera le sac et on fera,
 au N.-O., l'ascension du Spijeoles à toute crête en se tenant de
 
-———<br><br>
+———<br>
 (1) Au cas où l'avalanche aurait emporté ce pont, comme je lai
 constaté en 1910, et qu'on ne puisse franchir le torrent, on contournera 
 le lac facilement par le N. et l'E., à une certaine hauteur, pour

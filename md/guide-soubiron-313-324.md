@@ -66,12 +66,14 @@ près de la gare.
 <div class="page"/>
 
 — p. 314 — EN HAUT-ARAN et EN CATALOGNE (23me EXCURSION)
+****
 
 ![carte p314](../maps/guide-soubiron-0314-carte.jpg)
 
 <div class="page"/>
 
 — p. 315 — (23me EXCURSION) DE MARIGNAC A VIELLA
+****
 
 ## PREMIÈRE JOURNÉE
 
@@ -124,6 +126,7 @@ ascension.
 <div class="page"/>
 
 — p. 316 — PORT ET HOSPICE DE VIELLA (23me EXCURSION)
+****
 
 Le barranco du port est parfois si étroit et si profond qu'il
 a fallu tailler le sentier sur le roc même, à une certaine hauteur;
@@ -159,7 +162,7 @@ bon résultat de la journée.
 __Horaire de la Journée :__
 
 ```
-De Viella au Port.................. . 3h.45 }   5h.30
+De Viella au Port.................... 3h.45 }   5h.30
 Du Port à l'Hospice.................. 1h.45 } (Arrêts en sus).
 ```
 
@@ -177,6 +180,7 @@ pour franchir, à l'E., la Ribagorzana sur un petit pont en bois.
 <div class="page"/>
 
 — p. 317 — (23me EXCURSION) VALLEE et PIC De BECIBERI
+****
 
 On entrera alors dans la gorge de Bécibéri dont on remontera
 la rive -dr. à travers la forêt pendant 3/4 d'h. environ.
@@ -226,7 +230,8 @@ noisetiers.
 
 <div class="page"/>
 
-— p. 318 —
+— p. 318 — *****
+****
 
 ![carte p318](../maps/guide-soubiron-0318-carte.jpg)
 
@@ -243,6 +248,7 @@ Le belvédère du Comolo Forro est de tout premier ordre et
 <div class="page"/>
 
 — p. 319 — (23me EXCURSION) COMOLO FORNO — CALDAS de BOHI
+****
 
 la gradation des teintes de toutes les alt. passe sous les yeux.
 
@@ -294,6 +300,7 @@ même pour ne pas perdre de temps le lendemain matin.
 <div class="page"/>
 
 — p. 320 — COMOLOS BIENES — COMOLOS PALES (23me EXCURSION)
+****
 
 __Horaire de la Journée :__
 
@@ -301,11 +308,11 @@ __Horaire de la Journée :__
 De l'Hospice au grand Lac de Bécibéri... 2h.15 }
 Du Lac de Bécibéri au Col des Abellanés. 3h. » }
 Du Col des Abellanés au Bécibéri S...... 0h.20 }
-Du Bécibéri S. au Comolo Forno....... .. 0h.30 }   10h. »
+Du Bécibéri S. au Comolo Forno.......... 0h.30 }   10h. »
 Du Comolo Forno au Lac de Los Caballe-         }
   ros................................... 2h.40 } (Arrêts en sus).
 Du Lac de Los Caballeros à Caldas de           }
-  Bohi. ................................ 1h.15 }
+  Bohi.................................. 1h.15 }
 ```
 
 ## TROISIÈME JOURNÉE
@@ -346,6 +353,7 @@ On descendra à l'O. par de rapides couloirs neigeux, mais sans
 <div class="page"/>
 
 — p. 321 — (23me EXCURSION) PIC PIERRE HARLE
+****
 
 difficultés sérieuses. Vers les trois quarts de la descente, on fera
 un crochet à dr., afin d'éviter un ressaut que le ruisseau franchit
@@ -400,6 +408,7 @@ les bergers de la région l'appellent ainsi.
 <div class="page"/>
 
 — p. 322 — Le MONTARTO d'ARAN (23me EXCURSION)
+****
 
 Le point culminant de la crête de la Tuménéja, qui a été gravi
 pour la première fois le 8 août 1912, porte maintenant le nom de
@@ -448,6 +457,7 @@ au-dessous d'un rocher coincé, est sans difficulté.
 <div class="page"/>
 
 — p. 323 — (23me EXCURSION) D'ARTIES A LUCHON
+****
 
 Après avoir débarqué dans la coume, on obliquera légèrement
 à g., pour éviter un à-pic qu'il faut contourner par l'O. Au-dessous
@@ -506,6 +516,7 @@ ressec est masculin.
 <div class="page"/>
 
 — p. 324 — PIC D'AUBAS — COURADILLES (23me EXCURSION)
+****
 
 vers le Portillon de Burbe. Parvenu au ruisseau de la Bareste,
 on abandonnera le grand sentier pour monter à l'O., en longeant

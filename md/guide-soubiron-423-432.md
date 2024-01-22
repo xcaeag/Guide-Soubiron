@@ -64,6 +64,7 @@ de Larramade, ligne de Tarascon à Auzat. Postes et télégraphes.
 <div class="page"/>
 
 — p. 425 — (34me EXCURSION) PIC PEDRIS - PIC D'ENDRON
+****
 
 ## PREMIÈRE JOURNÉE
 
@@ -110,6 +111,7 @@ On aperçoit très bien, au S., à sa hauteur, le refuge de l'Etang
 <div class="page"/>
 
 — p. 426 — HAUTE VALLEE d'ARTIES (34me EXCURSION)
+****
 
 Fourcat et on peut repérer en entier l'itinéraire qui va nous y
 conduire. C'est là un des grands charmes de cette journée.
@@ -152,6 +154,7 @@ ce nom.
 <div class="page"/>
 
 — p. 427 — (34me EXCURSION) COL de FANGASSES
+****
 
 ## DEUXIÈME JOURNÉE
 
@@ -199,6 +202,7 @@ Du Col de Fangassès, on se dirigera à l'E., à flanc de montagne,
 <div class="page"/>
 
 — p. 428 — PIC de RIALP — Le SERRAT (34me EXCURSION)
+****
 
 en s'élevant légèrement, afin de passer à la base d'un étroit couloir
 qui descend de la crête. Le couloir dépassé, on obliquera un
@@ -249,6 +253,7 @@ en ardoise. La plus recommandée est celle de Vincente Zacurraga.
 <div class="page"/>
 
 — p. 429 — (34me EXCURSION) PIC DE L'ESTANYO
+****
 
 On trouvera au Serrat du lait et, peut-être, du pain; mais, si
 on à besoin d'autres provisions, il faut descendre à Ordino, 2 h.
@@ -302,6 +307,7 @@ partie supérieure, ce qui la rend très facile et très agréable à
 <div class="page"/>
 
 — p. 430 — PIC de SERRERE  (34me EXCURSION)
+****
 
 parcourir. On reste constamment sur la crête et, en la suivant
 régulièrement, on arrive en pente douce au plus beau pic de
@@ -350,6 +356,7 @@ Du Pic de Serrère au Serrat....... 3h.15 } (Arrêts en sus).
 <div class="page"/>
 
 — p. 431 — (34me EXCURSION) PORT de SIGUER
+****
 
 ## QUATRIÈME JOURNÉE
 
@@ -397,6 +404,7 @@ la minuscule jasse du Roc Rouge.
 <div class="page"/>
 
 — p. 432 — LAC de PEYREGRAND (34me EXCURSION)
+****
 
 Un peu plus bas, on entre dans un étroit défilé qui finit par
 s'étrangler entre deux hautes falaises, où passent avec peine le
@@ -435,7 +443,7 @@ Auzat.
 
 <u>__POINTS D'INTERRUPTION__</u>
 
-__LE SERRAT__
-- Pour rejoindre de Siguer : 9h. »
-- Pour rentrer à Siguer : 7h.30
+- __LE SERRAT__
+    - Pour rejoindre de Siguer : 9h. »
+    - Pour rentrer à Siguer : 7h.30
 

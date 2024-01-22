@@ -315,7 +315,7 @@ Tortes, ils ont situé la frontière plus à l'O. Elle passe au port
 
 ———<br>
 (1) Les Granges de Viados, non signalées dans les cartes, sont
-situées 1/4 d'h. à l'E. . du confluent de la Pez, vers 1.650m d'alt., sur
+situées 1/4 d'h. à l'E. du confluent de la Pez, vers 1.650m d'alt., sur
 la rive dr. de la Cinqueta d'Aygues-Cruses.
 
 <div class="page"/>

@@ -70,6 +70,7 @@ pourra ainsi partir seul ou avec un simple porteur du pays.
 <div class="page"/>
 
 — p. 489 — (39me EXCURSION) BOURG-MADAME - VALCEBOLLERE
+****
 
 ## PREMIÈRE JOURNÉE
 
@@ -119,6 +120,7 @@ prendra le chemin de chars qui se dirige au S. et qui, 5 min.
 <div class="page"/>
 
 — p. 490 — PAS DELS LLADRES - LA TOSA (39me EXCURSION)
+****
 
 après, fait un lacet à g., pour conduire près de la croix. Sur le
 plateau, le chemin bifurque; celui de dr. mène à la chapelle de
@@ -170,6 +172,7 @@ Pas dels Lladres.
 <div class="page"/>
 
 — p. 491 — (39me EXCURSION) Le PUIGMAL
+****
 
 Après une descente de 3 min. et une marche presque horizontale
 de 1/4 d'h., on grimpe la rampe finale qui mène, en 45 min.
@@ -220,6 +223,7 @@ franchi le torrent. On pourra alors, à son choix, soit descendre
 <div class="page"/>
 
 — p. 492 — SANCTUAIRE DE NURIA (39me EXCURSION)
+****
 
 tout droit à travers les croupes gazonnées, soit suivre un des
 nombreux sentiers qui sillonnent le vallon. Vers le fond du Pla
@@ -275,6 +279,7 @@ de Carança et le Col des Neuf-Croix (2.800m), en 8h.30.
 <div class="page"/>
 
 — p. 493 — (39me EXCURSION) COUME DE MULLERES
+****
 
 ## DEUXIEME JOURNEE
 
@@ -328,6 +333,7 @@ au N., vers le col de Noufonts; celui de dr. monte au N.-E., par
 <div class="page"/>
 
 — p. 494 —  COL des NEUF-CROIX - FOSSE du GEANT (39me EXCURSION)
+****
 
 la coume de Mullères, au Col des Neuf-Croix (2.800m); c'est ce
 dernier qu'il faut suivre, Le sentier, très bien tracé, s'élève en
@@ -377,6 +383,7 @@ de la crête catalane et les nombreux sommets qu'on rencontre
 <div class="page"/>
 
 — p. 495 — (39me EXCURSION) COL DE CARANÇA - PICS DE LA VACA
+****
 
 du Pic de la Fosse du Géant au Pic del Gra de Fajol. On peut, à
 tout moment, limiter son ascension en rejoignant le sentier pour
@@ -427,6 +434,7 @@ sur la frontière. On remontera à toute crête jusqu'au pied du Pic
 <div class="page"/>
 
 — p. 496 — PIC de L'ENFER - PIC du GEANT (39me EXCURSION)
+****
 
 des Gourgs qu'on contournera par la g., afin d'aboutir au col qui
 le sépare de l'Enfer. On y laissera le sac et, dans moins de
@@ -477,6 +485,7 @@ toute la Catalogne et on a sous les yeux tous les grands sommets
 <div class="page"/>
 
 — p. 497 — (39me EXCURSION) COL DE LA MARRANA - GRA DE FAJOL
+****
 
 de la région, depuis le Carlitte à la Méditerranée. Vers l'O., la vue
 s'étend sur la chaîne ariégeoise et jusqu'aux Monts-Maudits.
@@ -528,6 +537,7 @@ Gra de Fajol que se réfugient souvent les isards de la contrée.
 <div class="page"/>
 
 — p. 498 — REFUGE de ULL DE TER (39me EXCURSION)
+****
 
 Le Gra de Fajol est l'un des plus jolis belvédères de la région.
 Les premiers plans sont admirables, surtout la partie de la chaîne
@@ -577,6 +587,7 @@ dormir et une provision de bois pour se chauffer.
 <div class="page"/>
 
 — p. 499 — (39me EXCURSION) COL DU GEANT - PIC DE LA DONYA
+****
 
 ## TROISIÈME JOURNÉE
 
@@ -623,6 +634,7 @@ de jonction de plusieurs voies de montagne qui filent dans toutes
 <div class="page"/>
 
 — p. 500 — COUME de BASSIBES - VALLEE DE CARANÇA (39me EXCURSION)
+****
 
 les directions. Immédiatement au-dessous, à l'E., s'ouvre la Porteille
 de Mantet (2.478m), par laquelle passe l'une des plus importantes
@@ -671,6 +683,7 @@ arrive près d'une grande cabane située sur la rive g., vers 1.800
 <div class="page"/>
 
 — p. 501 — (39me EXCURSION)  GORGE DE CARANÇA
+****
 
 d'alt. C'est en amont de cette cabane que s'amorce le sentier
 du Col Mitja par lequel on peut passer à la vallée de Prats-
@@ -721,6 +734,7 @@ débute par une remontée.
 <div class="page"/>
 
 — p. 502 — VALLEE de La TET - MONTLOUIS (39me EXCURSION)
+****
 
 le merveilleux pont Séjourné de 65 m. de haut et le pont suspendu, 
 construction vertigineuse de Gisclard, qui franchit la
@@ -775,6 +789,7 @@ Cortals après lequel il s'infléchit à l'E.-S.-E., pour rejoindre,
 <div class="page"/>
 
 — p. 503 — (39me EXCURSION) PICS DE LA TAUSSE
+****
 
 plus loin, la route stratégique qui monte aux forts de la Tausse.
 On jouira pendant ce trajet de belles échappées sur la Cerdagne
@@ -823,6 +838,7 @@ la Cerdagne el un magnifique belvédère sur la chaîne frontière
 <div class="page"/>
 
 — p. 504 — FONT-ROMEU (39me EXCURSION)
+****
 
 qui lui fait face. Après l'ascension des pics de la Tausse, l'excursion
 de Font-Romeu s'impose pour jouir de toutes les beautés
@@ -841,15 +857,11 @@ _(Si on rentre par Bolquère, 4 h.)_
 
 <u>__POINTS D'INTERRUPTION__</u>
 
-> __NURIA__
-> - Pour rejoindre d'Eyne par le Col de Nuria : 6h. »
-> - Pour rentrer à Eyne : 5h. »
-> 
-> __COL des NEUF-CROIX et COL de CARANÇA__
-> 
-> - Pour descendre à Thuès par la Vallée de Carança : 4h.40
-> - Pour rejoindre de Thuès par la Vallée de Carança : 6h.30
-> 
-> __MONTLOUIS__
-> 
-> - Soit pour abandonner à la fin de la 3e journée, soit pour rejoindre, > afin d'effectuer la 4e.
+- __NURIA__
+  - Pour rejoindre d'Eyne par le Col de Nuria : 6h. »
+  - Pour rentrer à Eyne : 5h. »
+- __COL des NEUF-CROIX et COL de CARANÇA__
+  - Pour descendre à Thuès par la Vallée de Carança : 4h.40
+  - Pour rejoindre de Thuès par la Vallée de Carança : 6h.30
+- __MONTLOUIS__
+  - Soit pour abandonner à la fin de la 3e journée, soit pour rejoindre, > afin d'effectuer la 4e.
