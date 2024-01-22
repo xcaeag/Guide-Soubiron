@@ -232,7 +232,7 @@ qui se dirige au N. vers le lac d'Arrius. Là, on franchira une
 croupe, au N.-E., pour retrouver, quelques minutes après, le
 sentier de la veille qui, par le Col d'Arrius, conduit au refuge.
 
-Horaire direct de l'Arriel, aller et retour, 4 h., arrêts en sus.
+__Horaire direct de l'Arriel,__ aller et retour, 4 h., arrêts en sus.
 (Par le Col de Sobe et le Lac d'Arrius, 1 h. en sus.)
 
 ## TROISIÈME JOURNÉE

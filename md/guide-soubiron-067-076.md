@@ -26,9 +26,9 @@ Pyrénées Centrales, qu'on considère comme étant la plus belle
 partie de la chaîne pyrénéenne. On peut la diviser en quatre
 régions, car chacune d'elles présente un caractère bien spécial :
 
-1re Région de Cauterets et du Vignemale;
-2e Région de Gavarnie et du Massif Calcaire;
-3e Région lacustre d'Orèdon et de la Vallée d'Aure;
+1re Région de Cauterets et du Vignemale;<br>
+2e Région de Gavarnie et du Massif Calcaire;<br>
+3e Région lacustre d'Orèdon et de la Vallée d'Aure;<br>
 4e Région de Luchon et des Monts Maudits.
 
 C'est par la petite montagne que nous commencerons, en

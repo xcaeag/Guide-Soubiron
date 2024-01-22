@@ -58,7 +58,7 @@ d'Oloron au Somport par la vallée d'Aspe.
 
 ![carte p24](../maps/guide-soubiron-0024-carte.jpg)
 
-N. B. — Le tableau des signes conventionnels ci-dessus est
+> N. B. — Le tableau des signes conventionnels ci-dessus est
 unique pour toutes les cartes.
 
 <div class="page"/>
@@ -781,6 +781,8 @@ De Gabas aux Eaux-Chaudes (8 k.)........ 1h.30 }
 
 > Nota. — Si on est parti du refuge de Pombie, 3 h. en moins.
 
+****
+
 <u>__POINTS D'INTERRUPTION__</u>
 
 - __LESCUN et URDOS__
@@ -789,6 +791,8 @@ De Gabas aux Eaux-Chaudes (8 k.)........ 1h.30 }
    - Pour rejoindre ou abandonner après la 4me journée.
    - Pour rejoindre des Eaux-Chaudes (8 k. de route).
    - Pour rejoindre de Laruns (14 k. de route).
+
+****
 
 __REFUGE DE POMBIE__
 

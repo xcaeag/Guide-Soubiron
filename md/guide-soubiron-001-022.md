@@ -132,7 +132,8 @@ si nécessaire au début de la saison.
 
 <div class="page"/>
 
-— p. 6 —
+— p. 6 —  AVERTISSEMENT DE L'AUTEUR
+****
 
 Autour des centres d'excursions, les ascensions sont graduées
 par importance, et leur ordre est établi de telle manière que le
@@ -148,7 +149,7 @@ Pour mettre à jour la première édition et posséder une œuvre
 complète, il suffira d'acquérir séparément la collection des
 40 programmes tirés à part pour la deuxième-édition.
 
----
+****
 
 <u>__ALPINISME ACROBATIQUE__</u>
 
@@ -179,7 +180,8 @@ La forme absolument portative de mon guide ne m'a pas per-
 
 <div class="page"/>
 
-— p. 7 —
+— p. 7 — AVERTISSEMENT DE L'AUTEUR
+****
 
 mis de le surcharger de cartes à grande échelle, mais, en tête
 de chaque programme, or trouvera une carte esquisse de
@@ -232,7 +234,8 @@ il n'en est pas de mème pour les Pyrénées.
 
 <div class="page"/>
 
-— p. 8 — 
+— p. 8 — AVERTISSEMENT DE L'AUTEUR
+****
 
 Dans la première édition de mon guide, paru en 1920, j'ai dit
 que la corde n'était utile dans les Pyrénées que pour la traversée
@@ -284,7 +287,8 @@ encore dans les glaciers non crevassés. (V. Souvenirs d'un Montagnard,
 
 <div class="page"/>
 
-— p. 9 —
+— p. 9 —  AVERTISSEMENT DE L'AUTEUR
+****
 
 <u>__ITINÉRAIRES__</u>
 
@@ -336,7 +340,7 @@ que cela est utile.
 
 <div class="page"/>
 
-— p. 10 —
+[//]: # (— p. 10 —)
 
 # CONSEILS PRATIQUES
 
@@ -379,7 +383,8 @@ journée.
 
 <div class="page"/>
 
-— p. 11 —
+— p. 11 —  CONSEILS PRATIQUES
+****
 
 5. __Ne pas chercher la difficulté,__ mais ne pas se laisser influencer 
 par des écrits qui présentent certains pics comme étant
@@ -424,7 +429,8 @@ d'y circuler pendant l'orage.__
 
 <div class="page"/>
 
-— p. 12 —
+— p. 12 —  CONSEILS PRATIQUES
+****
 
 12.  Enfin, si vous vous sentez des aptitudes et un dévouement à
 toute épreuve pour conduire une caravane, __prenez un porteur__ ;
@@ -471,7 +477,8 @@ il vaut mieux lui donner une indemnité.
 
 <div class="page"/>
 
-— p. 13 —
+— p. 13 —  CONSEILS PRATIQUES
+****
 
 <u>__NOURRITURE__</u>
 
@@ -505,7 +512,7 @@ la neige ou sur les glaciers.
 
 <div class="page"/>
 
-— p. 14 —
+[//]: # (— p. 14 —)
 
 # Notice sur l'influence de la lune<br>dans ses diverses phases, du 15 juin à fin Septembre.
 
@@ -545,7 +552,7 @@ seulement.
 
 <div class="page"/>
 
-— p. 15 —
+[//]: # (— p. 15 —)
 
 Tableau en p. % des diverses phases de la lune
 
@@ -587,7 +594,7 @@ voici comment H. Bordeaux le reproduit dans la Maison Morte :
 
 <div class="page"/>
 
-— p. 16 —
+[//]: # (— p. 16 —)
 
 # Accessoires Indispensables à une Caravane
 
@@ -625,7 +632,7 @@ mieux encore, une voilette en mousseline de soie, noire ou verte.
 
 <div class="page"/>
 
-— p. 17 —
+[//]: # (— p. 17 —)
 
 # <p class="centre">PETIT VOCABULAIRE<br>DES<br>TERMES PYRÉNÉENS<br>RELATIFS A LA MONTAGNE</p>
 
@@ -665,7 +672,8 @@ Coma............ Combe du versant espagnol.
 
 <div class="page"/>
 
-— p. 18 —
+— p. 18 — VOCABULAIRE DES TERMES PYRÉNÉENS
+****
 
 ```
 Combe, Coume..... Vallon rapide vers le haut de la montagne
@@ -708,7 +716,8 @@ Lane, Lanne..... Lande, plaine, plateau herbeux.
 
 <div class="page"/>
 
-— p. 19 —
+— p. 19 — VOCABULAIRE DES TERMES PYRÉNÉENS
+****
 
 ```
 Laousate, Laouse,
@@ -750,7 +759,8 @@ Pradet......... Petite prairie.
 
 <div class="page"/>
 
-— p. 20 —
+— p. 20 —VOCABULAIRE DES TERMES PYRÉNÉENS
+****
 
 ```
 Puig............ Nom donné aux sommets dans les Pyrénées-Orientales.
@@ -788,7 +798,7 @@ pour la désignation de divers sommets.
 
 <div class="page"/>
 
-— p. 21 —
+[//]: # (— p. 21 —)
 
 # LES PYRÉNÉES<br>Du PIC d''ANIE au CANIGOU<br>En 40 Excursions
 
@@ -828,7 +838,8 @@ poup (1.669m), à l'E. Elle s'ouvre à nouveau au Pont de Lescun,
 
 <div class="page"/>
 
-— p. 22 —
+— p. 22 — VALEE D'ASPE  (1re EXCURSION)
+****
 
 qu'on laisse à dr., et bientôt paraît le village de ce nom, perché
 à l'O., comme un nid d'aigle, à 902 m. d'altitude.
