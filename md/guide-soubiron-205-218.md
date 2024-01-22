@@ -41,9 +41,8 @@ En raison de la quantité de vivres nécessaires, un porteur
 est indispensable pour les deux premiers jours; on le prendra
 à Saint-Lary même.
 
-<p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
-
-(Voir aussi les cartes des Environs d'Espingo, p. 202 et 214).
+<p class="droite">(Voir ci-contre la Carte de l'Excursion).<br>
+(Voir aussi les cartes des Environs d'Espingo, p. 202 et 214).</p>
 
 ———<br>
 (1) Saint-Lary (H.-Pyr.), à 12 k. de la gare d'Arreau, est desservi

@@ -11,9 +11,7 @@ output: pdf_document
 <style>.centre {text-align: center}</style>
 <style>.droite {text-align: right}</style>
 
-[//]: # (— p. XX —)
-
-— p. 325 —
+[//]: # (— p. 325 —)
 
 # VINGT-QUATRIÈME EXCURSION
 

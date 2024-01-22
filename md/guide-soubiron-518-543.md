@@ -63,6 +63,7 @@ Barraou, le Chabarrou et le Pic d'Estibaoude.<span class="droite">57</span>
 <div class="page"/>
 
 — p. 520 — TABLE METHODIQUE
+****
 
 __SEPTIÈME EXCURSION__
 
@@ -119,6 +120,7 @@ de Garet, le Pic de Midi, le Pic des Quatre Termes et l'Arbizon<span class="droi
 <div class="page"/>
 
 — p. 521 — TABLE METHODIQUE
+****
 
 __QUATORZIÈME EXCURSION__
 
@@ -177,6 +179,7 @@ Pont du Roi<span class="droite">265</span>
 <div class="page"/>
 
 — p. 522 — TABLE METHODIQUE
+****
 
 __VINGT ET UNIÈME EXCURSION__
 
@@ -228,6 +231,7 @@ la Roca Blanca et le Port de Salau<span class="droite">353</span>
 <div class="page"/>
 
 — p. 523 — TABLE METHODIQUE
+****
 
 __VINGT-HUITIÈME EXCURSION__
 
@@ -281,6 +285,7 @@ de Siguer, le Lac de Peyregrand et la Gorge de Brouquenat.<span class="droite">4
 <div class="page"/>
 
 — p. 524 — TABLE METHODIQUE
+****
 
 __TRENTE-CINQUIÈME EXCURSION__
 

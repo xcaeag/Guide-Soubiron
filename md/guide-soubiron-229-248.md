@@ -51,8 +51,10 @@ nouveaux points de vue. Aussi, dès notre arrivée à Luchon,
 irons-nous, dans une même journée, visiter ces deux lieux charmants, 
 autour desquels nous rayonnerons ensuite.
 
+<p class="droite">
 (Voir les cartes des Environs de Luchon, pp. 202 et 214.<br>
 (Voir aussi les cartes des Environs d'Espingo, pp. 232 et 240.
+</p>
 
 <div class="page"/>
 

@@ -38,9 +38,8 @@ Cette excursion comprenant des passages délicats et des journées
 assez dures, il sera prudent de ne l'entreprendre qu'avec
 des compagnons exercés et résistants à la fatigue.
 
-<p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
-
-(Voir aussi le Plan du Balaïtous, page 58).
+<p class="droite">(Voir ci-contre la Carte de l'Excursion).<br>
+(Voir aussi le Plan du Balaïtous, page 58).</p>
 
 <div class="page"/>
 
