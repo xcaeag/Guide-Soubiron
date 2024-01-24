@@ -804,7 +804,7 @@ pour la désignation de divers sommets.
 
 [//]: # (— p. 21 —)
 
-# LES PYRÉNÉES<br>Du PIC d''ANIE au CANIGOU<br>En 40 Excursions
+# LES PYRÉNÉES<br>Du PIC d'ANIE au CANIGOU<br>En 40 Excursions
 
 <u>__AVIS AUX TOURISTES__</u>
 
