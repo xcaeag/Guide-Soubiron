@@ -11,8 +11,10 @@ title: LES PYRÉNÉES Du PIC d'ANIE au CANIGOU En 40 Excursions
 .droite {text-align: right}
 </style>
 
-# <p class="centre">LES PYRÉNÉES</p>
+# LES PYRÉNÉES
+
 <p class="centre">
+LES PYRÉNÉES<br>
 Du PIC d'ANIE au CANIGOU<br>
 EN 40 EXCURSIONS<br>
 </p>
@@ -649,7 +651,7 @@ mieux encore, une voilette en mousseline de soie, noire ou verte.
 
 [//]: # (— p. 17 —)
 
-# <p class="centre">PETIT VOCABULAIRE<br>DES<br>TERMES PYRÉNÉENS<br>RELATIFS A LA MONTAGNE</p>
+# PETIT VOCABULAIRE<br>DES<br>TERMES PYRÉNÉENS<br>RELATIFS A LA MONTAGNE
 
 ```
 Aouéran........  Noisette.

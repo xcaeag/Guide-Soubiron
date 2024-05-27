@@ -45,7 +45,7 @@ de la chaleur. (Voir la description du trajet p. 279.)
 
 ****
 
-__<p class="centre">Course C (trois jours)</p>__
+__Course C (trois jours)__
 
 __Le Tour des Monts-Maudits__
 
@@ -181,7 +181,7 @@ traces du sentier par lequel on descendra du Malibierne le lendemain.
 
 ****
 
-__<p class="centre">Course C</p>__
+__Course C__
 
 ## DEUXIÈME JOURNÉE
 
@@ -261,7 +261,7 @@ Du Col au grand Pic de Malibierne............. 1h.25 }
 Du grand au petit Pic de Malibierne........... 0h.15 } (Arrêts en sus).
 Du petit Pic à la Cabane de Ribéréta ......... 2h. » }
 ```
-__<p class="centre">Course C</p>__
+__Course C__
 
 ## TROISIÈME. JOURNÉE
 
@@ -396,7 +396,7 @@ Du Pic d'Albe à La Rencluse........... 2h.15 }
 
 ****
 
-__<p class="centre">Course D</p>__
+__Course D__
 
 ## JOURNÉE DE RETOUR
 

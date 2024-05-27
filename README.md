@@ -1,7 +1,5 @@
 # Guide Soubiron
 
-https://github.com/xcaeag/Guide-Soubiron
-
 Les Pyrénées - du Pic d'Anie au Canigou en 40 excursions, par Pierre Soubiron, cartes de Raymond d'Espouy. 1931.
 
 Un guide des années 30 glané chez un bouquiniste...
@@ -14,7 +12,7 @@ A vous de l'explorer, de confronter vos itinéraires à ceux-là, assez soutenus
 
 Les notes sur la présence des lacs glacés, des glaciers maintenant fondus, des rimailles à franchir sont intéressantes. Les conseils pour emprunter les lignes de tramways électriques ou d'autobus font rêver !
 
-Il semble que l'ouvrage soit dans le domaine public... si ce n'était pas le cas, prévenez moi vite !
+Il semble que l'ouvrage soit dans le domaine public... si ce n'était pas le cas, prévenez moi vite ! ( [https://github.com/xcaeag/Guide-Soubiron](https://github.com/xcaeag/Guide-Soubiron) )
 
 Les fichiers :
 

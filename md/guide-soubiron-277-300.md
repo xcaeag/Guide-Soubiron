@@ -283,7 +283,7 @@ souhait : c'est que la peseta retrouve sa modestie d'antan.
 
 ****
 
-__<p class="centre">Course A (deux jours)</p>__
+__Course A (deux jours)__
 
 ## PREMIÈRE JOURNÉE
 
@@ -593,7 +593,7 @@ en faisant au passage la Fourcanade et le Moulières.
 
 ****
 
-__<p class="centre">Course A</p>__
+__Course A__
 
 ## DEUXIÈME JOURNÉE
 
@@ -714,7 +714,7 @@ Du Col Alfred au Moulières (all. et ret.) 1h.15 } (Arrêts en sus).
 Du Col Alfred à La Rencluse.............. 2h.45 }
 ```
 
-__<p class="centre">Course B (un jour)</p>__
+__Course B (un jour)__
 
 ## Traversée du Col Maudit
 
