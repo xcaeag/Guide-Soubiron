@@ -17,6 +17,10 @@ a {
     background-image: none;
 }
 
+code, kbd, pre, samp {
+    font-size: 0.9em;
+}
+
 pre.lines {
     visibility: hidden;
 }
@@ -39,4 +43,19 @@ pre.lines {
 
 h1 {
     text-align: center;    
+}
+
+.markdown-body table {
+    width: inherit;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.markdown-body td:first-child, .markdown-body th:first-child {
+    width: inherit;
+    padding-left: 20px;
+}
+
+.markdown-body tbody {
+    background-color: inherit;
 }
