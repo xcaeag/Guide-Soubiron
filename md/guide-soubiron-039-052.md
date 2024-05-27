@@ -26,7 +26,7 @@ __et le Pic de Ger.__
 
 (Emporter des conserves pour cinq repas).
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 C'est par un itinéraire nouveau que nous allons faire la traversée 
 de la Vallée d'Ossau à la splendide Vallée d'Aspe dans la
@@ -691,7 +691,7 @@ prendre un train qui quitterait Laruns vers 18 h.
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __URDOS__
   - Pour abandonner ou pour rejoindre après la 1" journée

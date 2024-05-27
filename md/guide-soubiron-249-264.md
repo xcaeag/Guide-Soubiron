@@ -22,7 +22,7 @@ _B. E. — Du 1° Juidet au 1°" Octobre._
 
 Cartes à emporter : Luchon et Val d'Arouge.
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 On emportera des conserves pour deux repas et les divers
 casse-croûte. On pourra, au passage, déposer une partie des
@@ -137,7 +137,7 @@ __le Pas de Couret (2.131m) et le Vallon d'Esquierry.__
 
 —— GUIDE INDISPENSABLE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 L'excursion de ce jour a pour but :
 
@@ -467,7 +467,7 @@ __la Rue d'Enfer (1.576m) et la Vallée du Lys.__
 
 —— SANS GUIDE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Au chemin qui va de Superbagnères à Espingo, s'amorce
 un nouveau sentier qui permet de faire le tour du Cirque du
@@ -594,7 +594,7 @@ __et la Rue d'Enfer (1.576m).__
 
 —— GUIDE UTILE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Cette excursion, assez délicate comme direction sur une
 partie du parcours, ne doit pas être entreprise sans guide par
@@ -732,7 +732,7 @@ __par Cier-de-Luchon (592m).__
 
 —— SANS GUIDE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Le Soum de l'Antenac est le point culminant d'une chaîne
 secondaire qui va de Cazaril-de-Luchon, au S., à Cazarilh-de-

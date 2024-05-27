@@ -19,7 +19,7 @@ __(Suite du MASSIF des MONTS-MAUDITS)__
 
 __CINQ JOURS AU DÉPART DE LUCHON__
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Pour réaliser les courses C et D, il faut simplement aller
 coucher à La Rencluse la veille, et emporter des provisions
@@ -49,7 +49,7 @@ __Course C (trois jours)__
 
 __Le Tour des Monts-Maudits__
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Cette course est destinée à atteindre trois buts :
 
@@ -189,7 +189,7 @@ __Ascension des deux Pics de Malibierne (3.067m-3.055m).__
 
 —— GUIDE INDISPENSABLE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Qu'on parte des cabanes de Llosas, de Paloméra ou de Ribéréta, 
 pour faire l'ascension des pics de Malibierne, il est préférable
@@ -272,7 +272,7 @@ __et le Pic d'Albe (3.096m).__
 
 —— GUIDE INDISPENSABLE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Cette journée d'excursion a un double but : 
 
@@ -653,7 +653,7 @@ D l'Hospice de France à Luchon               }    6h
 
 ****
 
-<u>__POINT UNIQUE D'INTERRUPTION__</u>
+__<u>POINT UNIQUE D'INTERRUPTION</u>__
 
 - __LA RENCLUSE__
   - Soit pour rejoindre de Luchon.

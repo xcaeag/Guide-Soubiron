@@ -31,7 +31,7 @@ __La Punta Fulsa, La Suelsa,__<br>
 __le Pic Schrader ou Grand Batchimale, le Lac de Caillaouas,__<br>
 __le Pic de Hourgade et la Belle-Sayette.__
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Un guide est indispensable pour toute l'excursion.
 
@@ -605,7 +605,7 @@ De la Belle-Sayette à Loudenvielle...... 4 h.  } (Arrêts en sus)
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __GRANGES DE VIADOS__
   - Pour rejoindre de Saint-Lary par l'Hospice de Rioumajou et le port de Cauouarère : 9h »

@@ -26,7 +26,7 @@ __ASCENSIONS de la GRANDE FACHE,__<br>
 __du PIC de CAMBALÈS, du BERNAT BARRAOU, du CHABARROU__<br>
 __et du PIC d'ESTIBAOUDE.__
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Un pyrénéiste exercé peut très bien diriger cette excursion.
 On emportera des vivres pour trois repas et, si on ne prend
@@ -555,7 +555,7 @@ le refuge de Culaous et le sentier qui y conduit.
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __REFUGE DU MARCADAU__
   - Pour rejoindre de Cauterets : 4h.30

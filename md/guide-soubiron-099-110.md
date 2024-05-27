@@ -28,7 +28,7 @@ __par le Balaïtous, Sallent, l'Algas, l'Arollas, les Bains de Particosa,__<br>
 __le Pic d'Enfer, le Port du Marcadau,__<br>
 __les lacs Nère, du Pourtet, de Castellabarca et d'Ilhèou.__
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
  
 Un bon guide est indispensable pour toute l'excursion, et si
 on est plus de deux, on prendra aussi un porteur. On emportera
@@ -514,7 +514,7 @@ Du Lac d'Ilhèou à Cauterets............... 2h.15 }
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __SALLENT__
   - Pour rejoindre de Laruns, 36k. de route, 2h d'autobus

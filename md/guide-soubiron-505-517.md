@@ -30,7 +30,7 @@ __le Col des Neuf-Croix,__<br>
 __le Refuge de Ull de Ter, Roque Couloum, le Pic de Costabona.__<br>
 __La Preste, le Pla Guillem et le Canigou.__
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Comme on l'a constaté à la 39° excursion, les montagnes
 catalanes sont sans difficultés. Les sommets de la 40° n'offrent
@@ -499,7 +499,7 @@ __par la Forêt de Balatg et le Col de Jouell.__
 
 —— SANS GUIDE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Nous voici arrivés au terminus de la longue randonnée de
 200 jours qui se clôlurera par une excursion des plus attrayantes
@@ -631,7 +631,7 @@ ter électrique.
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __LA PRESTE__
   - Pour rejoindre de Prats de Mollo, 7 k. de roule en autobus.

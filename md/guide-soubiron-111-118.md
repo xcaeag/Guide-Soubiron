@@ -30,7 +30,7 @@ __le Refuge de Culaous, le Pic de Culaous, le Pic de Cestrède,__<br>
 __l'Ardiden et la Vallée de Bernazaou.__
 
  
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Un guide est indispensable pour toute l'excursion.
 
@@ -334,7 +334,7 @@ Du Pic de Culaous au Pic de Cestrède.... 1h. » } (Arrêts en sus).
 Du Pic de Cestrède au refuge............ 2h.45 }
 ```
 
-<u>__EAU au REFUGE de CULAOUS__</u>
+__<u>EAU au REFUGE de CULAOUS</u>__
 
 Au cas où la fontaine de Jouvence serait tarie, on trouvera
 une grande source à environ 300 m. au N.-N.-O. du refuge. On

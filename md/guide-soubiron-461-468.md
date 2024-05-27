@@ -210,7 +210,7 @@ __par le ravin du Sauquet, Axiat et le Col de Lordat.__
 
 —— SANS GUIDE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 On peut faire l'ascension du Soularac à la suite de n'importe
 quelle excursion ariégeoise, à la condition d'aller coucher la

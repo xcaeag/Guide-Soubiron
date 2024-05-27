@@ -29,7 +29,7 @@ __le Pic des Gourgs-Blances, les lacs du Port d'Oô,__<br>
 __de Saousat et d'Espingo, le Cap de Hounts-Secs__<br>
 __et le Pic Lézat.__
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Pour cette excursion de grande envergure, on emportera des
 provisions pour six repas et les divers casse-croûte. Si on n'a
@@ -648,7 +648,7 @@ De la Rue d'Enfer à Luchon............. 3h.15 }
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __GRANGES DE VIADOS__ 
   - 1° - Pour rentrer à Saint-Lary par le port de Caouarère et l'Hospice de Rioumajou : 8h

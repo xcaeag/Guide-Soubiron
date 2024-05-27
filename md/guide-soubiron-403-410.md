@@ -24,7 +24,7 @@ _B. E. — Du 15 Juillet au 15 Seplembre._
 
 Cartes à emporter : Foix et Perles réunies.
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Comme on a pu le constater par les 29me et 31me excursions,
 Auzat est un admirable centre de tourisme pour la haute montagne. 

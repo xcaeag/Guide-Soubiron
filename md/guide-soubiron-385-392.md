@@ -378,7 +378,7 @@ l'ascension à découvert et face au soleil.
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __SAURAT__
   - Pour faire la deuxième et la troisième journée ou

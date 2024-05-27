@@ -24,7 +24,7 @@ Cartes à emporter : Luz, Bagnères-de-Luchon.
 __De BAGNÈRES-de-BIGORRE à ARREAU,__<br>
 __par le Pic de Midi, le Pic des Quatre Termes et l'Arbizon.__
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 C'est par l'un des plus beaux belvédères des Pyrénées, le
 Pic de Midi de Bigorre, que débutera la 13° excursion, en faisant 
@@ -159,7 +159,7 @@ __le Col de Bastanet (2.350m) et le Col du Bâästan (2.300m).__
 
 —— GUIDE UTILE ——
 
-<u>__Concernant le PIC des QUATRE TERMES__</u>
+__<u>Concernant le PIC des QUATRE TERMES</u>__
 
 Le nom du Pic des Quatre Termes ne figurant dans aucun
 guide, ni sur aucune carte et, de plus, ce sommet étant presque
@@ -493,7 +493,7 @@ Du Lac d'Arou à Arreau.................. 3h.15 }
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __HOTELLERIE DU PIC DE MIDI__
   - Pour rejoindre de Barèges : 3h.15

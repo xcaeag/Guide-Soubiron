@@ -21,7 +21,7 @@ _B. E. — Du 15 Juin au 15 Octobre._
 
 Carte à emporter : Saint-Girons.
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Les programmes des quatre journées peuvent ètre réalisés
 séparément en allant coucher, la veille, au point de départ.

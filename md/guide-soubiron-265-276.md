@@ -63,7 +63,7 @@ __le Céciré (2.400m) et le Col de Montarrouye (2.600m).__
 
 —— GUIDE INDISPENSABLE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Comme il faut emporter des vivres pour quatre repas et les
 divers casse-croûte de trois jours, on louera un porteur pour
@@ -387,7 +387,7 @@ __le Pas de Villamos et la Bordette (760m).__
 
 —— SANS GUIDE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Les quatrième et cinquième journées de la 20me Excursion
 nous font pousser une pointe de reconnaissance au Val d'Aran
@@ -580,7 +580,7 @@ De Pontau à Fos (8 k. de route)........ 1h.45 }
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __REFUGE de PRATLONG__
   - Pour rejoindre de Luchon : 5h.15

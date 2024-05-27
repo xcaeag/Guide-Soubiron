@@ -24,7 +24,7 @@ _B. E. — Du 15 Juillet au 15 Septembre._
 
 Cartes à emporter : Bagnères-de-Luchon et Val d'Arouge.
 
-<u>__AVERTISSEMENT de l'AUTEUR__</u>
+__<u>AVERTISSEMENT de l'AUTEUR</u>__
 
 Un mois serait nécessaire pour visiter tous les sites intéressants
 du massif des Monts-Maudits et notamment pour ascendre ses
@@ -81,7 +81,7 @@ quatre courses, on a intérêt à les effectuer comme je les indique;
 mais, si on ne veut exécuter qu'une partie du programme, on peut
 sans inconvénient en intervertir l'ordre.
 
-<u>__AVIS IMPORTANT__</u>
+__<u>AVIS IMPORTANT</u>__
 
 Si on n'est pas soi-même un pyrénéiste très exercé, et qu'aucun
 membre de la caravane ne connaisse déjà le massif des Monts-
@@ -252,7 +252,7 @@ qu'ils devront se rendre à La Rencluse le soir de la « Journée
 d'approches », et qu'ils redescendront à Venasque l'après-midi
 de la dernière journée, au lieu de rentrer à Luchon.
 
-<u>__NOTICE sur LA RENCLUSE__</u>
+__<u>NOTICE sur LA RENCLUSE</u>__
 
 Le Chalet-Hôtel de La Rencluse qu'on a construit sur le versant
 septentrional du massif des Monts-Maudits, à 2.133 m. d'alt.,
@@ -722,7 +722,7 @@ __De LA RENCLUSE (2.133m) à LA RENCLUSE,__<br>
 __par la Dent d'Albe (3.114m),__<br>
 __le Lac Grégonio, le Col Maudit (3.150m) et la Maladetta (3.312m).__
 
-<u>__NOTICE sur le COL MAUDIT__</u>
+__<u>NOTICE sur le COL MAUDIT</u>__
 
 Bien que Russell ait écrit « Il n'y a pas un isard qui puisse le
 traverser » (1), l'itinéraire de son passage en est maintenant
@@ -770,7 +770,7 @@ M. Jean Sabadie comme chef de course.
 Depuis, on ne compte plus, tellement est important le nombre
 de ceux qui le franchissent tous les ans à la belle saison.
 
-<u>__CONCLUSIONS PERSONNELLES sur la Traversée du COL MAUDIT__</u>
+__<u>CONCLUSIONS PERSONNELLES sur la Traversée du COL MAUDIT</u>__
 
 A. — Jusqu'au 10 août, à da condition d'être au moins trois
 et que le couloir soit sans neige, les difficultés sont moyennes
@@ -955,7 +955,7 @@ Du Col Maudit à la Maladetta.......... Oh.35 } (Arrêts en sus)
 De la Maladetta à La Rencluse......... 2h.30 }
 ```
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Si, parvenu au pied du couloir Maudit, on est obligé, pour
 une cause quelconque, de renoncer au passage, on redescendra

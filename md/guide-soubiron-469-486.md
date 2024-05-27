@@ -30,7 +30,7 @@ __le Col de Puymorens, le Lac de Font-Nègre,__<br>
 __les Sources de l'Ariège, le Pic Nègre d'Embalire__<br>
 __et le Campcardos.__
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Il n'existe pas à Ax des guides connaissant l'excursion en
 entier, mais on peut trouver en cours de route, en cas de brouillard
@@ -174,7 +174,7 @@ __par la Porteille d'Espagne (2.460m) et le Pic de Prigue (2.810m).__
 
 —— GUIDE UTILE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 La grande Pique Rouge (2.730m) projette au N. un contrefort
 qui descend jusqu'aux rives de l'Oriège, en amont de la Jasse
@@ -870,7 +870,7 @@ Du Pic de Campcardos à Porta............ 2h.45 }
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __LA BOUILLOUSE__
   - Pour rejoindre de Montlouis (14 k.) : 4 h.

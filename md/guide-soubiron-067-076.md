@@ -19,7 +19,7 @@ _B. E. — Du 15 Juin au 15 Octobre._
 
 Carte à emporter : Tarbes.
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 La quatrième excursion nous fait entrer par Lourdes dans les
 Pyrénées Centrales, qu'on considère comme étant la plus belle
@@ -279,7 +279,7 @@ __et le village de Labassère (787m).__
 
 —— SANS GUIDE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Au S.-E. du Ger de Lourdes, se détache une colline gazonnée, 
 longue de 7 k., qui va mourir au col de Lingoust après de
@@ -414,7 +414,7 @@ De Labassère à Bagnères (6 k.).... 1h.15 }
      (Si on est monté au Ger à pied, 1h.15 en sus).
 ```
 
-<u>__AVIS IMPORTANT__</u>
+__<u>AVIS IMPORTANT</u>__
 
 Si, après avoir effectué les excursions des environs de Lourdes, 
 on veut continuer immédiatement par les environs de
@@ -438,7 +438,7 @@ pourra prendre le train pour Cauterets.
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __ARGELÈS__ 
   - Pour abandonner après le premier jour.

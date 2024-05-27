@@ -33,7 +33,7 @@ __le Refuge de Ull de Ter,__<br>
 __le Pic de la Donia, la Vallée et les Gorges de Carança,__<br>
 __les Pics de la Tausse et Font-Romeu.__
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Avec la 39me Excursion, nous quittons la grande chaîne pyrénéenne
 et le bond qui nous fait franchir la Cerdagne dans sa
@@ -248,7 +248,7 @@ Du Pas dels Lladres au Puigmal........... 1h.45 }
 Du Puigmal au Sanctuaire de Nuria........ 2h.15 } (Arrêts en sus).
 ```
 
-<u>__Note concernant NURIA__</u>
+__<u>Note concernant NURIA</u>__
 
 On peut affirmer que le sanctuaire de Nuria est le paradis des
 pyrénéistes qui veulent explorer la région s'étendant du Puigmal
@@ -576,7 +576,7 @@ Du Pic du Géant au Pic del Gra de Fajol... 1h.10 }
 Du Pic del Gra de Fajol au Refuge......... 0h.40 }
 ```
 
-<u>__Note concernant le REFUGE de ULL de TER__</u>
+__<u>Note concernant le REFUGE de ULL de TER</u>__
 
 Le refuge gardé de Ull de Ter a été construit par le « Centre
 Excusionista de Catalunya » et inauguré en juillet 1909. Il est
@@ -875,7 +875,7 @@ _(Si on rentre par Bolquère, 4 h.)_
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __NURIA__
   - Pour rejoindre d'Eyne par le Col de Nuria : 6h. »

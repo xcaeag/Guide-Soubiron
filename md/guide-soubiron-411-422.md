@@ -30,7 +30,7 @@ __la Coma Pedrosa, le Port de Médacourbe,__<br>
 __le Pic des Lavans, les Pics de l'Etang Fourcat,__<br>
 __le Tristagnes et le Pic de l'Aspre.__
  
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 On demandera à M. le Directeur des usines d'Auzat l'autorisation 
 de coucher au refuge de l'Etang Fourcat, et on arrivera
@@ -555,7 +555,7 @@ De Goulier à Vicdessos................... 0h.45 }
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __ORRY DU LABINAS__
   - Pour rejoindre d'Auzat : 5h.30

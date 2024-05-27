@@ -32,7 +32,7 @@ __Caldas de Bohi, le Comolos Bienes, le Comolos Pales,__<br>
 __le Tuc de la Tuménéja,__<br>
 __le Montarto d'Aran, le Pic d'Aubas et Couradilles.__
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 On retiendra un guide luchonnais pour toute l'excursion, ou
 tout au moins pour les quatre premiers jours, en lui donnant
@@ -49,7 +49,7 @@ Avant de partir, il sera prudent de se renseigner sur l'horaire
 de ce service, si on ne l'a pas fait au passage à Fos, lors de
 la vingtième excursion.
 
-<u>__SIERRA de MONTARTO__</u>
+__<u>SIERRA de MONTARTO</u>__
 
 La Sierra de Montarto étant peu connue et peu fréquentée,
 j'ai jugé indispensable de donner une carte spéciale de cette

@@ -25,7 +25,7 @@ __par Gèdre; le Cirque de Troumouse, le Pic de Troumouse,__<br>
 __la Munia, le Pic des Aiguillous, le Pic de Campbieil,__<br>
 __le Pic Méchant, le Lac d'Orédon et le Pic d'Aret.__
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 On emportera des conserves pour quatre grands repas et on
 retiendra un guide à l'avance pour quatre jours, en lui donnant
@@ -626,7 +626,7 @@ la construction d'un tramway électrique.
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __HEAS__ 
   - Pour rejoindre de Gèdre : 2h.30

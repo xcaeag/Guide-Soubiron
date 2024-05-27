@@ -21,7 +21,7 @@ _B. E. — Du 15 Juin au 15 Octobre._
 
 Cartes à emporter : Luz, Bagnères-de-Luchon, Saint-Gaudens.
 
-<u>__NOTICE sur ARREAU__</u>
+__<u>NOTICE sur ARREAU</u>__
 
 Au haut de la vallée de la Neste, après un étroit défilé de 10 k.,
 le chemin de fer débouche à Arreau, au confluent des trois vallées
@@ -508,7 +508,7 @@ par le dernier train.
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - ARREAU-SARRANCOLIN et MAULÉON-BAROUSSE
 

@@ -29,7 +29,7 @@ __la Palo de la Claouëro, Alos d'Isil, les Pics de Mont Rouch,__<br>
 __la Roya de Mollas, le Cap de Ruhos__<br>
 __et le Port de Marterat.__
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Pour les clés du refuge du Montvalier, il y a au moins un
 détenteur dans chaque vallée du Salat et du Lez; c'est M. Dunglas
@@ -202,7 +202,7 @@ __par les Pics de Mont Rouch (2.865m) et la Roya de Mollas.__
 
 —— GUIDE UTILE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Avant d'entreprendre cette journée d'excursion par un itinéraire
 presque inconnu, deux notes me paraissent indispensables
@@ -432,7 +432,7 @@ Du Port à Saint-Lizier d'Ustou.......... 3h. » }
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __BONABÉ__
   - Pour rejoindre de Salau, afin de prendre la caravane au passage, 

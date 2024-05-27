@@ -30,7 +30,7 @@ __le Pic de Turgulla, la Vallée et la Cascade d'Arse, Aulus,__<br>
 __le Lac du Garbet, le Port de Saleix, le Pic de Mont Ceint,__<br>
 __le Pic de Cabanatous et les Etangs de Bassiès.__
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Les trois premiers jours de cette excursion s'échelonnant
 dans une région très accidentée et peu connue, un guide me
@@ -592,7 +592,7 @@ Du Cabanatous à Auzat................... 3h.10 }
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __AULUS__
   - Soit pour abandonner après la 3e ou 4e journée, soit

@@ -800,7 +800,7 @@ De Gabas aux Eaux-Chaudes (8 k.)........ 1h.30 }
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __LESCUN et URDOS__
    - Pour rejoindre ou abandonner aprés les 1re, 2me ou 3me journée.

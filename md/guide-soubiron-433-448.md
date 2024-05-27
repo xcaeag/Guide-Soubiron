@@ -31,7 +31,7 @@ __les Etangs de Fontargente,__<br>
 __le Pic de Mil-Ménut, la Gorge de Quioules, la Vallée d'Astorn,__<br>
 __le Pic du Pas de las Aygues et le Pic de Midi de Siguer.__
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Le programme de a 35me Excursion qui, pour faire suite à
 celui de la 34me, devrait commencer à Siguer et finir à l'Hospitalet
@@ -762,7 +762,7 @@ Du Pic de Midi à Siguer................. 2h.15 }
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __REFUGE DU SISCA__
   - Pour rejoindre de l'Hospitalet : 2h »

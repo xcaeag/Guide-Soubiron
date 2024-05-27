@@ -18,7 +18,7 @@ output: pdf_document
 __Quinze jours aux Environs de Luchon__<br>
 __En trois Excursions__
 
-<u>__NOTICE sur LUCHON__</u>
+__<u>NOTICE sur LUCHON</u>__
 
 On peut effectuer un nombre infini d'excursions aux environs
 immédiats de Luchon, et plusieurs saisons ne suffiraient pas, si
@@ -80,7 +80,7 @@ et l'élégance du texte. Toutes les beautés et toutes les curiosités
 naturelles y sont décrites et artistiquement reproduites par
 169 héliogravures.
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 C'est par la montagne que nous arriverons à Luchon; cela
 nous permettra, non seulement de visiter une partie très pittoresque 
@@ -231,7 +231,7 @@ __par le Lac d'Oô (1.500m) et les Granges d'Astau (1.112m).__
 
 —— SANS GUIDE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Un sentier très bien tracé relie Superbagnères à Espingo par
 un pays splendide, et il faut environ 4h.30 pour effectuer ce
@@ -259,7 +259,7 @@ s'arrêtera là quelques instants pour identifier les cimes des alentours
 et admirer les beautés du cirque splendide qu'on a sous
 les yeux : 
 
-<u>__LE CIRQUE DU LYS__</u>
+__<u>LE CIRQUE DU LYS</u>__
 
 Voici le second joyau de la chaîne : le Cirque du Lys.
 Si le Cirque de Gavarnie est imposant et majestueux, celui
@@ -351,7 +351,7 @@ de la Baquo {3.114m), Port d'Oô (3.065m), Gourdon (3.038m), Spijeoles
 (3.065m) et sa longue crête hirsute. Sur les flancs de presque 
 toutes ces montagnes, resplendissent de magnifiques glaciers.
 
-<u>__NOTICE sur le REFUGE d'ESPINGO__</u>
+__<u>NOTICE sur le REFUGE d'ESPINGO</u>__
 
 La construction du refuge d'Espingo, à l'entrée de l'admirable
 cirque de ce nom et à 160 m. à l'E. du lac, ouvre des horizons
@@ -570,7 +570,7 @@ __le Vallon de Burbe et la Cascade Sidonie.__
 
 —— GUIDE UTILE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Grâce à la construction d'un joli chemin muletier qui zigzague, 
 sous bois, les flancs N. et O. de la montagne pour déboucher 
@@ -717,7 +717,7 @@ __et retour à Luchon par le Port de la Picade (2.475m).__
 
 —— GUIDE UTILE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 L'excursion du Port de Venasque et du Sauvegarde, qui
 n'offre pas la moindre difficulté, est cependant l'une des plus

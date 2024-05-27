@@ -14,7 +14,7 @@ output: pdf_document
 
 ## Table Méthodique des 40 Excursions
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Afin de maintenir la concordance entre les deux éditions,
 nous conservons la pagination du Guide aux programmes tirés

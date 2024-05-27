@@ -32,7 +32,7 @@ __le Quaïrat, le Montarrouye, Bacanère et le Burat.__
 
 (Emporter des provisions pour quatre repas et les divers casse-croûte.)
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Les récents travaux de MM. Eydoux, Maury et de Saint-Saud
 ont rectifié la plupart des cotes d'alt. des régions de Caillaouas
@@ -47,7 +47,7 @@ guide.
 
 ****
 
-<u>__GOURGS-BLANCS et CIRQUE d'OO__</u>
+__<u>GOURGS-BLANCS et CIRQUE d'OO</u>__
 
 La 17me Excursion va nous faire visiter, avec les Gourgs-
 Blancs et le Cirque d'Oô, une des régions les plus riches en
@@ -501,7 +501,7 @@ de la halte d'Antignac, à 6 k. de Luchon.
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __ESPINGO__
   - Pour rejoindre de Luchon, 13 k. de roule et 2h.30 de sentier.

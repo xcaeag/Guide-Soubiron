@@ -151,7 +151,7 @@ voisines ainsi que les cimes lointaines.
 Mon guide ne s'occupant exclusivement que de montagne, je
 prends le touriste à pied d'œuvre et le quitte de même.
 
-<u>__AVIS AUX ACHETEURS DE LA 1re ÉDITION__</u>
+__<u>AVIS AUX ACHETEURS DE LA 1re ÉDITION</u>__
 
 Pour mettre à jour la première édition et posséder une œuvre
 complète, il suffira d'acquérir séparément la collection des
@@ -162,7 +162,7 @@ complète, il suffira d'acquérir séparément la collection des
 
 ****
 
-<u>__ALPINISME ACROBATIQUE__</u>
+__<u>ALPINISME ACROBATIQUE</u>__
 
 Au point de vue purement sportif, je ne conteste ni ne méconnais 
 le charme de l'alpinisme acrobatique, même dans les Pyrénées 
@@ -180,7 +180,7 @@ Quoique presque toutes les excursions puissent être faites du
 15 octobre)_, j'indique pour chacune d'elles les époques les plus
 favorables, afin de conserver la plus grande chance de réussite.
 
-<u>__CARTES ET PLANS__</u>
+__<u>CARTES ET PLANS</u>__
 
 Mon ami, Raymond d'Espouy, aussi passionné pyrénéiste qu'artiste 
 distingué, a bien voulu se charger de l'exécution des cartes
@@ -231,13 +231,13 @@ yrande échelle. Mon guide contient donc, en sus des cartes spéciales
 régions de Joucla et de Fontargente._<br>
 5° _Un plan du massif de Tabe._
 
-<u>__CONCORDANCE DES EXCURSIONS__</u>
+__<u>CONCORDANCE DES EXCURSIONS</u>__
 
 Dans la 2° édition, 25 excursions ont changé de numéro; afin
 de maintenir la concordance des cartes des deux éditions, une
 mention spéciale indique le N° de la 1re édition.
 
-<u>__CORDE__</u>
+__<u>CORDE</u>__
 
 __Pour l'alpinisme acrobatique,__ quelle que soit la région où
 l'on pratique ce sport, et aussi pour effectuer l'ascension de la
@@ -267,7 +267,7 @@ moi, surtout parmi les partisans de l'alpinisme acrobatique, mon
 opinion sur la corde s'est malheureusement fortifiée par le terrible 
 accident survenu en 1923 aux aiguilles d'Ansabère (2).
 
-<u>__DIRECTION DES EXCURSIONS__</u>
+__<u>DIRECTION DES EXCURSIONS</u>__
 
 Avec un pyrénéiste exercé comme directeur, un grand nombre
 de ces excursions peuvent être faites sans guide. Je l'indique donc
@@ -288,7 +288,7 @@ pour celles qui peuvent être faites sans guide, les itinéraires en
 sont plus détaillés, pour permettre à un bon pyrénéiste de conduire 
 seul une caravane.
 
-<u>__HORAIRES__</u>
+__<u>HORAIRES</u>__
 
 Les horaires sont larges; les plus rapides sont ceux d'un pyrénéiste moyen.
 
@@ -304,7 +304,7 @@ encore dans les glaciers non crevassés. (V. Souvenirs d'un Montagnard,
 
 ****
 
-<u>__ITINÉRAIRES__</u>
+__<u>ITINÉRAIRES</u>__
 
 Les itinéraires sont combinés de telle manière qu'ils __soudent les
 excursions entre elles__ et qu'ils __offrent__ au pyrénéiste __les avantages 
@@ -331,21 +331,21 @@ manquée pour une cause quelconque;
 f) Enfin, de pouvoir intervertir l'ordre des excursions sans préjudice 
 pour les autres.
 
-<u>__NOTICE SUR LA LUNE__</u> (V. p. 14).
+__<u>NOTICE SUR LA LUNE</u>__ (V. p. 14).
 
-<u>__ORTHOGRAPHE DES NOMS DE LIEUX__</u>
+__<u>ORTHOGRAPHE DES NOMS DE LIEUX</u>__
 
 Pour les noms de lieux aux multiples formes d'orthographe,
 j'ai adopté de préférence celle qui se rapproche le plus de la prononciation 
 locale, cela pour faciliter l'obtention de renseignements précis.
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 Si on ne veut faire qu'une partie de l'excursion, on trouvera à
 la fin de chaque programme les __« Points d'Interruption »__ où on
 pourra, soit quitter la caravane, soit la rejoindre.
 
-<u>__VARIANTES POSSIBLES__</u>
+__<u>VARIANTES POSSIBLES</u>__
 
 Pour quelques-uns des programmes, selon les buts du lendemain, 
 il est possible d'adopter des variantes en fin de journée;
@@ -460,7 +460,7 @@ qu'il peut rendre en cours de route. De plus, connaissant les bergers,
 leur langage et leurs mœurs, il vous fera presque toujours
 céder la meilleure cabane.
 
-<u>__BANDES MOLLETIÈRES__</u>
+__<u>BANDES MOLLETIÈRES</u>__
 
 Ma longue carrière de pyrénéiste m'a démontré les nombreux
 inconvénients des bandes molletières, inconvénients qui, pour les
@@ -482,7 +482,7 @@ l'eau en dehors des souliers. Elles ont, en outre, l'énorme avantage
 de pouvoir être mises sans lumière, dans quelques secondes
 et avec un pantalon quelconque.
 
-<u>__GUIDES ET REFUGES__</u>
+__<u>GUIDES ET REFUGES</u>__
 
 Le Club Alpin Français, 121, boulevard Haussmann, Paris, met
 en vente, tous les ans, un petit annuaire de poche où on trouve
@@ -497,7 +497,7 @@ il vaut mieux lui donner une indemnité.
 
 ****
 
-<u>__NOURRITURE__</u>
+__<u>NOURRITURE</u>__
 
 On emportera comme provisions une nourriture selon ses
 goûts mais complétée par un chocolat déjà cuit, pour le matin,
@@ -506,7 +506,7 @@ d'un thé bouillant pour les terminer.
 
 On se reposera 1/2 h. avant de commencer les grands repas.
 
-<u>__ORIENTATION PAR LA MONTRE__</u>
+__<u>ORIENTATION PAR LA MONTRE</u>__
 
 Si on n'a pas de boussole et qu'il fasse soleil, on peut s'orienter
 instantanément au moyen d'une montre qui soit à l'heure.
@@ -521,7 +521,7 @@ se trouvera dans l sens d'une ligne tirée du centre de la montre
 vers le point du cadran qui est à mi-chemin entre l'aiguille et le
 chiffre de midi.
 
-<u>__VOILETTE contre les COUPS de SOLEIL__</u>
+__<u>VOILETTE contre les COUPS de SOLEIL</u>__
 
 Seule, la voilette en mousseline de soie, noire ou verte, est efficace 
 contre les coups de soleil, lorsqu'on séjourne longtemps sur
@@ -822,7 +822,7 @@ pour la désignation de divers sommets.
 
 # LES PYRÉNÉES<br>Du PIC d'ANIE au CANIGOU<br>En 40 Excursions
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Si, de la Rhune au Pic d'Anie, on rencontre quelques sommets intéressants 
 dont les trois principaux sont l'Altabiscar (1.498), le Pic

@@ -26,7 +26,7 @@ __le Pic de Bazès et le Soum de Granquet.__
 
 (Emporter des vivres pour sept repas).
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Pour cette excursion, il est prudent de retenir un bon guide
 à l'avance pour les quatre premiers jours. Si on part plus
@@ -613,7 +613,7 @@ Du Soum de Granquet à Argelès.......... 3h.10 }
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __ARRÉMOULIT__
     - 1° Pour rejoindre de Laruns par Gabas et Arrius : 8h.

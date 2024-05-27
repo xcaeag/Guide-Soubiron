@@ -29,7 +29,7 @@ __le Pic Long, le Pic de Bugaret, le Montarrouy et le Maucapera.__
 __2me De BARÈGES à PIERREFITTE,__<br>
 __par le Soum Arrouy, le Pic Léviste et le Lac d'Izaby.__
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 On prendra un guide au moins pour les trois premiers jours.
 On emportera des conserves pour six repas et du pain et du vin
@@ -42,7 +42,7 @@ d'Orédon.
 ****
 
 ****
-<u>__Concernant le PIC de MIDI de BIGORRE__</u>
+__<u>Concernant le PIC de MIDI de BIGORRE</u>__
 
 >L'ascension du Pic de Midi de Bigorre se fait très souvent de
 Barèges, mais, comme j'y conduis le touriste par une autre voie,
@@ -686,7 +686,7 @@ avant midi.
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __LAC D'OREDON__
   - Pour rejoindre de Saint-Lary : 4h.15

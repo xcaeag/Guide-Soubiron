@@ -21,7 +21,7 @@ _B. E. — Du 15 Juin au 15 Octobre._
 
 Carte à emporter : Bagnères-de-Luchon.
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Malgré leur éloignement relatif de Luchon, les pics du Gars
 et de Cagire appartiennent à sa région, en raison de leur point

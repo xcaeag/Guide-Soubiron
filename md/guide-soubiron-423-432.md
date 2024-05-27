@@ -28,7 +28,7 @@ __par le Pic d'Endron, l'Etang Fourcat, le Pic de Rialp,__<br>
 __l'Estanyo, le Pic de Serrère, le Port de Siguer,__<br>
 __le Lac de Peyregrand et la Gorge de Brouquenat.__
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Pour cette excursion, un guide peut être utile, si on n'a pas
 l'habitude de la montagne, mais un porteur est indispensable
@@ -453,7 +453,7 @@ Auzat.
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __LE SERRAT__
     - Pour rejoindre de Siguer : 9h. »

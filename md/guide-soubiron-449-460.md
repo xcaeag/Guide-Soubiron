@@ -22,7 +22,7 @@ _B. E. — Du 15 Juin au 15 Octobre._
 
 Cartes à emporter : Perles et Ax-les-Thermes.
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Comme Auzat, Ax-les-Thermes est un admirable centre de
 tourisme. Plus mondain, moins encaissé, il est plus éloigné des
@@ -186,7 +186,7 @@ __et le village d'Orgeix.__
 
 —— SANS GUIDE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Au pont de Betsou, qui fait franchir l'Oriège à 1 k. 500 d'Ax,
 s'amorce une nouvelle route qui, par le hameau de Petches,
@@ -298,7 +298,7 @@ __et les rives de l'Oriège.__
 
 —— SANS GUIDE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Grâce à l'édification récente d'un refuge au lac d'En-Beys,
 par le Club Alpin Français, on peut faire maintenant, en deux

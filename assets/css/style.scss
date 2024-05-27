@@ -11,11 +11,21 @@ body {
     background-image: none;
 }
 
-pre.line {
+pre.lines {
     visibility: hidden;
 }
 
 .markdown-body pre {
     color: #000000;
-    background-color: None;
+    background-color: #FFFFFF;
+}
+
+.page {
+    border-top: 1px solid #999999;
+}
+
+.markdown-body blockquote {
+    font-size: 13px;
+    border-top: 2px solid #333;
+    border-bottom: 2px solid #333;
 }

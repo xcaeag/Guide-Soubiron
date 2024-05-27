@@ -28,7 +28,7 @@ __du Montné, du Pic Wilson,__<br>
 __du Cabaliros, du Grand Barbat et du Lac d'Ilhèou.__
 
  
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Parmi les nombreux centres d'excursions des Pyrénées, l'un
 des plus attrayants est certainement Cauterets. C'est, avec Gavarnie, 

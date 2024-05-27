@@ -30,7 +30,7 @@ __Les Sources de la Garonne, le Grand Pic de Colomès,__<br>
 __le Grand Péguéra, la Pointe de Sabourède,__<br>
 __Salardu, la Vallée de Bagerque, le Maubermé et le Port d'Urets.__<br>
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Si les vingtième et vingt-troisième excursions nous ont fait
 visiter la majeure partie du beau Val d'Aran, la vingt-cinquième
@@ -47,7 +47,7 @@ pour Los Encantados.
 On emportera des provisions pour cinq repas et les divers
 casse-croûte.
 
-<u>__CARTES de la 25me EXCURSION__</u>
+__<u>CARTES de la 25me EXCURSION</u>__
 
 La vingt-cinquième excursion évolue sur une quarantaine
 de k. au S. et au N. de Salardu. Comme la partie méridionale
@@ -408,7 +408,7 @@ De la Pointe au Lac de Sabourède....... 1h.50 } (Arrêts en sus).
 Du Lac de Sabourède à Salardu.......... 3h.15 }
 ```
 
-<u>__ENCANTADOS et SABOURÈDE__</u>
+__<u>ENCANTADOS et SABOURÈDE</u>__
 
 Toute cette région a été explorée en détail, en 1926, par les
 campeurs de la Section des Pyrénées Centrales, sous la direction

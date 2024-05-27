@@ -28,7 +28,7 @@ __Vicdessos, l'Etang d'Izourt, Goulier, le Pic de Risoul, le Col__<br>
 __de Grail, le Pic de Lercoul, le Roc de Berquié,__<br>
 __le Pic des Trois Seigneurs et la Vallée de Rabat.__
  
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Comme pour Luchon, c'est par la montagne que nous arriverons 
 à Auzat, en montant, d'abord, au Roc de Querquèou
@@ -331,7 +331,7 @@ __et la Vallée de Rabat.__
 
 —— GUIDE UTILE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Comme cette journée est un peu longue, on partira de très
 bonne heure et, si le temps n'est pas absolument clair, on se
@@ -414,7 +414,7 @@ Du Pic des Trois Seigneurs à Tarascon. 4h.25 }
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __AUZAT__
     - Pour rejoindre où abandonner après la première ou deuxième journée.

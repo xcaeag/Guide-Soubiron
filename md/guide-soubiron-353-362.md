@@ -29,7 +29,7 @@ __le Pic de l'Homme, le Pic de Montolieu,__<br>
 __N.-D. de Mongarri, les Pics de Marimana, la Pica de Bonabé.__<br>
 __la Roca Blanca et le Port de Salau.__
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Avec la vingt-septième excursion, nous attaquons la partie
 orientale de la chaîne et nous entrons définitivement dans les
@@ -456,7 +456,7 @@ De Salau à Seix.................... 3h. » } (Arrêts en sus).
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __MONGARRI__
   - 1° Pour rejoindre de Castillon par le port d'Orle : 8h.30

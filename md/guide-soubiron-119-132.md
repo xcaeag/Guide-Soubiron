@@ -21,7 +21,7 @@ _B. E. — Du 20 Juillet à Fin Août._
 
 Cartes à emporter : Luz et Gavarnie réunies.
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Après le concert de louanges des articles dithyrambiques parus
 sur le massif calcaire, j'espère que ma faible voix sera aussi
@@ -466,7 +466,7 @@ __de Roland (2.801m).__
 
 —— GUIDE INDISPENSABLE ——
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 Au N. des Casas de Ordesa, et les dominant de près de
 1.000 m., paraissent les hautes murailles du Salarüs que les
@@ -626,7 +626,7 @@ De l'Epaule à Gavarnie ................. 4h.15 }
 
 ****
 
-<u>__POINTS D'INTERRUPTION__</u>
+__<u>POINTS D'INTERRUPTION</u>__
 
 - __TUQUEROUYE__
   - Pour rentrer à Gavarnie : 4h.45

@@ -19,7 +19,7 @@ _B. E. — Du 15 Juin au 15 Octobre._
 
 Cartes à emporter : Tarbes et Luz.
 
-<u>__AVIS AUX TOURISTES__</u>
+__<u>AVIS AUX TOURISTES</u>__
 
 On peut faire aux environs de Bagnères-de-Bigorre une multitude 
 de promenades intéressantes d'une demi-journée comme
@@ -430,7 +430,7 @@ après, on rejoint le chemin qui, de Barèges, monte directement
 
 ****
 
-<u>__POINT UNIQUE D'INTERRUPTION__</u>
+__<u>POINT UNIQUE D'INTERRUPTION</u>__
 
 - __BAGNÈRES de BIGORRE__
   - Soit pour abandonner, après la 1re ou la 2e journée, soit pour rejoindre.
