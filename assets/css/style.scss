@@ -10,3 +10,12 @@ body {
 .download-bar a.code {
     background-image: none;
 }
+
+pre.line {
+    visibility: hidden;
+}
+
+.markdown-body pre {
+    color: #000000;
+    background-color: None;
+}

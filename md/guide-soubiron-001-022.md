@@ -173,7 +173,7 @@ en insérer des programmes dans mon guide; j'irais à l'encontre
 de mon but qui est de faire connaître et aimer les Pyrénées par
 le plus grand nombre possible.
 
-<u>__BONNES ÉPOQUES__</u>
+__<u>BONNES ÉPOQUES</u>__
 
 Quoique presque toutes les excursions puissent être faites du
 1er juillet au 30 septembre _(quelques-unes même du 15 juin au
