@@ -14,8 +14,6 @@ Les notes sur la présence des lacs glacés, des glaciers maintenant fondus, des
 
 Il semble que l'ouvrage soit dans le domaine public... si ce n'était pas le cas, prévenez moi vite ! ( [https://github.com/xcaeag/Guide-Soubiron](https://github.com/xcaeag/Guide-Soubiron) )
 
-Les fichiers :
-
 [Pages 1 à 22](md/guide-soubiron-001-022.md)\
 [Pages 23 à 38 : 1ere Excursion](md/guide-soubiron-023-038.md) : Cinq jours au départ de Lescun\
 [Pages 39 à 52 : 2eme Excursion](md/guide-soubiron-039-052.md) : Cinq jours au départ des Eaux-Chaudes\

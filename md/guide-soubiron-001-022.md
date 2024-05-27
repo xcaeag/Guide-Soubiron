@@ -14,7 +14,6 @@ title: LES PYRÉNÉES Du PIC d'ANIE au CANIGOU En 40 Excursions
 # LES PYRÉNÉES
 
 <p class="centre">
-<b>LES PYRÉNÉES</b><br>
 Du PIC d'ANIE au CANIGOU<br>
 EN 40 EXCURSIONS<br>
 </p>
