@@ -185,7 +185,8 @@ La forme absolument portative de mon guide ne m'a pas per-
 <div class="page"/>
 
 — p. 7 — AVERTISSEMENT DE L'AUTEUR
-****
+
+---
 
 mis de le surcharger de cartes à grande échelle, mais, en tête
 de chaque programme, or trouvera une carte esquisse de
