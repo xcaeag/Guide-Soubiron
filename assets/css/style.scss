@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body { 
+    font-family: Georgia, serif;
+}
+
+.download-bar a.code {
+    background-image: none;
+}
