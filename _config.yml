@@ -7,4 +7,6 @@ relative_links:
   collections: true
 include:
   - README.md
-theme: jekyll-theme-architect
+theme: jekyll-theme-time-machine
+title: Guide Soubiron
+description: Les Pyrénées - du Pic d'Anie au Canigou en 40 excursions, par Pierre Soubiron
