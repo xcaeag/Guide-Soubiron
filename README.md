@@ -1,4 +1,7 @@
 # Guide Soubiron
+
+https://github.com/xcaeag/Guide-Soubiron
+
 Les Pyrénées - du Pic d'Anie au Canigou en 40 excursions, par Pierre Soubiron, cartes de Raymond d'Espouy. 1931.
 
 Un guide des années 30 glané chez un bouquiniste...
@@ -56,4 +59,4 @@ Les fichiers :
 [Pages 469 à 486 : 38eme Excursion](md/guide-soubiron-469-486.md) : Cinq jours au départ d'Ax-les-Thermes \
 [Pages 487 à 504 : 39eme Excursion](md/guide-soubiron-487-504.md) : Quatre jours au départ de Bourg-Madame \
 [Pages 505 à 517 : 40eme Excursion](md/guide-soubiron-505-517.md) : Quatre jours au départ de Montlouis \
-[Pages 518 à 542 : 41eme Excursion](md/guide-soubiron-518-542.md) : Tables et Index
+[Pages 518 à 543 : 41eme Excursion](md/guide-soubiron-518-543.md) : Tables et Index

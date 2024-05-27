@@ -1,0 +1,9 @@
+# https://github.com/nicolas-van/easy-markdown-to-github-pages
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
