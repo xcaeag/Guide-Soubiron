@@ -841,3 +841,4 @@ Du refuge de Pombie, il suffira de rejoindre l'itinéraire classique
 au Col de Suzon qu'on aperçoit à 1.200 m. au N., pour atteindre le
 sommet de l'Ossau dans 3h. environ.
 
+[p23 à 38 <](md/guide-soubiron-023-038.md)  [Sommaire](README.md) [> p39 à 52](md/guide-soubiron-039-052.md)
