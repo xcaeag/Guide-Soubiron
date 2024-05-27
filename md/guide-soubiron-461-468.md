@@ -359,3 +359,5 @@ Des Carrières de Trimounts au Soularac. 1h.45 }    9h.45
 Du Soularac au Saint-Barthélémy........ 0h.40 } (Arrêts en sus).
 Du Saint-Barthélémy à Luzenac.......... 3h.50 }
 ```
+
+[p449 à 460](guide-soubiron-449-460.md) - [Sommaire](../README.md) - [p469 à 486](guide-soubiron-469-486.md)

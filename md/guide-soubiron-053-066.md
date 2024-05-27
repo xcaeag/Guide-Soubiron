@@ -626,3 +626,5 @@ __<u>POINTS D'INTERRUPTION</u>__
 - __ARRENS__
   - Pour rejoindre d'Argelès (13 k. de route) 3h.
   - Pour rentrer à Argelès : 2h.30
+
+ [p39 à 52](guide-soubiron-039-052.md) - [Sommaire](../README.md) - [p67 à 76](guide-soubiron-067-076.md)

@@ -455,3 +455,5 @@ Du Col de l'Arraing à Castillon....... 2h.30 }
 > Nota. - Cette excursion peut être faite aussi de Saint-Girons 
 à Saint-Girons dans la journée, en partant par le premier
 train du matin.
+
+[p331 à 342](guide-soubiron-331-342.md) - [Sommaire](../README.md) - [p353 à 362](guide-soubiron-353-362.md)

@@ -566,3 +566,5 @@ __<u>POINTS D'INTERRUPTION</u>__
 
 ———<br>
 (1)  Le mot « Bède » est synonyme de forêt.
+
+[p403 à 410](guide-soubiron-403-410.md) - [Sommaire](../README.md) - [p423 à 432](guide-soubiron-423-432.md)

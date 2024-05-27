@@ -466,3 +466,4 @@ De la Brèche des Hourats aulLac d'Ilhèou. 1h.40 }  (Arrêts en sus).
 Du Lac d'Ilhèou à Cauterets.............. 2h.15 } 
 ```
  
+ [p67 à 76](guide-soubiron-067-076.md) - [Sommaire](../README.md) - [p87 à 98](guide-soubiron-087-098.md)

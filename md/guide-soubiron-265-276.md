@@ -588,3 +588,5 @@ __<u>POINTS D'INTERRUPTION</u>__
 - __BOSOST__
   - Pour rej. de Fos, 3 h. à pied ou 1/4 d'h. de tram et 2 h. à pied.
   - Pour rentrer à Fos (13 k. de route : 2h.45
+
+[p249 à 264](guide-soubiron-249-264.md) - [Sommaire](../README.md) - [p277 à 300](guide-soubiron-277-300.md)

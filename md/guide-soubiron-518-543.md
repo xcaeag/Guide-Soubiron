@@ -1372,3 +1372,5 @@ Le rapport officiel de l'expérience décisive a été communiqué
 M. LACROIX.
 
 Toulouse, 1er mars 1932.
+
+[p505 à 517](guide-soubiron-505-517.md) - [Sommaire](../README.md)

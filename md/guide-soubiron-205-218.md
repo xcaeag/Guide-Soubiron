@@ -643,7 +643,6 @@ Du Pic Lézat à la Rue d'Enfer.......... 2h.   } (Arrêts en sus)
 De la Rue d'Enfer à Luchon............. 3h.15 }
 ```
 
-
 ****
 
 ****
@@ -663,3 +662,5 @@ __<u>POINTS D'INTERRUPTION</u>__
 je ne saurais trop recommander l'Hôtel de Bordeaux dont le
 propriétaire, M. Saffores, membre du C. A. F., est plein de
 sollicitude pour ses collègues.
+
+[p191 à 204](guide-soubiron-191-204.md) - [Sommaire](../README.md) - [p219 à 228](guide-soubiron-219-228.md)

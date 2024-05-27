@@ -526,3 +526,5 @@ __<u>POINTS D'INTERRUPTION</u>__
 - __REFUGE DU MARCADAU__
   - Pour rejoindre de Cauterets : 4h.30
   - Pour rentrer à Cauterets : 3h.30
+
+[p87 à 98](guide-soubiron-087-098.md) - [Sommaire](../README.md) - [p111 à 118](guide-soubiron-111-118.md)

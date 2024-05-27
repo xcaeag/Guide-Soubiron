@@ -385,3 +385,5 @@ __<u>POINTS D'INTERRUPTION</u>__
 pour abandonner après la premiére.
 - __LES CABANNES__
   - Pour ne faire que la troisième journée.
+
+[p373 à 384](guide-soubiron-373-384.md)  - [Sommaire](../README.md) - [p393 à 402](guide-soubiron-393-402.md)

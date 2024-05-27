@@ -679,3 +679,5 @@ __Horaires probables :__
 De Vernet-les-Bains au chalet des Cortalets 5h. » }   12h. »
 Du chalet au Canigou, aller et retour...... 3h. » } (Arrêts en sus).
 ```
+
+[p487 à 504](guide-soubiron-487-504.md) - [Sommaire](../README.md) - [p518 à 543](guide-soubiron-518-543.md) 

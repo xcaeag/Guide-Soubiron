@@ -697,3 +697,5 @@ __<u>POINTS D'INTERRUPTION</u>__
   - 2°. Pour rejoindre de Luz par le Bolou : 6h.
   - Pour rentrer à Luz par le Bolou : 4h.
   - Pour rentrer à Luz par la vallée de l'Ise : 5 h.
+
+[p133 à 146](guide-soubiron-133-146.md) - [Sommaire](../README.md) - [p161 à 170](guide-soubiron-161-170.md)

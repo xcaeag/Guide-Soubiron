@@ -14,7 +14,7 @@ title: LES PYRÉNÉES Du PIC d'ANIE au CANIGOU En 40 Excursions
 # LES PYRÉNÉES
 
 <p class="centre">
-LES PYRÉNÉES<br>
+<b>LES PYRÉNÉES</b><br>
 Du PIC d'ANIE au CANIGOU<br>
 EN 40 EXCURSIONS<br>
 </p>
@@ -895,4 +895,4 @@ avoir fait un tour complet sur elle-même, réapparaît 60 m. au-
 dessus, à flanc de montagne, pour continuer en corniche jusqu'au
 magnifique viaduc de Peillou.
 
-[Sommaire](../README.md) [> p23 à 38](guide-soubiron-023-038.md)
+[Sommaire](../README.md) - [p23 à 38](guide-soubiron-023-038.md)

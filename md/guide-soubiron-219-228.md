@@ -495,7 +495,6 @@ qu'à descendre droit à l'O. pour retrouver le sentier qu'on a quitté
 petite route qui se dirige au S.; elle descend en plusieurs lacets
 pour aller rejoindre 1a grand'route de la vallée, 800 m. en aval
 de la halte d'Antignac, à 6 k. de Luchon.
- 
 
 ****
 
@@ -509,3 +508,5 @@ __<u>POINTS D'INTERRUPTION</u>__
 - __LUCHON__
   - Pour abandonner après la 3e journée.
   - Pour rejoindre et faire la 4e journée.
+
+[p205 à 218](guide-soubiron-205-218.md) - [Sommaire](../README.md) - [p229 à 248](guide-soubiron-229-248.md)

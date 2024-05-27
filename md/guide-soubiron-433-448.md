@@ -773,3 +773,5 @@ __<u>POINTS D'INTERRUPTION</u>__
 - __ASTON__
   - Pour rejoindre des Cabannes, afin d'effectuer la quatrième journée, 35 minutes.
   - Pour rentrer aux Cabannes, après la 3° journée, 1/2h.
+
+[p423 à 432](guide-soubiron-423-432.md) - [Sommaire](../README.md) - [p449 à 460](guide-soubiron-449-460.md)

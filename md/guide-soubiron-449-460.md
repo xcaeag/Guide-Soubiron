@@ -586,3 +586,5 @@ Du Col de Beys à Naguilles................. 2h.15 }   7h.30
 Du lac de Naguilles aux Forges d'Orlu...... 2h.05 } (Arrêts en sus).
 Des Forges d'Orlu à Ax (8 k. 500 de route). 1h.50 }
 ```
+
+[p433 à 448](guide-soubiron-433-448.md) - [Sommaire](../README.md) - [p461 à 468](guide-soubiron-461-468.md)

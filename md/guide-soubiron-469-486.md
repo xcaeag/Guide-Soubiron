@@ -880,3 +880,5 @@ __<u>POINTS D'INTERRUPTION</u>__
   - Pour descendre à Porté :  2h. »
 - __PORTÉ__
   - Soit pour rejoindre pour faire la 5° journée, soit pour abandonner après la 4e.
+
+[p461 à 468](guide-soubiron-461-468.md) - [Sommaire](../README.md) - [p487 à 504](guide-soubiron-487-504.md)

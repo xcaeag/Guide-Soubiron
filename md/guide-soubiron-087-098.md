@@ -563,3 +563,5 @@ __<u>POINTS D'INTERRUPTION</u>__
 - __LAC DE GAUBE__
   - Pour rejoindre de Cauterets : 2 h.
   - Pour rentrer à Cauterels : 2 h.
+
+[p77 à 86](guide-soubiron-077-086.md) - [Sommaire](../README.md) - [p99 à 110](guide-soubiron-099-110.md)

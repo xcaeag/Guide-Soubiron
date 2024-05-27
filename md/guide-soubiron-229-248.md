@@ -889,3 +889,5 @@ Du Port de la Picade à l'Hospice de              } (Arrêts en sus).
   France.................................. 2h.30 }
 De l'Hospice de France à Luchon........... 2h.10 }
 ```
+
+[p219 à 228](guide-soubiron-219-228.md) - [Sommaire](../README.md) - [p249 à 264](guide-soubiron-249-264.md)

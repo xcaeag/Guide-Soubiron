@@ -634,3 +634,5 @@ __<u>POINTS D'INTERRUPTION</u>__
 - __ORDESA__
   - Pour rejoindre de Gavarnie par le port de Boucharo,
   - Pour rentrer à Gavarnie par le port de Boucharo : 7h. à pied ou 6h. à cheval
+
+[p111 à 118](guide-soubiron-111-118.md) - [Sommaire](../README.md) - [p133 à 146](guide-soubiron-133-146.md)

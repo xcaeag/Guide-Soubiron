@@ -488,7 +488,6 @@ Du Pic d'Arbizon au Lac d'Arou.......... 1h.45 } (Arrêts en sus)
 Du Lac d'Arou à Arreau.................. 3h.15 }
 ```
 
-
 ****
 
 ****
@@ -505,3 +504,5 @@ __<u>POINTS D'INTERRUPTION</u>__
 ———<br>
 (1) C'est de ce point qu'on pourra renvoyer le guide, ce qui lui
 permettra de rentrer le soir même à Barèges, par le Tourmalet.
+
+[p161 à 170](guide-soubiron-161-170.md) - [Sommaire](../README.md) - [p181 à 190](guide-soubiron-181-190.md)

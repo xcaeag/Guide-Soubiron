@@ -446,3 +446,5 @@ __<u>POINTS D'INTERRUPTION</u>__
 - __LOURDES__ 
   - Soit pour abandonner après les deux premiers jours, soit
 pour rejoindre.
+
+[p53 à 66](guide-soubiron-053-066.md) - [Sommaire](../README.md) - [p77 à 86](guide-soubiron-077-086.md)

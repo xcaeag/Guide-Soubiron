@@ -702,3 +702,5 @@ __<u>POINTS D'INTERRUPTION</u>__
   - Pour rentrer à Laruns après la 4° journée... 1h.
 - __EAUX-BONNES__
   - Pour rejoindre de Laruns (5 k.)... 1h.
+
+ [p23 à 38](guide-soubiron-023-038.md) - [Sommaire](../README.md) - [p53 à 66](guide-soubiron-053-066.md)

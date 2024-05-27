@@ -240,3 +240,5 @@ De Juzet à Aspet.................... 1h. 20 }
 > Nota. - La vingt-quatrième excursion peut être réalisée en
 sens inverse, en allant coucher la veille, soit à Aspet, soit à
 Juzet. 
+
+[p313 à 324](guide-soubiron-313-324.md) - [Sommaire](../README.md) - [p331 à 342](guide-soubiron-331-342.md)

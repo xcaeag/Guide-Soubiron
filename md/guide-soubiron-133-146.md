@@ -640,3 +640,5 @@ __<u>POINTS D'INTERRUPTION</u>__
 - __FABIAN__
   - Pour rejoindre de Saint-Lary : 2h. »
   - Pour rentrer à Saint-Lary : 1h.40
+
+[p119](guide-soubiron-119-132.md) - [Sommaire](../README.md) - [p147 à 160](guide-soubiron-147-160.md)

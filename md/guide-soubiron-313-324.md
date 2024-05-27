@@ -576,3 +576,5 @@ De La Bordette au Pic d'Aubas............ 4h. » }  8h. »
 Du Pic d'Aubas à Couradilles............. 1h.15 } (Arrêts en sus).
 De Couradilles à Luchon.................. 2h.45 }
 ```
+
+[p301 à 312](guide-soubiron-301-312.md) - [Sommaire](../README.md) - [p325 à 330](guide-soubiron-325-330.md)

@@ -598,3 +598,5 @@ __<u>POINTS D'INTERRUPTION</u>__
   - Soit pour abandonner après la 3e ou 4e journée, soit
 pour rejoindre de Saint-Girons (32 k.), afin d'effectuer la 
 5e journée.
+
+[p363 à 372](guide-soubiron-363-372.md) - [Sommaire](../README.md) - [p385 à 392](guide-soubiron-385-392.md)

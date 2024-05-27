@@ -425,3 +425,4 @@ __<u>POINTS D'INTERRUPTION</u>__
 (1) Pour les gens du pays, c'est ce dernier sommet qui serait le
 vrai Pic des Trois Seigneurs.
 
+[p385 à 392](guide-soubiron-385-392.md) - [Sommaire](../README.md) - [p403 à 410](guide-soubiron-403-410.md)

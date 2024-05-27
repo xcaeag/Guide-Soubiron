@@ -551,3 +551,5 @@ De Bagerque au Port d'Urets............... 3h.30 }   10h.30
 Du Port d'Urets au Maubermé (al. et ret.). 2h.45 } (Arrêts en sus).
 Du Port d'Urets à Sentein................. 3h.30 }
 ```
+
+[p325 à 330](guide-soubiron-325-330.md) - [Sommaire](../README.md) - [p343 à 352](guide-soubiron-343-352.md)

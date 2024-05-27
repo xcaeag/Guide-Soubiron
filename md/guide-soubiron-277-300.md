@@ -1075,3 +1075,5 @@ la Glère, d'où il monte au port en de nombreux lacets.
 monter, le lendemain, par le Gouffre Maleplate, au cirque de la
 Glère. Par cette dernière voie, l'ascension est plus dure, puisqu'il 
 faut s'élever de près de 1.800 m.
+
+[p265 à 276](guide-soubiron-265-276.md) - [Sommaire](../README.md) - [p301 à 312](guide-soubiron-301-312.md)

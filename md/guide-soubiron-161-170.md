@@ -425,12 +425,11 @@ et, tout en haut, l'observatoire du Pic de Midi. Quelques min.
 après, on rejoint le chemin qui, de Barèges, monte directement 
 à l'Hôtellerie du Col de Sencours (2.373m).
 
-
-****
-
 ****
 
 __<u>POINT UNIQUE D'INTERRUPTION</u>__
 
 - __BAGNÈRES de BIGORRE__
   - Soit pour abandonner, après la 1re ou la 2e journée, soit pour rejoindre.
+
+[p147 à 160](guide-soubiron-147-160.md) - [Sommaire](../README.md) - [p171 à 180](guide-soubiron-171-180.md)

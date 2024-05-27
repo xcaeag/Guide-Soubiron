@@ -464,3 +464,4 @@ __<u>POINTS D'INTERRUPTION</u>__
   - 2° Pour rej. de Salardu par les sources de la Garonne : 4h.30
   - Pour rentrer à Salardu par la même voie : 4h. »
 
+[p343 à 352](guide-soubiron-343-352.md) - [Sommaire](../README.md) - [p363 à 372](guide-soubiron-363-372.md)
