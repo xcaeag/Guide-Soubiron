@@ -399,4 +399,4 @@ Du Lac Grand à Sazos................... 2h.45 } (Arrêts en Sus).
 De Sazos à Luz (3 k. de route)......... 0h.30 }
 ```
 
-[p99 à 110](guide-soubiron-099-110.md) - [Sommaire](../README.md) - [p119](guide-soubiron-119-132.md)
+[p99 à 110](guide-soubiron-099-110.md) - [Sommaire](../README.md) - [p119 à 132](guide-soubiron-119-132.md)

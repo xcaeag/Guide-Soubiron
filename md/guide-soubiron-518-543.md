@@ -1345,7 +1345,7 @@ Trimounts (carrières de).... 465 │
 
 _A placer face à la page 284 de la deuxième édition_
 
-__<p class="droite"><u>GUIDE SOUBIRON</u></p>__
+__<u>GUIDE SOUBIRON</u>__
 
 __NOTE DE MISE A JOUR__<br>
 __concernant le TROU du TORO__
