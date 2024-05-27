@@ -50,7 +50,9 @@ dispositions, et être prèt à partir vers treize heures.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion)</p>
 
+
 ****
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -69,6 +71,7 @@ des provisions aux orrys du Carla.
 <div class="page"/>
 
 — p. 404 — aux ENVIRONS d'AUZAT (32me EXCURSION)
+
 ****
 
 ![carte p404](../maps/guide-soubiron-0404-carte.jpg)
@@ -76,6 +79,7 @@ des provisions aux orrys du Carla.
 <div class="page"/>
 
 — p. 405 — (32me EXCURSION) MARC D'AUZAT
+
 ****
 
 On partira vers 13 h. et on prendra, au S.-S.-O., le chemin
@@ -128,6 +132,7 @@ où se trouve le lac glacé de Montcalm.
 <div class="page"/>
 
 — p. 406 — MONTCALM — PIQUE D'ESTATS  (32me EXCURSION)
+
 ****
 
 A Partir du plateau des clots, on peut suivre deux voies différentes :
@@ -180,6 +185,7 @@ exercés en feront l'ascension à toute crête et reviendront à la
 <div class="page"/>
 
 — p. 407 — (32me EXCURSION) Le PLA SOULCEN
+
 ****
 
 pointe centrale. On passera ensuite facilement à la pointe N.-O.
@@ -234,6 +240,7 @@ De la Pique d'Estats aux Orrys du Carla... 3h.45 }
 <div class="page"/>
 
 — p. 408 — ORRY du CARLA — MALCARAS  (32me EXCURSION)
+
 ****
 
 ## TROISIÈME JOURNÉE
@@ -284,6 +291,7 @@ sur celle du S., sommet principal, qu'est bâtie la tourelle.
 <div class="page"/>
 
 — p. 409 — (32me EXCURSION) CIRQUE du FOURCAT
+
 ****
 
 Le cirque du Fourcat est dominé par trois magnifiques belvédères : 
@@ -335,6 +343,7 @@ quand on les voit défiler sans fatigue.
 <div class="page"/>
 
 — p. 410 — VALLEE D'ARTIES (32me EXCURSION)
+
 ****
 
 Grâce au bon-chemin muletier que l'usine d'Auzat a fait construire 

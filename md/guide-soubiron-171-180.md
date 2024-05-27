@@ -68,6 +68,7 @@ avec les tramways de Bagnères à Gripp.
 <div class="page"/>
 
 — p. 173 — (13me EXCURSION) PIC de MIDI de BIGORRE
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -117,6 +118,7 @@ directions.
 <div class="page"/>
 
 — p. 174 — COL du TOURMALET (13me EXCURSION)
+
 ****
 
 __Horaire de la Journée :__
@@ -180,6 +182,7 @@ d'Eget; à l'O., celui d'Aygue-Cluse, qui descend vers Barèges;
 <div class="page"/>
 
 — p. 175 — (13me EXCURSION) COUME DE POURTEILLE
+
 ****
 
 Les deux derniers versent leurs eaux vers Gripp et Campan;
@@ -241,6 +244,7 @@ sous peine de compromettre la journée.
 <div class="page"/>
 
 — p. 176 — PIC des QUATRE TERMES (13me EXCURSION)
+
 ****
 
 On entrera là, dans un monde de pierraille qui ne finira que
@@ -289,6 +293,7 @@ qu'à ce point de vue, sa situation est peut-être unique.
 <div class="page"/>
 
 — p. 177 — (13me EXCURSION) COLS du BASTANET et du BASTAN
+
 ****
 
 On repartira direction S.-E., à toute crête d'abord, puis à
@@ -338,6 +343,7 @@ Port Bieil, et s'écoulent dans l'Oule de Couplan.<br>
 <div class="page"/>
 
 — p. 178 — AULON (13me EXGURSION)
+
 ****
 
 plement propriétaire, est, à l'occasion, un excellent guide pour
@@ -394,6 +400,7 @@ sourd d'une faille de rocher un peu plus haut.
 <div class="page"/>
 
 — p. 179 — (13me EXCURSION) PIC D'ARBIZON
+
 ****
 
 et une sente suivie par les moutons en escalade le premier ressaut
@@ -444,6 +451,7 @@ Monfaucon par l'O. et en prenant, au N. du pic, un couloir
 <div class="page"/>
 
 — p. 180 — HOURQUETTE D'ARREAU (13me EXCURSION)
+
 ****
 
 d'éboulis qui dévale, à l'E., au cirque N. de l'Arbizon. C'est un
@@ -480,7 +488,9 @@ Du Pic d'Arbizon au Lac d'Arou.......... 1h.45 } (Arrêts en sus)
 Du Lac d'Arou à Arreau.................. 3h.15 }
 ```
 
+
 ****
+
 ****
 
 <u>__POINTS D'INTERRUPTION__</u>

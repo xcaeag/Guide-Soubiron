@@ -50,6 +50,7 @@ des compagnons exercés et résistants à la fatigue.
 <div class="page"/>
 
 — p. 101 — (7me EXCURSION) CAMPO PLANO
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -98,6 +99,7 @@ Du Col de la Fache au refuge de Campo-          }
 <div class="page"/>
 
 — p. 102 — BALAITOUS (7me EXCURSION)
+
 ****
 
 ## DEUXIÈME JOURNÉE
@@ -146,6 +148,7 @@ la base de la muraille de 40 m. Là, selon l'état du couloir de la
 <div class="page"/>
 
 — p. 103 — (7me EXCURSION) GORGE de L'AGUA LIMPIA
+
 ****
 
 brèche et la qualité de la caravane, le guide jugera de la voie
@@ -195,6 +198,7 @@ haut, pour entrer dans la gorge par la rive dr. On passe là à la
 <div class="page"/>
 
 — p. 104 — SALLENT (7me EXCURSION)
+
 ****
 
 base du contrefort S. du Pic d'Arriel, en dominant le torrent
@@ -249,6 +253,7 @@ vers 2.000 d'alt.
 <div class="page"/>
 
 — p. 105 — (7me EXCURSION) ALGAS — AROLLAS
+
 ****
 
 Partant de très bonne heure, on sortira de Sallent par le N.-E.
@@ -300,6 +305,7 @@ pointe de la Pique Longue.
 <div class="page"/>
 
 — p. 106 — PIC D'ENFER (7me EXCURSION)
+
 ****
 
 A environ 400 m. au N.-E., s'entaille le Col de Pundillos, par
@@ -353,6 +359,7 @@ rejoindre l'arête S.-O. On montera à toute crête jusqu'au sommet
 <div class="page"/>
 
 — p. 107 — (7me EXCURSION) PORT du MARCADAU
+
 ****
 
 A environ 400 m., à l'E.-S.-E., on aperçoit la tourelle du point
@@ -408,6 +415,7 @@ environ 10 min. en amont du confluent du ruisseau de Cambalès.
 <div class="page"/>
 
 — p. 108 — LAC du POURTET (7me EXCURSION)
+
 ****
 
 ## CINQUIÈME JOURNÉE
@@ -456,6 +464,7 @@ la région de Castellabarca avec celle de Cambalès.
 <div class="page"/>
 
 — p. 109 — (7me EXCURSION) COL de LA HAOUGADE
+
 ****
 
 S. par une digue insignifiante, il s'écoule, à l'E., dans le vallon
@@ -502,6 +511,7 @@ Du Lac d'Ilhèou à Cauterets............... 2h.15 }
 <div class="page"/>
 
 — p. 110 —  ENVIRONS DE CAUTERET  (7me EXCURSION)
+
 ****
 
 <u>__POINTS D'INTERRUPTION__</u>

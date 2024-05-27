@@ -60,6 +60,7 @@ un guide peut être utile.
 <div class="page"/>
 
 — p. 507 — (40me EXCURSION) VALLEE D'EYNE - PIC de FINESTRELLES
+
 ****
 
 ## PREMIERE JOURNEE
@@ -110,6 +111,7 @@ N. du pic. Cette dernière voie, qui n'est pas plus longue, est plus
 <div class="page"/>
 
 — p. 508 — PIC D'EYNE - COL de NOUFONTS (40me EXCURSION)
+
 ****
 
 intéressante, car on aperçoit mieux et plus tôt la vallée du Sègre.
@@ -162,6 +164,7 @@ en suivant toujours la crête frontière, on escaladera au passage
 <div class="page"/>
 
 — p. 509 — (40me EXCURSION) COUME DE FRESER
+
 ****
 
 un sommet sans nom qui sépare le vallon de Noufonts de la
@@ -213,6 +216,7 @@ qu'en cas de brouillard qu'on pourrait commettre des erreurs
 <div class="page"/>
 
 — p. 510 — PORTEILLE de MORENS (40me EXCURSION)
+
 ****
 
 dans le trajet de Ull de Ter à Roque Couloum. Donc, si la journée
@@ -263,6 +267,7 @@ en cas de brouillard, à cause du moutonnement du terrain pen-
 <div class="page"/>
 
 — p. 511 — (40me EXCURSION) ROQUE COULOUM
+
 ****
 
 dant ce trajet. Le sentier se dirige droit à l'E., sauf à la serre de
@@ -314,6 +319,7 @@ mais moins intéressante. On descendra donc à toute crête jus-
 <div class="page"/>
 
 — p. 512 — PIC de COSTABONE (40me EXCURSION)
+
 ****
 
 qu'au Col du Pal (2.335m) et, de là, on montera de même jusqu'au
@@ -365,6 +371,7 @@ autobus pour les derniers 7 K. de route.
 <div class="page"/>
 
 — p. 513 — (40me EXCURSION) La PRESTE - PLA GUILLEM
+
 ****
 
 ## TROISIÈME JOURNÉE
@@ -415,6 +422,7 @@ le la chaîne, afin de couper le haut du vallon de Llapoudère.
 <div class="page"/>
 
 — p. 514 — VALLEE de CADY - Le CANIGOU (40m EXCURSION)
+
 ****
 
 qui descend à g., et de passer tout près du Col de Boucacers
@@ -470,6 +478,7 @@ des Cortalets était exagérée; un contrôle rigoureux et récent l'a ramenée
 <div class="page"/>
 
 — p. 515 — (40me EXCURSION) CHALET des CORTALETS
+
 ****
 
 > 15 juin à fin septembre. Une petite route de 21 k., pour voitures
@@ -521,6 +530,7 @@ la face E. du Canigou. On aura devant soi la cheminée rapide,
 <div class="page"/>
 
 — p. 516 — BRECHE DURIER - COL DE LA PERDIU (40me EXCURSION)
+
 ****
 
 mais facile, qui grimpe à la Brèche Durier, du haut de laquelle on
@@ -574,6 +584,7 @@ lui ont attribué dix vents de trop.
 <div class="page"/>
 
 — p. 517 — (40me EXCURSION) VERNET-LES-BAINS
+
 ****
 
 Du Col des Cortalets, le chemin descend, au N.-O., à travers
@@ -615,7 +626,9 @@ Station thermale desservie par un autobus depuis la gare de Ville-
 franche-de-Conflent (6 K.), en attendant l'ouverture d'un chemin de
 ter électrique.
 
+
 ****
+
 ****
 
 <u>__POINTS D'INTERRUPTION__</u>
@@ -632,6 +645,7 @@ ter électrique.
 <div class="page"/>
 
 — p. 518 — ASCENSION DU CANIGOU  (40me EXCURSION) 
+
 ****
 
 ## NOTE CONCERNANT<br>L'ASCENSION DIRECTE DU CANIGOU

@@ -44,6 +44,7 @@ __par l'Entécade, Bosost, le Montlude et le Pont du Roi.__
 <div class="page"/>
 
 — p. 266 — ENVIRONS de LUCHON (20me EXCURSION)
+
 ****
 
 ![carte 266](../maps/guide-soubiron-0266-carte.jpg)
@@ -51,6 +52,7 @@ __par l'Entécade, Bosost, le Montlude et le Pont du Roi.__
 <div class="page"/>
 
 — p. 267 — (20me EXCURSION) SUPERBAGNERES — CECIRE
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -104,6 +106,7 @@ On déjeune ordinairement à la source de Sarnès, et c'est là
 <div class="page"/>
 
 — p. 268 — COL de MONTARROUYE (20me EXCURSION)
+
 ****
 
 qu'on quitte le chemin du Crabioules pour prendre le petit sentier
@@ -158,6 +161,7 @@ S.-E., pour suivre le nouveau sentier qui remonte la rive g. du
 <div class="page"/>
 
 — p. 269 — (20me EXCURSION) Le PERDIGHERO — Le ROYO
+
 ****
 
 ruisseau du Portillon jusqu'au lac glacé de ce nom. On franchira
@@ -210,6 +214,7 @@ on arrivera à la base d'une cheminée facile qui grimpe à mi-
 <div class="page"/>
 
 — p. 270 — Le CABRIOULES (20me EXCURSION)
+
 ****
 
 hauteur du pic; un crochet à dr., par une petite brèche, mènera
@@ -265,6 +270,7 @@ Du Col de Crabioules au Refuge de Pratlong 2h.45 }
 <div class="page"/>
 
 — p. 271 —(20me EXCURSION) PRATLONG — TUSSE de MAUPAS
+
 ****
 
 ## TROISIÈME JOURNÉE
@@ -316,6 +322,7 @@ suivant la base des escarpements N. du Boum, on aboutira près
 <div class="page"/>
 
 — p. 272 — PIC de BOUM — LAC BLEU (20me EXCURSION)
+
 ****
 
 d'un rocher planté dans le glacier, au-dessous d'un grand col. Ce
@@ -370,6 +377,7 @@ Du Pratlong à Luchon.................. 3h.30 }
 <div class="page"/>
 
 — p. 273 — (20me EXCURSION) PIC de L'ENTECADE
+
 ****
 
 ## QUATRIÈME JOURNÉE
@@ -422,6 +430,7 @@ qui monte à toute crête jusqu'à l'Entécade (2.271m).
 <div class="page"/>
 
 — p. 274 — PAS de VILLAMOS —— BOSOST (20me EXCURSION)
+
 ****
 
 Ce modeste sommet a un panorama très étendu dans toutes les
@@ -476,6 +485,7 @@ monte par des champs et des prés. Dans 20 min., on rejoindra
 <div class="page"/>
 
 — p. 275 — (20me EXCURSION) MONTLUDE — VAL DE TORAN
+
 ****
 
 le grand chemin muletier du vallon de Margalida au moment
@@ -529,6 +539,7 @@ au S.-E. du Montlude; il s'écoule au Val de Barrados.
 <div class="page"/>
 
 — p. 276 — PONT du ROI — FOS (20me EXCURSION)
+
 ****
 
 lon. On restera constamment sur la rive dr. jusqu'au sommet de
@@ -564,7 +575,9 @@ Du sommet du Montlude à Pontau......... 3h.45 } (Arrêts en sus).
 De Pontau à Fos (8 k. de route)........ 1h.45 }
 ```
 
+
 ****
+
 ****
 
 <u>__POINTS D'INTERRUPTION__</u>

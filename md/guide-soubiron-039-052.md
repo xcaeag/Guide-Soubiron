@@ -57,6 +57,7 @@ de Laruns (6 k.).
 <div class="page"/>
 
 — p. 41 — (2me EXCURSION) CAPERAN DE SESQUES
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -105,6 +106,7 @@ subitement, au S.-S.-O., le fameux Capéran de Sesques, dont
 <div class="page"/>
 
 — p. 42 — CIRQUE de SESQUES (2me EXCURSION)
+
 ****
 
 la première ascension a été faite par Pierre Bourdieu, d'Escot, le
@@ -161,6 +163,7 @@ côte 2.607 n'est atteinte par aucun des pics du massif de Sesques.
 <div class="page"/>
 
 — p. 43 —  (2me EXCURSION) PIC de SESQUES
+
 ****
 
 trapue, soutenue par de puissants contreforts. La pointe secondaire, 
@@ -212,6 +215,7 @@ les pentes de la rive g. on descendra directement au col.
 <div class="page"/>
 
 — p. 44 — CHEMIN de La MATURE (2me EXCURSION)
+
 ****
 
 Là, le torrent suit la face O. de la colline par le petit vallon
@@ -260,6 +264,7 @@ et le chemin qui contourne la montagne descend vers le N., par
 <div class="page"/>
 
 — p. 45 —  (2me EXCURSION) URDOS
+
 ****
 
 la rive dr. du gave, jusqu'au pont de Sebers, où il rejoint la
@@ -314,6 +319,7 @@ la grand'route pour prendre, à dr., un sentier qui passe sous
 <div class="page"/>
 
 — p. 46 — PIC D'ASPE  (2me EXCURSION)
+
 ****
 
 une hêtraie et va aboutir presque horizontalement près du gave
@@ -366,6 +372,7 @@ de Anglassé (1.339m).
 <div class="page"/>
 
 — p. 47 — (2me EXCURSION) PIC D'ANAYETTE
+
 ****
 
 La Casa de Anglassé est située sur la rive g. du torrent, au
@@ -417,6 +424,7 @@ les deux petits lacs.
 <div class="page"/>
 
 — p. 48 —  COL D'ANEOU-GABAS (2me EXCURSION)
+
 ****
 
 Se dirigeant ensuite au N.-N.-E., on laissera bientôt, à g., le 
@@ -472,6 +480,7 @@ pointent vers le ciel, lui donnent une allure superbe des plus
 <div class="page"/>
 
 — p. 49 —  (2me EXCURSION) PIC de CEZY
+
 ****
 
 tentantes. C'est le Pic de Cézy (1) que le 4e jour d'excursion va
@@ -524,6 +533,7 @@ facile.
 <div class="page"/>
 
 — p. 50 — COL De LURDE (2me EXCURSION)
+
 ****
 
 Après avoir déposé le sac au col, on partira vers l'O., dans la
@@ -575,6 +585,7 @@ Touring-Club, on a adopté le nom français de « Etoile des Neiges ».
 <div class="page"/>
 
 — p. 51 — (2me EXCURSION) EAUX-BONNES
+
 ****
 
 ou avec un guide. Il vaut mieux suivre le bon chemin du Gourzy.
@@ -630,6 +641,7 @@ depuis la gare de Laruns (6 k.).
 <div class="page"/>
 
 — p. 52 — PIC de GER  . (2me EXCURSION)
+
 ****
 
 Quelques min. plus loin, on tourne à dr., pour entrer dans la
@@ -674,7 +686,9 @@ Du Pic de Ger aux Eaux-Bonnes.......... 4h.   }
 > Nota. - En partant à 4 h., on peut rentrer assez tôt pour
 prendre un train qui quitterait Laruns vers 18 h.
 
+
 ****
+
 ****
 
 <u>__POINTS D'INTERRUPTION__</u>

@@ -48,6 +48,7 @@ prix modérés.
 <div class="page"/>
 
 — p. 89 — (6me EXCURSION) GRANDE FACHE
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -96,6 +97,7 @@ S.-E., sur le Vignemale.
 <div class="page"/>
 
 — p. 90 — CIRQUE de CAMBALES (6me EXCURSION)
+
 ****
 
 Dans plusieurs cartes, la Grande Fache est cotée 3.020 m.; les
@@ -146,6 +148,7 @@ le Bernat Barraou (2.794m).
 <div class="page"/>
 
 — p. 91 — (6me EXCURSION)  CAMBALES-BERNAT BARRAOU
+
 ****
 
 L'excursion de ce jour nous fera contourner en entier le
@@ -198,6 +201,7 @@ nom pour remonter au Pic de Cambalès.<br>
 <div class="page"/>
 
 — p. 92 — VALLEE D'ARRATILLE (6me EXCURSION)
+
 ****
 
 aussi son alt. qui est de 2.794, au à lieu de 2.742 comme l'indiquent
@@ -249,6 +253,7 @@ cette brèche qu'il faut monter pour ascendre le Chabarrou par
 <div class="page"/>
 
 — p. 93 — (6me EXCURSION) CHABARROU
+
 ****
 
 le versant d'Arratille. Elle est située entre le Chabarrou, au S.-E.,
@@ -301,6 +306,7 @@ nombreux lacets, descend, par la rive dr., jusqu'au fond de la
 <div class="page"/>
 
 — p. 94 — LAC de GAUBE (6me EXCURSION)
+
 ****
 
 vallée de Gaube où il rejoint le sentier muletier du Vignemale.
@@ -352,6 +358,7 @@ connus : au N., le Val de Jéret: à l'O., la Vallée de Gaube;
 <div class="page"/>
 
 — p. 95 — (6me EXCURSION) VALLEE DE GAUBE
+
 ****
 
 au S., le Pic et le Col d'Araillé, et enfin à l'E., la Vallée de Lutour.
@@ -403,6 +410,7 @@ flanc de la rive dr., ce que nous faisons aujourd'hui. Après le
 <div class="page"/>
 
 — p. 96 — ESTIBAOUDE (6me EXCURSION)
+
 ****
 
 Si le bas du couloir est étroit et rapide, le haut en est très
@@ -454,6 +462,7 @@ Pamorce est située 20 min. en amont et au S.-E. de la cascade
 <div class="page"/>
 
 — p. 97 — (6me EXCURSION) LACS D'ESTIBAOUDE
+
 ****
 
 de Splumous. Ce couloir, relativement facile à la montée, serait
@@ -506,6 +515,7 @@ qu'un seul.
 <div class="page"/>
 
 — p. 98 — VALLEE de LUTOUR (6me EXCURSION)
+
 ****
 
 louses. Nous quittons ce sentier et, par une nouvelle descente
@@ -540,7 +550,9 @@ Des lacs d'Estibaoude à Cauterets...... 3h.15  }
 face, mais de l'autre côté de la vallée et presque à sa hauteur,
 le refuge de Culaous et le sentier qui y conduit.
 
+
 ****
+
 ****
 
 <u>__POINTS D'INTERRUPTION__</u>

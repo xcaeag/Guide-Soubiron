@@ -40,7 +40,9 @@ l'Hospice de France où l'on fait une petite halte. En en repartant
 à 15 h., on arrive à La Rencluse vers 19 h. sans avoir trop souffert
 de la chaleur. (Voir la description du trajet p. 279.)
 
+
 ****
+
 ****
 
 __<p class="centre">Course C (trois jours)</p>__
@@ -66,6 +68,7 @@ Maudit, au cas où, pour une cause quelconque, on aurait échoué
 <div class="page"/>
 
 — p. 302 — PIC RUSSELL (22me EXCURSION)
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -120,6 +123,7 @@ d'un névé situé au pied des murailles, on obliquera légèrement
 <div class="page"/>
 
 — p. 303 — (22me EXCURSION) LLOSAS ET RIBERETA
+
 ****
 
 lisière N. du névé. A partir de là, on reprendra la direction S.-O.
@@ -174,6 +178,7 @@ traces du sentier par lequel on descendra du Malibierne le lendemain.
 <div class="page"/>
 
 — p. 304 — GRAND PIC de MALIBIERNE (22me EXCURSION)
+
 ****
 
 __<p class="centre">Course C</p>__
@@ -227,6 +232,7 @@ qu'il faut monter pour bien apercevoir la gigantesque structure
 <div class="page"/>
 
 — p. 305 — (22me EXCURSION) PIC OCCIDENTAL de MALIBIERNE
+
 ****
 
 de l'immense crête des Monts-Maudits et de ses puissants contre-
@@ -279,6 +285,7 @@ cette traversée pourrait être reprise.
 <div class="page"/>
 
 — p. 306 — COL DE GREGONIO (22me EXCURSION)
+
 ****
 
 __Conseils.__ — __Itin. recomm.__ — Droit au N.-E. de la cabane, le
@@ -332,6 +339,7 @@ Depuis le Col de Grégonio, on traverse un des paysages les
 <div class="page"/>
 
 — p. 307 — (22me EXCURSION) BRECHE ET PIC D'ALBE
+
 ****
 
 plus désolés, en même temps que l'un des plus grandioses des
@@ -385,6 +393,7 @@ Du Pic d'Albe à La Rencluse........... 2h.15 }
 <div class="page"/>
 
 — p. 308 — NOTICE sur Le NETHOU (22me EXCURSION)
+
 ****
 
 __<p class="centre">Course D</p>__
@@ -438,6 +447,7 @@ qui descend jusqu'au Pic de La Rencluse, et qu'on nomme
 <div class="page"/>
 
 — p. 309 — (22me EXCURSION) GLACIER du NETHOU
+
 ****
 
 « Crête du Portillon ». C'est dans ce chaînon que s'échancrent
@@ -491,6 +501,7 @@ qui permet de franchir une crête secondaire.
 <div class="page"/>
 
 — p. 310 — Le NETHOU (22me EXCURSION)
+
 ****
 
 n'offre aucune difficulté matérielle, mais qui nécessite une certaine
@@ -547,6 +558,7 @@ l'après-midi au lieu de rentrer à Luchon.
 <div class="page"/>
 
 — p. 311 — (22me EXCURSION) PORT DE LA PICADE
+
 ****
 
 ## APRÈS-MIDI DE RETOUR
@@ -597,6 +609,7 @@ qui descend à g., on poursuivra tout droit, à toute crête, jusqu'au
 <div class="page"/>
 
 — p. 312 — SOUM de L'ESCALETTE (22me EXCURSION)
+
 ****
 
 Soum de l'Escalette (2.454m) qui n'est qu'à quelques min. On
@@ -635,7 +648,9 @@ D l'Hospice de France à Luchon               }    6h
   (10 k. 500 ..........................2h.10 } (Arrêts en sus)
 ```
 
+
 ****
+
 ****
 
 <u>__POINT UNIQUE D'INTERRUPTION__</u>

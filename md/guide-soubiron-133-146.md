@@ -36,6 +36,7 @@ rendez-vous à Gèdre, vers 13 ou 14 h.
 <div class="page"/>
 
 — p. 134 — (10me EXCURSION)
+
 ****
 
 ![carte p134](../maps/guide-soubiron-0134-carte.jpg)
@@ -43,6 +44,7 @@ rendez-vous à Gèdre, vers 13 ou 14 h.
 <div class="page"/>
 
 — p. 135 — (10me EXCURSION) LUZ-GEDRE 136
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -93,6 +95,7 @@ le sentier de Touyères pour monter, à g., au Turon de Bédous
 <div class="page"/>
 
 — p. 136 — TROUMOUSE-MUNIA (10me EXCURSION)
+
 ****
 
 et de là, à la cabane de Lieousaoubes. Tournant alors un peu à
@@ -144,6 +147,7 @@ actuelles.
 <div class="page"/>
 
 — p. 137 — (10me EXCURSION) CIRQUE de TROUMOUSE-HEAS
+
 ****
 
 et plonge dans les profondeurs du cirque de Barrosa dont on
@@ -194,6 +198,7 @@ lorsqu'on aura atteint le premier plateau, on quittera le sentier
 <div class="page"/>
 
 — p. 138 — PIC des AIGUILLOUS (10me EXCURSION)
+
 ****
 
 pour tourner à g. et franchir le torrent. Prenant alors la direction 
@@ -243,6 +248,7 @@ cette arête. A partir de là, on découvrira sa route à mesure, tantôt
 <div class="page"/>
 
 — p. 139 — (10me EXCURSION) PIC de CAMPBIEIL
+
 ****
 
 (3.165m). A environ 500 m. au N., on apercevra la tourelle du pic
@@ -293,6 +299,7 @@ pour permettre de sauter le torrent et de passer rive dr. Le sen-
 <div class="page"/>
 
 — p. 140 — PLAN D'ARAGNOUET (10me. EXCURSION)
+
 ****
 
 tier remonte pendant 1/4 d'h. à travers des gazons, puis repart
@@ -349,6 +356,7 @@ boîte à sardines.
 <div class="page"/>
 
 — p. 141 — (10me EXCURSION) PIC MECHANT
+
 ****
 
 >couloirs, exactement au S. du pic, existe un puissant contrefort
@@ -397,6 +405,7 @@ haut de la muraille, un couloir facile conduit au sommet dans
 <div class="page"/>
 
 — p. 142 — LAC d'OREDON (10me EXCURSION)
+
 ****
 
 1/4 d'h. Si cette voie paraît scabreuse, on n'aura qu'à redescendre
@@ -451,6 +460,7 @@ Si on le garde le 5me jour, on aura à lui payer une journée supplémentaire
 <div class="page"/>
 
 — p. 143 — (10me EXCURSION) FABIAN
+
 ****
 
 vers la plaine, à travers le roc vif. Quelques min. en aval du pont,
@@ -505,6 +515,7 @@ pont sépare la commune de Tramezaygues de celle d'Aragnouet.
 <div class="page"/>
 
 — p. 144 — LAC de SARROUES - PIC D'ARET  (10me EXCURSION)
+
 ****
 
 g. du torrent de Lassas, ce sentier gagne le haut de la forêt en
@@ -557,6 +568,7 @@ et glaciers immaculés, tout est sous les yeux, du Pic
 <div class="page"/>
 
 — p. 145 — (10me ECCURSION) VALLEE de RIOUMAJOU 
+
 ****
 
 Long au Perdighero. On aperçoit presque tous les vill. de la vallée, 
@@ -611,6 +623,7 @@ la construction d'un tramway électrique.
 <div class="page"/>
 
 — p. 146 — SAINT-LARY (10me EXCURSION)
+
 ****
 
 <u>__POINTS D'INTERRUPTION__</u>

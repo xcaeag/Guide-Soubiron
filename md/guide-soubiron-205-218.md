@@ -52,6 +52,7 @@ tramway électrique.
 <div class="page"/>
 
 — p. 206 —  DE SAINT-LARY A LUCHON  (16me EXCURSION)
+
 ****
 
 ![carte p206](../maps/guide-soubiron-0206-carte.jpg)
@@ -59,6 +60,7 @@ tramway électrique.
 <div class="page"/>
 
 — p. 207 — (16me EXCURSION) VALLEE de RIOUMAJOU
+
 ****
 
 ## PREMIÈME JOURNÉE
@@ -112,6 +114,7 @@ trouvé une aimable hospitalité.
 <div class="page"/>
 
 — p. 208 — Le LUSTOU (16me EXCURSION)
+
 ****
 
 De ce point, on apercevra en haut, à dr., l'imposant massif du
@@ -163,6 +166,7 @@ comme il l'indique dans son ascension au Batoua. Par la
 <div class="page"/>
 
 — p. 209 — (16me: EXCURSION) HOSPICE de RIOUMAJOU
+
 ****
 
 base des murailles de la crête de Guerreys et le haut du cirque,
@@ -217,6 +221,7 @@ lits et des provisions.
 <div class="page"/>
 
 — p. 210 — Le BATOUA (16me EXCURSION)
+
 ****
 
 à la crête de Caouarère. L'ascension sera un peu dure, mais par
@@ -270,6 +275,7 @@ sous le noin de « Pic Balinet ».
 <div class="page"/>
 
 — p. 211 — (16me EXCURSION) Les GRANGES De VIADOS
+
 ****
 
 > tier. Cependant, s'il connaît déjà le chemin, il pourra filer
@@ -322,6 +328,7 @@ environ 500 m. au N. de la tourelle, où on déposera le sac.
 <div class="page"/>
 
 — p. 212 — Les POSETS (16me EXCURSION)
+
 ****
 
 On n'aura plus qu'à suivre l'arête S. à toute crête jusqu'au
@@ -375,6 +382,7 @@ descend des lacs de ce nom. Prénant alors la direction N.-N.-O.
 <div class="page"/>
 
 — p. 213 — (16me EXCURSION) PORT d'Oô ET PIC des GOURGS-BLANCS
+
 ****
 
 on suivra la rive g. du ruisseau jusqu'aux trois petits lacs d'où
@@ -428,6 +436,7 @@ magnifique centre d'excursions (1).
 <div class="page"/>
 
 — p. 214 — ENVIRONS D'ESPINGO - PARTIE EST (16me EXCURSION)
+
 ****
 
 ![carte p214](../maps/guide-soubiron-0214-carte.jpg)
@@ -493,6 +502,7 @@ au Cap de Hounts-Secs (2.707m), au N.
 <div class="page"/>
 
 — p. 216 — COLS de MONTARROUYE et de SARNES (16m EXCURSION)
+
 ****
 
 et le Cirque du Lys; enfin, une infinité de grandes cimes environnantes 
@@ -548,6 +558,7 @@ pourrait y avoir deux cols du même nom dans une même montagne.
 <div class="page"/>
 
 — p. 217 — (16me EXCURSION) PIC LEZAT — RUE D'ENFER
+
 ****
 
 Comme le Quaïrat et le Crabioules, le Lézat est un belvédère
@@ -601,6 +612,7 @@ Nadié) (1.375m) où il passe rive dr. On fera là une petite halte
 <div class="page"/>
 
 — p. 218 — GOUFFRE d'ENFER — VALLEE du LYS (16me EXCURSION)
+
 ****
 
 pour admirer l'élan vertigineux des eaux du Gouffre d'Enfer;
@@ -631,7 +643,9 @@ Du Pic Lézat à la Rue d'Enfer.......... 2h.   } (Arrêts en sus)
 De la Rue d'Enfer à Luchon............. 3h.15 }
 ```
 
+
 ****
+
 ****
 
 <u>__POINTS D'INTERRUPTION__</u>

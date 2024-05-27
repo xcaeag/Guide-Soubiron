@@ -59,6 +59,7 @@ le Pic Long, le Néouvielle et le Pic de Midi de Bigorre.
 <div class="page"/>
 
 — p. 69 — (4me EXCURSION) MONTEGUT
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -103,6 +104,7 @@ Droit au S., on apercevra une sente rapide qui monte en ligne
 <div class="page"/>
 
 — p. 70 — PIBESTE (4me EXCURSION)
+
 ****
 
 directe, à travers des taillis, jusqu'à la crête. Il faut, en 
@@ -155,6 +157,7 @@ Après une petite descente jusqu'à Sère où on franchit le Ber-
 <div class="page"/>
 
 — p. 71 — (4me EXCURSION) ARGELES
+
 ****
 
 -gons, elle remonte au S.-E. jusqu'au village de Gez (660m), où commence 
@@ -207,6 +210,7 @@ On remarquera au passage, sur la g., la jonction du beau sen-
 <div class="page"/>
 
 — p. 72 — HAUTACAMP (4me EXCURSION)
+
 ****
 
 tier qui monte de Berbérust, par Lias; c'est par là qu'on descendra. 
@@ -263,6 +267,7 @@ Gazost.
 <div class="page"/>
 
 — p. 73 — (4me EXCURSION) GER De LOURDES
+
 ****
 
 ## TROISIÈME JOURNÉE
@@ -311,6 +316,7 @@ y monte gratis.
 <div class="page"/>
 
 — p. 74 — GERMS (4me EXCURSION)
+
 ****
 
 de villes et de villages du Béarn, du Gers et des Hautes-Pyrénées.
@@ -362,6 +368,7 @@ Aux granges de Bourdalats, coule, près de la route, une très
 <div class="page"/>
 
 — p. 75 — (4me EXCURSION) CLIQUE DE GERMS
+
 ****
 
 bonne source; on y fera sa provision d'eau, car celle du vill. de
@@ -416,6 +423,7 @@ Cauterets, c'est de la Clique de Germs qu'on rentrera à Lour-
 <div class="page"/>
 
 — p. 76 — LUGAGNAN (4e EXCURSION)
+
 ****
 
 des, par la voie suivante. Du sommet de la Clique, on descendra 
@@ -425,7 +433,9 @@ longe la rive g. et, 20 min. plus bas, on retrouve la grand'route
 à la cote 587, à 10 k. de Lourdes et à 6 de Lugagnan, où on
 pourra prendre le train pour Cauterets.
 
+
 ****
+
 ****
 
 <u>__POINTS D'INTERRUPTION__</u>

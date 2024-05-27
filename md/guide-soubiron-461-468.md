@@ -25,7 +25,9 @@ Cartes à emporter : Perles et Ax-les-Thermes.
 <p class="droite">(Voir page 450 la Carte des Environs d'Ax-les-Thermes).<br/>
 (Voir page 466 la Carte du Massif de Tabe).</p>
 
+
 ****
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -47,6 +49,7 @@ On prendra, en amont de l'église, le vieux chemin du Col de
 <div class="page"/>
 
 — p. 462 — la Dent d'Orlu (37me EXCURSION)
+
 ****
 
 Paillères qui suit la rive g. de la Lauze jusqu'aux Forges d'Ascou
@@ -103,6 +106,7 @@ solitaire nous narguait du haut de la crête.
 <div class="page"/>
 
 — p. 463 — (37me EXCURSION) GRANGES de MONTMIJA
+
 ****
 
 l'aiguille hardie qu'on nomme « Capucin d'Orlu ». Jusqu'en 1922,
@@ -152,6 +156,7 @@ loin, celui-ci à l'aspect d'une tour carrée (1972m), Là, on quit-
 <div class="page"/>
 
 — p. 464 — PIC de TARBEZOU (37me EXCURSION)
+
 ****
 
 tera la route pour tourner, à dr., au S.-O. On traversera d'abord
@@ -194,6 +199,7 @@ Du Tarbézou à Ax....................... 4h.15 } (Arrêts en sus).
 <div class="page"/>
 
 — p. 465 — (37me EXCURSION) CARRIERES de TRIMOUNTS
+
 ****
 
 ## TROISIÈME JOURNÉE
@@ -242,6 +248,7 @@ bennes qui portent le tale à Luzenac. On n'a qu'à monter paral-
 <div class="page"/>
 
 — p. 466 — Massif de TABE (37me EXCURSION)
+
 ****
 
 ![carte p466](../maps/guide-soubiron-0466-carte.jpg)
@@ -269,6 +276,7 @@ On contournera ce dernier par la dr. et on zigzaguera les
 <div class="page"/>
 
 — p. 467 — (37me EXCURSION) SOULARAC - SAINT-BARTHELEMY
+
 ****
 
 pentes gazonnées pour monter à un petit col d'où on découvre
@@ -321,6 +329,7 @@ qui n'est qu'à 2.349 m. V. note rectificative à La Montagne, année
 <div class="page"/>
 
 — p. 468 — AXIAT — LUZENAC (37me EXCURSION)
+
 ****
 
 On quittera le sommet par les pentes faciles du versant S.-S.-O.

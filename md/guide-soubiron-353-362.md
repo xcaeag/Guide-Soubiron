@@ -61,6 +61,7 @@ Compagnie du Midi par la gare de Saint-Girons (25 k.).
 <div class="page"/>
 
 — p. 354 — (27me EXCURSION) 
+
 ****
 
 ![carte p354](../maps/guide-soubiron-0354-carte-portrait.jpg)
@@ -68,6 +69,7 @@ Compagnie du Midi par la gare de Saint-Girons (25 k.).
 <div class="page"/>
 
 — p. 355 — (27me EXCURSION) SENTEIN — LAC D'ARAING
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -115,6 +117,7 @@ vers l'O, en bordure d'une serre jusqu'au large col d'Aouéran
 <div class="page"/>
 
 — p. 356 — COL D'AOUERAN — CRABERE (27me EXCURSION)
+
 ****
 
 (2.160m) qu'on aura constamment devant soi. Ce col est situé
@@ -161,6 +164,7 @@ Du Crabère à l'Etang Liat............. 2h.30 }
 <div class="page"/>
 
 — p. 357 — (27me EXCURSION) PLATEAU du LIAT — PIC de L'HOMME
+
 ****
 
 ## DEUXIÈME JOURNÉE
@@ -209,6 +213,7 @@ seulement la plus grande partie du Val d'Aran, mais encore les
 <div class="page"/>
 
 — p. 358 — N.-D. de MONGARRI (27me EXCURSION)
+
 ****
 
 régions de Béret, de Mongarri et de Marimaña. On pourra repérer
@@ -266,6 +271,7 @@ la rive g. de la Noguera Pallaresa, au point marqué dans les cartes
 <div class="page"/>
 
 — p. 359 — (27me EXCURSION) PICS de MARIMANA
+
 ****
 
 qu'à la Pica de Bonabé, c'est-à-dire pendant les 3/4 de la
@@ -317,6 +323,7 @@ nom (2.674m),
 <div class="page"/>
 
 — p. 360 — PICA DE BONABE — ROCA BLANCA (27me EXCURSION)
+
 ****
 
 sion. On remontera ensuite au N.-E. jusqu'à la Pica de Bonabé
@@ -368,6 +375,7 @@ De la Roca Blanca à Bonabé.............. 2h.45 }
 <div class="page"/>
 
 — p. 361 — (27me EXCURSION) BONABE — PORT DE SALAU
+
 ****
 
 ## QUATRIÈME JOURNÉE
@@ -418,6 +426,7 @@ une route pleine d'intérêt qui longe le Salat pendant 14 k. En
 <div class="page"/>
 
 — p. 362 — VALLEE du SALAT (27me EXCURSION)
+
 ****
 
 attendant l'ouverture de la ligne en construction, on pourra descendre
@@ -442,7 +451,9 @@ Du Port au Village de Salau........ 2h.30 }    7h.30
 De Salau à Seix.................... 3h. » } (Arrêts en sus).
 ```
 
+
 ****
+
 ****
 
 <u>__POINTS D'INTERRUPTION__</u>

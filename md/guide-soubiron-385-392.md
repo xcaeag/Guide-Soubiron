@@ -61,6 +61,7 @@ du Calmil. Ce dernier continue tout droit devant soi, entre
 <div class="page"/>
 
 — p. 387 — (30me EXCURSION) CAP de LA COUME DE PIGNOU
+
 ****
 
 deux rangées de bouleaux; on le laissera à g., et on suivra celui,
@@ -114,6 +115,7 @@ A l'E.-S.-E., le massif de Tabe, qu'on aperçoit en entier, paraît
 <div class="page"/>
 
 — p. 388 — ROC des LOUVETIERES - SAURAT (30me EXCURSION)
+
 ****
 
 Pour jouir des principaux points de vue de cet intéressant
@@ -169,6 +171,7 @@ Loumet avant d'arriver à Frat-Communal. Après le pont, on
 <div class="page"/>
 
 — p. 389 — (30me EXCURSION) PIC de LA JOURNALADE
+
 ****
 
 prendra le chemin de chars qui s'amorce à g., et qui remonte
@@ -221,6 +224,7 @@ petit sentier qui longe la crête par la face S.
 <div class="page"/>
 
 — p. 390 — LE ROC de TRABINET (30me EXCURSION)
+
 ****
 
 Le point de vue est analogue à celui de la Journalade, sauf sur
@@ -269,6 +273,7 @@ De Bédeilhac à Tarascon.............. 1h. » }
 <div class="page"/>
 
 — p. 391 — (30me EXCURSION) VERDUN
+
 ****
 
 ## TROISIÈME JOURNÉE
@@ -321,6 +326,7 @@ vers 1.600 m. d'alt. On inclinera alors légèrement à dr.,
 <div class="page"/>
 
 — p. 392 — MONT FOURCAT - LAOUZATTE (30me EXCURSION)
+
 ****
 
 et on montera à travers les croupes gazonnées, direction N.-E.,
@@ -367,7 +373,9 @@ De la Laouzatte à Mercus........... 2h.25 } (Arrêts en sus).
 mais, dans ce cas, celle présente l'inconvénient de faire toute
 l'ascension à découvert et face au soleil.
 
+
 ****
+
 ****
 
 <u>__POINTS D'INTERRUPTION__</u>

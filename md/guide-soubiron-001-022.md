@@ -58,7 +58,9 @@ PAR ORDRE DE MATIÈRES
 9. Index alphabétique des 1.500 noms de lieux............  525
 ```
 
+
 ****
+
 ****
 
 __TABLEAU DES ABRÉVIATIONS__
@@ -136,6 +138,7 @@ si nécessaire au début de la saison.
 <div class="page"/>
 
 — p. 6 —  AVERTISSEMENT DE L'AUTEUR
+
 ****
 
 Autour des centres d'excursions, les ascensions sont graduées
@@ -152,7 +155,9 @@ Pour mettre à jour la première édition et posséder une œuvre
 complète, il suffira d'acquérir séparément la collection des
 40 programmes tirés à part pour la deuxième-édition.
 
+
 ****
+
 ****
 
 <u>__ALPINISME ACROBATIQUE__</u>
@@ -186,7 +191,7 @@ La forme absolument portative de mon guide ne m'a pas per-
 
 — p. 7 — AVERTISSEMENT DE L'AUTEUR
 
----
+****
 
 mis de le surcharger de cartes à grande échelle, mais, en tête
 de chaque programme, or trouvera une carte esquisse de
@@ -294,6 +299,7 @@ encore dans les glaciers non crevassés. (V. Souvenirs d'un Montagnard,
 <div class="page"/>
 
 — p. 9 —  AVERTISSEMENT DE L'AUTEUR
+
 ****
 
 <u>__ITINÉRAIRES__</u>
@@ -390,6 +396,7 @@ journée.
 <div class="page"/>
 
 — p. 11 —  CONSEILS PRATIQUES
+
 ****
 
 5. __Ne pas chercher la difficulté,__ mais ne pas se laisser influencer 
@@ -436,6 +443,7 @@ d'y circuler pendant l'orage.__
 <div class="page"/>
 
 — p. 12 —  CONSEILS PRATIQUES
+
 ****
 
 12. Enfin, si vous vous sentez des aptitudes et un dévouement à
@@ -484,6 +492,7 @@ il vaut mieux lui donner une indemnité.
 <div class="page"/>
 
 — p. 13 —  CONSEILS PRATIQUES
+
 ****
 
 <u>__NOURRITURE__</u>
@@ -679,6 +688,7 @@ Coma............ Combe du versant espagnol.
 <div class="page"/>
 
 — p. 18 — VOCABULAIRE DES TERMES PYRÉNÉENS
+
 ****
 
 ```
@@ -723,6 +733,7 @@ Lane, Lanne..... Lande, plaine, plateau herbeux.
 <div class="page"/>
 
 — p. 19 — VOCABULAIRE DES TERMES PYRÉNÉENS
+
 ****
 
 ```
@@ -766,6 +777,7 @@ Pradet......... Petite prairie.
 <div class="page"/>
 
 — p. 20 —VOCABULAIRE DES TERMES PYRÉNÉENS
+
 ****
 
 ```
@@ -824,7 +836,9 @@ afin de finir en beauté au Canigou (2.785m), face à la Méditerranée.
 
 <p class="droite">P.S.</p>
 
+
 ****
+
 ****
 
 __NOTICE SUR LA VALLÉE D'ASPE__
@@ -848,6 +862,7 @@ poup (1.669m), à l'E. Elle s'ouvre à nouveau au Pont de Lescun,
 <div class="page"/>
 
 — p. 22 — VALEE D'ASPE  (1re EXCURSION)
+
 ****
 
 qu'on laisse à dr., et bientôt paraît le village de ce nom, perché

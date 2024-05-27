@@ -59,6 +59,7 @@ autour desquels nous rayonnerons ensuite.
 <div class="page"/>
 
 — p. 230 — ENVIRONS de LUCHON (18me EXCURSION)
+
 ****
 
 __Pour ceux qui ne fréquentent pas les hautes cimes.__
@@ -140,6 +141,7 @@ qui forment l'Ourse de Ferrère.
 <div class="page"/>
 
 — p. 232 — MONTNE de LUCHON  (18me EXCURSION)
+
 ****
 
 ![carte p232](../maps/guide-soubiron-0232-carte.jpg) 
@@ -217,6 +219,7 @@ attractions des Environs de Luchon.
 <div class="page"/>
 
 — p. 234 — SUPERBAGNERES (18me EXCURSION)
+
 ****
 
 ## DEUXIÈME JOURNÉE
@@ -274,6 +277,7 @@ Le Cirque du Lys affecte la forme d'un fer à cheval incliné
 <div class="page"/>
 
 — p. 235 — (18me EXCURSION) COUME be BOURG — COL de BASSIERET
+
 ****
 
 Sauf l'ascension de ses cimes qui est réservée aux pyrénéistes, 
@@ -328,6 +332,7 @@ semble s'avancer au milieu du cirque pour offrir au touriste son
 <div class="page"/>
 
 — p. 236 — REFUGE d'ESPINGO (18me EXCURSION)
+
 ****
 
 ![gravure p236](../maps/guide-soubiron-0236-clip.jpg)
@@ -335,6 +340,7 @@ semble s'avancer au milieu du cirque pour offrir au touriste son
 <div class="page"/>
 
 — p. 237 — (18me EXCURSION) ENVIRONS D'ESPINGO
+
 ****
 
 admirable belvédère; enfin, couronnant tout le paysage, en arc
@@ -387,6 +393,7 @@ aux lieu et place de l'ancienne.
 <div class="page"/>
 
 — p. 238 — LAC d'Oô — GRANGES D'ASTAU (18me EXCURSION)
+
 ****
 
 l'ascension dans une semaine, tout en retrouvant, tous les soirs,
@@ -440,6 +447,7 @@ aux prairies de Herran. Il existe, dans ce flanc de montagne, de
 <div class="page"/>
 
 — p. 239 — (18me EXCURSION) Le POUJASTOU
+
 ****
 
 nombreux chemins qui croisent dans tous les sens la forêt de
@@ -489,6 +497,7 @@ Comolo Forno. Tout à fait à l'O., la pointe noire du Pic Long
 <div class="page"/>
 
 — p. 240 — (18me EXCURSION) ENVIRONS DE LUCHON + PARTIE SUD
+
 ****
 
 ![carte p240](../maps/guide-soubiron-0240-carte.jpg)
@@ -496,6 +505,7 @@ Comolo Forno. Tout à fait à l'O., la pointe noire du Pic Long
 <div class="page"/>
 
 — p. 241 — (18me EXCURSION) Le MAIL De CRIQ
+
 ****
 
 On domine une grande partie du Val d'Aran, et Bosost est
@@ -548,6 +558,7 @@ descendre à Bosost dans 1h.30.
 <div class="page"/>
 
 — p. 242 — SAINT-MAMET (18me EXCURSION)
+
 ****
 
 ## QUATRIÈME JOURNÉE
@@ -596,6 +607,7 @@ grande cabane, et l'ascension continue en lacets réguliers qui font
 <div class="page"/>
 
 — p. 243 — (18me EXCURSION)  COURADILLES — CAP De La PALO
+
 ****
 
 aboutir au haut de la forêt une demi-h. après. C'est alors la féerie
@@ -648,6 +660,7 @@ ariégeoise, du Crabère au Mont Valier. Les massifs de la Sèoube
 <div class="page"/>
 
 — p. 244 — COL De BAREGES — VALLON DE BURBE (18me EXCURSION)
+
 ****
 
  de la vallée. Les lointains, sont splendides, et un grand nombre
@@ -693,6 +706,7 @@ rejoindre la route entre l'Hospice de France et le Pont Lapadé.
 <div class="page"/>
 
 — p. 245 — (18me EXCURSION) HOSPICE DE FRANCE
+
 ****
 
 ## CINQUIÈME JOURNÉE
@@ -737,6 +751,7 @@ chaînon qui va du pic de la Pique au pic de la Mine. à g., et la
 <div class="page"/>
 
 — p. 246 — PORT De VENASQUE (18me EXCURSION)
+
 ****
 
 crête de Baliran, à dr. (1). on n'aperçoit pas le port depuis l'Hospice 
@@ -789,6 +804,7 @@ haut, sur le petit plateau herbeux situé en amont du deuxième pont
 <div class="page"/>
 
 — p. 247 — (18me Exc.) PORT be LA PICADE — PAS DE L'ESCALETTE 
+
 ****
 
 incomparable dans toutes les directions. C'est un belvédère merveilleux 
@@ -842,6 +858,7 @@ auteurs considèrent comme l'une des sources de la Garonne.<br>
 <div class="page"/>
 
 — p. 248 — PAS DE la  MOUNJOYE (18me EXCURSION) 
+
 ****
 
 au Pas de la Mounjoye (2.115m), où aboutit le sentier qui va de

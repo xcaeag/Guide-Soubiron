@@ -30,7 +30,9 @@ de la deuxième et de la quatrième journée.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
+
 ****
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -56,6 +58,7 @@ qui contourne le haut du vallon en pente douce; on prendra
 <div class="page"/>
 
 — p. 344 — (26me EXCURSION)
+
 ****
 
 ![carte p344](../maps/guide-soubiron-0344-carte-portrait.jpg)
@@ -63,6 +66,7 @@ qui contourne le haut du vallon en pente douce; on prendra
 <div class="page"/>
 
 — p. 345 — (26me EXCURSION) TUC de LA COURATE
+
 ****
 
 ce dernier. A 1/4 d'h. du col, les deux chemins se rejoignent.
@@ -115,6 +119,7 @@ muletier qui descend vers Saint-Pierre. Parvenu en vue de
 <div class="page"/>
 
 — p. 346 — SAINT-PIERRE de SOULAN (26me EXCURSION)
+
 ****
 
 la route, on peut éviter un long détour en coupant à travers les
@@ -166,6 +171,7 @@ arrive, enfin, à Seix.
 <div class="page"/>
 
 — p. 347 — (26me EXCURSION) SEIX
+
 ****
 
 __Horaire de la Journée :__
@@ -213,6 +219,7 @@ Le point de vue est déjà très beau vers l'E. On domine tout le
 <div class="page"/>
 
 — p. 348 — CAP de BOUIRECH (26me EXCURSION)
+
 ****
 
 bassin de Seix et l'œil franchit les crêtes secondaires jusqu'au
@@ -263,6 +270,7 @@ Portech (930m), col par lequel passe le chemin de Moulis à Alos.
 <div class="page"/>
 
 — p. 349 — (26me EXCURSION) COL de LARRECH
+
 ****
 
 Le Tuc de Pélatos est, comme le Bouirech, un très joli belvédère
@@ -301,6 +309,7 @@ Du Cap de Bouirech à Bordes............. 3h.30 }
 <div class="page"/>
 
 — p. 350 — LAC D'ARAING (26me EXCURSION)
+
 ****
 
 ## TROISIÈME JOURNÉE
@@ -351,6 +360,7 @@ de mon guide, à la vingtième excursion, p. 245.
 <div class="page"/>
 
 — p. 351 — (26me EXCURSION) MINE du BENTAILLOU
+
 ****
 
 rection S.-E. pour franchir la Serre d'Araing vers 2.200 m. d'alt.;
@@ -393,6 +403,7 @@ Des Mines du Bentailldu à Sentein....... 3h.30 } (Arrêts en sus).
 <div class="page"/>
 
 — p. 352 — PIC DE L'ARRAING — CASTILLON (26me EXCURSION)
+
 ****
 
 ## QUATRIÈME JOURNÉE

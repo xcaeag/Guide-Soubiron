@@ -48,6 +48,7 @@ les vivres de trois jours et demi qu'il faut emporter.
 <div class="page"/>
 
 — p. 412 — VALLEE de SOULCEN (33me EXCURSION)
+
 ****
 
  ![carte p412](../maps/guide-soubiron-0412-carte.jpg)
@@ -55,6 +56,7 @@ les vivres de trois jours et demi qu'il faut emporter.
 <div class="page"/>
 
 — p. 413 — (33me EXCURSION) PORT de BOUET
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -100,6 +102,7 @@ par la Pique rouge de la Soucaranne.
 <div class="page"/>
 
 — p. 414 — PIQUE ROUGE de La SOUCARANNE (33me EXCURSION)
+
 ****
 
 On déjeunera au Labinas et, après avoir déposé ses bagages
@@ -149,6 +152,7 @@ Parvenu à environ 10 min. de l'orry du Labinas, on franchira
 <div class="page"/>
 
 — p. 415 — (33me EXCURSION) PORT DE LAS BAREYTES
+
 ****
 
 le torrent sur deux rochers qui se font face et sont assez rapprochés 
@@ -197,6 +201,7 @@ communiquer le Val Ferrera avec la vallée d'Arinsal. La Coma
 <div class="page"/>
 
 — p. 416 — COMA PEDROSA (33me EXCURSION)
+
 ****
 
 Pedrosa, plus au S., est en partie masquée par un contrefort de
@@ -247,6 +252,7 @@ on aboutira au pied du vallon pierreux qui monte au Port de
 <div class="page"/>
 
 — p. 417 — (33me EXCURSION) PIC des LAVANS
+
 ****
 
 Médacourbe (2.750m) où on déposera le sac. Ce port est situé
@@ -302,6 +308,7 @@ peu intéressante du Médacourbe, parce qu'elle m'a obligé à
 <div class="page"/>
 
 — p. 418 — VALLON de CARAOUSSANS (33me EXCURSION)
+
 ****
 
 ## TROISIÈME JOURNÉE
@@ -352,6 +359,7 @@ secondaire, 2.750 m. environ, et sur la g., au N.-O., la masse
 <div class="page"/>
 
 — p. 419 — (33me EXCURSION) GRAND FOURCAT et TRISTAGNES
+
 ****
 
 hirsute du grand Fourcat (2.862m). On fera l'ascension de ce
@@ -404,6 +412,7 @@ depuis le vallon de l'Arbeille jusqu'aux étangs de Petsiguer.
 <div class="page"/>
 
 — p. 420 — ETANG FOURCAT  (33me EXCURSION)
+
 ****
 
 On reviendra au port du Fourcat par la voie d'ascension et on
@@ -455,6 +464,7 @@ Fourcat, c'est-à-dire « Fourchu ». Quelques min. après avoir
 <div class="page"/>
 
 — p. 421 — (33me EXCURSION) PIC DE L'ASPRE
+
 ****
 
 dépassé l'extrémité de la fourche E., on aboutit à un petit col
@@ -505,6 +515,7 @@ qu'on arrive en vue de l'Etang d'Izourt.
 <div class="page"/>
 
 — p. 422 — BEDE d'OLBIER- GOULIER. (33me EXCURSION)
+
 ****
 
 Je ne connais rien de plus pittoresque que le trajet de Petsiguer
@@ -539,7 +550,9 @@ Des Etangs de Petsiguer à Goulier........ 3h.30 } (Arrêts en sus)
 De Goulier à Vicdessos................... 0h.45 }
 ``` 
 
+
 ****
+
 ****
 
 <u>__POINTS D'INTERRUPTION__</u>

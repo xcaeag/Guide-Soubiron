@@ -32,7 +32,9 @@ sommets, un des plus beaux centres d'excursions des Pyrénées.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
+
 ****
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -60,6 +62,7 @@ joli point de vue sur les environs immédiats.
 <div class="page"/>
 
 — p. 182 — ENVIRONS D'ARREAU (14me EXCURSION)
+
 ****
 
 ![carte p182](../maps/guide-soubiron-0182-carte.jpg)
@@ -72,6 +75,7 @@ ET D'UNE PARTIE DE LA BAROUSSE
 <div class="page"/>
 
 — p. 183 — (14me EXCURSION) SOUM de MENVIEILLE
+
 ****
  
 Après 1h.15 d'ascension, on débouche subitement au verdoyant 
@@ -125,6 +129,7 @@ met en communication la vallée d'Aure avec celle du Louron.
 <div class="page"/>
 
 — p. 184 — ILHAN (14me EXCURSION)
+
 ****
 
 boisée; là, on quitte la sapinière pour des taillis de hêtres et on
@@ -180,6 +185,7 @@ Burat (2.150m), pour les environs de Luchon et le Haut Aran;
 <div class="page"/>
 
 — p. 185 — (14me EXCURSION) COL d'ASPIN
+
 ****
 
 > les Trois Seigneurs (2.199m) et le Soularac (2.360m), pour les
@@ -237,6 +243,7 @@ axe, resplendit le magnifique glacier des Gourgs-Blancs. Au N.
 <div class="page"/>
 
 — p. 186 — MONTNE d'ASPIN — MONT BASSIA (14me EXCURSION)
+
 ****
 
 du Col, à quelques m au-dessus de la route, on trouve une intéressante 
@@ -288,6 +295,7 @@ On peut redescendre au Col de Beyrède, soit par la voie d'as-
 <div class="page"/>
 
 — p. 187 — (14me EXCURSION) COL de BEYREDE — SARRANCOLIN
+
 ****
 
 cension, soit en dévalant par les pentes S. vers une source dont
@@ -343,6 +351,7 @@ Pendant 3 k., on est comme suspendu et, par endroits, on a dû
 <div class="page"/>
 
 — p. 188 — PIC D'ARENG (14me EXCURSION)
+
 ****
 
 placer des rampes en fer, car il n'y a pas une place suffisante
@@ -397,6 +406,7 @@ Poste, chez Noguès, est recommandé.
 <div class="page"/>
 
 — p. 189 — (14me EXCURSION) FERRERE — MAULEON
+
 ****
 
 Le trajet de Crouhens et Mauléon est des plus intéressants;
@@ -446,6 +456,7 @@ on fera l'ascension du sommet par des pentes faciles.
 <div class="page"/>
 
 — p. 190 — MONTASPET — NISTOS (14me EXCURSION)
+
 ****
 
 Le Montaspet (1.849m) est un point de triangulation de premier
@@ -492,7 +503,9 @@ De Nistos à Montréjeau.................2h.35
 de dîner au buffet de Montréjeau et de rentrer à Toulouse
 par le dernier train.
 
+
 ****
+
 ****
 
 <u>__POINTS D'INTERRUPTION__</u>

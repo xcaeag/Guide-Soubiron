@@ -64,6 +64,7 @@ unique pour toutes les cartes.
 <div class="page"/>
 
 — p. 25 —  (1re EXCURSION) CIRQUE DE LHURS
+
 ****
 
 après, le gave d'Azun au Pont de Lauga et qui se dirige ensuite
@@ -117,6 +118,7 @@ que confinent les trois provinces ci-dessus.
 <div class="page"/>
 
 — p. 26 —  PIC des TROIS ROIS (1re EXCURSION)
+
 ****
 
 A l'E., au pied de la Table des Trois Rois, brille le petit lac
@@ -174,6 +176,7 @@ Col de Naye, et dans celle d'état-major celui de Col d'Escoueste.
 <div class="page"/>
 
 — p. 27 —  (1re EXCURSION) VALLON du LAUGA
+
 ****
 
 ## DEUXIÈME JOURNÉE
@@ -223,6 +226,7 @@ l'ascension au Pic d'Anie. S'adresser à M. Campagne, à Lescun.
 <div class="page"/>
 
 — p. 28 —  PIC D'ANIE (1re EXCURSION)
+
 ****
 
 de moutons montent vers l'O., et bientôt on aperçoit à dr., au
@@ -276,6 +280,7 @@ dont un troupeau de 24.
 <div class="page"/>
 
 — p. 29 —  (1re EXCURSION) VALLON D'ANAYE
+
 ****
 
 Pour la descente, on suivra 1/2 h. environ le chemin d'ascension 
@@ -328,6 +333,7 @@ Bernera se prête particulièrement à l'erreur, on se fera accom-
 <div class="page"/>
 
 — p. 30 —  FORGES D'ABEL. — VISAURIN (1re EXCURSION)
+
 ****
 
 pagner par un guide, si on a le moindre doute sur l'orientation
@@ -383,6 +389,7 @@ entre le pic d'Anie et le Balaïtous. Le massif de Sesques
 <div class="page"/>
 
 — p. 31 —   (1re EXCURSION) CIRQUE D'OLIBON. — LAC D'ESTAES
+
 ****
 
 fait un très bel effet et on distingue très bien les pics de Larry
@@ -436,6 +443,7 @@ située sur la frontière.
 <div class="page"/>
 
 — p. 32 — URDOS. — VALLON de LARRY (1re EXCURSION)
+
 ****
 
 de nombreux lacets, jusqu'au bassin artificiel de la prise d'eau
@@ -491,6 +499,7 @@ Laruns. Hôtel des Pyrénées, chez Baylou.
 <div class="page"/>
 
 — p. 33 — (1re EXCURSION) COL de LARRY. — COL D'AYOUS
+
 ****
 
 pour le franchir sur un petit pont. Si on passait le pont, on irait
@@ -545,6 +554,7 @@ sommets portant les noms suivants : Peña de las Once (pic de 11 h.);
 <div class="page"/>
 
 — p. 34 - pic de LARRY. — pic D'AYOUS  (1re EXCURSION)
+
 ****
 
 du sol à une portée de fusil et d'un seul jet qui dépasse 1.000 m.;
@@ -601,6 +611,7 @@ praticables pour des pyrénéistes exercés.
 <div class="page"/>
 
 — p. 35 — (1re Excursion)  BIOUS-ARTIGUES
+
 ****
 
 bords de ce dernier, on jouit d'une double vue sur le Pic de Midi
@@ -654,6 +665,7 @@ Du Pic d'Ayous à Gabas .................. 3h.40 }
 <div class="page"/>
 
 — p. 36 — GABAS. — COL de SUZON {1re EXCURSION)
+
 ****
 
 ## CINQUIÈME JOURNÉE
@@ -707,6 +719,7 @@ crampons.
 <div class="page"/>
 
 — p. 37 — (1re EXCURSION) PIC de MIDI D'OSSAU.
+
 ****
 
 corniche conduit, dans 2 min., au vrai sommet, la Pointe 
@@ -759,6 +772,7 @@ sur l'heure légale au Pic du Midi.<br>
 <div class="page"/>
 
 — p. 38 — REFUGE DE POMBIE (1re EXCURSION)
+
 ****
 
 du Val d'Arrius, à 8 k. de Gabas, où on rentrera par la vallée de
@@ -781,7 +795,9 @@ De Gabas aux Eaux-Chaudes (8 k.)........ 1h.30 }
 
 > Nota. — Si on est parti du refuge de Pombie, 3 h. en moins.
 
+
 ****
+
 ****
 
 <u>__POINTS D'INTERRUPTION__</u>
@@ -793,7 +809,9 @@ De Gabas aux Eaux-Chaudes (8 k.)........ 1h.30 }
    - Pour rejoindre des Eaux-Chaudes (8 k. de route).
    - Pour rejoindre de Laruns (14 k. de route).
 
+
 ****
+
 ****
 
 __REFUGE DE POMBIE__

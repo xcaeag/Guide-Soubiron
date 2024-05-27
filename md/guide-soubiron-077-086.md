@@ -49,6 +49,7 @@ d'eaux.
 <div class="page"/>
 
 — p. 79 — (5me EXCURSION) VISCOS
+
 ****
 
 # PREMIÈRE JOURNÉE
@@ -95,6 +96,7 @@ inclinée.
 <div class="page"/>
 
 — p. 80 — COL DE RIOU - (5me EXCURSION)
+
 ****
 
 Le sentier, très difficile à suivre, traverse là un luxuriant pâturage 
@@ -145,6 +147,7 @@ une table d'orientation.
 <div class="page"/>
 
 — p. 81 — (5me EXCURSION) SOUM DE LAS AOUEILLEROS
+
 ****
 
 Du Col de Riou, on continuera l'excursion vers le S. par des
@@ -201,6 +204,7 @@ dû, par conséquent, l'orthographier en deux mots.
 <div class="page"/>
 
 — p. 82 — Le PEGUERE (5me EXCURSION)
+
 ****
 
 dr., le grand chemin muletier qui zigzague les flancs S. et E. du
@@ -251,6 +255,7 @@ sans suivre les méandres du sentier.
 <div class="page"/>
 
 — p. 83 — (5me EXCURSION) MONTNE de CAUTERETS
+
 ****
 
 Au Cambasque, on rejoindra un grand chemin qui conduit
@@ -307,6 +312,7 @@ sente du flanc N.
 <div class="page"/>
 
 — p. 84 — Le CABALIROS (5me EXCURSION)
+
 ****
 
 Même avec du brouillard, on ira droit au sommet, car, dans
@@ -362,6 +368,7 @@ nom de « Wilson » au Rocher de Cohe.
 <div class="page"/>
 
 — p. 85 — (5me EXCURSION) - COL D'ILHEOU
+
 ****
 
 ## QUATRIÈME JOURNÉE
@@ -409,6 +416,7 @@ sommet supérieur de Maleshores (2.766m), à l'O., et la crête
 <div class="page"/>
 
 — p. 86 — GRAND BARBAT (5me EXCURSION)
+
 ****
 
 de Piarrouy, à l'E. On y déposera le sac et on fera, au N.-E.,

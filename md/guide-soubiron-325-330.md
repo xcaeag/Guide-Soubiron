@@ -52,6 +52,7 @@ Un sentier s'amorce au N., tout près de la chapelle; on le laissera
 <div class="page"/>
 
 — p. 326 — (24me EXCURSION)
+
 ****
 
 ![carte p326](../maps/guide-soubiron-0326-carte-portrait.jpg)
@@ -59,6 +60,7 @@ Un sentier s'amorce au N., tout près de la chapelle; on le laissera
 <div class="page"/>
 
 — p. 327 — (24me EXCURSION) PICS du GARS
+
 ****
 
 second, plus grand, qui part aussi direction N., en amont et parallèlement
@@ -110,6 +112,7 @@ existe à environ 100 m. au N. du sommet 1757.
 <div class="page"/>
 
 — p. 328 — ARGUENOS (24me EXCURSION)
+
 ****
 
 soi, au N., le vill. d'Arguenos. A partir de là, le sentier se transforme
@@ -158,6 +161,7 @@ plus de lits, on en trouve facilement dans le village.
 <div class="page"/>
 
 — p. 329 — (24me EXCURSION) PIC de CAGIRE
+
 ****
 
 beaucoup de fleurs dans la « Colline » et notamment des Etoiles
@@ -209,6 +213,7 @@ sur la plaine va de Tarbes à Toulouse et aux confins de l'Aude.
 <div class="page"/>
 
 — p. 330 — JUZET-d'IZAUT (24me EXCURSION)
+
 ****
 
 Il est aussi un merveilleux belvédère sur la Garonne qu'il domine

@@ -40,6 +40,7 @@ vue d'ensemble sur la magnifique région qu'on va explorer.
 <div class="page"/>
 
 — p. 394 — ENVIRONS D'AUZAT (31me EXCURSION)
+
 ****
 
 ![carte p394](../maps/guide-soubiron-0394-carte.jpg)
@@ -47,6 +48,7 @@ vue d'ensemble sur la magnifique région qu'on va explorer.
 <div class="page"/>
 
 — p. 395 — (31me EXCURSION) ROC de QUERQUEOU
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -91,6 +93,7 @@ Querquéou (1.887m).
 <div class="page"/>
 
 — p. 396 — ORUS — VICDESSOS (31me EXCURSION)
+
 ****
 
 Le Roc de Querquèou est le dernier sommet important du
@@ -133,6 +136,7 @@ localité à l'autre.
 <div class="page"/>
 
 — p. 397 — (3lme EXCURSION) ETANG D'IZOURT
+
 ****
 
 ## DEUXIÈME JOURNÉE
@@ -180,6 +184,7 @@ lac dont les nuances varient sous le jeu de la lumière.
 <div class="page"/>
 
 — p. 398 —  BEDE d'OLBIER (31me EXCURSION)
+
 ****
 
 Pour avoir une vue plus complète de la région, on s'élèvera
@@ -221,6 +226,7 @@ D'Olbier à Auzat ...................... 0h.45 }
 <div class="page"/>
 
 — p. 399 — (31me EXCURSION) PIC de RISOUL
+
 ****
 
 ## TROISIÈME JOURNÉE
@@ -270,6 +276,7 @@ aboutira au Col de Grail (1.500m), près du refuge forestier. On
 <div class="page"/>
 
 — p. 400 — PIC de LERCOUL (31me EXCURSION)
+
 ****
 
 déposera là le sac et, à travers la forêt et les taillis, on montera
@@ -313,6 +320,7 @@ Du Pic de Lercoul à Vicdessos.......... 2h.45 }
 <div class="page"/>
 
 — p. 401 — (31me EXCURSION) PIC des TROIS SEIGNEURS
+
 ****
 
 ## QUATRIÈME JOURNÉE
@@ -365,6 +373,7 @@ Le Pic des Trois Seigneurs comprend deux sommets, c'est à
 <div class="page"/>
 
 — p. 402 — VALLEÉ DE RABAT  (31me EXCURSION)
+
 ****
 
 la pointe S.-E., point culminant du massif, qu'on trouve la table
@@ -400,7 +409,9 @@ De Suc au Pic des Trois Seigneurs..... 3h.45 } (Arrêts en sus)
 Du Pic des Trois Seigneurs à Tarascon. 4h.25 }
 ```
  
+
 ****
+
 ****
 
 <u>__POINTS D'INTERRUPTION__</u>

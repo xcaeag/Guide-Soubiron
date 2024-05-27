@@ -65,6 +65,7 @@ près de la gare.
 <div class="page"/>
 
 — p. 314 — EN HAUT-ARAN et EN CATALOGNE (23me EXCURSION)
+
 ****
 
 ![carte p314](../maps/guide-soubiron-0314-carte.jpg)
@@ -72,6 +73,7 @@ près de la gare.
 <div class="page"/>
 
 — p. 315 — (23me EXCURSION) DE MARIGNAC A VIELLA
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -125,6 +127,7 @@ ascension.
 <div class="page"/>
 
 — p. 316 — PORT ET HOSPICE DE VIELLA (23me EXCURSION)
+
 ****
 
 Le barranco du port est parfois si étroit et si profond qu'il
@@ -179,6 +182,7 @@ pour franchir, à l'E., la Ribagorzana sur un petit pont en bois.
 <div class="page"/>
 
 — p. 317 — (23me EXCURSION) VALLEE et PIC De BECIBERI
+
 ****
 
 On entrera alors dans la gorge de Bécibéri dont on remontera
@@ -246,6 +250,7 @@ Le belvédère du Comolo Forro est de tout premier ordre et
 <div class="page"/>
 
 — p. 319 — (23me EXCURSION) COMOLO FORNO — CALDAS de BOHI
+
 ****
 
 la gradation des teintes de toutes les alt. passe sous les yeux.
@@ -298,6 +303,7 @@ même pour ne pas perdre de temps le lendemain matin.
 <div class="page"/>
 
 — p. 320 — COMOLOS BIENES — COMOLOS PALES (23me EXCURSION)
+
 ****
 
 __Horaire de la Journée :__
@@ -351,6 +357,7 @@ On descendra à l'O. par de rapides couloirs neigeux, mais sans
 <div class="page"/>
 
 — p. 321 — (23me EXCURSION) PIC PIERRE HARLE
+
 ****
 
 difficultés sérieuses. Vers les trois quarts de la descente, on fera
@@ -406,6 +413,7 @@ les bergers de la région l'appellent ainsi.
 <div class="page"/>
 
 — p. 322 — Le MONTARTO d'ARAN (23me EXCURSION)
+
 ****
 
 Le point culminant de la crête de la Tuménéja, qui a été gravi
@@ -455,6 +463,7 @@ au-dessous d'un rocher coincé, est sans difficulté.
 <div class="page"/>
 
 — p. 323 — (23me EXCURSION) D'ARTIES A LUCHON
+
 ****
 
 Après avoir débarqué dans la coume, on obliquera légèrement
@@ -514,6 +523,7 @@ ressec est masculin.
 <div class="page"/>
 
 — p. 324 — PIC D'AUBAS — COURADILLES (23me EXCURSION)
+
 ****
 
 vers le Portillon de Burbe. Parvenu au ruisseau de la Bareste,

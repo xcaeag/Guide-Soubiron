@@ -34,7 +34,9 @@ un guide pour la deuxième journée.
 
 <p class="droite">(Voir les cartes des Environs de Luchon, pp. 232 et 240).</p>
 
+
 ****
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -60,6 +62,7 @@ en 22 lacets sur la rive dr. de la Neste d'Oô et, dans 1 h. envi-
 <div class="page"/>
 
 — p. 250 — CASCADE d'Oô (19me EXCURSION)
+
 ****
 
 ron, on s'élève de 400 m. pour aboutir au déversoir du Lac d'Oô
@@ -111,6 +114,7 @@ une douzaine de lacets, et le chemin s'engage dans un étroit vallon
 <div class="page"/>
 
 — p. 251 — (19me EXCURSION) COL D'ESPINGO
+
 ****
 
 qui monte droit au petit Col d'Espingo (1.975m). Voir la description
@@ -167,6 +171,7 @@ on sautera ces derniers, de g. à dr. puis le torrent
 <div class="page"/>
 
 — p. 252 — VAL d'AROUGE — HOURGADE (19me EXCURSION)
+
 ****
 
 d'Arouge, afin de rejoindre le sentier de la rive g. du val qui
@@ -222,6 +227,7 @@ de m. à l'E. d'une petite cascade qu'on laisse à g.
 <div class="page"/>
 
 — p. 253 — (19me Exc.) PAS De COURET — VALLON D'ÉSQUIERRY 
+
 ****
 
 séparent trois régions magnifiques : Caillaouas et les Gourgs-Blancs
@@ -273,6 +279,7 @@ intéressantes, car le point de vue s'élargit à mesure qu'on monte
 <div class="page"/>
 
 — p. 254 — MORAINE de GARIN — POUYLOUBY (19me EXCURSION)
+
 ****
 
 et le belvédère de la Moraine de Garin est très beau, surtout vers
@@ -327,6 +334,7 @@ Larboust et d'Oueil.
 <div class="page"/>
 
 — p. 255 — (19me EXCURSION) PIC du LION
+
 ****
 
 _Un plan en avant :_
@@ -386,6 +394,7 @@ de Légnès (1.920m) (1). Laissant à dr. une petite colline gazon-
 <div class="page"/>
 
 — p. 256 — MONTAGNE D'ESPIAUP (19me EXCURSION)
+
 ****
 
 née qui bifurque au S. vers Poubeau, on continuera à toute crête;
@@ -443,6 +452,7 @@ voudrait le prendre.
 <div class="page"/>
 
 — p. 257 — (19me EXCURSION) COUME de BOURG
+
 ****
 
 ## QUATRIÈME JOURNÉE
@@ -493,6 +503,7 @@ casse la croûte (V. 18° E., p. 235). C'est là, vers 2.300 m. d'alt.
 <div class="page"/>
 
 — p. 258 — CRETES de SUBESCALE ET DE SARNES (19me EXCURSION)
+
 ****
 
 que s'amorce l'un des sentiers les plus intéressants des Pyrénées.
@@ -546,6 +557,7 @@ traverse le sentier.<br>
 <div class="page"/>
 
 — p. 259 — (19me EXCURSION) MINES de CRABIOULES — LAC VERT
+
 ****
 
 altières cimes qui constituent la grande beauté de cette partie
@@ -604,6 +616,7 @@ moyenne montagne.
 <div class="page"/>
 
 — p. 260 — CASCADES de SOLAGE et de TREGON (19me EXCURSION)
+
 ****
 
 __Conseils.__ — __Itin. recomm.__ — Une auto conduira la caravane
@@ -657,6 +670,7 @@ Pour augmenter l'attrait de l'excursion, on montera jusqu'aux
 <div class="page"/>
 
 — p. 261 — (19me EXCURSION) LAC BLEU — PRATLONG
+
 ****
 
 rives du Lac Bleu situé 50 min. plus haut. On quittera le Lac
@@ -707,6 +721,7 @@ De la Rue d'Enfer à l'Hôtellerie du Lys. 1h. » }
 <div class="page"/>
 
 — p. 262 — SAINT-PAUL D'OUEIL (19me EXCURSION)
+
 ****
 
 ## SIXIÈME JOURNÉE
@@ -755,6 +770,7 @@ très beau point de vue sur la plaine.
 <div class="page"/>
 
 — p. 263 — (19me EXCURSION) SOUM D'ANTENAC
+
 ****
 
 Tournant ensuite direction S.-E., on suivra la crête gazonnée,
@@ -809,6 +825,7 @@ difficiles à suivre; qu'on ne s'émotionne pas, car on peut descen-
 <div class="page"/>
 
 — p. 264 — CIER-DE-LUCHON (19me EXCURSION)
+
 ****
 
 dre partout sans le moindre danger. L'important, c'est de rester

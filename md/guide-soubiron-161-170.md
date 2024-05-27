@@ -37,6 +37,7 @@ Bagnères.
 <div class="page"/>
 
 — p. 162 — ENVIRONS de BAGNERES-DE-BIGORRE (12me EXCURSION)
+
 ****
 
 ![carte p162](../maps/guide-soubiron-0162-carte.jpg)
@@ -44,6 +45,7 @@ Bagnères.
 <div class="page"/>
 
 — p. 163 — (12me EXCURSION) CROIX de MANSE
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -91,6 +93,7 @@ de Bagnères. Ce point de vue est très beau. Baudéan est sous soi
 <div class="page"/>
 
 — p. 164 — MONTNE — CASTEL-MOULY (19me EXCURSION)
+
 ****
 
 à 500 m. de profondeur, et l'œil prend en enfilade toute la vallée
@@ -141,6 +144,7 @@ pendant laquelle on passera près de la source de Cot de Ger, on
 <div class="page"/>
 
 — p. 165 — (12me EXCURSION) GORGE DE LHERIS
+
 ****
 
 rejoindra le chemin d'ascension à la Croix dé Manse, à une
@@ -190,6 +194,7 @@ de suivre le chemin indiqué à dr. par le Joanne, car il est plus
 <div class="page"/>
 
 — p. 166 — CASQUE de LHERIS (12me EXCURSION)
+
 ****
 
 long et plus fatigant. Poursuivant droit devant soi, on franchira,
@@ -241,6 +246,7 @@ du S.-O., afin d'aboutir à la petite cheminée qu'on nomme « Pas
 <div class="page"/>
 
 — p. 167 — (12me EXCURSION) COL DE BANIOS — CABANES d'ORDINCEDE
+
 ****
 
 du Chat ». Ce passage est plus impressionnant que difficile; l'important 
@@ -294,6 +300,7 @@ Du Col de Banios à Campan.............. 2h. » }
 <div class="page"/>
 
 — p. 168 — LAC BLEU de BAGNERES (12me EXCURSION)
+
 ****
 
 ## TROISIÈME JOURNÉE
@@ -342,6 +349,7 @@ dans la même journée.
 <div class="page"/>
 
 — p. 169 — (12me EXCURSION) LAC VERT de BAGNERES
+
 ****
 
 Afin de donner à cette ascension son maximum d'intérêt, on
@@ -396,6 +404,7 @@ Major et Col du Lac par celle du Ministère de l'Intérieur.
 <div class="page"/>
 
 — p. 170 — BAGNERES-DE-BIGORRE (12me EXCURSION)
+
 ****
 
 >teau gazonné forme un promontoire admirable pour voir le
@@ -416,7 +425,9 @@ et, tout en haut, l'observatoire du Pic de Midi. Quelques min.
 après, on rejoint le chemin qui, de Barèges, monte directement 
 à l'Hôtellerie du Col de Sencours (2.373m).
 
+
 ****
+
 ****
 
 <u>__POINT UNIQUE D'INTERRUPTION__</u>

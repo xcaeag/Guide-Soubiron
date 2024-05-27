@@ -38,7 +38,9 @@ d'Orédon.
  
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
+
 ****
+
 ****
 <u>__Concernant le PIC de MIDI de BIGORRE__</u>
 
@@ -55,6 +57,7 @@ Le lendemain matin, on partira à la lanterne, à 3 h., afin d'ar-
 <div class="page"/>
 
 — p. 148 — ENVIRONS de BAREGES (11me EXCURSION)
+
 ****
 
 ![11e EXCURSION](../maps/guide-soubiron-0148-carte.jpg)
@@ -79,6 +82,7 @@ on ne jouit pas d'un aussi joli point de vue.
 <div class="page"/>
 
 — p. 149 — (11me EXCURSION) COL D'AUBERT — NEOUVIELLE
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -127,6 +131,7 @@ glacier en deux, comme l'arête du Portillon, celui des Monts-
 <div class="page"/>
 
 — p. 150 —  LAC D'OREDON (11me EXCURSION)
+
 ****
 
 Maudits. Le Pic de Midi de Bigorre, dont on aperçoit tous les
@@ -176,6 +181,7 @@ d'Orédon, monte au Lac de Cap-de-Long (2.120m). Après la maison
 <div class="page"/>
 
 — p. 151 — (11me EXCURSION) LAC de CAP-De-LONG
+
 ****
 
 du garde, on trouvera un sentier qui longe la rive S. du lac, à
@@ -230,6 +236,7 @@ s'écoule par la vallée de Cap-de-Long au grand lac de ce nom.
 <div class="page"/>
 
 — p. 152 — PIC LONG (11me EXCURSION)
+
 ****
 
 ce mauvais passage en appuyant un peu à g., vers le Badet, où
@@ -281,6 +288,7 @@ au Col de Pierrefitte qu'on aperçoit au N.-O.; celui de dr. monte
 <div class="page"/>
 
 — p. 153 — (11me EXCURSION): REFUGE du RABIET — LAC TOURRAT
+
 ****
 
 au N., en laissant à g. le Lac de Rabiet et, en plusieurs lacets,
@@ -329,6 +337,7 @@ où se déverse tout entier un glacier d'une seule venue. Très
 <div class="page"/>
 
 — p. 154 — PIC de BUGARET (11me EXCURSION)
+
 ****
 
 incliné, très crevassé, ce dernier y tombe directement du Pic
@@ -377,6 +386,7 @@ le soir même.
 <div class="page"/>
 
 — p. 155 — (11me EXCURSION) PIC de MONTARROUY
+
 ****
 
 ## QUATRIÈME JOURNÉE
@@ -427,6 +437,7 @@ aucune des appellations ci-dessus ne doit être adoptée.
 <div class="page"/>
 
 — p. 156 — LAC et PIC de MAUCAPERA  (11me EXCURSION)
+
 ****
 
 de ce nom. Au bout de la courbe formée, à g., par les escarpements 
@@ -482,6 +493,7 @@ Barèges.
 <div class="page"/>
 
 — p. 157 — (11me EXCURSION) VALLEE DE L'ISE — BAREGES
+
 ****
 
 Du Lac de Maucapéra, on descendra par la rive g. du déversoir 
@@ -531,6 +543,7 @@ jusqu'à la Montagne fleurie.
 <div class="page"/>
 
 — p. 158 — SOUM ARROUY (11me EXCURSION)
+
 ****
 
 On arrivera dans un parc de reboisement récent, couvert
@@ -581,6 +594,7 @@ Au N.-O., à moins de 500 m. parait le signal du Pic Léviste
 <div class="page"/>
 
 — p. 159 — (11me EXCURSION) PIC LEVISTE — LAC D'IZABY
+
 ****
 
 (2.464m) dont on est séparé par une forte dépression de la crête.
@@ -631,6 +645,7 @@ du Pradet que domine, au S., sa superbe cascade. Là, le
 <div class="page"/>
 
 — p. 160 — PIERREFITTE (11me EXCURSION)
+
 ****
 
 chemin remonte un peu à dr. entre des prairies, et reprend
@@ -666,7 +681,9 @@ ses forces pour l'ascension des 900 m. qui restent à gravir;<br>
 > 2° On partira au plus tard à 4 h., pour arriver au Pic Léviste
 avant midi.
 
+
 ****
+
 ****
 
 <u>__POINTS D'INTERRUPTION__</u>

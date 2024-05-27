@@ -42,7 +42,9 @@ guide.
 <p class="droite">(Voir ci-contre la Carte de l'Excursion.)<br/>
 (Voir aussi les cartes des Environs d'Espingo, pp. 202 et 214.)</p>
 
+
 ****
+
 ****
 
 <u>__GOURGS-BLANCS et CIRQUE d'OO__</u>
@@ -58,6 +60,7 @@ effectuerait un trajet de 10 k. environ sans la quitter. A cette
 <div class="page"/>
 
 — p. 220 — D'ARREAU A LUCHON ET A MARIGNAC (17me EXCURSION)
+
 ****
 
 ![carte p220](../maps/guide-soubiron-0220-carte.jpg)
@@ -71,6 +74,7 @@ du plus grand cirque glaciaire de la chaîne.
 <div class="page"/>
 
 — p. 221 — (17me EXCURSION) GORGE de CLARABIDE — LAC de CAILLAOUAS
+
 ****
 
 ## PREMIÈRE JOURNÉE
@@ -125,6 +129,7 @@ Du Pont de la Soula au Lac de Caillaouas. 2h. » }
 <div class="page"/>
 
 — p. 222 — GOURGS-BLANCS — SPIJEOLES (17me EXCURSION)
+
 ****
 
 ## DEUXIÈME JOURNÉE
@@ -174,6 +179,7 @@ pendant dix mois et demi. De cet état des lieux est né le nom de
 <div class="page"/>
 
 — p. 223 — (17me EXCURSION) PIC GOURDON — TUSSE De MONTARQUE
+
 ****
 
 préférence sur le versant d'Oô. Ce sommet est devenu tristement
@@ -226,6 +232,7 @@ De la Tusse de Montarqué à Espingo...... 2h. » }
 <div class="page"/>
 
 — p. 224 — QUAIRAT (17me EXCURSION)
+
 ****
 
 ## TROISIÈME JOURNÉE
@@ -282,6 +289,7 @@ flanc E. de la crête par d'étroites corniches, puis on grimpera à
 <div class="page"/>
 
 — p. 225 — (17me EXCURSION) MONTARROUYE
+
 ****
 
 la cime principale (3.058m). Le point culminant est constitué par
@@ -335,6 +343,7 @@ Du Cap de Hounts-Secs (2.707m), qu'on dominera vers le N.
 <div class="page"/>
 
 — p. 226 — VALLON de MEDASSOLES  (17me EXCURSION)
+
 ****
 
 souder au Pic de Céciré (2.400m); c'est cette crête qu'on franchira
@@ -393,6 +402,7 @@ Horaire probable du Col de Montarrouye à Superbagnères. 3h.
 <div class="page"/>
 
 — p. 227 — (17me EXCURSION) BACANERE — BURAT
+
 ****
 
 ## QUATRIÈME JOURNÉE
@@ -444,6 +454,7 @@ splendeurs.
 <div class="page"/>
 
 — p. 228 — GORGE de MARIGNAC (17me EXCURSION)
+
 ****
 
 Le Montlude (2.516m), au N.-E., prend l'aspect d'une très haute
@@ -485,7 +496,9 @@ petite route qui se dirige au S.; elle descend en plusieurs lacets
 pour aller rejoindre 1a grand'route de la vallée, 800 m. en aval
 de la halte d'Antignac, à 6 k. de Luchon.
  
+
 ****
+
 ****
 
 <u>__POINTS D'INTERRUPTION__</u>
