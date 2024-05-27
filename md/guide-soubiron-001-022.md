@@ -240,6 +240,7 @@ il n'en est pas de mème pour les Pyrénées.
 <div class="page"/>
 
 — p. 8 — AVERTISSEMENT DE L'AUTEUR
+
 ****
 
 Dans la première édition de mon guide, paru en 1920, j'ai dit
