@@ -54,7 +54,8 @@
       const modalImg = document.getElementById("modal-img");
       const captionText = document.getElementById("modal-caption");
       var img = document.querySelectorAll('.markdown-body img');
-      for (var i=0; i<img.length; i++){
+      for (var i=0; i<img.length; i++) {
+          console.log($(this).src);
           img[i].onclick = function(){
               modal.style.display = "block";
               modalImg.src = $(this).src;
@@ -64,6 +65,7 @@
       }
       // When the user clicks on <span> (x), close the modal
       modal.onclick = function() {
+        console.log("modal.onclick");
         modalImg.className += " out";
           setTimeout(function() {
               modal.style.display = "none";
