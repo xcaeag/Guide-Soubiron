@@ -35,10 +35,15 @@ pre.lines {
     border-top: 1px solid #999999;
 }
 
+.markdown-body blockquote:before {
+    font-size: 75px;
+}
+
 .markdown-body blockquote {
     font-size: 13px;
     border-top: 2px solid #333;
     border-bottom: 2px solid #333;
+    padding: 2px 20px;
 }
 
 h1 {
