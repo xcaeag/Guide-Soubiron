@@ -55,13 +55,12 @@
       const captionText = document.getElementById("modal-caption");
       var img = document.querySelectorAll('.markdown-body img');
       for (var i=0; i<img.length; i++) {
-          console.log(img.src);
-          img[i].onclick = function(){
+          img[i].onclick = function() {
               modal.style.display = "block";
-              modalImg.src = $(this).src;
-              console.log( modalImg.src);
-              modalImg.alt = $(this).alt;
-              captionText.innerHTML = $(this).alt;
+              modalImg.src = $(this)[0].src;
+              console.log(modalImg.src);
+              modalImg.alt = $(this)[0].alt;
+              captionText.innerHTML = modalImg.alt;
           }
       }
       // When the user clicks on <span> (x), close the modal
