@@ -49,6 +49,7 @@
         return false;
       })
 
+      //  IMAGE ZOOM  see https://www.exeideas.com/2022/09/image-zoom-in-popup-on-click.html
       // Get the modal
       const modal = document.getElementById('myModal');
       const modalImg = document.getElementById("modal-img");
@@ -58,14 +59,12 @@
           img[i].onclick = function() {
               modal.style.display = "block";
               modalImg.src = $(this)[0].src;
-              console.log(modalImg.src);
               modalImg.alt = $(this)[0].alt;
               captionText.innerHTML = modalImg.alt;
           }
       }
       // When the user clicks on <span> (x), close the modal
       modal.onclick = function() {
-          console.log("modal.onclick");
           modalImg.className += " out";
           setTimeout(function() {
               modal.style.display = "none";
