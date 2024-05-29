@@ -809,7 +809,7 @@ Turon........... Sommet secondaire dominé par un pic voisin.
 Tramezaygues.... Terme générique qui signifie « Entre deux Eaux ».
 Vire............ Petite corniche sur la paroi de la montagne; étroit gradin.
 
-———<br>
+———
 (1) Le mot « Som » n'a aucune signification, ni en français, ni en patois. Si je l'ai
 inscrit dans mon vocabulaire, c'est parce qu'on le trouve souvent dans les cartes
 pour la désignation de divers sommets.
