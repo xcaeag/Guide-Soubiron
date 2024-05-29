@@ -8,7 +8,7 @@ title: |
 output: pdf_document 
 ---
 <style>.centre {text-align: center}</style>
-<style>.droite {text-align: right}</style>
+<style>.droite {text-align: right; float:right;}</style>
 
 [//]: # (— p. 519 —)
 
@@ -438,7 +438,7 @@ Arse (vallée et cascade d').     │ Aygues-Tortes (port d')...... 199
                         377, 380 │ Aygues-Tortes (vallon d').... 197
 Artalas (fontaine d')....... 327 │ Ayous (col, pic et lacs d').
 Arties (vallée d') 382, 408, 426 │                        32, 33, 34
-Azun (vallée d')........... 61   │
+Azun (vallée d')............. 61 │
 ```
 
 <div class="page"/>
@@ -768,7 +768,7 @@ Garin (moraine de)..... 253, 254 │ Gez .................. 66, 69, 71
 Garin (vill. de)....... 253, 254 │ Gias (ruisseau et lacs de)... 212
 Garmo-Négro (massif et lac       │ Gimbre (col de).............. 189
 de) ........................ 105 │ Girabal (col de)............. 468
-Gars (pic du)........... 325, 327 │ Glère (cirque de la)......... 300
+Gars (pic du).......... 325, 327 │ Glère (cirque de la)......... 300
 Garseing (cabanes de).. 438, 442 │ Glère (fontaine et port de
 Gaube (lac et vallée de). 92, 95 │   la)........................ 299
 Gaudu (jasse de)............ 457 │ Gniouré (vallée de).......... 427
@@ -913,7 +913,7 @@ Lioze (vallon de la)........ 452 │ Louron (vallée de)...... 181, 221
 Lis (crête du)............... 85 │ Louseras (pic de las)........ 137
 Lisey (cirque du)............ 79 │ Luchon ............ 215, 227, 229
 Litayrolles (cols, glacier et    │ Lugagnan ................. 71, 76
-  lac de) ................. 269  │ Lurdé (col de)............ 48, 49
+  lac de) .................. 269 │ Lurdé (col de)............ 48, 49
 Litayrolles (pic de). — V.       │ Lurgues (granges de)......... 178
   Royo) .................... 269 │ Lustou (pic de)......... 207, 208
 Llagonne (la)............... 502 │ Lutour (vallée de)....... 98, 111
