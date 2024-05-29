@@ -29,6 +29,8 @@ pre.lines {
     color: #000000;
     background-color: #FFFFFF;
     box-shadow: none;
+	display: flex;
+	justify-content: center;    
 }
 
 .page {
@@ -72,6 +74,7 @@ h1 {
 .markdown-body ul {
 	margin-bottom: 10px;
 }
+
 
 /* IMAGE ZOOM 
     see https://www.exeideas.com/2022/09/image-zoom-in-popup-on-click.html
