@@ -673,7 +673,7 @@ Bat............. Ce mot est synonyme de vallée pour la région
 Bédat........... Partie de la montagne interdite aux bestiaux, 
                  soit pour une durée déterminée, soit pour toujours.
 Borde........... Grange.
-Bordette., 
+Bordette, 
 Bourdette....... Petite grange.
 Brèche.......... Echancrure naturelle d'une crête; col étroit 
                  plus ou moins profond.

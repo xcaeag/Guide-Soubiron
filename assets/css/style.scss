@@ -13,6 +13,10 @@ a {
     color: #4479b6;
 }
 
+hr {
+	border-bottom-width: 0;
+}
+
 .centre {
 	text-align: center !important;
 }
@@ -20,6 +24,7 @@ a {
 .markdown-body p {
 	text-align: justify;
 	text-justify: inter-word;
+    margin-bottom: 10px;
     /*text-indent: 2em;*/
 }
 
@@ -71,6 +76,11 @@ h1 {
     margin-right: 0px;
 }
 
+.markdown-body th {
+	font-size: 14px;
+	text-align: center;
+}
+
 .markdown-body td:first-child, .markdown-body th:first-child {
     width: inherit;
     padding-left: 20px;
@@ -78,6 +88,7 @@ h1 {
 
 .markdown-body tbody {
     background-color: inherit;
+    font-size: 12px;
 }
 
 .markdown-body li {
