@@ -768,18 +768,22 @@ Laquo .......... Petit lac, grande flaque d'eau.
 Lit ............ Avalanche, couloir d'avalanche.
 Mail............ Rocher.
 Montné.........  Terme générique qui signifie « Mont-Noir ».
-Neste........... Cours d'eau torrentueux des Hautes-Pyrénées et d'une partie 
-                 de la Haute-Garonne.
-Névé............ Petit glacier qui disparait presque toujours à la canicule.
+Neste........... Cours d'eau torrentueux des Hautes-Pyrénées et 
+                 d'une partie de la Haute-Garonne.
+Névé............ Petit glacier qui disparait presque toujours à 
+                 la canicule.
 Noguera........  Cours d'eau du versant espagnol.
-Orry............ Nom donné aux cabanes de bergers dans une partie de l'Ariège.
-Oule, Oulette .. Cirque du haut des vallées dominé par des escarpements étagés.
+Orry............ Nom donné aux cabanes de bergers dans une partie de 
+                 l'Ariège.
+Oule, Oulette .. Cirque du haut des vallées dominé par des escarpements 
+                 étagés.
 Pale, Pales, 
 Palo, Palos ...  Pal, pelle, pelles, crête effilée à parois lisses.
 Pas............. Passage ordinairement difficile, soit en col, 
                  soit en ligne de crête.
 Pech............ Petite montagne, cime peu élevée.
-Penña............ Sommet, pointe terminale d'un rocher du versant espagnol.
+Penña........... Sommet, pointe terminale d'un rocher du versant 
+                 espagnol.
 Pène............ Pointe terminale d'une montagne rocailleuse affectant 
                  la forme d'un casque.
 Peyre........... Pierre.
@@ -788,13 +792,14 @@ Pla, Plaa, Plan. Large et haut vallon de pâturages, peu incliné,
                  au pied de hautes montagnes.
 Plagnot......... Petit plateau en forme de terrasse.
 Pleta........... Jasse du versant espagnol.
-Port............ Col fréquenté, généralement sur la grande chaîne frontière.
+Port............ Col fréquenté, généralement sur la grande chaîne 
+                 frontière.
 Porte, Porteille,
 Portillon, Pourtanech, 
 Pourtanelle, Pourteille,
 Pourtere, 
-Pourtet......... Cols situés ordinairement dans les chaînons laté-raux et, 
-                 par exception, dans la grande chaîne.
+Pourtet......... Cols situés ordinairement dans les chaînons latéraux 
+                 et, par exception, dans la grande chaîne.
 Pouey, Pouy,
 Pujo........... Proéminence, mi-gazon, mi-rocher; groupe, colline, 
                 coteau en forme de plateau.
@@ -831,8 +836,8 @@ Soula (la)...... Versant méridional de la montagne.
 Taillante....... Petit outil à tranchant latéral pour couper du bois. 
                  Par analogie, crête de montagne à arête tranchante.
 Tosse, Tosa, 
-Tose............ Sommet dont une face est rocheuse et très inclinée et dont 
-                 l'autre est herbeuse et en pente douce.
+Tose............ Sommet dont une face est rocheuse et très inclinée et 
+                 dont l'autre est herbeuse et en pente douce.
 Toue............ Abri sous roche de la région du Lavedan.
 Tourrat......... Gelé, glacé.
 Tuc, Tuco, Tuque, 
@@ -840,7 +845,8 @@ Tusse .......... Sommet à puissants contreforts.
 Tucou, Tuquet... Petit sommet à puissants contreforts.
 Turon........... Sommet secondaire dominé par un pic voisin.
 Tramezaygues.... Terme générique qui signifie « Entre deux Eaux ».
-Vire............ Petite corniche sur la paroi de la montagne; étroit gradin.
+Vire............ Petite corniche sur la paroi de la montagne; 
+                 étroit gradin.
 ```
 
 ———<br>
