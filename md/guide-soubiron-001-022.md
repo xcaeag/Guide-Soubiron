@@ -7,8 +7,8 @@ title: LES PYRÉNÉES Du PIC d'ANIE au CANIGOU En 40 Excursions
 ---
 
 <style>
-.centre {text-align: center}
-.droite {text-align: right}
+.centre {text-align: center; }
+.droite {text-align: right; }
 </style>
 
 # LES PYRÉNÉES
