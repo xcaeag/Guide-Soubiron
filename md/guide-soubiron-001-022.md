@@ -825,7 +825,7 @@ Soubiran, Soubiron,
 Soubirou ....... Souverain, supérieur; lac, pont, crête d'en haut, etc.
 Som (1), Soum... Synonyme de pic. Pointe peu culminante d'une longue crête; 
                  terme employé dans les Pyrénées centrales pour 
-                certains sommets.
+                 certains sommets.
 Soulana, Soulane,
 Soula (la)...... Versant méridional de la montagne.
 Taillante....... Petit outil à tranchant latéral pour couper du bois. 
@@ -841,12 +841,12 @@ Tucou, Tuquet... Petit sommet à puissants contreforts.
 Turon........... Sommet secondaire dominé par un pic voisin.
 Tramezaygues.... Terme générique qui signifie « Entre deux Eaux ».
 Vire............ Petite corniche sur la paroi de la montagne; étroit gradin.
+```
 
-———
+———<br>
 (1) Le mot « Som » n'a aucune signification, ni en français, ni en patois. Si je l'ai
 inscrit dans mon vocabulaire, c'est parce qu'on le trouve souvent dans les cartes
 pour la désignation de divers sommets.
-```
 
 <div class="page"></div>
 
