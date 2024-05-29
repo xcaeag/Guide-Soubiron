@@ -648,7 +648,7 @@ __<u>POINTS D'INTERRUPTION</u>__
 
 ****
 
-## NOTE CONCERNANT<br>L'ASCENSION DIRECTE DU CANIGOU
+## NOTE CONCERNANT <br>L'ASCENSION DIRECTE DU CANIGOU
 
 Si on veut faire l'ascension directe du Canigou en venant de
 la plaine, voici comment je la conseille :

@@ -529,7 +529,7 @@ la neige ou sur les glaciers.
 
 [//]: # (— p. 14 —)
 
-# Notice sur l'influence de la lune<br>dans ses diverses phases, du 15 juin à fin Septembre.
+# Notice sur l'influence de la lune <br>dans ses diverses phases, du 15 juin à fin Septembre.
 
 Des observations faites en haute montagne pendant plusieurs
 années, en juillet, août et septembre, m'ont permis de constater
@@ -649,7 +649,7 @@ mieux encore, une voilette en mousseline de soie, noire ou verte.
 
 [//]: # (— p. 17 —)
 
-# PETIT VOCABULAIRE<br>DES<br>TERMES PYRÉNÉENS<br>RELATIFS A LA MONTAGNE
+# PETIT VOCABULAIRE <br>DES <br>TERMES PYRÉNÉENS <br>RELATIFS A LA MONTAGNE
 
 
 ```
@@ -858,7 +858,7 @@ pour la désignation de divers sommets.
 
 [//]: # (— p. 21 —)
 
-# LES PYRÉNÉES<br>Du PIC d'ANIE au CANIGOU<br>En 40 Excursions
+# LES PYRÉNÉES <br>Du PIC d'ANIE au CANIGOU <br>En 40 Excursions
 
 __<u>AVIS AUX TOURISTES</u>__
 
