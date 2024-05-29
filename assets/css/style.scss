@@ -21,9 +21,8 @@ code, kbd, pre, samp {
     font-size: 0.9em;
 }
 
-pre.lines {
-    visibility: hidden;
-    display: none;
+.markdown-body pre.lines {
+	display: none;
 }
 
 .markdown-body pre {

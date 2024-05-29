@@ -661,26 +661,34 @@ Artigoun ....... Petite artigue.
 Arriou.......... Ruisseau.
 Arriu, Arroyo... Ruisseau du versant espagnol.
 Badète.......... Petite vallée.
-Baigts.......... Vallée supérieure, vers le haut de la montagne, de la région des Basses-Pyrénées.
-Batch........... Vallée supérieure, vers le haut de la montagne, de la région de Luchon.
+Baigts.......... Vallée supérieure, vers le haut de la montagne, 
+                 de la région des Basses-Pyrénées.
+Batch........... Vallée supérieure, vers le haut de la montagne, 
+                 de la région de Luchon.
 Barranco.......  Ravin ou vallon profond du versant espagnol.
 Barranrcouaou..  Ravin ou vallon profond du versant français.
 Bassia ......... Pâturages de haute altitude de la région d'Aure.
-Bat............. Ce mot est synonyme de vallée pour la région des Pyrénées centrales.
-Bédat........... Partie de la montagne interdite aux bestiaux, soit pour une durée déterminée, soit pour toujours.
+Bat............. Ce mot est synonyme de vallée pour la région 
+                 des Pyrénées centrales.
+Bédat........... Partie de la montagne interdite aux bestiaux, 
+                 soit pour une durée déterminée, soit pour toujours.
 Borde........... Grange.
 Bordette., 
 Bourdette....... Petite grange.
-Brèche.......... Echancrure naturelle d'une crête; col étroit plus ou moins profond.
+Brèche.......... Echancrure naturelle d'une crête; col étroit 
+                 plus ou moins profond.
 Cacou........... Cabane sous roche des environs de Cauterets.
 Caillaou ....... Caillou.
 Caillaouas, 
 Caillaouèro..... Grand amas de cailloux, champs de pierraille.
-Cairn........... Petite tour de pierres élevée par les pyrénéistes ou les bergers, soit sur des sommets, soit en cours de route pour indiquer un point de repère.
+Cairn........... Petite tour de pierres élevée par les pyrénéistes 
+                 ou les bergers, soit sur des sommets, soit en cours 
+                de route pour indiquer un point de repère.
 Canaou.........  Couloir profond, étroit ravin sur un versant de montagne.
 Cap............. Sommet extrème d'une montagne ou d'un chaînon.
 Cayolar......... Cabane de la vallée d'Aspe; chalet du pays basque.
-Cheminée.......  Interstice entre deux parois rocheuses dans lequel le pyrénéiste s'introduit pour grimper au sommet.
+Cheminée.......  Interstice entre deux parois rocheuses dans lequel le 
+                 pyrénéiste s'introduit pour grimper au sommet.
 Clot............ Trou, cuvette, petit cirque d'effondrement sur un plateau.
 Coba, Cueva..... Abri sous roche du versant espagnol.
 Coma............ Combe du versant espagnol.
@@ -699,24 +707,30 @@ Collada.........  Nom donné à un grand col du versant espagnol.
 Cortal, Courtaou. Grands paturages ordinairement pourvus de cabanes.
 Cortalet......... Petit Cortal.
 Couret..........  petit ruisseau.
-Coueyla.......... Mauvaise Cabane de bergers; centre de pâturage presque horizontal.
+Coueyla.......... Mauvaise Cabane de bergers; centre de pâturage 
+                  presque horizontal.
 Escala, Escale... Echelle, pente rapide de montagne en forme d'escalier.
 Escalette ....... Petits échelle. Petit passage facile en forme d'escalier.
-Espugue.......... (Spelunca, caverne) Abri naturel sous roche où le bétail peut se réfugier.
+Espugue.......... (Spelunca, caverne) Abri naturel sous roche où 
+                  le bétail peut se réfugier.
 Espuguète........ Petite espugue.
 Estagnol, 
 Estagnole........ Petits étangs
 Estibe, 
 Estibère, 
 Estiouère, 
-Estivère ........ Du mot « Eté »; région verdoyante. Montagne moyenne où séjourne le bétail avant de monter aux pâturages supérieurs.
-Etoile des Neiges. Petite fleur de haute montagne à pétales veloutés, d'un gris presque blanc, qui portait autrefois le nom allemand d'édelweiss.
+Estivère ........ Du mot « Eté »; région verdoyante. Montagne moyenne 
+                  où séjourne le bétail avant de monter aux pâturages supérieurs.
+Etoile des Neiges. Petite fleur de haute montagne à pétales veloutés, 
+                  d'un gris presque blanc, qui portait autrefois le nom allemand d'édelweiss.
 Fourque, 
-Fourquette....   Du mot « Fourche »: cols des chaînons latéraux et, par exception, de la chaîne frontière.
+Fourquette....   Du mot « Fourche »: cols des chaînons latéraux et, 
+                 par exception, de la chaîne frontière.
 Forca, Forqueta. Du mot « Fourche »; cols de chaînons latéraux du versant espagnol. 
 Gave............ Cours d'eau torrentueux des Hautes et des Basses-Pyrénées.
 Garganta.......  Gorge étroite, profond ravin du versant espagnol.
-Gendarmes....... Tours rocheuses qui se dressent sur les crêtes et qui souvent sont infranchissables.
+Gendarmes....... Tours rocheuses qui se dressent sur les crêtes et qui souvent 
+                sont infranchissables.
 Goueil.......... Oeil, source.
 Gourg, Gourgue...Gouffre, lac profond.
 Hajaou.......... Hétraie.
@@ -725,7 +739,8 @@ Hourque,
 Hourquette...... V. Fourque et Fourquette.
 Ibon, Ibones.... Lacs de haute montagne du versant espagnol.
 Jasse........... Cirque de pâturages où couche le bétail et ordinairement pourvu de cabanes.
-Jispet.......... (Festuca Eskia). Touffes d'herbe dure, glissante et piquante qu'on trouve aux hautes altitudes, surtout dans l'Ariège.
+Jispet.......... (Festuca Eskia). Touffes d'herbe dure, glissante et piquante 
+                 qu'on trouve aux hautes altitudes, surtout dans l'Ariège.
 Labas, Lavasse.. Grande dalle, roche lisse.
 Lagopèdes....... Perdrix blanches très nombreuses près de la neige et aux hautes montagnes.
 Lane, Lanne..... Lande, plaine, plateau herbeux.
@@ -746,7 +761,8 @@ Laquo .......... Petit lac, grande flaque d'eau.
 Lit ............ Avalanche, couloir d'avalanche.
 Mail............ Rocher.
 Montné.........  Terme générique qui signifie « Mont-Noir ».
-Neste........... Cours d'eau torrentueux des Hautes-Pyrénées et d'une partie de la Haute-Garonne.
+Neste........... Cours d'eau torrentueux des Hautes-Pyrénées et d'une partie 
+                 de la Haute-Garonne.
 Névé............ Petit glacier qui disparait presque toujours à la canicule.
 Noguera........  Cours d'eau du versant espagnol.
 Orry............ Nom donné aux cabanes de bergers dans une partie de l'Ariège.
@@ -756,10 +772,12 @@ Palo, Palos ...  Pal, pelle, pelles, crête effilée à parois lisses.
 Pas............. Passage ordinairement difficile, soit en col, soit en ligne de crête.
 Pech............ Petite montagne, cime peu élevée.
 Penña............ Sommet, pointe terminale d'un rocher du versant espagnol.
-Pène............ Pointe terminale d'une montagne rocailleuse affectant la forme d'un casque.
+Pène............ Pointe terminale d'une montagne rocailleuse affectant 
+                 la forme d'un casque.
 Peyre........... Pierre.
 Pique .......... Pic pointu, aiguille.
-Pla, Plaa, Plan. Large et haut vallon de pâturages, peu incliné, au pied de hautes montagnes.
+Pla, Plaa, Plan. Large et haut vallon de pâturages, peu incliné, 
+                 au pied de hautes montagnes.
 Plagnot......... Petit plateau en forme de terrasse.
 Pleta........... Jasse du versant espagnol.
 Port............ Col fréquenté, généralement sur la grande chaîne frontière.
@@ -767,9 +785,11 @@ Porte, Porteille,
 Portillon, Pourtanech, 
 Pourtanelle, Pourteille,
 Pourtere, 
-Pourtet..........Cols situés ordinairement dans les chaînons laté-raux et, par exception, dans la grande chaîne.
+Pourtet......... Cols situés ordinairement dans les chaînons laté-raux et, 
+                 par exception, dans la grande chaîne.
 Pouey, Pouy,
-Pujo........... Proéminence, mi-gazon, mi-rocher; groupe, colline, coteau en forme de plateau.
+Pujo........... Proéminence, mi-gazon, mi-rocher; groupe, colline, 
+                coteau en forme de plateau.
 Prade, Pradère,
 Prat .......... Prairie.
 Pradet......... Petite prairie.
@@ -791,15 +811,19 @@ Rio, Riu........ Ruisseau ou cours d'eau du versant espagnol.
 Roque .......... Roche.
 Sarrat, Serre... Crête formant contrefort d'une montagne; colline élevée.
 Seoube.......... Forêt.
-Séracs.......... Pyramides et blocs de glace situés généralement vers le bas des glaciers.
+Séracs.......... Pyramides et blocs de glace situés généralement vers le 
+                 bas des glaciers.
 Soubiran, Soubiron,
 Soubirou ....... Souverain, supérieur; lac, pont, crête d'en haut, etc.
-Som (1), Soum... Synonyme de pic. Pointe peu culminante d'une longue crête; terme employé dans les Pyrénées centrales pour certains sommets.
+Som (1), Soum... Synonyme de pic. Pointe peu culminante d'une longue crête; 
+                 terme employé dans les Pyrénées centrales pour certains sommets.
 Soulana, Soulane,
 Soula (la)...... Versant méridional de la montagne.
-Taillante....... Petit outil à tranchant latéral pour couper du bois. Par analogie, crête de montagne à arête tranchante.
+Taillante....... Petit outil à tranchant latéral pour couper du bois. 
+                 Par analogie, crête de montagne à arête tranchante.
 Tosse, Tosa, 
-Tose............ Sommet dont une face est rocheuse et très inclinée et dont l'autre est herbeuse et en pente douce.
+Tose............ Sommet dont une face est rocheuse et très inclinée et dont 
+                 l'autre est herbeuse et en pente douce.
 Toue............ Abri sous roche de la région du Lavedan.
 Tourrat......... Gelé, glacé.
 Tuc, Tuco, Tuque, 
