@@ -683,7 +683,7 @@ Caillaouas,
 Caillaouèro..... Grand amas de cailloux, champs de pierraille.
 Cairn........... Petite tour de pierres élevée par les pyrénéistes 
                  ou les bergers, soit sur des sommets, soit en cours 
-                de route pour indiquer un point de repère.
+                 de route pour indiquer un point de repère.
 Canaou.........  Couloir profond, étroit ravin sur un versant de montagne.
 Cap............. Sommet extrème d'une montagne ou d'un chaînon.
 Cayolar......... Cabane de la vallée d'Aspe; chalet du pays basque.
@@ -726,31 +726,31 @@ Etoile des Neiges. Petite fleur de haute montagne à pétales veloutés,
                   d'un gris presque blanc, qui portait autrefois le nom 
                   allemand d'édelweiss.
 Fourque, 
-Fourquette....   Du mot « Fourche »: cols des chaînons latéraux et, 
-                 par exception, de la chaîne frontière.
-Forca, Forqueta. Du mot « Fourche »; cols de chaînons latéraux du 
-                 versant espagnol. 
-Gave............ Cours d'eau torrentueux des Hautes et des 
-                 Basses-Pyrénées.
-Garganta.......  Gorge étroite, profond ravin du versant espagnol.
-Gendarmes....... Tours rocheuses qui se dressent sur les crêtes et 
-                 qui souvent sont infranchissables.
-Goueil.......... Oeil, source.
-Gourg, Gourgue...Gouffre, lac profond.
-Hajaou.......... Hétraie.
-Aye............  Hêtre.
+Fourquette......  Du mot « Fourche »: cols des chaînons latéraux et, 
+                  par exception, de la chaîne frontière.
+Forca, Forqueta.  Du mot « Fourche »; cols de chaînons latéraux du 
+                  versant espagnol. 
+Gave............. Cours d'eau torrentueux des Hautes et des 
+                  Basses-Pyrénées.
+Garganta........  Gorge étroite, profond ravin du versant espagnol.
+Gendarmes........ Tours rocheuses qui se dressent sur les crêtes et 
+                  qui souvent sont infranchissables.
+Goueil........... Oeil, source.
+Gourg, Gourgue... Gouffre, lac profond.
+Hajaou........... Hétraie.
+Aye.............. Hêtre.
 Hourque, 
-Hourquette...... V. Fourque et Fourquette.
-Ibon, Ibones.... Lacs de haute montagne du versant espagnol.
-Jasse........... Cirque de pâturages où couche le bétail et 
-                 ordinairement pourvu de cabanes.
-Jispet.......... (Festuca Eskia). Touffes d'herbe dure, 
-                 glissante et piquante 
-                 qu'on trouve aux hautes altitudes, surtout dans l'Ariège.
-Labas, Lavasse.. Grande dalle, roche lisse.
-Lagopèdes....... Perdrix blanches très nombreuses près de la neige et 
-                 aux hautes montagnes.
-Lane, Lanne..... Lande, plaine, plateau herbeux.
+Hourquette....... V. Fourque et Fourquette.
+Ibon, Ibones..... Lacs de haute montagne du versant espagnol.
+Jasse............ Cirque de pâturages où couche le bétail et 
+                  ordinairement pourvu de cabanes.
+Jispet........... (Festuca Eskia). Touffes d'herbe dure, 
+                  glissante et piquante qu'on trouve aux hautes 
+                  altitudes, surtout dans l'Ariège.
+Labas, Lavasse... Grande dalle, roche lisse.
+Lagopèdes........ Perdrix blanches très nombreuses près de la neige et 
+                  aux hautes montagnes.
+Lane, Lanne...... Lande, plaine, plateau herbeux.
 ```
 
 <div class="page"></div>
@@ -801,11 +801,11 @@ Pourtere,
 Pourtet......... Cols situés ordinairement dans les chaînons latéraux 
                  et, par exception, dans la grande chaîne.
 Pouey, Pouy,
-Pujo........... Proéminence, mi-gazon, mi-rocher; groupe, colline, 
-                coteau en forme de plateau.
+Pujo............ Proéminence, mi-gazon, mi-rocher; groupe, colline, 
+                 coteau en forme de plateau.
 Prade, Pradère,
-Prat .......... Prairie.
-Pradet......... Petite prairie.
+Prat ........... Prairie.
+Pradet.......... Petite prairie.
 ```
 
 <div class="page"></div>

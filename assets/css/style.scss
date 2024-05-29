@@ -13,6 +13,11 @@ a {
     color: #4479b6;
 }
 
+.markdown-body p {
+	text-align: justify;
+	text-justify: inter-word;
+}
+
 .download-bar a.code {
     background-image: none;
 }
