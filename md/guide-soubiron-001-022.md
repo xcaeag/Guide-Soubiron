@@ -720,17 +720,21 @@ Estibe,
 Estibère, 
 Estiouère, 
 Estivère ........ Du mot « Eté »; région verdoyante. Montagne moyenne 
-                  où séjourne le bétail avant de monter aux pâturages supérieurs.
+                  où séjourne le bétail avant de monter aux pâturages 
+                  supérieurs.
 Etoile des Neiges. Petite fleur de haute montagne à pétales veloutés, 
-                  d'un gris presque blanc, qui portait autrefois le nom allemand d'édelweiss.
+                  d'un gris presque blanc, qui portait autrefois le nom 
+                  allemand d'édelweiss.
 Fourque, 
 Fourquette....   Du mot « Fourche »: cols des chaînons latéraux et, 
                  par exception, de la chaîne frontière.
-Forca, Forqueta. Du mot « Fourche »; cols de chaînons latéraux du versant espagnol. 
-Gave............ Cours d'eau torrentueux des Hautes et des Basses-Pyrénées.
+Forca, Forqueta. Du mot « Fourche »; cols de chaînons latéraux du 
+                 versant espagnol. 
+Gave............ Cours d'eau torrentueux des Hautes et des 
+                 Basses-Pyrénées.
 Garganta.......  Gorge étroite, profond ravin du versant espagnol.
-Gendarmes....... Tours rocheuses qui se dressent sur les crêtes et qui souvent 
-                sont infranchissables.
+Gendarmes....... Tours rocheuses qui se dressent sur les crêtes et 
+                 qui souvent sont infranchissables.
 Goueil.......... Oeil, source.
 Gourg, Gourgue...Gouffre, lac profond.
 Hajaou.......... Hétraie.
@@ -738,11 +742,14 @@ Aye............  Hêtre.
 Hourque, 
 Hourquette...... V. Fourque et Fourquette.
 Ibon, Ibones.... Lacs de haute montagne du versant espagnol.
-Jasse........... Cirque de pâturages où couche le bétail et ordinairement pourvu de cabanes.
-Jispet.......... (Festuca Eskia). Touffes d'herbe dure, glissante et piquante 
+Jasse........... Cirque de pâturages où couche le bétail et 
+                 ordinairement pourvu de cabanes.
+Jispet.......... (Festuca Eskia). Touffes d'herbe dure, 
+                 glissante et piquante 
                  qu'on trouve aux hautes altitudes, surtout dans l'Ariège.
 Labas, Lavasse.. Grande dalle, roche lisse.
-Lagopèdes....... Perdrix blanches très nombreuses près de la neige et aux hautes montagnes.
+Lagopèdes....... Perdrix blanches très nombreuses près de la neige et 
+                 aux hautes montagnes.
 Lane, Lanne..... Lande, plaine, plateau herbeux.
 ```
 
@@ -769,7 +776,8 @@ Orry............ Nom donné aux cabanes de bergers dans une partie de l'Ariège.
 Oule, Oulette .. Cirque du haut des vallées dominé par des escarpements étagés.
 Pale, Pales, 
 Palo, Palos ...  Pal, pelle, pelles, crête effilée à parois lisses.
-Pas............. Passage ordinairement difficile, soit en col, soit en ligne de crête.
+Pas............. Passage ordinairement difficile, soit en col, 
+                 soit en ligne de crête.
 Pech............ Petite montagne, cime peu élevée.
 Penña............ Sommet, pointe terminale d'un rocher du versant espagnol.
 Pène............ Pointe terminale d'une montagne rocailleuse affectant 
@@ -816,7 +824,8 @@ Séracs.......... Pyramides et blocs de glace situés généralement vers le
 Soubiran, Soubiron,
 Soubirou ....... Souverain, supérieur; lac, pont, crête d'en haut, etc.
 Som (1), Soum... Synonyme de pic. Pointe peu culminante d'une longue crête; 
-                 terme employé dans les Pyrénées centrales pour certains sommets.
+                 terme employé dans les Pyrénées centrales pour 
+                certains sommets.
 Soulana, Soulane,
 Soula (la)...... Versant méridional de la montagne.
 Taillante....... Petit outil à tranchant latéral pour couper du bois. 
