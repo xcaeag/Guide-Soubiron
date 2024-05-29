@@ -32,9 +32,10 @@ pre.lines {
     box-shadow: none;
     margin-left: 10px;
     margin-right: 10px;
-        
-	/* display: flex;
-	justify-content: center; */
+
+    white-space: pre-wrap;
+    display: flex;
+    justify-content: center;        
 }
 
 .page {
