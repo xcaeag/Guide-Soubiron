@@ -62,7 +62,7 @@ région; on la prouvera p. 318.
 de Montréjeau à Luchon, postes et télégraphes. Il y a deux bons hôtels
 près de la gare.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 314 — EN HAUT-ARAN et EN CATALOGNE (23me EXCURSION)
 
@@ -70,7 +70,7 @@ près de la gare.
 
 ![carte p314](../maps/guide-soubiron-0314-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 315 — (23me EXCURSION) DE MARIGNAC A VIELLA
 
@@ -124,7 +124,7 @@ pour suivre à g., au S., le sentier du port. On sera vers
 1.300 d'alt., et c'est là que commence la rude mais intéressante
 ascension.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 316 — PORT ET HOSPICE DE VIELLA (23me EXCURSION)
 
@@ -179,7 +179,7 @@ __Conseils.__ — __Itin. recomm.__ — On prendra au S. le chemin qui
 descend à Senet et on le quittera 1/2 h. après, à la cote 1505,
 pour franchir, à l'E., la Ribagorzana sur un petit pont en bois.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 317 — (23me EXCURSION) VALLEE et PIC De BECIBERI
 
@@ -231,7 +231,7 @@ marchera à flanc jusqu'à une petite brèche qui coupe la crête
 (1) Mot catalan qui, comme le mot espagnol « Avellanos », signifie
 noisetiers.
 
-<div class="page"/>
+<div class="page"></div>
 
 [//]: # (— p. 318 —)
 
@@ -247,7 +247,7 @@ et on arrive enfin sur la terre ferme où est bâtie la tourelle, à
 
 Le belvédère du Comolo Forro est de tout premier ordre et
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 319 — (23me EXCURSION) COMOLO FORNO — CALDAS de BOHI
 
@@ -300,7 +300,7 @@ et une cuisine à la française. Ici, même recommandation qu'à
 l'Hospice de Viella; on fera ses provisions et on règlera le soir
 même pour ne pas perdre de temps le lendemain matin.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 320 — COMOLOS BIENES — COMOLOS PALES (23me EXCURSION)
 
@@ -354,7 +354,7 @@ Aran.
 
 On descendra à l'O. par de rapides couloirs neigeux, mais sans
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 321 — (23me EXCURSION) PIC PIERRE HARLE
 
@@ -410,7 +410,7 @@ cheminée qui grimpe jusqu'à la crête (1).
 la nomme « Tuc de la Tuménéja », du mot catalan : cheminée. Tous
 les bergers de la région l'appellent ainsi.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 322 — Le MONTARTO d'ARAN (23me EXCURSION)
 
@@ -460,7 +460,7 @@ au-dessous d'un rocher coincé, est sans difficulté.
 ———<br>
 (1) V. Bulletin Pyrénéen, année 1909, p. 248.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 323 — (23me EXCURSION) D'ARTIES A LUCHON
 
@@ -520,7 +520,7 @@ prendra, rive g., le chemin de la Bareste qui se dirige au N.-O.
 (ressec); il faut donc dire « Pont del Ressec ». En patois du pays,
 ressec est masculin.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 324 — PIC D'AUBAS — COURADILLES (23me EXCURSION)
 

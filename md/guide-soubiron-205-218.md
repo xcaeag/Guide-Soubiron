@@ -49,7 +49,7 @@ est indispensable pour les deux premiers jours; on le prendra
 deux fois par jour par un autobus, en attendant la construction d'un
 tramway électrique.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 206 —  DE SAINT-LARY A LUCHON  (16me EXCURSION)
 
@@ -57,7 +57,7 @@ tramway électrique.
 
 ![carte p206](../maps/guide-soubiron-0206-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 207 — (16me EXCURSION) VALLEE de RIOUMAJOU
 
@@ -111,7 +111,7 @@ sur le Pont de Beauregard (1) et monter au vallon de Péguère.
 grange située à l'O. du pont et où de nombreux touristes ont
 trouvé une aimable hospitalité.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 208 — Le LUSTOU (16me EXCURSION)
 
@@ -163,7 +163,7 @@ Contrairement à ce que croyait Russell, on pourrait descendre
 à l'E., au vallon de la Pez; mais je ne crois pas l'arête S. praticable
 comme il l'indique dans son ascension au Batoua. Par la
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 209 — (16me: EXCURSION) HOSPICE de RIOUMAJOU
 
@@ -218,7 +218,7 @@ donc le sentier du port du Plan pour grimper directement
 maintenant très bien tenu par M. Soulan. On y trouve trois ou quatre
 lits et des provisions.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 210 — Le BATOUA (16me EXCURSION)
 
@@ -272,7 +272,7 @@ celui de Batoua.<br>
 (2) La pointe N.-E. cotée 2.970, est désignée par les gens du pays
 sous le noin de « Pic Balinet ».
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 211 — (16me EXCURSION) Les GRANGES De VIADOS
 
@@ -325,7 +325,7 @@ il faut une attention soutenue et de grandes précautions pour
 gravir ces pentes sans s'écorcher. On gagnera enfin la crête, à
 environ 500 m. au N. de la tourelle, où on déposera le sac.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 212 — Les POSETS (16me EXCURSION)
 
@@ -379,7 +379,7 @@ Turmes, on remontera la vallée d'Astos par la rive g. jusqu'à la
 cabane du Soldat, située au confluent du ruisseau de Gias qui
 descend des lacs de ce nom. Prénant alors la direction N.-N.-O.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 213 — (16me EXCURSION) PORT d'Oô ET PIC des GOURGS-BLANCS
 
@@ -433,7 +433,7 @@ magnifique centre d'excursions (1).
 (1) Voir du même auteur : Espingo et le Cirque d'Oô, brochure de
 40 pages contenant 12 itinéraires, 2 cartes et une vue du refuge.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 214 — ENVIRONS D'ESPINGO - PARTIE EST (16me EXCURSION)
 
@@ -445,7 +445,7 @@ Au Chalet-Hôtel d'Espingo, on trouve des lits, des provisions
 et des repas à des prix modérés. Voir à la 18° Excursion la Notice
 sur le Refuge d'Espingo.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 215 — (16me EXCURSION) CAP de HOUNTS-SECS
 
@@ -499,7 +499,7 @@ crête qui se détache à g., vers le Cap de Bassiéret, puis le Céciré
 dépression de la crête qui va du Pic de Montarrouye (2.850m), au S.,
 au Cap de Hounts-Secs (2.707m), au N.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 216 — COLS de MONTARROUYE et de SARNES (16m EXCURSION)
 
@@ -555,7 +555,7 @@ Montarrouye ; à mon avis, il est plus logique de l'appeler Col de Sarnès :
 1° parce qu'il est très voisin de la montagne de Sarnès ; 2 parce qu'il ne
 pourrait y avoir deux cols du même nom dans une même montagne.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 217 — (16me EXCURSION) PIC LEZAT — RUE D'ENFER
 
@@ -609,7 +609,7 @@ De la Rue d'Enfer, le chemin descend pendant une demi-h., en
 de nombreux lacets, par la rive g., jusqu'au pont supérieur (Pont
 Nadié) (1.375m) où il passe rive dr. On fera là une petite halte
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 218 — GOUFFRE d'ENFER — VALLEE du LYS (16me EXCURSION)
 

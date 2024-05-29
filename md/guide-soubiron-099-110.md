@@ -41,13 +41,13 @@ des compagnons exercés et résistants à la fatigue.
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).<br>
 (Voir aussi le Plan du Balaïtous, page 58).</p>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 100 —
 
 ![carte p100](../maps/guide-soubiron-0100-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 101 — (7me EXCURSION) CAMPO PLANO
 
@@ -96,7 +96,7 @@ Du Col de la Fache au refuge de Campo-          }
     Plano ............................... 3h. » }
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 102 — BALAITOUS (7me EXCURSION)
 
@@ -145,7 +145,7 @@ montagne.
 Pour la descente, on reprendra l'itinéraire d'ascension jusqu'à
 la base de la muraille de 40 m. Là, selon l'état du couloir de la
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 103 — (7me EXCURSION) GORGE de L'AGUA LIMPIA
 
@@ -195,7 +195,7 @@ aboutit immédiatement dans un terrain facile. On n'arrivera pas
 au fond de la cuvette, mais on tournera à l'O., en se tenant très
 haut, pour entrer dans la gorge par la rive dr. On passe là à la
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 104 — SALLENT (7me EXCURSION)
 
@@ -250,7 +250,7 @@ vers 2.000 d'alt.
 (1) Nid des Colombes.
 (2) Cascade de Sallent, qu'on peut admirer au passage.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 105 — (7me EXCURSION) ALGAS — AROLLAS
 
@@ -302,7 +302,7 @@ pointe de la Pique Longue.
 ———<br>
 (1) Les Espagnols prononcent : Las Arouélas.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 106 — PIC D'ENFER (7me EXCURSION)
 
@@ -356,7 +356,7 @@ On descendra donc au cirque qu'on longera par la dr., afin d'aller
 rejoindre l'arête S.-O. On montera à toute crête jusqu'au sommet 
 (3.073m), où on déposera le sac.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 107 — (7me EXCURSION) PORT du MARCADAU
 
@@ -412,7 +412,7 @@ Du Port du Marcadau au Refuge Wallon.... 2h.15 }
 (1) Le Pont des Espagnols est situé sur le gave du Marcadau,
 environ 10 min. en amont du confluent du ruisseau de Cambalès.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 108 — LAC du POURTET (7me EXCURSION)
 
@@ -461,7 +461,7 @@ peu à g. et presque à cheval sur les deux versants (1). Retenu au
 nom de « Pourtet »; il est, en effet, sur le Pourtet qui fait communiquer 
 la région de Castellabarca avec celle de Cambalès.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 109 — (7me EXCURSION) COL de LA HAOUGADE
 
@@ -508,7 +508,7 @@ Des Lacs de Castellabarca au Lac d'Ilhèou. 2h. » } (Arrêts en sus)
 Du Lac d'Ilhèou à Cauterets............... 2h.15 }
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 110 —  ENVIRONS DE CAUTERET  (7me EXCURSION)
 

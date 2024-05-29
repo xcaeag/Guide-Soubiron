@@ -39,13 +39,13 @@ prix modérés.
 
 <p class="droite">Voir ci-contre la Carte de l'Excursion</p>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 88 —
 
 ![carte p88](../maps/guide-soubiron-0088-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 89 — (6me EXCURSION) GRANDE FACHE
 
@@ -94,7 +94,7 @@ Le point de vue de la Fache est de toute beauté, surtout vers
 le N.-O., sur le Balaïtous et le Pic de Midi d'Ossau, et. vers le
 S.-E., sur le Vignemale.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 90 — CIRQUE de CAMBALES (6me EXCURSION)
 
@@ -145,7 +145,7 @@ Fache (2.956m) et le Pène d'Aragon; en face, le splendide Cambalès
 de Cambalès (2.660m), au N.; à dr. et faisant face à l'Araillous,
 le Bernat Barraou (2.794m).
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 91 — (6me EXCURSION)  CAMBALES-BERNAT BARRAOU
 
@@ -198,7 +198,7 @@ monte directement au Pène d'Aragon, d'où elle descend au col de ce
 nom pour remonter au Pic de Cambalès.<br>
 (2) Ce lac reste ordinairement glacé jusqu'aux premiers jours d'août.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 92 — VALLEE D'ARRATILLE (6me EXCURSION)
 
@@ -250,7 +250,7 @@ c'est la brèche du Poueytrémous (2.720m) qui fait communiquer
 le vallon de ce nom avec la vallée d'Arratille. C'est vers
 cette brèche qu'il faut monter pour ascendre le Chabarrou par
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 93 — (6me EXCURSION) CHABARROU
 
@@ -303,7 +303,7 @@ droit vers le lac de Chabarrou (2.282m) qu'on longera par la g.
 Immédiatement après, le sentier franchit le déversoir et, en de
 nombreux lacets, descend, par la rive dr., jusqu'au fond de la
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 94 — LAC de GAUBE (6me EXCURSION)
 
@@ -355,7 +355,7 @@ Situé immédiatement au S. de la Raillère, puisqu'il est bormé
 au N. par le Hourmigas, il est encerclé par des sites universeltement 
 connus : au N., le Val de Jéret: à l'O., la Vallée de Gaube;
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 95 — (6me EXCURSION) VALLEE DE GAUBE
 
@@ -407,7 +407,7 @@ garni de neige (le névé vu d'en bas) et il faut le remonter par le
 flanc de la rive dr., ce que nous faisons aujourd'hui. Après le
 15 août, on peut en suivre le centre dans toute sa longueur.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 96 — ESTIBAOUDE (6me EXCURSION)
 
@@ -459,7 +459,7 @@ col de Paloumère (2.638m). Le col de Paloumère fait communiquer
 la vallée de Gaube avec celle de Lutour par un couloir dont
 Pamorce est située 20 min. en amont et au S.-E. de la cascade
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 97 — (6me EXCURSION) LACS D'ESTIBAOUDE
 
@@ -512,7 +512,7 @@ entre: les deux cuvettes un espace desséché; il y a alors deux lacs à
 l'endroit même où, quelques semaines auparavant, on n'en voyait
 qu'un seul.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 98 — VALLEE de LUTOUR (6me EXCURSION)
 

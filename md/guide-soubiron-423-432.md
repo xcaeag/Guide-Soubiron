@@ -54,13 +54,13 @@ Ne pas oublier les bougies.
 (1) Siguer (Ariège), 650 hab. c. de Vicdessos, à 2 k. 500 de la station
 de Larramade, ligne de Tarascon à Auzat. Postes et télégraphes.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 424 —
 
 ![carte p424](../maps/guide-soubiron-0424-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 425 — (34me EXCURSION) PIC PEDRIS - PIC D'ENDRON
 
@@ -108,7 +108,7 @@ jusqu'aux cimes de la région de Fontargente.
 
 On aperçoit très bien, au S., à sa hauteur, le refuge de l'Etang
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 426 — HAUTE VALLEE d'ARTIES (34me EXCURSION)
 
@@ -152,7 +152,7 @@ on pourra coucher à l'orry de la Chaudière, et rejoindre l'itinéraire
 du lendemain au port de l'Arbeille par le vallon de
 ce nom. 
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 427 — (34me EXCURSION) COL de FANGASSES
 
@@ -201,7 +201,7 @@ du Fangassès, on trouve une protubérance qui est à environ
 
 Du Col de Fangassès, on se dirigera à l'E., à flanc de montagne,
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 428 — PIC de RIALP — Le SERRAT (34me EXCURSION)
 
@@ -253,7 +253,7 @@ des Pyrénées Centrales, n° 52.)<br>
 (2) Le Serrat, vill. d'été, comprend une vingtaine de maisons couvertes
 en ardoise. La plus recommandée est celle de Vincente Zacurraga.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 429 — (34me EXCURSION) PIC DE L'ESTANYO
 
@@ -308,7 +308,7 @@ de l'Andorre et de la crête frontière. C'est plutôt une serre parsemée
 de petits arbustes vers le fond et d'herbes fines dans la
 partie supérieure, ce qui la rend très facile et très agréable à
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 430 — PIC de SERRERE  (34me EXCURSION)
 
@@ -358,7 +358,7 @@ Du Serrat à l'Estanyo............. 4h.15 }
 De l'Estanyo au Pic de Serrère.... 2h. » }   9h.30
 Du Pic de Serrère au Serrat....... 3h.15 } (Arrêts en sus).
 ```
-<div class="page"/>
+<div class="page"></div>
 
 — p. 431 — (34me EXCURSION) PORT de SIGUER
 
@@ -407,7 +407,7 @@ cetie région désolée. La vallée se rétrécit ensuite et le sentier qui
 vient de passer rive g. descend côte à côte avec le torrent jusqu'à
 la minuscule jasse du Roc Rouge.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 432 — LAC de PEYREGRAND (34me EXCURSION)
 

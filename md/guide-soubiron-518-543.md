@@ -60,7 +60,7 @@ QUATRE JOURS AUX ENVIRONS DE CAUTERETS
 (2° Série), par la Grande Fache, le Pic de Cambalès, le Bernat
 Barraou, le Chabarrou et le Pic d'Estibaoude.<span class="droite">57</span>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 520 — TABLE METHODIQUE
 
@@ -118,7 +118,7 @@ __TREIZIÈME EXCURSION__
 De BAGNERES-DE-BIGORRE à ARREAU, par la Cascade
 de Garet, le Pic de Midi, le Pic des Quatre Termes et l'Arbizon<span class="droite">171</span>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 521 — TABLE METHODIQUE
 
@@ -178,7 +178,7 @@ Maupas, le Pic de Boum, le Lac Bleu et le Lac Vert.<br>
 2° De LUCHON à FOS, par l'Entécade, le Montlude et le
 Pont du Roi<span class="droite">265</span>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 522 — TABLE METHODIQUE
 
@@ -231,7 +231,7 @@ les Etangs Liat, le Pic de l'Homme, le Pic de Montolieu,
 N.-D. de Mongarri, les Pics de Marimana, la Pica de Bonabé,
 la Roca Blanca et le Port de Salau<span class="droite">353</span>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 523 — TABLE METHODIQUE
 
@@ -286,7 +286,7 @@ D'AUZAT à SIGUER, par le Pic d'Endron, l'Etang Fourcat
 le Pic de Rialp, l'Estanyo, le Pic de Serrère, le Port
 de Siguer, le Lac de Peyregrand et la Gorge de Brouquenat.<span class="droite">423</span>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 524 — TABLE METHODIQUE
 
@@ -339,7 +339,7 @@ d'Eyne, le Col des Neuf-Croix, le Refuge de Ull de Ter, Roque
 Couloum, le Pic de Costabona, les Bains de La Preste,
 le Pla Guillem et le Canigou<span class="droite">505</span>
 
-<div class="page"/>
+<div class="page"></div>
 
 [//]: # (— p. 525 —)
 
@@ -384,7 +384,7 @@ Albe (pic ariégeois de l'),      │                            77, 81
 Albe (étangs ariégeois de).  439 │ Aragnouet (pont d').......... 143
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 526 — INDEX ALPHABETIQUE
 
@@ -441,7 +441,7 @@ Arties (vallée d') 382, 408, 426 │                        32, 33, 34
 Azun (vallée d')............. 61 │
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 527 — INDEX ALPHABETIQUE
 
@@ -499,7 +499,7 @@ Batoua (pic de)........ 209, 210 │ Bonaïgue (port de la)........ 334
 Baulou (roc de)............. 450 │ Bonascre (plateau de)........ 451
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 528 —
 
@@ -555,7 +555,7 @@ Campan (vallée de).......... 167 │ Cap de la Dosse......... 388, 390
 Campbieil (pic de)..... 137, 139 │ Cap del Camp (le)............ 454
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 529 — INDEX ALPHABETIQUE
 
@@ -613,7 +613,7 @@ Chabarrou (lac de)........... 93 │ Comolos Torres (coume de).... 319
 Chalets Saint-Néré.......... 189 │ Comte (lac de).......... 449, 452
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 530 — INDEX ALPHABETIQUE
 
@@ -666,7 +666,7 @@ Eaux-Chaudes (Les).......... 23, │ Elysée Cottin (l')........... 164
                       36, 39, 41 │ Embalire (vallée d')......... 484
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 531 — INDEX ALPHABETIQUE
 
@@ -723,7 +723,7 @@ Faustin (col de)............ 366 │ Finestrelles (col de)........ 508
 
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 532 — INDEX ALPHABETIQUE
 
@@ -779,7 +779,7 @@ Gavachos (pleta de los) 334, 336 │ Gouaux de Luchon............. 228
 Gavarnie ......... 119, 121, 129 │ Goueil de Jouèou............. 283
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 533 — INDEX ALPHABETIQUE
 
@@ -832,7 +832,7 @@ Irazem ..................... 392 │ Izourt (étang d')....... 397, 408
 
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 534 — INDEX ALPHABETIQUE
 
@@ -887,7 +887,7 @@ Lanouzet (couillade de)..... 472 │ Lescun (pont de).............. 21
 Lanouzet (étangs de)........ 476 │ Lesponne (vallée de)......... 163
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 535 — INDEX ALPHABETIQUE
 
@@ -941,7 +941,7 @@ Manseille (chalet de).. 449, 451 │ Marimana (vallon et lacs
 Marboré (le) .......... 123, 125 │   de)........................ 359
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 536 — INDEX ALPHABETIQUE
 
@@ -999,7 +999,7 @@ Montarqué (Tusse de)... 222, 223 │ Munia (col de la)............ 137
 Montarrouy (le) ............ 155 │
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 537 — INDEX ALPHABETIQUE
 
@@ -1052,7 +1052,7 @@ Palo de la Claouèro (col et      │ Parsigoule (vallée de la).... 513
   pic de la)........... 369, 366 │ Parzan.................. 193, 195
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 538 — INDEX ALPHABETIQUE
 
@@ -1111,7 +1111,7 @@ Peyrot (pics)............... 426 │ Pont Beauregard ............. 207
 
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 539 — INDEX ALPHABETIQUE
 
@@ -1167,7 +1167,7 @@ Quatre Termes (pic des).         │ Quioules (jasse, gorge de).
 Querquèou (roc de).......... 396 │
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 540 — INDEX ALPHABETIQUE
 
@@ -1223,7 +1223,7 @@ Saint-Aventin .............. 262 │ Saint-Nicolas (vallée de)..
 Saint-Barnabé (chapelle de). 490 │                          335, 336
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 541 — INDEX ALPHABETIQUE
 
@@ -1281,7 +1281,7 @@ Seil de la Baquo (le).. 213. 223 │   de la)................ 413, 414
 Seix.............  343, 347, 361 │ Soulanette (la) ............. 512
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 542 — INDEX ALPHABETIQUE
 
@@ -1338,7 +1338,7 @@ Treize Vents (pic de)....... 516 │ Tuto de l'Ours (V. Saquet)... 451
 Trimounts (carrières de).... 465 │
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 543 —
 

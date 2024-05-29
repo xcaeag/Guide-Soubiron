@@ -33,7 +33,7 @@ rendez-vous à Gèdre, vers 13 ou 14 h.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 134 — (10me EXCURSION)
 
@@ -41,7 +41,7 @@ rendez-vous à Gèdre, vers 13 ou 14 h.
 
 ![carte p134](../maps/guide-soubiron-0134-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 135 — (10me EXCURSION) LUZ-GEDRE 136
 
@@ -92,7 +92,7 @@ de la Munia et par la cheminée qui débarque dans le cirque.
 On partira de très bonne heure et, 10 min. après, on quittera
 le sentier de Touyères pour monter, à g., au Turon de Bédous
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 136 — TROUMOUSE-MUNIA (10me EXCURSION)
 
@@ -144,7 +144,7 @@ Au pic de Troumouse, le regard franchit le port de Barroude
 cotées 3.150 et 3.159. Il faut donc hausser de 9 m. la cote des cartes
 actuelles.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 137 — (10me EXCURSION) CIRQUE de TROUMOUSE-HEAS
 
@@ -195,7 +195,7 @@ on prendra, direction N.-E. le sentier qui, par la rive g. du torrent
 d'Aguila, monte à la Hourquette de Héas. Environ 1 h. après,
 lorsqu'on aura atteint le premier plateau, on quittera le sentier
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 138 — PIC des AIGUILLOUS (10me EXCURSION)
 
@@ -245,7 +245,7 @@ la « Brèche Capo » qui est la première entaille profonde de
 cette arête. A partir de là, on découvrira sa route à mesure, tantôt 
 à flanc, tantôt à toute crête, jusqu'au pic S. de Campbieil
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 139 — (10me EXCURSION) PIC de CAMPBIEIL
 
@@ -296,7 +296,7 @@ rive g. de la vallée jusqu'à la cabane du Badet. Quelques min.
 en aval de la cabane, on trouve deux rochers assez rapprochés
 pour permettre de sauter le torrent et de passer rive dr. Le sen-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 140 — PLAN D'ARAGNOUET (10me. EXCURSION)
 
@@ -353,7 +353,7 @@ monté par la face du Badet, le 19 août 1905. C'est le lieutenant Dollfus,
 du 4me colonial. J'ai, en effet, trouvé sa carte au sommet, dans une
 boîte à sardines.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 141 — (10me EXCURSION) PIC MECHANT
 
@@ -402,7 +402,7 @@ mais le rocher est bon et les prises nombreuses. Pour un pyrénéiste
 exercé, cela n'exige que quelques minutes d'attention. Du
 haut de la muraille, un couloir facile conduit au sommet dans
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 142 — LAC d'OREDON (10me EXCURSION)
 
@@ -457,7 +457,7 @@ qu'il faut le renvoyer pour qu'il puisse rentrer à Gèdre le soir même.
 Si on le garde le 5me jour, on aura à lui payer une journée supplémentaire
  de rapatriement.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 143 — (10me EXCURSION) FABIAN
 
@@ -512,7 +512,7 @@ vers 16 h.<br>
 (3) Pont de la Hosse de la carte d'Etat-Major. Situé à 976 m. d'alt., ce
 pont sépare la commune de Tramezaygues de celle d'Aragnouet.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 144 — LAC de SARROUES - PIC D'ARET  (10me EXCURSION)
 
@@ -565,7 +565,7 @@ vers les crêtes entre les arêtes sinueuses; lacs étincelants d'où
 s'échappent les Nestes en serpentant vers la plaine; cimes sourcilleuses 
 et glaciers immaculés, tout est sous les yeux, du Pic
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 145 — (10me ECCURSION) VALLEE de RIOUMAJOU 
 
@@ -620,7 +620,7 @@ Du Pic d'Aret à Saint-Lary, par Baricave.. 4h.30 }  (Arrêts en sus)
 desservi deux fois par jour par un courrier automobile, en attendant
 la construction d'un tramway électrique.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 146 — SAINT-LARY (10me EXCURSION)
 

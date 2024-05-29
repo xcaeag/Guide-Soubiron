@@ -34,7 +34,7 @@ Bagnères.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 162 — ENVIRONS de BAGNERES-DE-BIGORRE (12me EXCURSION)
 
@@ -42,7 +42,7 @@ Bagnères.
 
 ![carte p162](../maps/guide-soubiron-0162-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 163 — (12me EXCURSION) CROIX de MANSE
 
@@ -90,7 +90,7 @@ de Bagnères. Ce point de vue est très beau. Baudéan est sous soi
 ———<br>
 (1) Sorte de gros rocher qui culmine la colline naissante.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 164 — MONTNE — CASTEL-MOULY (19me EXCURSION)
 
@@ -141,7 +141,7 @@ inférieurs du Tucou, contourne tout le haut du vallon. Ce trajet
 est délicieux. Après une marche reposante d'environ 20 min,
 pendant laquelle on passera près de la source de Cot de Ger, on
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 165 — (12me EXCURSION) GORGE DE LHERIS
 
@@ -191,7 +191,7 @@ se touchent presque.
 En amont du gros rocher, le sentier bifurque. Bien se garder
 de suivre le chemin indiqué à dr. par le Joanne, car il est plus
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 166 — CASQUE de LHERIS (12me EXCURSION)
 
@@ -243,7 +243,7 @@ de Lhéris, à l'entrée de la forêt.
 On descendra du Casque avec prudence par les pentes rapides
 du S.-O., afin d'aboutir à la petite cheminée qu'on nomme « Pas
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 167 — (12me EXCURSION) COL DE BANIOS — CABANES d'ORDINCEDE
 
@@ -297,7 +297,7 @@ Du Casque au Col de Banios............. 1h. » } (Arrêts en sus)
 Du Col de Banios à Campan.............. 2h. » }
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 168 — LAC BLEU de BAGNERES (12me EXCURSION)
 
@@ -346,7 +346,7 @@ Après le Pic de Midi, le Lac Bleu est la perle des environs
 de Bagnères-de-Bigorre; son ascension peut être facilement faite
 dans la même journée.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 169 — (12me EXCURSION) LAC VERT de BAGNERES
 
@@ -401,7 +401,7 @@ Col d'Aoubo dont on a aperçu l'amorce en montant. Ce pla-
 (1) Ce col est appelé Hourquette d''Ouscouaou par la carte d'Etat-
 Major et Col du Lac par celle du Ministère de l'Intérieur.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 170 — BAGNERES-DE-BIGORRE (12me EXCURSION)
 

@@ -58,7 +58,7 @@ Mongarri pour les troisième et quatrième jour.
 desservi par un tramway électrique en correspondance avec la
 Compagnie du Midi par la gare de Saint-Girons (25 k.).
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 354 — (27me EXCURSION) 
 
@@ -66,7 +66,7 @@ Compagnie du Midi par la gare de Saint-Girons (25 k.).
 
 ![carte p354](../maps/guide-soubiron-0354-carte-portrait.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 355 — (27me EXCURSION) SENTEIN — LAC D'ARAING
 
@@ -114,7 +114,7 @@ décor qui la domine à l'O. et d'aller déjeuner au sommet du Crabère.
 Après avoir franchi le déversoir, on s'élèvera insensiblement
 vers l'O, en bordure d'une serre jusqu'au large col d'Aouéran
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 356 — COL D'AOUERAN — CRABERE (27me EXCURSION)
 
@@ -161,7 +161,7 @@ Du Crabère à l'Etang Liat............. 2h.30 }
  (Si on va coucher à Cap de Guerri, 20 min. en plus.)
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 357 — (27me EXCURSION) PLATEAU du LIAT — PIC de L'HOMME
 
@@ -210,7 +210,7 @@ On fera l'ascension du Pic de l'Homme, au N., puis celle du
 Pic de Montolieu, au S. De ces deux sommets, on dominera, non
 seulement la plus grande partie du Val d'Aran, mais encore les
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 358 — N.-D. de MONGARRI (27me EXCURSION)
 
@@ -268,7 +268,7 @@ pourra se faire accompagner par un berger ou un chasseur jus-
 la rive g. de la Noguera Pallaresa, au point marqué dans les cartes
 « Bordes d'Isil ».
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 359 — (27me EXCURSION) PICS de MARIMANA
 
@@ -320,7 +320,7 @@ avec la cote 2.325. Le vrai Col de Marimaña (2.410m) est échancré
 sur la grande crête. immédiatement-au N.-O. du grand pic de ce
 nom (2.674m),
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 360 — PICA DE BONABE — ROCA BLANCA (27me EXCURSION)
 
@@ -372,7 +372,7 @@ De la Pica de Bonabé à la Roca Blanca... 1h. » } (Arrêts en sus).
 De la Roca Blanca à Bonabé.............. 2h.45 }
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 361 — (27me EXCURSION) BONABE — PORT DE SALAU
 
@@ -423,7 +423,7 @@ quelques raccourcis.
 De Salau à Seix, par Couflens et le Pont de la Taule, on suivra
 une route pleine d'intérêt qui longe le Salat pendant 14 k. En
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 362 — VALLEE du SALAT (27me EXCURSION)
 

@@ -52,7 +52,7 @@ On prendra, à l'O. de Lescun, le chemin qui franchit, 1/2 h
 (35 k.), gare de Lescun-Eygun à 6 K. et à 1 k. du Pont de Lescun, ligne
 d'Oloron au Somport par la vallée d'Aspe.
 
-<div class="page"/>
+<div class="page"></div>
 
 [//]: # (— p. 24 —)
 
@@ -61,7 +61,7 @@ d'Oloron au Somport par la vallée d'Aspe.
 > N. B. — Le tableau des signes conventionnels ci-dessus est
 unique pour toutes les cartes.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 25 —  (1re EXCURSION) CIRQUE DE LHURS
 
@@ -115,7 +115,7 @@ l'Aragon se réunissaient là en des agapes fraternelles pour discuter de
 leurs intérèts réciproques. C'est, en effet, à la Table des Trois Rois
 que confinent les trois provinces ci-dessus.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 26 —  PIC des TROIS ROIS (1re EXCURSION)
 
@@ -173,7 +173,7 @@ Du Port d'Ansabère à Lescun............... 3h. » }
 (1) Dans la carte au 1/100.000, le Port d'Ansabère porte le nom de
 Col de Naye, et dans celle d'état-major celui de Col d'Escoueste.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 27 —  (1re EXCURSION) VALLON du LAUGA
 
@@ -223,7 +223,7 @@ le torrent du Lauga au N., et un ruisselet, au S. Des sentes
 1 h. 1/2 au N.-O. de Lescun; on a avantage à y coucher la veille de
 l'ascension au Pic d'Anie. S'adresser à M. Campagne, à Lescun.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 28 —  PIC D'ANIE (1re EXCURSION)
 
@@ -277,7 +277,7 @@ De nombreux isards fréquentent les flancs de l'Anie et, lors
 de ma dernière ascension, le 30 août 1918, j'en ai aperçu 48,
 dont un troupeau de 24.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 29 —  (1re EXCURSION) VALLON D'ANAYE
 
@@ -330,7 +330,7 @@ sont fréquents dans cette région et que le moutonnement
 du terrain compris entre le port de Gabedaille et la crête de
 Bernera se prête particulièrement à l'erreur, on se fera accom-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 30 —  FORGES D'ABEL. — VISAURIN (1re EXCURSION)
 
@@ -386,7 +386,7 @@ entre le pic d'Anie et le Balaïtous. Le massif de Sesques
 ———<br>
 (1) Dans certaines cartes, ce lieu porte le nom de « Fonderie ».
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 31 —   (1re EXCURSION) CIRQUE D'OLIBON. — LAC D'ESTAES
 
@@ -440,7 +440,7 @@ pays on prononce « Estaès ».<br>
 (4) Le soi-disant port de Bernère n'est qu'une simple croupe gazonnée 
 située sur la frontière.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 32 — URDOS. — VALLON de LARRY (1re EXCURSION)
 
@@ -496,7 +496,7 @@ de Larry par la rive dr. jusqu'au moment où il tourne au S.
 arr. d'Oloron, à 8 k. des Eaux-Chaudes et à 14 de la gare de
 Laruns. Hôtel des Pyrénées, chez Baylou.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 33 — (1re EXCURSION) COL de LARRY. — COL D'AYOUS
 
@@ -551,7 +551,7 @@ Pic du Sud. La confirmation de cette thèse existe, d'ailleurs, sur
 le versant espagnol, aux environs de Bielsa, où on trouve plusieurs
 sommets portant les noms suivants : Peña de las Once (pic de 11 h.);
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 34 - pic de LARRY. — pic D'AYOUS  (1re EXCURSION)
 
@@ -608,7 +608,7 @@ Midi de Bordes (Ariège) et Midi de Siguer.<br>
 j'affirme que toutes les crêtes qui dominent le cirque de Larry sont
 praticables pour des pyrénéistes exercés.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 35 — (1re Excursion)  BIOUS-ARTIGUES
 
@@ -662,7 +662,7 @@ Du Col au Pic d'Ayous.................... Oh.25 }  (Arrêts en sus)
 Du Pic d'Ayous à Gabas .................. 3h.40 }
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 36 — GABAS. — COL de SUZON {1re EXCURSION)
 
@@ -716,7 +716,7 @@ Magnabaïgt.<br>
 (3) C'est vers 1860 que le préfet Dauribeau a fait placer ces ridicules 
 crampons.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 37 — (1re EXCURSION) PIC de MIDI D'OSSAU.
 
@@ -769,7 +769,7 @@ sur l'heure légale au Pic du Midi.<br>
 (2) Petit in-8° illustré. Chez l'auteur, à Izarda-Osse, par Bedous
 (Basses-Pyrénées).
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 38 — REFUGE DE POMBIE (1re EXCURSION)
 

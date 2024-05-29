@@ -59,7 +59,7 @@ aux granges d'Astau (1.112m).
 Des granges d'Astau, un grand chemin de 4 k. 500 m., se développe
 en 22 lacets sur la rive dr. de la Neste d'Oô et, dans 1 h. envi-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 250 — CASCADE d'Oô (19me EXCURSION)
 
@@ -111,7 +111,7 @@ arrive, sur un replat, à la hauteur et tout près de la grande Cascade
 C'est là qu'on fait ordinairement la seconde halte. Encore
 une douzaine de lacets, et le chemin s'engage dans un étroit vallon
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 251 — (19me EXCURSION) COL D'ESPINGO
 
@@ -168,7 +168,7 @@ sur une étroite passerelle. Après celle-ci, on traversera une cuvette
 de gazons rendue humide par les petits ruisseaux qui la serpentent; 
 on sautera ces derniers, de g. à dr. puis le torrent
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 252 — VAL d'AROUGE — HOURGADE (19me EXCURSION)
 
@@ -224,7 +224,7 @@ Le Pic de Hourgade (2.966m) forme le nœud de trois crêtes qui
 (1) Le passage de la muraille rocheuse est situé à une vingtaine
 de m. à l'E. d'une petite cascade qu'on laisse à g.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 253 — (19me Exc.) PAS De COURET — VALLON D'ÉSQUIERRY 
 
@@ -276,7 +276,7 @@ au N.-N.-E. d'Oô, à la Moraine de Garin où il rejoint la route
 thermale à la cote 1.156. Ces 40 min. d'ascension sont des plus
 intéressantes, car le point de vue s'élargit à mesure qu'on monte
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 254 — MORAINE de GARIN — POUYLOUBY (19me EXCURSION)
 
@@ -331,7 +331,7 @@ petit in-8°, 1923, imprimerie Sarthe, à Luchon.<br>
 (3) On peut y monter à cheval par les trois vallées de Louron, de
 Larboust et d'Oueil.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 255 — (19me EXCURSION) PIC du LION
 
@@ -391,7 +391,7 @@ de Légnès (1.920m) (1). Laissant à dr. une petite colline gazon-
 ———<br>
 (1) Du mot « Légno » (bois de chauffage). Pile de bois de chauffage.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 256 — MONTAGNE D'ESPIAUP (19me EXCURSION)
 
@@ -449,7 +449,7 @@ le soir à Bourg-d'Oueil.
 Luchon à la fin de l'après-midi; s'informer de l'horaire au cas où on
 voudrait le prendre.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 257 — (19me EXCURSION) COUME de BOURG
 
@@ -500,7 +500,7 @@ Coume de Bourg, on remarquera sur la g. le nouvel abri adossé
 délicieuse fontaine de la Coume de Bourg, où d'ordinaire on
 casse la croûte (V. 18° E., p. 235). C'est là, vers 2.300 m. d'alt.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 258 — CRETES de SUBESCALE ET DE SARNES (19me EXCURSION)
 
@@ -554,7 +554,7 @@ entre les deux branches de la fourche: c'est le haut de ce vallon que
 traverse le sentier.<br>
 (2) Voir notice sur le refuge à la 16me E., p. 217.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 259 — (19me EXCURSION) MINES de CRABIOULES — LAC VERT
 
@@ -613,7 +613,7 @@ moyenne montagne.
 (1) Iris, Lys Martagon, Campanula glomerata, Gentianes de Burser,
  etc. etc.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 260 — CASCADES de SOLAGE et de TREGON (19me EXCURSION)
 
@@ -667,7 +667,7 @@ du Lac Bleu, complète merveilleusement ce charmant décor.
 
 Pour augmenter l'attrait de l'excursion, on montera jusqu'aux
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 261 — (19me EXCURSION) LAC BLEU — PRATLONG
 
@@ -718,7 +718,7 @@ De la Rue d'Enfer à l'Hôtellerie du Lys. 1h. » }
 ———<br>
 (1) Compagnie d'Electricité Industrielle de Marignac.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 262 — SAINT-PAUL D'OUEIL (19me EXCURSION)
 
@@ -767,7 +767,7 @@ direction N. jusqu'au Col de Serre. De ce point, on dominera toute
 la Barousse dont l'œil prend la vallée en enfilade, et on jouira d'un
 très beau point de vue sur la plaine.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 263 — (19me EXCURSION) SOUM D'ANTENAC
 
@@ -822,7 +822,7 @@ Depuis la guerre, ces chemins étant peu fréquentés. disparaissent
 en partie sous la couche de feuilles mortes et ils sont très
 difficiles à suivre; qu'on ne s'émotionne pas, car on peut descen-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 264 — CIER-DE-LUCHON (19me EXCURSION)
 

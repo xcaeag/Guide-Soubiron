@@ -37,7 +37,7 @@ vue d'ensemble sur la magnifique région qu'on va explorer.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 394 — ENVIRONS D'AUZAT (31me EXCURSION)
 
@@ -45,7 +45,7 @@ vue d'ensemble sur la magnifique région qu'on va explorer.
 
 ![carte p394](../maps/guide-soubiron-0394-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 395 — (31me EXCURSION) ROC de QUERQUEOU
 
@@ -90,7 +90,7 @@ de Lastris (1.431m), à l'orée du Bois de Las Taillades. A partir
 de là, on n'aura qu'à suivre la crête gazonnée jusqu'au Roc de
 Querquéou (1.887m).
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 396 — ORUS — VICDESSOS (31me EXCURSION)
 
@@ -133,7 +133,7 @@ Du Querquèou à Auzat................. 2h.45 }
 aussi coucher à Vicdessos, puisqu'il n'y a que 1/4 d'h. d'une
 localité à l'autre.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 397 — (3lme EXCURSION) ETANG D'IZOURT
 
@@ -181,7 +181,7 @@ de l'Arbeille et les lacets du sentier qui conduirait en 2h.30 au
 grand Etang Fourcat. Dans 40 min., on peut faire le tour du
 lac dont les nuances varient sous le jeu de la lumière.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 398 —  BEDE d'OLBIER (31me EXCURSION)
 
@@ -223,7 +223,7 @@ D'Olbier à Auzat ...................... 0h.45 }
 ———<br>
 (1) Bède est synonyme de forêt.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 399 — (31me EXCURSION) PIC de RISOUL
 
@@ -273,7 +273,7 @@ sentiers se confondent. On contournera ensuite presque horizontalement
 le haut du vallon, en prenant la direction N.-E., et on
 aboutira au Col de Grail (1.500m), près du refuge forestier. On
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 400 — PIC de LERCOUL (31me EXCURSION)
 
@@ -317,7 +317,7 @@ Du Pic de Lercoul à Vicdessos.......... 2h.45 }
 
 > Nota. - Si on revient coucher à Auzat, 1/4 d'h. en sus.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 401 — (31me EXCURSION) PIC des TROIS SEIGNEURS
 
@@ -370,7 +370,7 @@ le sommet (2.199m).
 
 Le Pic des Trois Seigneurs comprend deux sommets, c'est à
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 402 — VALLEÉ DE RABAT  (31me EXCURSION)
 

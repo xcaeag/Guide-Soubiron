@@ -59,7 +59,7 @@ corniche, droit au S., pour pénétrer bientôt dans la gorge de
 Lançon. Comme on s'est élevé de 300 m., on jouit déjà d'un très
 joli point de vue sur les environs immédiats.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 182 — ENVIRONS D'ARREAU (14me EXCURSION)
 
@@ -72,7 +72,7 @@ CARTE DES ENVIRONS D'ARREAU<br>
 ET D'UNE PARTIE DE LA BAROUSSE
 </p>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 183 — (14me EXCURSION) SOUM de MENVIEILLE
 
@@ -126,7 +126,7 @@ monte en pente douce, direction S.-E., jusqu'au haut de la colline
 (1) Cette route, qui va de Gouaux à Bordères par Lançon et Ilhan,
 met en communication la vallée d'Aure avec celle du Louron.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 184 — ILHAN (14me EXCURSION)
 
@@ -182,7 +182,7 @@ Burat (2.150m), pour les environs de Luchon et le Haut Aran;
 (1) Cette ascension est déjà décrite, en dernière journée de la
 11me excursion, dans la première édition de mon guide, à la page 151.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 185 — (14me EXCURSION) COL d'ASPIN
 
@@ -240,7 +240,7 @@ hautes montagnes de la grande chaîne et sur les vallées d'Aure
 et de Louron. Tout en haut de celle-ci et tout à fait dans son
 axe, resplendit le magnifique glacier des Gourgs-Blancs. Au N.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 186 — MONTNE d'ASPIN — MONT BASSIA (14me EXCURSION)
 
@@ -292,7 +292,7 @@ la plaine.
 
 On peut redescendre au Col de Beyrède, soit par la voie d'as-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 187 — (14me EXCURSION) COL de BEYREDE — SARRANCOLIN
 
@@ -348,7 +348,7 @@ circuler que munies d'une corne d'avertissement.
 
 Pendant 3 k., on est comme suspendu et, par endroits, on a dû
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 188 — PIC D'ARENG (14me EXCURSION)
 
@@ -403,7 +403,7 @@ desservi par un autobus qui part de la gare de Loures-Barbazan
 (10 k.), à l'arrivée des principaux trains. A Mauléon, l'Hôtel de la
 Poste, chez Noguès, est recommandé.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 189 — (14me EXCURSION) FERRERE — MAULEON
 
@@ -453,7 +453,7 @@ située à la base des pentes N. du Montaspet. On y laissera
 le sac en le suspendant à un sapin voisin et, en 1 h., aller et retour,
 on fera l'ascension du sommet par des pentes faciles.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 190 — MONTASPET — NISTOS (14me EXCURSION)
 

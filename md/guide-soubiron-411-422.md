@@ -45,7 +45,7 @@ les vivres de trois jours et demi qu'il faut emporter.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 412 — VALLEE de SOULCEN (33me EXCURSION)
 
@@ -53,7 +53,7 @@ les vivres de trois jours et demi qu'il faut emporter.
 
  ![carte p412](../maps/guide-soubiron-0412-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 413 — (33me EXCURSION) PORT de BOUET
 
@@ -99,7 +99,7 @@ l'O. de l'Andorre, qui est à l'E. Ce sont quelques sommets de ce
 fer à cheval frontière que nous allons ascendre en commençant
 par la Pique rouge de la Soucaranne.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 414 — PIQUE ROUGE de La SOUCARANNE (33me EXCURSION)
 
@@ -149,7 +149,7 @@ las Bareytes; là, on prendra le sentier de la rive g. qui passe
 devant plusieurs orrys et qui continue à travers les pelouses.
 Parvenu à environ 10 min. de l'orry du Labinas, on franchira
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 415 — (33me EXCURSION) PORT DE LAS BAREYTES
 
@@ -198,7 +198,7 @@ Sa face N. est une muraille presque verticale sur un large col
 situé à la limite de la Catalogne et de l'Andorre, col qui fait
 communiquer le Val Ferrera avec la vallée d'Arinsal. La Coma
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 416 — COMA PEDROSA (33me EXCURSION)
 
@@ -249,7 +249,7 @@ coupera deux petits couloirs et le contrefort S.-O. de la Roca
 Entravesado, et, après une marche presque horizontale de 1h.30,
 on aboutira au pied du vallon pierreux qui monte au Port de
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 417 — (33me EXCURSION) PIC des LAVANS
 
@@ -305,7 +305,7 @@ point culminant. Personnellement, j'ai regretté cette ascension
 peu intéressante du Médacourbe, parce qu'elle m'a obligé à
 écourter mon séjour sur les autres sommets.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 418 — VALLON de CARAOUSSANS (33me EXCURSION)
 
@@ -356,7 +356,7 @@ subitement tout le cirque du Fourcat; on déposera là le sac.
 Du col, on apercevra, à quelques 200 m. à l'E., la tourelle du pic
 secondaire, 2.750 m. environ, et sur la g., au N.-O., la masse
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 419 — (33me EXCURSION) GRAND FOURCAT et TRISTAGNES
 
@@ -409,7 +409,7 @@ frontière.
 On pourra, de ce point, repérer l'itinéraire du lendemain.
 depuis le vallon de l'Arbeille jusqu'aux étangs de Petsiguer.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 420 — ETANG FOURCAT  (33me EXCURSION)
 
@@ -461,7 +461,7 @@ au barrage du lac pour franchir ensuite, vers l'E., la serre séparative
 des deux fourches qui ont donné à l'étang le nom de
 Fourcat, c'est-à-dire « Fourchu ». Quelques min. après avoir
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 421 — (33me EXCURSION) PIC DE L'ASPRE
 
@@ -512,7 +512,7 @@ on trouve le sentier de Petsiguer à la Bède d'Olbier. A peine
 tracé dans la partie supérieure, il devient un bon chemin dès
 qu'on arrive en vue de l'Etang d'Izourt.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 422 — BEDE d'OLBIER- GOULIER. (33me EXCURSION)
 

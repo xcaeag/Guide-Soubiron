@@ -50,13 +50,13 @@ tous les sens à travers le massif du Balaïtous, sans s'exposer
 de fer dont l'embranchement est à Pau. Gare desservant les Eaux-
 Bonnes et les Eaux-Chaudes.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 54 —
 
 ![](../maps/guide-soubiron-0054-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 55 — (3me EXCURSION) ARRIUS-ARREMOULIT
 
@@ -114,7 +114,7 @@ De ce point au Refuge d'Arrémoulit...........   3h.30
 (1) Le col d'Arrius est situé à 2.25m d'alt., entre le Lurien (2.825m),
 au N.-N.-E. et le petit pic d'Arriel (2.606m), au S.-S.-E.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 56 — PALLAS (3me EXCURSION)
 
@@ -167,7 +167,7 @@ crête, jusqu'à une petite échancrure qu'on nomme « Brèche des
 Isards, tome 2, p. 122.
 (2) V. Bulletin Pyrénéen, année 1907, p. 278.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 57 —  (3me EXCURSION) ARRIEL
 
@@ -220,7 +220,7 @@ Si on ne veut pas rentrer au refuge par la même voie, on
 pourra descendre à l'O. au Col de Sobe où on prendra le sentier
 qui se dirige au N. vers le lac d'Arrius. Là, on franchira une
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 58 — PLAN du BALAÏTOUS (3me EXCURSION)
 
@@ -228,7 +228,7 @@ qui se dirige au N. vers le lac d'Arrius. Là, on franchira une
 
 ![carte p58](../maps/guide-soubiron-0058-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 59 — (3me EXCURSION) COL D'ARREMOULIT
 
@@ -279,7 +279,7 @@ indiquent le passage; c'est le portillon de la « Grande
 Diagonale » par lequel on repasse en France sur le versant de
 Batcrabère.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 60 — BALAITOUS (3me EXCURSION)
 
@@ -333,7 +333,7 @@ On descendra donc par la cheminée au glacier de Las
 Nèous qu'on traversera par la g., le long des rochers, pour
 éviter les crevasses de la partie supérieure. Toute la partie infé-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 61 — (3me EXCURSION) LABASSA
 
@@ -386,7 +386,7 @@ jusqu'à Grougne-Pouret (1.232m), au confluent du vallon de
 (1) Il paraît que le nom officiel de ce refuge est « Refuge du
 Balaïtous ».
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 62 — GRAND GABIZOS (3me EXCURSION)
 
@@ -439,7 +439,7 @@ après au sommet du petit Gabizos (2.639m).
 La cime du Gabizos est très pointue, et il n'y a place, tout au
 plus que pour quatre ou cinq personnes. C'est un des rares som-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 63 —  (3me EXCURSION) PETIT GABIZOS
 
@@ -486,7 +486,7 @@ Du Grand Gabizos au Petit Gabizos..... 2h.30 } (arrêts en sus).
 Du Petit Gabizos à Arrens............. 2h.15 }
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 64 — PIC de BAZES (3me EXCURSION)
 
@@ -535,7 +535,7 @@ au Col des Courades, pour remonter ensuite au Pic de
 Navaillo (1.667m). On sera là tout à fait dans l'axe de la vallée
 d'Estrem de Salles qu'on apercevra en entier. Poursuivant sa
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 65 — (3me EXCURSION) SOUM DE GRANQUET
 
@@ -586,7 +586,7 @@ Après avoir décrit un crochet direction N.-E., le sentier descend
 au S.-E. vers le hameau de Bergons, puis va rejoindre le
 chemin muletier du fond de la vallée. On longera ensuite le ruis-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 66 — ESTREM de SALLES (3me EXCURSION)
 

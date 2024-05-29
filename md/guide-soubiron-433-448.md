@@ -51,7 +51,7 @@ pourrait en louer un pour les deux premiers jours.
 (1) L'Hospitalet (Arièze), 148 hab., c. d'Ax-les-Thermes (17 k.), ligne
 d'Ax à Bourg-Madame.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 434 — SISCA - RULLE - FONTARGENTE  (35me EXCURSION)
 
@@ -59,7 +59,7 @@ d'Ax à Bourg-Madame.
 
 ![carte p434](../maps/guide-soubiron-0434-carte-portrait.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 435 — (35me EXCURSION) REFUGE du SISCA
 
@@ -111,7 +111,7 @@ point de l'ancienne passerelle, Un pont nouveau, en une seule arche
 de granit en plein cintre, à remplacé la passerelle sur le nouveau
 cours de l'Ariège.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 436 — ROC MELE — PIC de La CABANETTE (35me EXCURSION)
 
@@ -164,7 +164,7 @@ de passage que pour une personne. De cette brèche, on domine
 (1) Il ne faut pas confondre ce refuge avec celui de la vallée des
 Bésines, au N.-E. de l'Hospitalet.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 437 — (35me EXCURSION) PIC D'ASCOBES
 
@@ -219,7 +219,7 @@ de Joucla, 2.640 m. environ. Nous avons donc deux pics Noir de
 Joucla un en France et un en Andorre, comme nous avons quatre
 étangs de Joucla. V. p. 441.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 438 — PORTEILLE du SISCA  (35me EXCURSION)
 
@@ -272,7 +272,7 @@ Cirque du Sisca, voir les articles très intéressants et très documentés
 de M. L. Rouch : 1° au Bulletin Pyrénéen, année 1914, pages 321 et
 362; 2° à La Montagne, n° d'avril-juin 1916.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 439 — (35me EXCURSION) PIC ET ETANGS D'ALBE
 
@@ -325,7 +325,7 @@ couloir,<br>
 (2) Le Pic de Serrère (2.911m) est à 11 k. à l'O. et le Carlitte (2.921m),
 à 17 h., à l'E.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 440 — De L'HOSPITALET à SIGUER (35e EXCURSION)
 
@@ -346,7 +346,7 @@ n'existe pas, et on se demande à quel pic il faut attribuer le nom
 de Fontargente. Pour beaucoup de gens du pays, le Rulle et le
 Fontargente seraient le même pic. Pour d'autres (ceux de la
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 441 — (35me, ExCURSION) PIC NOIR De JOUCLA
 
@@ -400,7 +400,7 @@ année 1917, p. 68.<br>
 page 437, sont plus au S., de l'autre côté de la frontière. Un col facile
 les fait communiquer avec les étangs français de Joucla.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 442 — CABANES De GARSEING (35me EXCURSION)
 
@@ -454,7 +454,7 @@ montagnes de Fontargente et qui pouvait donner des renseignements
 précieux. Comme il était très serviable, c'était, pour le touriste qui
 passait dans cette région, le berger providentiel.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 443 — (35me EXCURSION) COL de la COUME d'OSE
 
@@ -507,7 +507,7 @@ que si on l'observe du N. (de la Pique de Baychon, par exemple),
 on n'aperçoit qu'une longue crête plusieurs fois ensellée. L'ascension
 en est très facile.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 444 — MIL-MENUT — JASSE de QUIOULES (35me EXCURSION)
 
@@ -560,7 +560,7 @@ qui ont osé construire un chemin dans ce lieu diabolique.
 Une gorge étroite dont on ne peut mesurer la profondeur de
 certaines parties; des falaises de 2 à 300 mètres de hauteur et
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 445 — (35me EXCURSION) GORGE de QUIOULES
 
@@ -611,7 +611,7 @@ De la Jasse de Quioules à Aston........ 3h.45 }
 franchirait d'un bond.<br>
 (2) Aston, 334 hab., c. des Cabannes (3 k.).
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 446 — ASTON — VALLON de SIRBAL (35me EXCURSION)
 
@@ -663,7 +663,7 @@ n'y a pas de sentier régulier, mais de nombreuses traces sur un
 (1) La cote 1268 est celle de la carte d'Etat-Major; à mon avis, cette
 cabane est au moins à 1.400 m.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 447 — (35me EXCURSION) PAS DE L'ESCALIER — SERRE des AFFUMATS
 
@@ -717,7 +717,7 @@ la haute vallée de Siguer et la gorge de Brouquenat.
 Dès qu'on a quitté le Pas de las Aygues, le sentier se dirige
 au N.-O. pour rester toujours sur la crête et, après avoir dépassé
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 448 — PIC de MIDI de SIGUER (35me EXCURSION)
 

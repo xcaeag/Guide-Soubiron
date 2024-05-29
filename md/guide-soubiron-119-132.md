@@ -38,7 +38,7 @@ compagnons, on prendra aussi un porteur pour toute l'excursion.
 
 <p class="droite">(Voir ci-contre la Carte de 9me Excursion).</p>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 120 — MASSIF CALCAIRE (9me EXCURSION)
 
@@ -48,7 +48,7 @@ compagnons, on prendra aussi un porteur pour toute l'excursion.
 
 CARTE DU MASSIF CALCAIRE
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 121 — (9me EXCURSION) CIRQUE DE GAVARNIE
 
@@ -92,7 +92,7 @@ lacets; on laissera là le sac à la garde du porteur, et on fera,
 ———<br>
 (1) Les cotes d'alt. sont celles de la carte au 1/20.000e de F. Schrader.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 122 — LE PIMENE (9me EXCURSION)
 
@@ -146,7 +146,7 @@ Cylindre et le Mont Perdu, vu de Tuquerouye.
 à la Direction centrale, 121, botlevurd Haussmann, Paris, au prix de
 6 francs.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 123 — (9me EXCURSION) TUQUEROUYE
 
@@ -201,7 +201,7 @@ l'on voit tout plus grand et plus beau que nature. Du Mont Blanc
 même, il faut venir au Mont Perdu : Quand on a vu la première des
 montagnes granitiques, il reste à voir la première des montagnes calcaires. »
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 124 — PICS D'ASTAZOU (9me EXCURSION)
 
@@ -257,7 +257,7 @@ Passet. »
 (2) V. Annuaire du C. A. F., 1875, p. 391.
 (3) V. Au Pays des Isards, tome II, p. 38.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 125 — (9me EXCURSION) MARBORE-CYLINDRE
 
@@ -313,7 +313,7 @@ Mont Perdu (3.052m) situé au S.-E. du Cylindre. C'est à tort que certains
 écrivains appellent ce dernier col du Cylindre. Le vrai col du
 Cylindre est entre le pic de ce nom et le Marboré.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 126 — LE MONT PERDU (9me EXCURSION)
 
@@ -360,7 +360,7 @@ comme, par exemple, au Pic de Midi d'Ossau, à la Pique Longue
 (3.367m) et le troisième, la Pointe d'Astorg (3.354m), l'une des cimes des
 Monts-Maudits, à l'O. du Néthou.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 127 — (9me EXCURSION) Le SAUT de GAULIS
 
@@ -413,7 +413,7 @@ nom de « Soaso » était inconnu sur le versant français; en parlant de
 ces lieux, tous nos guides disaient : Saut de Gaulis, Cascade de Gaulis.
 Ma préférence va à ces premières appellations.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 128 — VALLEE D'ARAZAS (9me EXCURSION)
 
@@ -452,7 +452,7 @@ Du Col au sommet du Mont Perdu....... 1h.30 } (Arrêts en sus)
 Du Mont Perdu à Ordesa............... 5h. » }
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 129 — (9me EXCURSION) LE GABIETOU
 
@@ -502,7 +502,7 @@ col et, dans 40 min., aller et retour, on fera l'ascension du Gabiétou
 
 Le Gabiétou comprend une double cime (3.031m-3.024m). Seul,
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 130 — TAILLON - BRECHE DE ROLAND (9me EXCURSION)
 
@@ -558,7 +558,7 @@ Du Taillon à la Brèche de Roland....... 0h.30 } (Arrêts en sus)
 De la Brèche à Gavarnie................ 2h.45 }
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 131 — (9me EXCURSION) CASQUE - TOUR - EPAULE
 
@@ -605,7 +605,7 @@ Isards, la Brèche et le Cirque.
 nom de « Sarradets ». D'après Henri Passet et Bernat Salles, c'est le
 col du Taillon. Le col des Sarradets n'existe pas.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 132 — GAVARNIE (9me EXCURSION)
 

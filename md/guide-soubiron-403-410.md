@@ -68,7 +68,7 @@ de la totalité pour lascension du Montcalm. on louera
 un porteur pour le lendemain. avec mission de monter la moitié
 des provisions aux orrys du Carla.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 404 — aux ENVIRONS d'AUZAT (32me EXCURSION)
 
@@ -76,7 +76,7 @@ des provisions aux orrys du Carla.
 
 ![carte p404](../maps/guide-soubiron-0404-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 405 — (32me EXCURSION) MARC D'AUZAT
 
@@ -129,7 +129,7 @@ suivra des corniches faciles qui longent la base de la face E. de
 la Piquéto et qui grimpent jusqu'aux clots du plateau supérieur
 où se trouve le lac glacé de Montcalm.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 406 — MONTCALM — PIQUE D'ESTATS  (32me EXCURSION)
 
@@ -182,7 +182,7 @@ il faut faire les trois pointes. La pointe S.-E. (3.011m), surmontée
 d'une jolie tourelle, est un peu délicate; seuls, les pyrénéistes
 exercés en feront l'ascension à toute crête et reviendront à la
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 407 — (32me EXCURSION) Le PLA SOULCEN
 
@@ -237,7 +237,7 @@ De la pointe Centrale à la pointe N.-O.... 0h.10 }
 De la Pique d'Estats aux Orrys du Carla... 3h.45 }
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 408 — ORRY du CARLA — MALCARAS  (32me EXCURSION)
 
@@ -288,7 +288,7 @@ correspond mieux à sa forme accidentée.
 Le Malcaras comprend deux pointes très rapprochées; c'est
 sur celle du S., sommet principal, qu'est bâtie la tourelle.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 409 — (32me EXCURSION) CIRQUE du FOURCAT
 
@@ -340,7 +340,7 @@ les sites splendides qu'on y rencontre. Prise par en haut, elle
 devient un enchantement, car on jouit bien mieux de ses beautés
 quand on les voit défiler sans fatigue.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 410 — VALLEE D'ARTIES (32me EXCURSION)
 

@@ -54,7 +54,7 @@ Bastan. A partir de là, un bon chemin muletier monte directement
 à l'hôtellerie du Col de Sencours (2.378m) où on couchera.
 Le lendemain matin, on partira à la lanterne, à 3 h., afin d'ar-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 148 — ENVIRONS de BAREGES (11me EXCURSION)
 
@@ -79,7 +79,7 @@ Du Pic à Barèges................. 0h.30 }
 en partant de très bonne heure; mais, dans ce dernier cas,
 on ne jouit pas d'un aussi joli point de vue.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 149 — (11me EXCURSION) COL D'AUBERT — NEOUVIELLE
 
@@ -128,7 +128,7 @@ Maudits. On le distingue de plusieurs sommets secondaires du
 Saint-Gironnais, à cause de l'arête rocheuse qui partage son
 glacier en deux, comme l'arête du Portillon, celui des Monts-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 150 —  LAC D'OREDON (11me EXCURSION)
 
@@ -178,7 +178,7 @@ au plus tard, pour jouir plus sûrement du joli point de vue.
 On prendra le chemin de chars qui, par la rive dr. du Lac
 d'Orédon, monte au Lac de Cap-de-Long (2.120m). Après la maison
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 151 — (11me EXCURSION) LAC de CAP-De-LONG
 
@@ -233,7 +233,7 @@ Certains chasseurs que j'ai interrogés, le nomment « Gourg glacé de
 Cap-de-Long ». Cette appellation me paraît être la bonne, puisqu'il
 s'écoule par la vallée de Cap-de-Long au grand lac de ce nom.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 152 — PIC LONG (11me EXCURSION)
 
@@ -285,7 +285,7 @@ parvenu en vue du lac de Rabiet (2.220m), on descendra rapidement
 vers lui. Bientôt, le sentier bifurque; celui de g. conduit
 au Col de Pierrefitte qu'on aperçoit au N.-O.; celui de dr. monte
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 153 — (11me EXCURSION): REFUGE du RABIET — LAC TOURRAT
 
@@ -334,7 +334,7 @@ une si vivante description :
 exemple, probablement unique aux Pyrénées, d'un lac important
 où se déverse tout entier un glacier d'une seule venue. Très
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 154 — PIC de BUGARET (11me EXCURSION)
 
@@ -383,7 +383,7 @@ le soir même.
 ———<br>
 (1) Au Pays des Isards, tome II, p. 16.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 155 — (11me EXCURSION) PIC de MONTARROUY
 
@@ -434,7 +434,7 @@ d autres, « La Lise ». En parlant du ruisseau qui donne son nom à la
 vallée, les gens du pays disent « Et Ise ». Donc, Ise étant masculin,
 aucune des appellations ci-dessus ne doit être adoptée.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 156 — LAC et PIC de MAUCAPERA  (11me EXCURSION)
 
@@ -490,7 +490,7 @@ plutôt des mots : maou capérat, ce qui signifierait : « Mal Coiffé -
 Pose tête ». C'est d'ailleurs aussi l'opinion des chasseurs de
 Barèges.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 157 — (11me EXCURSION) VALLEE DE L'ISE — BAREGES
 
@@ -540,7 +540,7 @@ revient ensuite sur la rive dr. pour aboutir au haut d'une
 prairie. Là, on continuera droit à l'O., et presque horizontalement, 
 jusqu'à la Montagne fleurie.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 158 — SOUM ARROUY (11me EXCURSION)
 
@@ -591,7 +591,7 @@ toute beauté.
 
 Au N.-O., à moins de 500 m. parait le signal du Pic Léviste
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 159 — (11me EXCURSION) PIC LEVISTE — LAC D'IZABY
 
@@ -642,7 +642,7 @@ A la prise d'eau de la canalisation, les deux chemins se rejoignent
 et, quelques min. après, on arrive au petit cirque de verdure 
 du Pradet que domine, au S., sa superbe cascade. Là, le
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 160 — PIERREFITTE (11me EXCURSION)
 

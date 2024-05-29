@@ -58,13 +58,13 @@ stratégique qui contourne la montagne de Pointe Couronne et
 qui, par le Colmajou, monte au plateau de Bonascre (1.370m).
 On dirait qu'elle a été construite pour l'agrément du touriste.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 450 —
 
 ![carte p450](../maps/guide-soubiron-0450-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 451 — (36me EXCURSION) Le SAQUET
 
@@ -115,7 +115,7 @@ ses murailles vers le ciel. Vers l'E., on pourra repérer presque
 en entier toute la voie d'ascension au pic de l'Etang Faury.
 car l'œil prend en enfilade toute la vallée du Nabré.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 452 — PIC de L'ETANG REBENTY (36me EXCURSION)
 
@@ -169,7 +169,7 @@ réduite à 8h.30 de marche effective.
 ———<br>
 (1) Petit étang.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 453 —
 
@@ -221,7 +221,7 @@ source située à 5 min. au N. du Col de Joux; c'est là qu'on fera
 sa provision d'eau, car on n'en trouvera qu'en redescendant vers
 la vallée.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 454 — CAP DE LARGUIS  (36me EXCURSION)
 
@@ -273,7 +273,7 @@ transformer bientôt en une petite route qui aboutit à Orgeix.
 Parvenu au pont qui fait franchir l'Oriège, on tournera ses
 regards vers le S., car c'est de ce point que la Porteille d'Orlu
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 455 — (36me EXCURSION) VALLEE D'ORLU
 
@@ -330,7 +330,7 @@ charme, on se fera conduire en voiture jusqu'aux Forges d'Orlu,
 de Mérens pour remonter à g., vers l'E., le cours accidenté de
 l'Oriège.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 456 — FORGES D'ORLU (36me EXCURSION)
 
@@ -386,7 +386,7 @@ Avant de s'engager par cette voie, qui est, d'ailleurs, en plein soleil,
 on s'informera si le pont existe toujours. On peut, avec avantage,
 passer par là à la descente, sans s'exposer à être embouteillé.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 457 — (36me EXCURSION) HAUTE VALLEE De L'ORIEGE
 
@@ -438,7 +438,7 @@ le ciel, droit à l'O. Le refuge est devant soi, un peu en contrebas
 et à 5 min. environ; on peut donc séjourner là quelques instants
 pour jouir de l'admirable décor de ce coin presque inconnu.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 458 — LAC D'EN-BEYS
 
@@ -481,7 +481,7 @@ Du pont de Bisp à la Jasse de Gaudu.... 2h.10 }
 De la Jasse de Gaudu au lac d'En-Beys.. 2h. » } (Arrêts en sus).
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 459 — (36me EXCURSION) COL DE BEYS
 
@@ -531,7 +531,7 @@ contournera ensuite le lac par le S. et on coupera bientôt le tor-
 (1) L'eau qui se déverse par un tunnel de 2.200 m., augmente la
 réserve de Naguilles d'environ 60 %.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 460 — NAGUILLES (36me EXCURSION)
 

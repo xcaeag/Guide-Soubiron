@@ -55,7 +55,7 @@ du Hourgade, des Gourgs-Blancs, d'Espingo et d'Oô.
 deux fois par jour par un autobus, en attendant la construction
 d'un tramway électrique.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 192 — DE SAINT-LARY A LOUDENVIELLE (15me EXCURSION)
 
@@ -63,7 +63,7 @@ d'un tramway électrique.
 
 ![carte p192](../maps/guide-soubiron-0192-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 193 —  (15me EXCURSION) VALLEE DE LA GELA
 
@@ -114,7 +114,7 @@ A l'entrée du cirque de la Géla, le chemin du Port de Barroude
 hameaux d'Eget, de Fabian, de Castets, de Chaubère et du Plan. Le
 bureau de poste est à Fabian.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 194 — PICS de BARROUDE et de BARROSA (15me EXCURSION)
 
@@ -162,7 +162,7 @@ le ruisseau pour passer rive dr. On jouira pendant cette descente
 d'un nouveau spectacle non moins impressionnant. Au N.-O., en
 deux gradins superposés, une muraille d'environ 1.500 m. de hau-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 195 — (15me EXCURSION) - PUNTA FULSA 
 
@@ -214,7 +214,7 @@ crête jusqu'au sommet.
 
 Le panorama de la Fulsa (2.860m) est déjà très beau, puisque
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 196 — PUNTA SUELSA (15me EXCURSION)
 
@@ -265,7 +265,7 @@ ruines de l'Hospital-de-Gistaïn (1.495m), où on aboutit à la vallée
 de la Cinqueta. On remontera celle-ci jusqu'au confluent des
 Cinquetas de la Pez et d'Aygues-Cruses (1.582m). Là, on tournera
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 197 — (15me EXCURSION) GRANGES de VIADOS
 
@@ -329,7 +329,7 @@ Tortes, ils ont situé la frontière plus à l'O. Elle passe au port
 situées 1/4 d'h. à l'E. du confluent de la Pez, vers 1.650m d'alt., sur
 la rive dr. de la Cinqueta d'Aygues-Cruses.
 
-<div class="page"/>
+<div class="page"></div>
 
 ![carte p198](../maps/guide-soubiron-0198-carte.jpg)
 
@@ -344,7 +344,7 @@ vallon de la Pez, soit par l'E., à celui d'Aygues-Cruses.
 >
 > Le chaînon par lequel les Cadier sont montés à la Punta
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 199 — (15me EXCURSION) PIC SCHRADER
 
@@ -399,7 +399,7 @@ Mais, comme ce nom de lieu existe déjà plus à l'O., près de Barèges,
 je conserve celui d'Aygues-Cruses, tel qu'il est porté dans les cartes,
 pour éviter une confusion possible dans l'esprit du lecteur.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 200 — LAC de CAILLAOUAS (15me EXCURSION)
 
@@ -450,7 +450,7 @@ le lac qui est inaccessible sur les 3/4 de son pourtour. Un petit
 crête des Hermittans, qui sépare le vallon de Pouchergues de la
 région des Gourgs-Blancs.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 201 — (15me EXCURSION) . COL D'AROUGE
 
@@ -503,7 +503,7 @@ lac glacé. Ce col sépare le département de la Haute-Garonne de
 (1) De ce point, on peut descendre à Espingo dans 2h.30 le
 Val d'Arouge. (V. 19me E.)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 202 — ENVIRONS D'ESPINGO — PARTIE OUEST (15me EXCURSION)
 
@@ -514,7 +514,7 @@ Val d'Arouge. (V. 19me E.)
 CARTE des RÉGIONS de CAILLAOUAS, du HOURGADE,
 des GOURGS-BLANCS, d'ESPINGO et d'OO.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 203 — (15me EXCURSION) HOURGADE — BELLE-SAYETTE
 
@@ -564,7 +564,7 @@ le contraste est frappant : l'œil descend vers les vertes pelouses
 de l'Hourtiga, en s'arrêtant longuement sur les pentes fleuries
 d'Espichadère et d'Aube.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 204 — VALLEE D'AUBE  (15me EXCURSION) 
 

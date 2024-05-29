@@ -65,7 +65,7 @@ explorer la face S.
 Maudit, au cas où, pour une cause quelconque, on aurait échoué
 à la précédente course.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 302 — PIC RUSSELL (22me EXCURSION)
 
@@ -120,7 +120,7 @@ direction S.-O. par des pentes rocheuses; puis, parvenu en vue
 d'un névé situé au pied des murailles, on obliquera légèrement
 à dr. par une petite corniche qui permet de débarquer sur la
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 303 — (22me EXCURSION) LLOSAS ET RIBERETA
 
@@ -175,7 +175,7 @@ Du Pic Russell à la Cabane de Ribéréta..3h.   } (Arrêts en sus).
 > Nota. - En amont, au S.-E. de la cabane, on apercevra les
 traces du sentier par lequel on descendra du Malibierne le lendemain.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 304 — GRAND PIC de MALIBIERNE (22me EXCURSION)
 
@@ -229,7 +229,7 @@ Sans atteindre la grandeur de celui de la Maladetta, le belvédère
 du Malibierne est de premier ordre. C'est sur son sommet
 qu'il faut monter pour bien apercevoir la gigantesque structure
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 305 — (22me EXCURSION) PIC OCCIDENTAL de MALIBIERNE
 
@@ -282,7 +282,7 @@ du Col Maudit au cas où, pour une cause quelconque, on l'aurait
 manquée à la « Course B ». J'indique plus loin le point où
 cette traversée pourrait être reprise.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 306 — COL DE GREGONIO (22me EXCURSION)
 
@@ -336,7 +336,7 @@ sous roche dont il est parlé à la course B., p. 298.
 
 Depuis le Col de Grégonio, on traverse un des paysages les
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 307 — (22me EXCURSION) BRECHE ET PIC D'ALBE
 
@@ -390,7 +390,7 @@ Du Col de Grégonio au Pic d'Albe...... 3h.30 } (Arrêts en sus).
 Du Pic d'Albe à La Rencluse........... 2h.15 }
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 308 — NOTICE sur Le NETHOU (22me EXCURSION)
 
@@ -444,7 +444,7 @@ qui descend jusqu'au Pic de La Rencluse, et qu'on nomme
 ———<br>
 (1) Aneto des Espagnols.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 309 — (22me EXCURSION) GLACIER du NETHOU
 
@@ -498,7 +498,7 @@ flanc d'éboulis, on abordera le glacier du Néthou, dont la traversée
 (1) Le mot « Portillon » signifie ici « Petite porte », passage étroit
 qui permet de franchir une crête secondaire.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 310 — Le NETHOU (22me EXCURSION)
 
@@ -555,7 +555,7 @@ l'après-midi au lieu de rentrer à Luchon.
 ———<br>
 (1) V. La Montagne, 1916, p. 177.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 311 — (22me EXCURSION) PORT DE LA PICADE
 
@@ -606,7 +606,7 @@ rocher, qui grimpe en biais à la croupe gazonnée frontière
 Parvenu au haut du raidillon, au lieu de prendre le sentier
 qui descend à g., on poursuivra tout droit, à toute crête, jusqu'au
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 312 — SOUM de L'ESCALETTE (22me EXCURSION)
 

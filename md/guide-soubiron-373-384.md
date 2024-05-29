@@ -51,7 +51,7 @@ casse-croûte, car on passera sûrement deux jours sans rencontrer
 de l'Intérieur « Certescons ». Les avis étant partagés, j'écris à nouveau
 « Certescons », comme à la première édition.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 374 — (29me EXCURSION) DE SAINT-GIRONS A AUZAT
 
@@ -59,7 +59,7 @@ de l'Intérieur « Certescons ». Les avis étant partagés, j'écris à nouveau
 
 ![carte p374](../maps/guide-soubiron-0374-carte-portrait.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 375 — (29me EXCURSION) CIRQUE de CAGATEILLES
 
@@ -108,7 +108,7 @@ De Saint-Girons à Saint-Lizier d'Ustou, 30 k. d'autobus.
 De Saint-Lizier au Cirque de Cagateilles, 2h.30, (Arrêts en sus).
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 376 — PIC de CERTESCONS (29me EXCURSION)
 
@@ -159,7 +159,7 @@ deux pointes des Monts Rouch qui s'estompent, tout près,
 sur le ciel. Droit au S., l'œil prend en enfilade la Sierra dels Canals
 dont le point culminant (2.739m), qui n'est qu'à 1.500 m.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 377 — (29me EXCURSION) LAC de CERTESCONS - BOAHIL
 
@@ -217,7 +217,7 @@ N., à la frontière, en longeant les rives de la Vogueira. Ce torrent
 un tram électrique depuis Oust (15 K.) et un courrier, de Saint-Girons
 à Oust, puis aussi par un service direct en autobus.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 378 — VALLEE DE CASTILLO (29me EXCURSION)
 
@@ -269,7 +269,7 @@ On les appelle aussi « lacs de Turgulla. » J'ai adopté de préférence
 le nom de Sounou pour qu'on ne les confonde pas avec
 l'étang de Turgulla qui est situé en France, sur le versant N.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 379 — (29me EXCURSION) PORT de SOUNOU - PIC DE TURGULLA
 
@@ -323,7 +323,7 @@ de m. au N., près de la forêt.
 
 La cascade d'Arse est l'une des plus belles des Pyrénées; en
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 380 — CASCADE D'ARSE (29me EXCURSION)
 
@@ -378,7 +378,7 @@ et les prises rocheuses, garnies d'herbes, sont inclinées en
 dehors. Il ne faut s'y aventurer que si on est déjà un pyrénéiste
 un peu exercé.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 381 — (29me EXCURSION) AULUS
 
@@ -431,7 +431,7 @@ et, 1/4 d'h. après, il pénètre sous bois pour monter en plusieurs
 lacets jusqu'au petit cirque du Garbétou (1.200m). Parvenu en vue
 du cirque, on trouve une belle cabane et, après une descente de
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 382 — LAC du GARBET  (29me EXCURSION)
 
@@ -485,7 +485,7 @@ Là, on laissera à dr. le chemin du lac pour prendre à g. celui du
 chemin de fer en correspondance avec la Compagnie du Midi par la
 gare de Tarascon (18 k.).
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 383 — (29me EXCURSION) PORT DE SALEIX - PIC de MONT CEINT
 
@@ -539,7 +539,7 @@ du Cabanatous dont on fera l'ascension finale par la face E.
 Sauf vers le N., la vue du Cabanatous est analogue à celle du
 Mont Ceint. La ville d'Aulus paraît en entier; on domine toute la
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 384 — ETANGS de BASSIES (29me EXCURSION)
 

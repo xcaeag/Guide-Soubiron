@@ -53,7 +53,7 @@ décembre 1922.<br>
 (2) Pour la partie au N. de la frontière, voir la carte des Environs
 de Luchon.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 278 — MONTS-MAUDITS (21me EXCURSION)
 
@@ -88,7 +88,7 @@ membre de la caravane ne connaisse déjà le massif des Monts-
 Maudits, un bon guide est indispensable pour les trois courses
 A,B et C.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 279 — (21me EXCURSION) HOSPICE de FRANCE
 
@@ -137,7 +137,7 @@ Au Port de Venasque, surgit tout d'un coup, comme dans un
 
 <p class="droite">(Voir ci-contre la vue des Monts-Maudits).</p>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 280 — PORT de VENASQUE (21me EXCURSION)
 
@@ -171,7 +171,7 @@ La Rencluse et la cascade nouvelle qui s'échappe du gouffre de
 l'ascension au port de Venasque, description parue déjà dans le
 volume, à la 18me Excursion. 
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 281 — (21me EXCURSION) PIC de SAUVEGARDE
 
@@ -223,7 +223,7 @@ direction S.-E., à travers le haut plateau gazonné de Peña Blanca,
 jusqu'au point où on laisse le sentier qui monte au Port de la
 Picade. Le chemin de Venasque tourne alors à dr. en descente
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 282 — La RENCLUSE (21me EXCURSION)
 
@@ -277,7 +277,7 @@ voilà le caractéristique de ce petit paradis des pyrénéistes
 Dans l'intérêt du pyrénéisme, formulons aujourd'hui un
 souhait : c'est que la peseta retrouve sa modestie d'antan.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 283 — (21me EXCURSION) Le TROU du TORO
 
@@ -326,7 +326,7 @@ du Toro;_
 
 4° _La Garonne occidentale prend sa source aux grands glaciers_
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 284 — PLAN des AGUALLUTS (21me EXCURSION)
 
@@ -350,7 +350,7 @@ On grimpera pendant quelques min. entre deux bandes rocheu-
 des sources du rio Esera et de la Garonne occidentale. » (Bulletin de
 da Société d'Histoire naturelle de Toulouse, 1er fascicule 1931.)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 285 — (21me EXCURSION) COL Des SALENQUES
 
@@ -400,7 +400,7 @@ et à marcher vers lui.
 Après une petite descente, on remontera en pente douce à travers
 une région unique dans toutes les Pyrénées. Pendant plu-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 286 — COL PIERRE-SOUBIRON (21me EXCURSION)
 
@@ -430,7 +430,7 @@ Soubiron qui fait communiquer la vallée des Salenques avec les
 vallons de Llauzet et de Rio Bueno; on se dirigera vers lui en
 contournant le lac par les hautes berges de droite. Du col, on
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 287 — (21me EXCURSION) PIC PIERRE-SOUBIRON
 
@@ -479,7 +479,7 @@ par le col des Salenques. On peut, dans l'après-midi, soit rentrer
 à La Rencluse, soit descendre par le vallon de Rio Bueno peur
 aller coucher à l'Hospice de Viella ou au village de Senet. Un
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 288 — LACS de RIO BUENO (21me EXCURSION)
 
@@ -533,7 +533,7 @@ Un grand chemin de chars remonte la vallée par la rive dr.
 jusqu'à 10 min. de l'Hospice de Viella (1.626m), où il passe rive g.
 L'Hospice est construit au centre de vertes pelouses qu'entou-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 289 — (21me EXCURSION)  HOSPICE de VIELLA
 
@@ -587,7 +587,7 @@ aucune relation sur cette intéressante vallée. C'est elle que nous
 allons remonter pour aller de l'Hospice de Viella à La Rencluse,
 en faisant au passage la Fourcanade et le Moulières.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 290 — HAUTE RIBAGORZANA (21me EXCURSION)
 
@@ -637,7 +637,7 @@ arriver. Cette brèche est située entre un contrefort du petit Moulières,
 
 On franchit là la ligne de partage des eaux d'Europe, puisque
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 291 — (21me EXCURSION) FOURCANADE — MOULIERES
 
@@ -689,7 +689,7 @@ Pic Pierre-Soubiron est à deux pas, et l'Hospice de Viella parait
 tout au fond, au milieu de son cirque verdoyant. Les lointains
 sont magnifiques.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 292 — COL ALFRED  (21me EXCURSION) 
 
@@ -739,7 +739,7 @@ de Barcelone, avec le guide Anselmo, de Venasque.
 ———<br>
 (1) Souvenirs d'un Montagnard, 2e édition, p. 472.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 293 — (21me EXCURSION) COL MAUDIT
 
@@ -789,13 +789,13 @@ mais ne pas dépasser six.
 E. — Il ne faut pas tenter le passage, s'il survient un mauvais
 temps subit ou une chute de neige fraîche.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 294 —
 
 ![gravure p294](../maps/guide-soubiron-0294-dessin.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 295 — (21me EXCURSION) DENT D'ALBE
 
@@ -845,7 +845,7 @@ prend les dispositions définitives pour la traversée qui ne
 demande que 45 où 50 min. Ce balcon est exactement au centre
 de base du couloir rocheux.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 296 — COULOIR et COL MAUDIT (21me EXCURSION)
 
@@ -899,7 +899,7 @@ Du Col Maudit, on peut faire l'ascension de la Maladetta
 (3.312m) dans 1 h. environ, aller et retour, à la condition d'v
 monter à toute crête; pour un pyrénéiste exercé, c'est la voie la
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 297 — (21me EXCURSION) COL MAUDIT
 
@@ -929,7 +929,7 @@ un si beau spectacle.
 Après avoir repris sac et piolet, on descendra direction E., à
 travers le glacier du Néthou, puis, au bout de 20 min. environ,
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 298 — LAC des GOURGOUTES (21me EXCURSION)
 
@@ -989,7 +989,7 @@ Etangs jusqu'à l'Hospice de Venasque qu'on laissera à g. pour
 monter au N.-O., afin de rejoindre le chemin du Port de la Glère.
 On franchira le torrent qui descend du lac des Gourgoutes et
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 299 — (21me EXCURSION) PIC de SACROUX
 
@@ -1039,7 +1039,7 @@ longe le ruisseau de Houradade par da rive dr., en passant devant
 la cascade de Trégon, et on aboutit à la prairie de l'Artigue. près
 de la cascade de Solage. Au bas de la prairie, on retrouve le che-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 300 — VALLEE du LYS (21me EXCURSION)
 

@@ -42,11 +42,11 @@ d'eaux.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
-<div class="page"/>
+<div class="page"></div>
 
 ![carte p78](../maps/guide-soubiron-0078-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 79 — (5me EXCURSION) VISCOS
 
@@ -93,7 +93,7 @@ presque en face, en haut, le Roc de Maillaraoube, vers lequel on
 montera en suivant le petit sentier qui zigzague cette pente très
 inclinée.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 80 — COL DE RIOU - (5me EXCURSION)
 
@@ -144,7 +144,7 @@ petite remontée conduiront au Pène-Nère (2.050m). De là, dans
 10 min., on rejoindra le Col de Riou, où existe une hôtellerie et
 une table d'orientation.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 81 — (5me EXCURSION) SOUM DE LAS AOUEILLEROS
 
@@ -201,7 +201,7 @@ La traduction littérale, en patois du pays, est : Les Bergères.
 Le nom de ce sommet signifierait donc : Pic des Bergères. On aurait
 dû, par conséquent, l'orthographier en deux mots.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 82 — Le PEGUERE (5me EXCURSION)
 
@@ -252,7 +252,7 @@ on le quittera pour prendre, à g., le sentier du Cambasque. Environ
 de là, on peut descendre directement vers les fermes du Cambasque 
 sans suivre les méandres du sentier.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 83 — (5me EXCURSION) MONTNE de CAUTERETS
 
@@ -309,7 +309,7 @@ surmonté d'une tourelle et invisible de Cauterets, est quelques
 min. plus à l'O. On peut y arriver, soit à toute crête, soit par une
 sente du flanc N.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 84 — Le CABALIROS (5me EXCURSION)
 
@@ -365,7 +365,7 @@ Du Cabaliros à Cauterets.............. 2h.15  } (Arrêts en sus)
 30 janvier 1919, sous la direction de M. A. Meillon, qu'on a donné le
 nom de « Wilson » au Rocher de Cohe.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 85 — (5me EXCURSION) - COL D'ILHEOU
 
@@ -413,7 +413,7 @@ le large couloir neigeux qui conduit à la brèche supérieure
 de Bat-Escure (2.700m). Cette brèche est située entre le
 sommet supérieur de Maleshores (2.766m), à l'O., et la crête
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 86 — GRAND BARBAT (5me EXCURSION)
 

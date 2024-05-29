@@ -59,7 +59,7 @@ N. jusqu'à Sentein.
 <p class="droite">(Voir ci-contre la Carte de la Partie S.).<br/>
 (Voir page 340, celle de la Partie N.).</p>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 332 — DE SALARDU aux ENCANTADOS (25me EXCURSION)
 
@@ -67,7 +67,7 @@ N. jusqu'à Sentein.
 
 ![carte p332](../maps/guide-soubiron-0332-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 333 — (25me EXCURSION) SOURCES DE LA GARONNE
 
@@ -122,7 +122,7 @@ Du Col de Béret à Salardu.......... 1h.30 } (Arrêts en sus).
 (1) Salardu, 482 hab., dernier vill. important du Val d'Aran, à 48 k.
 de Marignac.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 334 — CIRQUE DE COLOMES (25me EXCURSION)
 
@@ -175,7 +175,7 @@ direction S., on laissera à g. le lac de Lac Clotos, facilement
 « Pouce de Colomès » et que les gens du pays appellent « Tuc
 del Cap de Colomès ». V. Annuaire du C. A. F., année 1877, p. 559.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 335 — (25me EXCURSION) GRAND PIC de COLOMES
 
@@ -227,7 +227,7 @@ de la contrée.
 
 On redescendra au S. jusqu'à la dépression du chaînon secon-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 336 — PLETA de Los GAVACHOS (25me EXCURSION)
 
@@ -280,7 +280,7 @@ crête qui sépare les deux vallées parallèles de Subenulls et de
 Monestero. Le col franchi, on descendra en biais vers le lac
 supérieur pour remonter en face au deuxième col. On jouira en
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 337 — (25me EXCURSION) LE GRAND PEGUERA
 
@@ -331,7 +331,7 @@ ont maintenant disparu. Comme à la Pléta de Los Gavachos, les
 bergers ont aménagé un abri sous roche à quelques centaines
 de m. à l'O. du lac. On pourra toujours coucher dans la forêt
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 338 — POINTE et CIRQUE de SABOUREDE (25me EXCURSION)
 
@@ -385,7 +385,7 @@ On passera près de la cabane et, quelques min. après, on franchira
 le torrent pour rejoindre le sentier qui descend du Port
 de la Ratère.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 339 — (25me EXCURSION) VALLEE De BAGERQUE
 
@@ -445,7 +445,7 @@ Encantats; tiré à part de la Rerue Alpine, 3° trimestre 1926.<br>
 Saint-Girons, est desservi par un tram électrique en correspondance
 avec la gare de Saint-Girons.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 340 — DE SALARDU A SENTEIN (25me EXCURSION)
 
@@ -453,7 +453,7 @@ avec la gare de Saint-Girons.
 
 ![carte p340](../maps/guide-soubiron-0340-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 341 — (25me EXCURSION) LE MAUBERME
 
@@ -501,7 +501,7 @@ en contournant le pic par l'O. On parviendra bientôt à la base
 d'une cheminée rapide qui monte directement au sommet par
 la face S.-O.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 342 — SENTEIN  (25me EXCURSION)
 

@@ -46,7 +46,7 @@ pour la journée, ce qui permettra de faire l'ascension plus
 
 On prendra, en amont de l'église, le vieux chemin du Col de
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 462 — la Dent d'Orlu (37me EXCURSION)
 
@@ -103,7 +103,7 @@ camarades, Jean Arlaud et Raoul Rives, le 28 juin 1914, pendant que
 j'y conduisais une caravane par la face N.-N.-E., et qu'un vieil isard
 solitaire nous narguait du haut de la crête.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 463 — (37me EXCURSION) GRANGES de MONTMIJA
 
@@ -153,7 +153,7 @@ Col de Paillères en utilisant dans la partie supérieure les raccourcis
 qui mènent directement près du refuge du Col; vu de
 loin, celui-ci à l'aspect d'une tour carrée (1972m), Là, on quit-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 464 — PIC de TARBEZOU (37me EXCURSION)
 
@@ -196,7 +196,7 @@ Du Col de Paillères au Tarbézou........ 1h.45 }
 Du Tarbézou à Ax....................... 4h.15 } (Arrêts en sus).
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 465 — (37me EXCURSION) CARRIERES de TRIMOUNTS
 
@@ -245,7 +245,7 @@ bennes qui portent le tale à Luzenac. On n'a qu'à monter paral-
 ———<br>
 (1) V. 30me E., p. 391.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 466 — Massif de TABE (37me EXCURSION)
 
@@ -273,7 +273,7 @@ de montagne, dans un site charmant, est vraiment plein d'attrait.
 
 On contournera ce dernier par la dr. et on zigzaguera les
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 467 — (37me EXCURSION) SOULARAC - SAINT-BARTHELEMY
 
@@ -326,7 +326,7 @@ lieu de 2.360 m. plaçant ainsi le point culminant au Saint-Barthélémy
 qui n'est qu'à 2.349 m. V. note rectificative à La Montagne, année
 1914, p. 165.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 468 — AXIAT — LUZENAC (37me EXCURSION)
 

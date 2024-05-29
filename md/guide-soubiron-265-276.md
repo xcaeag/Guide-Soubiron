@@ -41,7 +41,7 @@ __par l'Entécade, Bosost, le Montlude et le Pont du Roi.__
 <p class="droite">(Voir ci-contre la carte schématique de l'Excursion).<br/>(Voir aussi : 1° la carte de la partie E. d'Espingo, p. 214);
 2° les cartes des Environs de Luchon, pp. 232 et 240).</p>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 266 — ENVIRONS de LUCHON (20me EXCURSION)
 
@@ -49,7 +49,7 @@ __par l'Entécade, Bosost, le Montlude et le Pont du Roi.__
 
 ![carte 266](../maps/guide-soubiron-0266-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 267 — (20me EXCURSION) SUPERBAGNERES — CECIRE
 
@@ -103,7 +103,7 @@ tout ce trajet du haut du Céciré.
 
 On déjeune ordinairement à la source de Sarnès, et c'est là
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 268 — COL de MONTARROUYE (20me EXCURSION)
 
@@ -158,7 +158,7 @@ rive g. du Lac Saousat (1.960m) jusqu'à la Coume de l'Abesque
 où on coupera le torrent du Port d'Oô. Là, on tournera à g., au
 S.-E., pour suivre le nouveau sentier qui remonte la rive g. du
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 269 — (20me EXCURSION) Le PERDIGHERO — Le ROYO
 
@@ -211,7 +211,7 @@ s'avance vers le col, on contournera à g., à l'O., un contrefort
 qui descend verticalement du sommet principal. Deux min. après,
 on arrivera à la base d'une cheminée facile qui grimpe à mi-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 270 — Le CABRIOULES (20me EXCURSION)
 
@@ -267,7 +267,7 @@ Du Col de Litayrolles au Col de Crabioules 0h.45 }
 Du Col de Crabioules au Refuge de Pratlong 2h.45 }
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 271 —(20me EXCURSION) PRATLONG — TUSSE de MAUPAS
 
@@ -319,7 +319,7 @@ la voie suivante. Après être descendu au N.-E., jusqu'au glacier,
 on se dirigera à l'E. et, par une marche presque horizontale en
 suivant la base des escarpements N. du Boum, on aboutira près
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 272 — PIC de BOUM — LAC BLEU (20me EXCURSION)
 
@@ -374,7 +374,7 @@ Du Pic de Boum au Refuge de Pratlong.. 2h. » } (Arrêts en sus).
 Du Pratlong à Luchon.................. 3h.30 }
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 273 — (20me EXCURSION) PIC de L'ENTECADE
 
@@ -427,7 +427,7 @@ E.-S.-E., on ira rejoindre la frontière quelques min. au N.
 du Col de Pouylané. On n'aura alors qu'à suivre de petit sentier
 qui monte à toute crête jusqu'à l'Entécade (2.271m).
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 274 — PAS de VILLAMOS —— BOSOST (20me EXCURSION)
 
@@ -482,7 +482,7 @@ Bosost, le vieux pont sur la Garonne et, après avoir laissé la
 chapelle à dr., on prendra, au N.-E., un sentier de traverse qui
 monte par des champs et des prés. Dans 20 min., on rejoindra
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 275 — (20me EXCURSION) MONTLUDE — VAL DE TORAN
 
@@ -536,7 +536,7 @@ très joli lac, invisible du sommet : c'est « l'Estañ de Lauxio », que
 les cartes appellent « Lac de Guarbès ». Ce dernier (2.010m) est situé
 au S.-E. du Montlude; il s'écoule au Val de Barrados.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 276 — PONT du ROI — FOS (20me EXCURSION)
 

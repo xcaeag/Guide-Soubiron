@@ -47,7 +47,7 @@ clé du refuge d'En-Beys; on s'entendra avec lui à ce sujet.
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).<br>
 (Voir aussi la Carte des Environs d'Ax, p. 450).</p>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 470 — D'AX-LES-THERMES A BOURG-MADAME (38me EXCURSION)
 
@@ -55,7 +55,7 @@ clé du refuge d'En-Beys; on s'entendra avec lui à ce sujet.
 
 ![carte p470](../maps/guide-soubiron-0470-carte-portrait.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 471 — (38me EXCURSION) MERENS — VALLEE du NABRE
 
@@ -105,7 +105,7 @@ de trois crêtes, au centre de l'un des plus jolis coins de la haute
 col, c'est plutôt Couillade de Madidès qu'il faudrait dire, puisque le
 mot « Porteille » signifie une brèche, un étroit passage.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 472 — PIC de L'ETANG-FAURY (38me EXCURSION)
 
@@ -161,7 +161,7 @@ Du Pic de l'Etang-Faury au refuge d'En-      }
   Beys.................................3h. » } (Arrêts en sus).
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 473 — (38me EXCURSION) PORTEILLE D'ESPAGNXE 
 
@@ -212,7 +212,7 @@ l'Oriège dont les eaux s'écoulent vers l'Océan et, au S. les
 sources de la Tet qui descend à la Méditerranée. Presque sous
 ses pieds. au S. de la Porteille, brille l'étang supérieur de la
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 474 — PIC de PRIGUE (38me EXCURSION)
 
@@ -262,7 +262,7 @@ transformë ce marais en un immense réservoir, rétablissant ainsi
 l'un des plus grands lacs des Pyrénées, le sentier de la rive g.
 a été en partie submergé. On fera donc bien d'aller rejoindre, en
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 475 — (38me EXCURSION) LA BOUILLOUSE
 
@@ -315,7 +315,7 @@ la Bouillouse par la rive dr. et, parvenu en amont, on tournera
 Quoique les cartes indiquent le sentier sur la rive g., on ne
 franchira pas le torrent et on restera constamment sur la rive dr.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 476 — COL des BESINEILLES (38me EXCURSION)
 
@@ -368,7 +368,7 @@ des plus intéressants. On domine constamment les deux cirques
 (1) La carte d'Etat-Major appelle ce large col : Porteille de la
 Serre Blanche.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 477 — (38me EXCURSION) PIC PEDROUX
 
@@ -419,7 +419,7 @@ on peut, à la lorgnette, en examiner tous les détails, ce qui
 (1) Les cartes cotent le Lanoux à 2.154 m. mais des nivellements
 récents ont élevé l'alt. de ses eaux à 2.176 m.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 478 — LAC de LANOUX (38me EXCURSION)
 
@@ -467,7 +467,7 @@ De la Porteille de Lagrave aux Pics Pé-           }    8h. »
 Des Pics Pédroux au Lanoux................. 1h.45 }
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 479 — (38me EXCURSION) LE CARLITTE
 
@@ -516,7 +516,7 @@ et, un peu plus haut, à g., la brèche qui échancre la crête du
 Carlitte, entre le sommet 2,915, au N., et le sommet principal
 (2.921m) au S. On obliquera alors à g., et, par une marche à flanc,
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 480 — COL du CARLITTE (38me EXCURSION)
 
@@ -570,7 +570,7 @@ Dans l'après-midi, on descendra à Porté par l'admirable sentier
 en corniche que les Ponts et Chaussées ont construit sur les
 pentes S. du Pic de Font-Vive. De la cabane du pêcheur, on longe
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 481 — (38me EXCURSION) ETANGS de FONT-VIVE — PORTE
 
@@ -625,7 +625,7 @@ De l'hôtel Michette, on se dirigera à l'O. pour rejoindre la
 route, 5 min. après, en amont du pont. Immédiatement au-dessus,
 on prendra le chemin de traverse qui monte, en 30 min., au Col
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 482 — COL de PUYMORENS (38me EXCURSION)
 
@@ -676,7 +676,7 @@ du petit cirque formé par le chaînon des Porteilles. Si on examine
 attentivement l'état des lieux, on est tenté de croire que la
 principale source de l'Ariège est en Andorre. En effet, toute la
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 483 — (38me EXCURSION) LAC ET PORT DE FONT-NEGRE
 
@@ -728,7 +728,7 @@ d'alt., dans la vallée de Campeardos. Il y a confusion; celui qui est
 situé à 2.107 est le Lac de Campcardos, lac très peu profond et en train.
 de disparaître.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 484 — PIC NEGRE D'EMBALIRE (38me EXCURSION)
 
@@ -780,7 +780,7 @@ par la Porteille de Maranges, et c'est par là que nous allons
 passer pour faire l'ascension du Campcardos. A 5 min. en contre-
 bas du port, on laissera à dr. le sentier qui, par l'étang de las
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 485 — (38me EXCURSION) PIC DE CAMPCARDOS
 
@@ -832,7 +832,7 @@ S.-O. au N.-E. jusqu'au point coté 2.358. Là, on tournera au N. et,
 quelques min. après, on abordera les pentes rapides qui paraissent
 plonger jusqu'au fond de la vallée,
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 486 — PORTA — BOURG-MADAME (38me EXCURSION)
 

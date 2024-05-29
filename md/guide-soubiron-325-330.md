@@ -49,7 +49,7 @@ Un sentier s'amorce au N., tout près de la chapelle; on le laissera
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 326 — (24me EXCURSION)
 
@@ -57,7 +57,7 @@ Un sentier s'amorce au N., tout près de la chapelle; on le laissera
 
 ![carte p326](../maps/guide-soubiron-0326-carte-portrait.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 327 — (24me EXCURSION) PICS du GARS
 
@@ -109,7 +109,7 @@ qui file vers l'E. Après environ 1 h. de marche sous bois, on débouchera
 (1) Une autre petite source, qui ne tarit ordinairement qu'en août,
 existe à environ 100 m. au N. du sommet 1757.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 328 — ARGUENOS (24me EXCURSION)
 
@@ -158,7 +158,7 @@ haut de la forêt de Cagire, à la cabane de Juzet-d'Izaut. Il y a
 (1) Juzet-d'Izaut, 504 hab., c. d'Aspet, 7 k. Si, à l'auberge, il n'y a
 plus de lits, on en trouve facilement dans le village.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 329 — (24me EXCURSION) PIC de CAGIRE
 
@@ -210,7 +210,7 @@ sur la plaine va de Tarbes à Toulouse et aux confins de l'Aude.
 ———<br>
 (1) Petite pique
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 330 — JUZET-d'IZAUT (24me EXCURSION)
 

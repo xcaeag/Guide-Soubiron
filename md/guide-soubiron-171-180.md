@@ -49,7 +49,7 @@ le versant de Barèges, pour monter en droite ligne, grâce à
 ———<br>
 (1) Concernant l'étymologie des pics de Midi, voir note spéciale, p. 38.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 172 —
 
@@ -65,7 +65,7 @@ tout à fait en haut.
 Il existe un service d'auto-cars du Tourmalet qui correspond 
 avec les tramways de Bagnères à Gripp.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 173 — (13me EXCURSION) PIC de MIDI de BIGORRE
 
@@ -115,7 +115,7 @@ est unique. Sentinelle détachée de la grande chaîne, on
 jouit sur son sommet d'une vue incomparable dans toutes les
 directions.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 174 — COL du TOURMALET (13me EXCURSION)
 
@@ -179,7 +179,7 @@ artificiel qui alimente en force la grande usine électrique
 d'Eget; à l'O., celui d'Aygue-Cluse, qui descend vers Barèges;
 à l'E., celui de Caderolles et, enfin, au N., celui du Tourmalet.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 175 — (13me EXCURSION) COUME DE POURTEILLE
 
@@ -241,7 +241,7 @@ versant de Barèges; donc, on ne sera pas surpris si le guide l'ignore
 et s'il veut passer par une autre voie, ce qu'il ne faut pas accepter,
 sous peine de compromettre la journée.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 176 — PIC des QUATRE TERMES (13me EXCURSION)
 
@@ -290,7 +290,7 @@ et du bassin de la Garonne. Du haut du Quatre Termes, on
 aperçoit la naissance de ces vallons opposés, et on peut dire
 qu'à ce point de vue, sa situation est peut-être unique.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 177 — (13me EXCURSION) COLS du BASTANET et du BASTAN
 
@@ -340,7 +340,7 @@ de Port Bieil sont tous à l'O. de la crête de ce nom, dans le cirque de
 Port Bieil, et s'écoulent dans l'Oule de Couplan.<br>
 (2) Pic de Port Bieil des cartes.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 178 — AULON (13me EXGURSION)
 
@@ -397,7 +397,7 @@ N.-N.-E., vers les bases rocheuses du contrefort S.-S.-O. du pic,
 (1) La petite fontaine de Coulariot signalée par la carte d'Etat-Major
 sourd d'une faille de rocher un peu plus haut.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 179 — (13me EXCURSION) PIC D'ARBIZON
 
@@ -448,7 +448,7 @@ franchir.
 On peut aussi descendre au Lac d'Arou en contournant le
 Monfaucon par l'O. et en prenant, au N. du pic, un couloir
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 180 — HOURQUETTE D'ARREAU (13me EXCURSION)
 

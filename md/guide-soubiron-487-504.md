@@ -60,13 +60,13 @@ pourra ainsi partir seul ou avec un simple porteur du pays.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion.)</p>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 488 —
 
 ![carte p488](../maps/guide-soubiron-0488-carte-portrait.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 489 — (39me EXCURSION) BOURG-MADAME - VALCEBOLLERE
 
@@ -117,7 +117,7 @@ une croix, c'est près d'elle qu'il faut passer pour monter au Pas
 dels Lladres. En amont du vill., après la dernière maison, on
 prendra le chemin de chars qui se dirige au S. et qui, 5 min.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 490 — PAS DELS LLADRES - LA TOSA (39me EXCURSION)
 
@@ -170,7 +170,7 @@ Clèdes par les Espagnols.<br>
 (2) Caralps, 600 hab.; vill. catalan du versant espagnol, à 2 h. du
 Pas dels Lladres.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 491 — (39me EXCURSION) Le PUIGMAL
 
@@ -222,7 +222,7 @@ On dégringolera à travers la rocaille, droit au N.-E., pour rejoindre
 un sentier qui aboutit au Pla d'Eugacers, après avoir
 franchi le torrent. On pourra alors, à son choix, soit descendre
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 492 — SANCTUAIRE DE NURIA (39me EXCURSION)
 
@@ -279,7 +279,7 @@ col de Noufonts (2.640m), en 7h.30 environ;
 4° Enfin, de Thuès-entre-Valls (816m), par les gorges et la vallée
 de Carança et le Col des Neuf-Croix (2.800m), en 8h.30.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 493 — (39me EXCURSION) COUME DE MULLERES
 
@@ -334,7 +334,7 @@ au N., vers le col de Noufonts; celui de dr. monte au N.-E., par
 ———<br>
 (1) Perdrix blanches.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 494 —  COL des NEUF-CROIX - FOSSE du GEANT (39me EXCURSION)
 
@@ -385,7 +385,7 @@ Géant, le Col de Carança (2.725m), le flanc S. des pics de la Vaca
 Comme on le voit, il dessert admirablement toute cette belle partie
 de la crête catalane et les nombreux sommets qu'on rencontre
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 495 — (39me EXCURSION) COL DE CARANÇA - PICS DE LA VACA
 
@@ -437,7 +437,7 @@ sa marche à toute crête en suivant un sentier à peine tracé.
 Bientôt celui-ci descend par le flanc S. jusqu'à un petit col situé
 sur la frontière. On remontera à toute crête jusqu'au pied du Pic
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 496 — PIC de L'ENFER - PIC du GEANT (39me EXCURSION)
 
@@ -489,7 +489,7 @@ sont si peu accidentées qu'on peut l'ascendre par tous les côtés.
 Son panorama est analogue à celui du Puigmal. Il embrasse
 toute la Catalogne et on a sous les yeux tous les grands sommets
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 497 — (39me EXCURSION) COL DE LA MARRANA - GRA DE FAJOL
 
@@ -542,7 +542,7 @@ de hauteur. Le refuge est sous les pieds, et il semble qu'on l'atteindrait
 facilement d'un jet de pierre. C'est sur la face N. du
 Gra de Fajol que se réfugient souvent les isards de la contrée.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 498 — REFUGE de ULL DE TER (39me EXCURSION)
 
@@ -593,7 +593,7 @@ prix des repas est de 6 pesetas. A 2 min. à l'O., existe un petit
 refuge, ouvert toute l'année, dans lequel il y a de la paille pour
 dormir et une provision de bois pour se chauffer.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 499 — (39me EXCURSION) COL DU GEANT - PIC DE LA DONYA
 
@@ -641,7 +641,7 @@ ses yeux.
 Le Pic de la Donva (2.714m) est situé sur la frontière, au point
 de jonction de plusieurs voies de montagne qui filent dans toutes
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 500 — COUME de BASSIBES - VALLEE DE CARANÇA (39me EXCURSION)
 
@@ -691,7 +691,7 @@ Au moment où on rejoint la grande vallée de Carança, on en
 franchit le torrent sur un petit pont et, quelques min. après, on
 arrive près d'une grande cabane située sur la rive g., vers 1.800
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 501 — (39me EXCURSION)  GORGE DE CARANÇA
 
@@ -743,7 +743,7 @@ Dans tous les cas, on pourra toujours passer par le sentier
 supérieur de la rive dr qui s'amorce en amont des gorges et qui
 débute par une remontée.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 502 — VALLEE de La TET - MONTLOUIS (39me EXCURSION)
 
@@ -799,7 +799,7 @@ aussi nombreux que variés.
 On prendra ce chemin qui conduit, d'abord, au Hameau des
 Cortals après lequel il s'infléchit à l'E.-S.-E., pour rejoindre,
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 503 — (39me EXCURSION) PICS DE LA TAUSSE
 
@@ -849,7 +849,7 @@ d'un hôtel de montagne dans ce site merveilleux. Placé à
 1.776 d'alt. cette terrasse est un véritable balcon suspendu sur
 la Cerdagne el un magnifique belvédère sur la chaîne frontière
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 504 — FONT-ROMEU (39me EXCURSION)
 

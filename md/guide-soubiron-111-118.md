@@ -59,7 +59,7 @@ du Lac d'Estom. On y déjeunera vers 10 h., afin de pouvoir en
 repartir à 11h.30 ou midi. On ne prendra dans son sac que ce<br>
 (1) On trouve cette clé au Syndicat d'Initiative à Cauterets.
 
-<div class="page"/>
+<div class="page"></div>
 
 [//]: # (— p. 112 —)
 
@@ -76,7 +76,7 @@ retour, on fera au N. du col l'ascension facile du Pic d'Araillé
 Sauf qu'il trône au centre d'un monde rocailleux dont il tire
 son nom, l'Araillé est par lui-même sans caractère. Mais c'est
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 113 — (8me EXCURSION) COL D'ARAILLE
 
@@ -131,7 +131,7 @@ l'époque de l'excursion et l'état du glacier, on pourra faire
 On y trouve des provisions, et le couchage au lit de camp coûte
 2 fr. 50 aux membres du C. A. F.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 114 — Le VIGNEMALE (8me EXCURSION)
 
@@ -184,7 +184,7 @@ d'Estom Soubiran (2.866m), au N. Ce dernier sommet n'est pas
 (1) Le refuge du Paradis, qui mesure 2 m. cubes, : a été construit
 par M. Russell en 1893.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 115 — (8me EXCURSION) CIRQUE D'ESTOM SOUBIRAN
 
@@ -237,7 +237,7 @@ Du Col de Pouymourou au Lac d'Estom.. 2h.45 } (Arrêts en sus)
 (1)  Ce petit lac, d'une coquetterie sauvage, tire son nom de la 
 gracieuse fleurette bleue qu'on trouve en quantité dans ses alentours.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 116 — LAC D'ESTOM — PIC de CULAOUS  (8me EXCURSION)
 
@@ -289,7 +289,7 @@ facile voie d'ascension.
 Après être redescendu d'une cinquantaine de m. au S.-E., on
 suivra presque horizontalement le flanc N. de la crête qui sépare
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 117 — (8me EXCURSION) PIC de CESTREDE
 
@@ -344,7 +344,7 @@ on le suivra direction N. jusqu'à un vieux sapin qui barre le
 chemin. On n'aura alors qu'à descendre à g. et, après trois
 lacets, le sentier conduit, à dr., près d'une source abondante.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 118 — PIC D'ARDIDEN — LUZ (8me EXCURSION)
 

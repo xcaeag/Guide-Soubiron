@@ -52,13 +52,13 @@ du Calmil. Ce dernier continue tout droit devant soi, entre
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
-<div class="page"/>
+<div class="page"></div>
 
 [//]: # (— p. 386 —)
 
 ![carte p386](../maps/guide-soubiron-0386-carte-portrait.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 387 — (30me EXCURSION) CAP de LA COUME DE PIGNOU
 
@@ -112,7 +112,7 @@ A l'E.-S.-E., le massif de Tabe, qu'on aperçoit en entier, paraît
 (1) Pour les gens du versant de Foix, ce sommet s'appelle le
 « Picou ».
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 388 — ROC des LOUVETIERES - SAURAT (30me EXCURSION)
 
@@ -168,7 +168,7 @@ __Conseils.__ — __Itin. recomm.__ — Partant par la route du Col de
 Port, on la suivra pendant 4 k., jusqu'au pont qui franchit lc
 Loumet avant d'arriver à Frat-Communal. Après le pont, on
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 389 — (30me EXCURSION) PIC de LA JOURNALADE
 
@@ -221,7 +221,7 @@ Dosse (1.953m); un petit sentier y conduit en passant au col qui
 la sépare de la Journalade. On ira d'un sommet à l'autre par le
 petit sentier qui longe la crête par la face S.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 390 — LE ROC de TRABINET (30me EXCURSION)
 
@@ -270,7 +270,7 @@ De Bédeilhac à Tarascon.............. 1h. » }
 ———<br>
 (1) Roc des hérétiques.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 391 — (30me EXCURSION) VERDUN
 
@@ -323,7 +323,7 @@ vers 1.600 m. d'alt. On inclinera alors légèrement à dr.,
 ———<br>
 (1) Pas de Souloumbrie de la carte d'Etat-Major.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 392 — MONT FOURCAT - LAOUZATTE (30me EXCURSION)
 

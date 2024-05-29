@@ -55,7 +55,7 @@ poursuivant devant soi pour descendre à Vignau et remonter
 une pente très rude ensuite; la seconde, en prenant à g. le sentier
 qui contourne le haut du vallon en pente douce; on prendra
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 344 — (26me EXCURSION)
 
@@ -63,7 +63,7 @@ qui contourne le haut du vallon en pente douce; on prendra
 
 ![carte p344](../maps/guide-soubiron-0344-carte-portrait.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 345 — (26me EXCURSION) TUC de LA COURATE
 
@@ -116,7 +116,7 @@ et à l'ombre.
 Revenant ensuite 2 min. sur ses pas, on rejoindra un bon chemin
 muletier qui descend vers Saint-Pierre. Parvenu en vue de
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 346 — SAINT-PIERRE de SOULAN (26me EXCURSION)
 
@@ -168,7 +168,7 @@ sous forêt, pour rejoindre la route d'Aulus, à 5 min. de
 Vic. Encore 1 h. de trajet par ce dernier vill. et Oust, et on
 arrive, enfin, à Seix.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 347 — (26me EXCURSION) SEIX
 
@@ -216,7 +216,7 @@ d'eau, car on n'en trouve pas sur la crête.
 
 Le point de vue est déjà très beau vers l'E. On domine tout le
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 348 — CAP de BOUIRECH (26me EXCURSION)
 
@@ -267,7 +267,7 @@ min. d'ascension, et on arrive au Tuc de Pélatos (1.617m) d'où se
 détache, vers le N., le petit chaînon qui va mourir au Col de
 Portech (930m), col par lequel passe le chemin de Moulis à Alos.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 349 — (26me EXCURSION) COL de LARRECH
 
@@ -306,7 +306,7 @@ De la fontaine au Cap de Bouirech....... 1h.25 } (Arrêts en sus).
 Du Cap de Bouirech à Bordes............. 3h.30 }
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 350 — LAC D'ARAING (26me EXCURSION)
 
@@ -357,7 +357,7 @@ Un sentier s'amorce sur la rive dr. du déversoir et monte di-
 (1) Cette voie d'ascension est déjà décrite dans la première édition
 de mon guide, à la vingtième excursion, p. 245.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 351 — (26me EXCURSION) MINE du BENTAILLOU
 
@@ -400,7 +400,7 @@ Du Lac d'Araing aux Mines du Bentaillou. 1h.45.}   8h.45
 Des Mines du Bentailldu à Sentein....... 3h.30 } (Arrêts en sus).
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 352 — PIC DE L'ARRAING — CASTILLON (26me EXCURSION)
 

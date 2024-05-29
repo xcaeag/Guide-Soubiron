@@ -57,7 +57,7 @@ qu'on trouve la plus grande étendue de glace, car, si on allait
 du Gourg-Blanc inférieur, à l'O., au lac de Litayrolle, à l'E., on
 effectuerait un trajet de 10 k. environ sans la quitter. A cette
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 220 — D'ARREAU A LUCHON ET A MARIGNAC (17me EXCURSION)
 
@@ -71,7 +71,7 @@ du Cirque d'Oô couronné de 14 sommets, dont 11 dépassent
 qu'on apercevra dans leur ensemble toutes les splendeurs 
 du plus grand cirque glaciaire de la chaîne.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 221 — (17me EXCURSION) GORGE de CLARABIDE — LAC de CAILLAOUAS
 
@@ -126,7 +126,7 @@ De la Santète au Pont de la Soula........ 0h.30 } (Arrêts en sus).
 Du Pont de la Soula au Lac de Caillaouas. 2h. » }
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 222 — GOURGS-BLANCS — SPIJEOLES (17me EXCURSION)
 
@@ -176,7 +176,7 @@ glacés et couverts de neige; ils le sont encore actuellement
 pendant dix mois et demi. De cet état des lieux est né le nom de
 « Gourgs-Blancs » donné à cette admirable région.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 223 — (17me EXCURSION) PIC GOURDON — TUSSE De MONTARQUE
 
@@ -229,7 +229,7 @@ Du Pic Gourdon à la Tusse de Montarqué.. 1h.45 } (Arrêts en sus).
 De la Tusse de Montarqué à Espingo...... 2h. » }
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 224 — QUAIRAT (17me EXCURSION)
 
@@ -286,7 +286,7 @@ flanc E. de la crête par d'étroites corniches, puis on grimpera à
 ———<br>
 (1) Mme et M. Descazaux, Marcel Gandillon et Blaise Baylac.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 225 — (17me EXCURSION) MONTARROUYE
 
@@ -340,7 +340,7 @@ Du Cap de Hounts-Secs (2.707m), qu'on dominera vers le N.
 ———<br>
 (1) V. Souvenirs d'un Montagnard, seconde édition, p. 278.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 226 — VALLON de MEDASSOLES  (17me EXCURSION)
 
@@ -399,7 +399,7 @@ où l'on prend la crémaillère pour Luchon (V. 18me E.).
 
 Horaire probable du Col de Montarrouye à Superbagnères. 3h.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 227 — (17me EXCURSION) BACANERE — BURAT
 
@@ -451,7 +451,7 @@ des environs. C'est au Burat qu'il faut monter pour avoir
 une vue d'ensemble sur le Cirque du Lys et pour en admirer les
 splendeurs.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 228 — GORGE de MARIGNAC (17me EXCURSION)
 

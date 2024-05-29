@@ -46,7 +46,7 @@ la chaîne frontière.
 (1) Saint-Lizier-d'Ustou (Ariège), arr. de Saint-Girons (30 k.),
 c. d'Oust, postes, télégraphe et téléphone.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 364 — DE SAINT-GIRONS A USTOU (28me EXCURSION)
 
@@ -54,7 +54,7 @@ c. d'Oust, postes, télégraphe et téléphone.
 
 ![carte p364](../maps/guide-soubiron-0364-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 365 — (28me EXCURSION) Le MONTVALIER
 
@@ -97,7 +97,7 @@ matinée, afin de se faire accompagner jusqu'à la crête frontière;
 on le renverra de la Palo de la Claouèro pour qu'il puisse rentrer
 le soir même, à Bordes ou Castillon.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 366 — PIC DE LA PALO DE La CLAOUERO (28me EXCURSION)
 
@@ -149,7 +149,7 @@ Maudits au Grand Péguéra. De l'autre côté de la vallée, on aura
 au premier plan la Roca Blanca et toute la crête qui lui fait
 suite vers l'O. jusqu'au Pic de Bacibé.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 367 — (28me EXCURSION) ALOS D'ISIL
 
@@ -189,7 +189,7 @@ De la Palo de la Claouèro à Bonabé...... 2h.50 } (Arrêts en sus).
 De Bonabé à Alos d'Isil................. 2h.15 }
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 368 — La ROYA DE MOLLAS (28me EXCURSION)
 
@@ -236,7 +236,7 @@ au S.-E., elle est située entre le massif de Campirme, au S., et
 la chaîne frontière, au N. Ses points extrêmes sont les deux
 Monts Rouch, au N.-O., et le hameau de Cuanca, au S.-E._
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 369 — (28me EXCURSION) PICS de MONT ROUCH
 
@@ -286,7 +286,7 @@ de jolis lacs bleus.
 
 Le Mont Rouch de France, de même alt., est situé au N.-E. du
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 370 — CUANCA (28me EXCURSION)
 
@@ -333,7 +333,7 @@ Du Mont Rouch d'Espagne à celui de         }   9h.30
 Du Mont Rouch de France à Cuanca.... 4h. » }
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 371 — (28me EXCURSION) CAP de RUHOS
 
@@ -383,7 +383,7 @@ fétu de paille si on commettait l'imprudence de s'y engager.
 Sur le versant français, à g. et un peu en contrebas du Col, il
 existait autrefois une bonne cabane, aujourd'hui en ruines, dont
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 372 — USTOU (28me EXCURSION)
 

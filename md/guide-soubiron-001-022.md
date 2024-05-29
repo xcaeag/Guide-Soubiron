@@ -41,7 +41,7 @@ TOULOUSE<br>
 TOUS DROITS RÉSERVÉS
 </p>
 
-<div class="page"/>
+<div class="page"></div>
 
 __DIVISION DE L'OUVRAGE__
 
@@ -84,7 +84,7 @@ k.        "      kilomètre.      |  (2814m) chiffres indiquant
                                       la cote d'alt.                   
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 [//]: # (— p. 5 —)
 
@@ -135,7 +135,7 @@ un champ d'agrément et d'apprentissage et, pour les pyrénéistes
 exercés, un choix de programmes d'entrainement, 
 si nécessaire au début de la saison.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 6 —  AVERTISSEMENT DE L'AUTEUR
 
@@ -187,7 +187,7 @@ et surtout plus clairs. Je lui en exprime ici toute ma reconnaissance.
 
 La forme absolument portative de mon guide ne m'a pas per-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 7 — AVERTISSEMENT DE L'AUTEUR
 
@@ -242,7 +242,7 @@ l'on pratique ce sport, et aussi pour effectuer l'ascension de la
 majeure partie des grands sommets des Alpes, __la corde est indispensable;__
 il n'en est pas de mème pour les Pyrénées.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 8 — AVERTISSEMENT DE L'AUTEUR
 
@@ -296,7 +296,7 @@ encore dans les glaciers non crevassés. (V. Souvenirs d'un Montagnard,
 2e édition, p. 17.)<br>
 (2) V. accident Calame et Carive, p. 26.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 9 —  AVERTISSEMENT DE L'AUTEUR
 
@@ -350,7 +350,7 @@ il est possible d'adopter des variantes en fin de journée;
 je l'indique sous le titre : __« Variantes Possibles »__, toutes les fois
 que cela est utile.
 
-<div class="page"/>
+<div class="page"></div>
 
 [//]: # (— p. 10 —)
 
@@ -393,7 +393,7 @@ temps est plus clair et plus sûr aux hautes altitudes et on aura
 moins à monter, ce qui permettra de faire un pic de plus dans la
 journée.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 11 —  CONSEILS PRATIQUES
 
@@ -440,7 +440,7 @@ d'y circuler pendant l'orage.__
 ———<br>
 (1) V. Annuaire du C. A. F, 1882, p. 317.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 12 —  CONSEILS PRATIQUES
 
@@ -489,7 +489,7 @@ refuges, les hôtels, etc., etc. La nourriture est due au guide. Pour
 plus de liberté de part et d'autre, au lieu de lui fournir des vivres,
 il vaut mieux lui donner une indemnité.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 13 —  CONSEILS PRATIQUES
 
@@ -525,7 +525,7 @@ Seule, la voilette en mousseline de soie, noire ou verte, est efficace
 contre les coups de soleil, lorsqu'on séjourne longtemps sur
 la neige ou sur les glaciers.
 
-<div class="page"/>
+<div class="page"></div>
 
 [//]: # (— p. 14 —)
 
@@ -565,7 +565,7 @@ elles ne concernent que la zone des hautes altitudes, c'est-à-dire
 au-dessus de 2.200 m., et encore du 15 juin à fin septembre
 seulement.
 
-<div class="page"/>
+<div class="page"></div>
 
 [//]: # (— p. 15 —)
 
@@ -607,7 +607,7 @@ Voici, à ce sujet, les deux proverbes pyrénéens bien connus :
 voici comment H. Bordeaux le reproduit dans la Maison Morte :
 « Brume rouge le matin, il y aura de l'eau pour le moulin. »
 
-<div class="page"/>
+<div class="page"></div>
 
 [//]: # (— p. 16 —)
 
@@ -645,7 +645,7 @@ porteur ou qu'on déposera en réserve au refuge.
 5. Enfin, une paire de lunettes noires pour les glaciers, ou,
 mieux encore, une voilette en mousseline de soie, noire ou verte.
 
-<div class="page"/>
+<div class="page"></div>
 
 [//]: # (— p. 17 —)
 
@@ -686,7 +686,7 @@ Coba, Cueva..... Abri sous roche du versant espagnol.
 Coma............ Combe du versant espagnol.
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 18 — VOCABULAIRE DES TERMES PYRÉNÉENS
 
@@ -731,7 +731,7 @@ Lagopèdes....... Perdrix blanches très nombreuses près de la neige et aux hau
 Lane, Lanne..... Lande, plaine, plateau herbeux.
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 19 — VOCABULAIRE DES TERMES PYRÉNÉENS
 
@@ -775,7 +775,7 @@ Prat .......... Prairie.
 Pradet......... Petite prairie.
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 20 —VOCABULAIRE DES TERMES PYRÉNÉENS
 
@@ -815,7 +815,7 @@ inscrit dans mon vocabulaire, c'est parce qu'on le trouve souvent dans les carte
 pour la désignation de divers sommets.
 ```
 
-<div class="page"/>
+<div class="page"></div>
 
 [//]: # (— p. 21 —)
 
@@ -860,7 +860,7 @@ A 4k. 500 en amont de Bedous, la vallée s'étrangle subitement
 entre les crêtes du Pène d'Esquit (1.961m), à l'O., et le Pic d'Ara
 poup (1.669m), à l'E. Elle s'ouvre à nouveau au Pont de Lescun, 
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 22 — VALEE D'ASPE  (1re EXCURSION)
 

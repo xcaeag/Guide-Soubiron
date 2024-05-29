@@ -48,13 +48,13 @@ deuxième et la troisième journée.
 postes et télégraphes, desservi par des automobiles depuis la gare
 de Laruns (6 k.).
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 40 —
 
 ![carte p40](../maps/guide-soubiron-0040-carte.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 41 — (2me EXCURSION) CAPERAN DE SESQUES
 
@@ -103,7 +103,7 @@ et enfin, par une clairière presque horizontale qui précède
 le premier plateau ou Artigue de Sesques; parvenu là, on découvre 
 subitement, au S.-S.-O., le fameux Capéran de Sesques, dont
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 42 — CIRQUE de SESQUES (2me EXCURSION)
 
@@ -160,7 +160,7 @@ Pic de Ger, du Joanne, donne à ce pic le nom de « Scarput » en lui
 attribuant une alt. de 2.607m. Le Mondaout n'a que 2.512m et la
 côte 2.607 n'est atteinte par aucun des pics du massif de Sesques.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 43 —  (2me EXCURSION) PIC de SESQUES
 
@@ -212,7 +212,7 @@ partage le vallon en deux, formant une verte dépression qu'on
 nomme Col de Moustis. On quittera alors le sentier et, en zigzaguant 
 les pentes de la rive g. on descendra directement au col.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 44 — CHEMIN de La MATURE (2me EXCURSION)
 
@@ -261,7 +261,7 @@ dans ce trajet.
 Parvenu à hauteur du fort, on débouche dans la vallée d'Aspe,
 et le chemin qui contourne la montagne descend vers le N., par
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 45 —  (2me EXCURSION) URDOS
 
@@ -316,7 +316,7 @@ la grand'route pour prendre, à dr., un sentier qui passe sous
 ———<br>
 (1) A Urdos, bon hôtel Ferras.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 46 — PIC D'ASPE  (2me EXCURSION)
 
@@ -369,7 +369,7 @@ inclinant à l'E., vers le fond, afin d'aboutir au cirque d'Anglassé.
 On rejoindra par là la grand'route et on ira coucher à la Casa
 de Anglassé (1.339m).
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 47 — (2me EXCURSION) PIC D'ANAYETTE
 
@@ -421,7 +421,7 @@ lac N., ce qui férait gagner 1/2 h.; mais, si cette voie parait trop
 délicate, on reviendra au col, d'où on descendra, au N.-E. vers
 les deux petits lacs.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 48 —  COL D'ANEOU-GABAS (2me EXCURSION)
 
@@ -477,7 +477,7 @@ par une gracieuse montagne qui domine Gabas d'environ 1.100 m.
 Ses faces blanches, ses crêtes dentelées et ses deux cimes qui
 pointent vers le ciel, lui donnent une allure superbe des plus
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 49 —  (2me EXCURSION) PIC de CEZY
 
@@ -530,7 +530,7 @@ facile.
 ———<br>
 (1) Dans les cartes, ce sommet porte le nom de « Pic de Goupey ».
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 50 — COL De LURDE (2me EXCURSION)
 
@@ -582,7 +582,7 @@ aussi descendre aux Eaux-Bonnes par un temps très clair
 de M. Léon Aucher, président du tourisme en montagne au
 Touring-Club, on a adopté le nom français de « Etoile des Neiges ».
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 51 — (2me EXCURSION) EAUX-BONNES
 
@@ -638,7 +638,7 @@ sauf sur la dr., un peu plus haut, où les pentes sont boisées.
 (4) Les Eaux-Bonnes (Basses-Pyrénées), desservi par des automobiles 
 depuis la gare de Laruns (6 k.).
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 52 — PIC de GER  . (2me EXCURSION)
 

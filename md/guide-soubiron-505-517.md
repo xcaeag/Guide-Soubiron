@@ -51,13 +51,13 @@ un guide peut être utile.
 
 <p class="droite">(Voir ci-contre la Carte de l'Excursion).</p>
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 506 —
 
 ![carte p506](../maps/guide-soubiron-0506-carte-portrait.jpg)
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 507 — (40me EXCURSION) VALLEE D'EYNE - PIC de FINESTRELLES
 
@@ -108,7 +108,7 @@ zigzaguer les pentes du ravin droit au sommet, soit grimper un
 peu à dr. afin de rejoindre la crête de Paronas. à 500 m. au
 N. du pic. Cette dernière voie, qui n'est pas plus longue, est plus
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 508 — PIC D'EYNE - COL de NOUFONTS (40me EXCURSION)
 
@@ -161,7 +161,7 @@ bornée vers le S.
 On descendra ensuite; à l'E., au Col de Noufonts (2.640m) et,
 en suivant toujours la crête frontière, on escaladera au passage
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 509 — (40me EXCURSION) COUME DE FRESER
 
@@ -213,7 +213,7 @@ __Conseils.__ — __Itin. recomm.__ — Par une journée claire, le parcours
 de Ull de Ter à la Preste n'offre pas de difficultés. Ce n'est
 qu'en cas de brouillard qu'on pourrait commettre des erreurs
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 510 — PORTEILLE de MORENS (40me EXCURSION)
 
@@ -264,7 +264,7 @@ qui file vers l'E.
 C'est de ce point à Roque Couloum qu'une erreur est possible,
 en cas de brouillard, à cause du moutonnement du terrain pen-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 511 — (40me EXCURSION) ROQUE COULOUM
 
@@ -316,7 +316,7 @@ en 1 h. environ : 1° par la crête frontière; 2° par les
 sources supérieures du Tech. Cette dernière voie est plus facile,
 mais moins intéressante. On descendra donc à toute crête jus-
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 512 — PIC de COSTABONE (40me EXCURSION)
 
@@ -368,7 +368,7 @@ Tech qui dessert les bains de la Preste; d'abord, par un tramway
 électrique jusqu'à Prats-de-Mollo (20 k.), puis par un
 autobus pour les derniers 7 K. de route.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 513 — (40me EXCURSION) La PRESTE - PLA GUILLEM
 
@@ -419,7 +419,7 @@ cabane est située au S. du rocher coté 2,253, vers 2.240 m. d'alt.
 Du Pla Guillem, on se dirigera au N.-E., en longeant les pentes
 le la chaîne, afin de couper le haut du vallon de Llapoudère.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 514 — VALLEE de CADY - Le CANIGOU (40m EXCURSION)
 
@@ -475,7 +475,7 @@ de lits et on y trouve des provisions. Il est ouvert du
 des Cortalets était exagérée; un contrôle rigoureux et récent l'a ramenée
 à 2.060 m.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 515 — (40me EXCURSION) CHALET des CORTALETS
 
@@ -527,7 +527,7 @@ quittera 5 min. après pour prendre, à dr., un sentier qui conduit,
 au haut du Clot des Estanvols, au petit glacier situé à la base de
 la face E. du Canigou. On aura devant soi la cheminée rapide,
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 516 — BRECHE DURIER - COL DE LA PERDIU (40me EXCURSION)
 
@@ -581,7 +581,7 @@ des trois vents qui balaient alternativement son sommet, le vent
 d'Espagne, le vent marin et la Tramontane. Les auteurs des cartes
 lui ont attribué dix vents de trop.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 517 — (40me EXCURSION) VERNET-LES-BAINS
 
@@ -642,7 +642,7 @@ __<u>POINTS D'INTERRUPTION</u>__
 
 > Nota. - Voir ci-contre la note sur le Canigou.
 
-<div class="page"/>
+<div class="page"></div>
 
 — p. 518 — ASCENSION DU CANIGOU  (40me EXCURSION) 
 
