@@ -9,7 +9,6 @@ title: LES PYRÉNÉES Du PIC d'ANIE au CANIGOU En 40 Excursions
 <style>
 .centre {text-align: center}
 .droite {text-align: right}
-.flexc {display: flex; justify-content: center; }
 </style>
 
 # LES PYRÉNÉES
@@ -48,8 +47,6 @@ __DIVISION DE L'OUVRAGE__
 
 PAR ORDRE DE MATIÈRES
 
-<div class="flexc">
-
 ```
 1. Avertissement de l'Auteur..........................  page 5 
 2. Conseils pratiques....................................   16
@@ -61,8 +58,6 @@ PAR ORDRE DE MATIÈRES
 8. Table méthodique des 200 jours d'excursions....... page 519
 9. Index alphabétique des 1.500 noms de lieux............  525
 ```
-
-</div>
 
 ****
 
@@ -76,8 +71,6 @@ __B. E.__ signifie : Bonne époque pour faire l'excursion.
 
 __Conseils.  Itin. recom.__ signifie : Conseils utiles. Itinéraire recommandé.
 
-<div class="flexc">
-
 ```    
 alt.   signifie  altitude.       |  m.                   signifie   mètre.   
 arr.      "      arrondissement. |  min.                    "       minute   
@@ -90,8 +83,6 @@ hab.      "      habitants.      |  vill.                   "       village.
 k.        "      kilomètre.      |  (2814m) chiffres indiquant
                                       la cote d'alt.                   
 ```
-
-</div>
 
 <div class="page"/>
 
@@ -660,7 +651,6 @@ mieux encore, une voilette en mousseline de soie, noire ou verte.
 
 # PETIT VOCABULAIRE<br>DES<br>TERMES PYRÉNÉENS<br>RELATIFS A LA MONTAGNE
 
-<div class="flexc">
 
 ```
 Aouéran........  Noisette.
@@ -695,8 +685,6 @@ Clot............ Trou, cuvette, petit cirque d'effondrement sur un plateau.
 Coba, Cueva..... Abri sous roche du versant espagnol.
 Coma............ Combe du versant espagnol.
 ```
-
-</div>
 
 <div class="page"/>
 
