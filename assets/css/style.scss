@@ -23,12 +23,16 @@ code, kbd, pre, samp {
 
 pre.lines {
     visibility: hidden;
+    display: none;
 }
 
 .markdown-body pre {
     color: #000000;
     background-color: #FFFFFF;
     box-shadow: none;
+    margin-left: 10px;
+    margin-right: 10px;
+        
 	/* display: flex;
 	justify-content: center; */
 }
