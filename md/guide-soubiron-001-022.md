@@ -11,6 +11,10 @@ title: LES PYRÉNÉES Du PIC d'ANIE au CANIGOU En 40 Excursions
 .droite {text-align: right; }
 </style>
 
+![p3](../maps/guide-soubiron-0003.jpg)
+
+<div class="page"></div>
+
 # LES PYRÉNÉES
 
 <p class="centre">
