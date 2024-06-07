@@ -538,7 +538,7 @@ Le sentier qui longe la rive g. du ruisseau de Lassas est très
 bien tracé jusqu'au-dessus d'un ressaut, vers 2.300. Il meurt dans
 un petit cirque de pierrailles, mais, à partir de là. on peut passer
 partout; il suffit de monter droit au S., pour atteindre, 1/2 h.
-après, le joli lac de Sarrouëès (2.500m environ).
+après, le joli lac de Sarrouès (2.500m environ).
 
 Le petit lac de Sarrouès est enchâssé dans le roc, au haut de
 la vallée de Lassas et au pied d'un large col. En juillet, il est plein

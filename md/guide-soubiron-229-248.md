@@ -347,7 +347,7 @@ admirable belvédère; enfin, couronnant tout le paysage, en arc
 de cercle, depuis le Montarrouye (2.850m), à l'E., jusqu'au Hourgade 
 (2.966m), à l'O., les hautes cimes dépassant 3.000 m. : Quaïrat
 (3.058m), Lézat (3.099m), Royo (3.136m), Perdighero (3.220m), Seil
-de la Baquo {3.114m), Port d'Oô (3.065m), Gourdon (3.038m), Spijeoles 
+de la Baquo (3.114m), Port d'Oô (3.065m), Gourdon (3.038m), Spijeoles 
 (3.065m) et sa longue crête hirsute. Sur les flancs de presque 
 toutes ces montagnes, resplendissent de magnifiques glaciers.
 

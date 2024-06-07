@@ -207,7 +207,7 @@ pieds. On descendra à g., par la base des pentes E. du pic d'Estom
 Soubiran, en longeant la rive O. du lac supérieur (2.572m).
 On arrivera ainsi au centre du cirque d'où on continuera la descente 
 par la g., direction N.-O., en laissant tous les lacs à dr., :
-sauf le dernier {2.326m), qu'on contournera par la rive E.
+sauf le dernier (2.326m), qu'on contournera par la rive E.
 
 Immédiatement au-dessous, on sautera le torrent pour passer
 définitivement sur la rive g. jusqu'au lac d'Estom.

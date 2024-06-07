@@ -203,7 +203,7 @@ barre l'horizon et, à sa dr., au S.-O., le Pic Long s'élance majestueux
 vers le ciel. On sent que c'est lui qui est le roi de la
 contrée.
 
-Entre le Pic Badet (3.161m) et le Pic Long {3.194m), s'échancre
+Entre le Pic Badet (3.161m) et le Pic Long (3.194m), s'échancre
 la brèche par laquelle il faut passer pour monter à ce dernier.
 On se dirigera vers elle, en laissant à g. le petit Gourg glacé de
 Cap-de-Long (2) et en contournant par leur base les contreforts

@@ -384,7 +384,7 @@ __Horaire de la Journée :__
 ``` 
 De Bagnères à Chiroulet, 15 k. de voiture. 2h.30 }
 De Chiroulet au Lac Bleu.................. 2h.45 }     10h.30
-Du Lac Bleu au Col de Bizourtère.......... 1h. » } {Arrêts en sus)
+Du Lac Bleu au Col de Bizourtère.......... 1h. » }  (Arrêts en sus)
 Du Col de Bizourtère à Chiroulet.......... 2h.45 }   dont 6h.30
 De Chiroulet à Bagnères en voiture........ 1h.30 }   de marche.
 ```

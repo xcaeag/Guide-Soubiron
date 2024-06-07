@@ -34,7 +34,6 @@ un guide pour la deuxième journée.
 
 <p class="droite">(Voir les cartes des Environs de Luchon, pp. 232 et 240).</p>
 
-
 ****
 
 ****

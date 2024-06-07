@@ -664,7 +664,7 @@ Du Pic d'Ayous à Gabas .................. 3h.40 }
 
 <div class="page"></div>
 
-— p. 36 — GABAS. — COL de SUZON {1re EXCURSION)
+— p. 36 — GABAS. — COL de SUZON (1re EXCURSION)
 
 ****
 

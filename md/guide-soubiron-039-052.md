@@ -394,7 +394,7 @@ Du Pic d'Aspe à Anglassé.................. 3h.45 }
 
 ## TROISIÈME JOURNÉE
 
-__De la CASA DE ANGLASSÉ {1.339m) à GABAS (1.125m),__<br>
+__De la CASA DE ANGLASSÉ (1.339m) à GABAS (1.125m),__<br>
 __par l'Anayette (2.572m)et le Col d'Anèou (2.100m).__
 
 —— GUIDE UTILE ——

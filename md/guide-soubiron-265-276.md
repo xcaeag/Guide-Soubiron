@@ -213,7 +213,7 @@ on arrivera à la base d'une cheminée facile qui grimpe à mi-
 
 <div class="page"></div>
 
-— p. 270 — Le CABRIOULES (20me EXCURSION)
+— p. 270 — Le CRABIOULES (20me EXCURSION)
 
 ****
 
