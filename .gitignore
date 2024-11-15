@@ -3,8 +3,6 @@ md/guide-soubiron-*.pdf
 md/guide-soubiron-*.html
 *.py
 *.sh
-maps/*.tif
-maps/*.points
 md/guide-soubiron-*.jpeg
 md/guide-soubiron-*.png
 *.brut.*
