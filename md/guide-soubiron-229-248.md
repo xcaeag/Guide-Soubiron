@@ -276,7 +276,7 @@ Le Cirque du Lys affecte la forme d'un fer à cheval incliné
 
 <div class="page"></div>
 
-— p. 235 — (18me EXCURSION) COUME be BOURG — COL de BASSIERET
+— p. 235 — (18me EXCURSION) COUME de BOURG — COL de BASSIERET
 
 ****
 
@@ -760,12 +760,12 @@ de France.
 Un magnifique sentier monte en pente douce en 74 lacets, au
 Port de Venasque (2.448m). Cette montée, fastidieuse par le soleil, 
 est un véritable régal par une fraîche matinée. A mesure
-qu'on s'élève, on voit les collines: secondaires s'abaisser et se
+qu'on s'élève, on voit les collines secondaires s'abaisser et se
 niveler presque avec la plaine, tandis que des pics voisins émergent 
 à l'horizon.
 
 Divers points retiennent l'attention au passage : 1° le Culet,
-roche lisse, presque verticale, sur laquelle glissent plusieurs peties 
+roche lisse, presque verticale, sur laquelle glissent plusieurs petites 
 cascades; 2° l'Homme, pyramide de pierres empilées sur un
 rocher, pour indiquer la voie au voyageur quand la couche de
 neige est épaisse; l'abri couvert en ciment est situé 2 min. plus
@@ -775,7 +775,7 @@ où périrent, sous la neige, neuf ouvriers de cette profession;
 un site splendide: 5° enfin, la grande merveille, le Port de Venasque.
 
 Au Port de Venasque; surgit tout à coup, comme dans le lever
-d'un immense rideau, le féerique panorama des Monts-Maudits,
+d'un immense rideau, le féérique panorama des Monts-Maudits,
 avec ses crêtes vertigineuses et ses glaciers étincelants. Bien que
 prévenu sur sa magnificence, nul ne résiste à la grandeur du spectacle 
 sans éprouver une intense émotion. Seul, le point de vue
@@ -803,7 +803,7 @@ haut, sur le petit plateau herbeux situé en amont du deuxième pont
 
 <div class="page"></div>
 
-— p. 247 — (18me Exc.) PORT be LA PICADE — PAS DE L'ESCALETTE 
+— p. 247 — (18me Exc.) PORT de LA PICADE — PAS DE L'ESCALETTE 
 
 ****
 
@@ -873,7 +873,7 @@ Campsaur. Là, le chemin tourne carrément à g., à l'O., et, dans
 une plongée de quatre lacets, parvient au fond de la vallée de la
 Frèche d'où il mène à l'Hospice dans 10 mn.
 A l'Hospice, on trouve ordinairement place dans l'une des nombreuses 
-voitures qui redescendent le soir. à Luchon. Ce sera
+voitures qui redescendent le soir à Luchon. Ce sera
 moins onéreux que d'en louer une pour tout un jour. Dans tous
 les cas, cette descente peut parfaitement être-faite à pied sans
 trop de fatigue.
